@@ -1,10 +1,10 @@
 ---
 layout: default
-title: Concepts and tools
-nav_order: 5
+title: File Naming
+nav_order: 2
 ---
 
-# Concepts and tools
+# File Naming
 
 ## Important terminal commands
 
