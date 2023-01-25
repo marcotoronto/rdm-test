@@ -4,8 +4,12 @@ nav_order: 1
 title: Research Data Management
 ---
 
-# Introduction to Git and GitHub
+# Introduction to Research Data Management
 
-Learn the basics of using Git and GitHub for version control and collaboration.  Git is a widely used version control software that tracks changes to a group of files, referred to as a repository.  GitHub is a popular website for hosting and sharing Git repositories, making it easier to collaborate and share your work.  Together, Git and GitHub provide a platform that is increasingly used for collaboration in research and academic environments.  
+Research data management (RDM) are processes applied throughout the lifecycle of a research project to guide the collection, documentation, storage, sharing, and preservation of research data. It is important because it helps organize your research data during and after your research cycle and makes responsibilities clear within research team and during team transitions. Some Tri-Agency (CIHR, NSERC, SSHRC) grants require Research Data Management Plans (DMPs) in their applications.
 
-In this beginner workshop, participants will learn key concepts, create their own Git repository, and publish to GitHub.  No previous experience with Git is required.  Familiarity with the command line interface will be helpful but is not necessary.
+By going through our mini-workshops, you will learn the basics of RDM from the following 4 core components:
+- File naming
+- File formats for data curation
+- Folder organizing
+- Creating a README file
