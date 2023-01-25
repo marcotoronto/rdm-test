@@ -6,82 +6,72 @@ nav_order: 2
 
 # File Naming
 
-## Important terminal commands
+## NO
 
-We need to know a little about the terminal to be able to use the features of Git. You should know the following commands:
+- 10_data 2.txt
+- figure 1.png
+- final revision.docx
+- Lily's schedule&plan 2022Jul9.xlsx
 
-Input
-{: .label .label-green}
-~~~
-$ cd
-~~~
+## Yes
 
-To navigate through files and directories within a system, use the `cd` command followed by either the full path or the directory name. Running this command without a flag or option will take you to the home folder. Use `cd ..` to move to the parent directory (one directory up) and `cd -` to the previous directory.
-
-Input
-{: .label .label-green}
-~~~
-$ mkdir <new-directory>
-~~~
-
-This command creates one or multiple directories at once. You should have the privilege to make a new folder in the parent directory. 
-
-Input
-{: .label .label-green}
-~~~
-$ ls
-~~~
-
-This command lists files and directories within a system and running it  without a flag or parameter will show the current working directory's content. With `ls -a`, hidden files will also be shown. The files created by Git in your Git repository are hidden and stored in `.git` directory.
-
-Input
-{: .label .label-green}
-~~~
-$ touch <new-file-name>
-~~~
-
-The `touch` command creates an empty file in the current directory. In this workshop, we use this command to make multiple empty files. You can use other methods to make empty files or copy files from other directories to populate your git folder.
-
-Input
-{: .label .label-green}
-~~~
-$ cat <file-name>
-~~~
-
-`cat` reads files and writes them on the screen. The name comes from its function to catenate files.
-
-## What is version control?
-
-Version control software tracks the changes made to a group of files.  Version control systems like Git are often associated with software development but are increasingly used for collaboration in research and academic environments.. 
-
-**Why use version control?**
-
-Because no one wants to end up in this familiar place:
-
-![Because we don't want to end up here](figures/phd101212s.gif)
-
-It takes some discipline to learn and make use of version control but there are many benefits:
-
-* **Collaboration** - Version control helps teams work collaboratively on the same set of documents without interfering with each other.
-* **Versioning** - It provides a thorough log of changes to tracked files without creating multiple copies, making it easier to identify the most current version.
-* **Rolling back** - Made a mistake?  Version control lets you review and undo changes, reverting to previous stages in the document's history. This can be useful when changes to your files introduce unforeseen problems.
-* **Understanding context** - Version control can help you understand how the code or writing came to be, who wrote or contributed particular parts, and who you might ask to help understand it better.
-* **Backup** - While not meant to be a backup solution, version control systems mean your code and writing can be stored on multiple computers.
-
-## What are Git and GitHub?
-
-**_Git_** and **_GitHub_** are often used interchangeably but it's important to understand what each does and how they work together.
-
-**_Git_** is a free and open-source tool that can be installed on your local computer to track changes made to a set of files (referred to as a "git repository" or "repo"). Git can be used independently to organize one's own work or to coordinate team projects with multiple authors. Git makes it easy to get a overview of all changes made to the file over time. Git keeps a list of changes made to the files of the project, thus, the earlier versions of each file are not overwritten and the developer can roll back to them.
-
-Git also ensures that everyone's contributions are tracked and merged effectively by keeping copies of all previous versions and documenting the changes, including when they were made and who made the changes.    
+- better-filenames.txt
+- 003_raw-data_2022-07-09.txt
+- fig01_scatterplot-talk-length-vs-interest.png
+- 20220709_interview-script_v01.docx
 
 
-Git was designed for _text_ files that can be opened in a text editor (as opposed to _binary_ file formats like .pdf and .docx).  A Git repository can preserve files of any type, but only text files will benefit from all Git's features.  
-{: .info}
+## Three principles for file names:
 
-Git is developed in 2005 by [Linus Torvalds](https://github.com/torvalds), the famous creator of the Linux operating system kernel. A great number of software projects rely on Git for version control. 
+1. Machine-readable: the characters can be handled by all computer systems, and the names are brief and easily searchable
 
-[**_GitHub_**](https://github.com/) is a popular website for hosting and sharing Git repositories. GitHub provides an online infrastructure that makes it easier for teams to collaborate with Git.  Team members make contributions to the repository on local copies of the files, then "push" their changes back to GitHub so everyone else can see them.  
+2. Human-readable: the names provide concise information and are easily understandable to anyone who may access them in future
 
-The GitHub interface makes it easy to view files in the repository and what changes have been made. GitHub also makes it easier for groups to publish their work (each GitHub repository can have its own project website, blog, and wiki using [GitHub Pages](https://pages.github.com/).)
+3. Plays well with default ordering: start with the element that is used to order the files and keep versions at the end
+
+
+### Machine-readable
+
+- Only use the following:
+  - Alphanumeric characters (examples)
+  - Element delimiters: **_(underscore)**
+  - Word delimiters (within an element): **- (dash)** and/or **capitalize** the first letter of each word (camel case)
+  - e.g. [element 1]_[element 2]_[WordPart-WordPart-WordPart]_[element 3].txt
+- Avoid spaces and special characters, such as: ~ ! @ # $ % ^ & * ( ) ` ; : < > ? . , [ ] { } ' " | 
+- Make file names 32 characters or less
+- If you decide to abbreviate the elements with 2- or 3-letter codes (e.g. project 1 = P1, mouse = "MUS"), make sure these are well documented 
+- Keep case sensitivity in mind - machine searching for files named "Scan" would not find files named "scan"
+
+### Human-readable
+
+- Provide **essential information** concisely in the file name
+  - Ideally 3 elements, 5 max.
+  - Avoid complex hierarchical folder structures.
+- Consider putting authors' names in the file name
+  - Put family names first followed by first names or initials.
+- Write down your naming convention pattern and **document it** in your README file
+  - e.g. My file naming convention is [SA-MPL-EID]_[YYYY-MM-DD]_[###]_[status].[txt]
+  - Define acronyms, abbreviations, and codes
+
+
+### Plays well with default ordering 
+
+- Decide the beginning of the file name according to how you want to sort and search for your files
+  - When using a sequential numbering system, use **leading zeros** to make sure files sort in sequential order. e.g. 001, 002, 010, 011 ....100,101 ...
+- Order elements from general to specific to make searching easier
+- Versions: should be used as the last element
+  - Use ISO 8601 standard for dates: **YYYYMMDD** or **YYYY-MM-DD** 
+  - For version numbers, use at least two digits with a leading zero (e.g. v0)
+  - Version types (e.g. _raw, _processed, _composite)
+
+
+
+## References
+
+    https://datacarpentry.org/rr-organization1/01-file-naming/index.html
+
+    https://authors.library.caltech.edu/103626/1/FileNamingConventionWorksheet_Caltech.pdf
+
+    http://www.exadox.com/en/articles/file-naming-convention-ten-rules-best-practice
+
+    https://datamanagement.hms.harvard.edu/collect/file-naming-conventions
