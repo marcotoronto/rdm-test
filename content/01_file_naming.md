@@ -6,6 +6,8 @@ nav_order: 2
 
 # File Naming
 
+![](figures/comic.gif)
+
 ## What do you think about the following file names?
 
 - 10_data 2.txt
@@ -13,13 +15,25 @@ nav_order: 2
 - final revision.docx
 - Lily's schedule&plan 2022Jul9.xlsx
 
+![](figures/cakes-exmaple.jpeg)
+
 ## What about these?
 - better-filenames.txt
 - 003_raw-data_2022-07-09.txt
 - fig01_scatterplot-talk-length-vs-interest.png
 - 20220709_interview-script_v01.docx
 
+![](figures/folder-screenshot.jpeg)
+
+## Why is file naming important?
+
+Creating a well-organized hierarchy of files with clear naming conventions is an important part of improving your research process. This is especially important if you are working with large data sets and complex output files or coordinating with multiple people at multiple institutions. There are many ways to structure your folders, and multiple naming conventions you can use. The key is **consistency**. Make your file names descriptive, and include information about dates and versioning. The best practice is to consult with your lab or with your co-workers to develop a naming schema that everyone is willing to follow consistently.
+
+
 ## What factors make them good or bad file names?
+
+
+
 
 ## Three principles for file names:
 
