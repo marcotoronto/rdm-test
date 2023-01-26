@@ -24,7 +24,7 @@ nav_order: 2
 ## Three principles for file names:
 
 1. **Machine**-readable: the characters can be handled by all computer systems, and the names are brief and easily searchable 
-![](machine-reading.png)
+![](figures/machine-reading.png)
 
 2. **Human**-readable: the names provide concise information and are easily understandable to anyone who may access them in future
 
