@@ -6,28 +6,29 @@ nav_order: 2
 
 # File Naming
 
-## NO
+## What do you think about the following file names?
 
 - 10_data 2.txt
 - figure 1.png
 - final revision.docx
 - Lily's schedule&plan 2022Jul9.xlsx
 
-## Yes
-
+## What about these?
 - better-filenames.txt
 - 003_raw-data_2022-07-09.txt
 - fig01_scatterplot-talk-length-vs-interest.png
 - 20220709_interview-script_v01.docx
 
+## What factors make them good or bad file names?
 
 ## Three principles for file names:
 
-1. Machine-readable: the characters can be handled by all computer systems, and the names are brief and easily searchable
+1. **Machine**-readable: the characters can be handled by all computer systems, and the names are brief and easily searchable 
+![](machine-reading.png)
 
-2. Human-readable: the names provide concise information and are easily understandable to anyone who may access them in future
+2. **Human**-readable: the names provide concise information and are easily understandable to anyone who may access them in future
 
-3. Plays well with default ordering: start with the element that is used to order the files and keep versions at the end
+3. Plays well with **default ordering**: start with the element that is used to order the files and keep versions at the end
 
 
 ### Machine-readable
