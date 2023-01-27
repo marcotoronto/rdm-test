@@ -11,14 +11,14 @@ nav_order: 2
 Creating a well-organized hierarchy of files with clear naming conventions is an important part of improving your research process. This is especially important if you are working with large data sets and complex output files or coordinating with multiple people at multiple institutions. There are many ways to structure your folders, and multiple naming conventions you can use. The key is **consistency**. Make your file names descriptive, and include information about dates and versioning. The best practice is to consult with your lab or with your co-workers to develop a naming schema that everyone is willing to follow consistently.
 
 
-## What do you think about the following file names?
+## *What do you think about the following file names?*
 
 - 10_data 2.txt
 - figure 1.png
 - final revision.docx
 - Lily's schedule&plan 2022Jul9.xlsx
 
-## What about these names?
+## *What about these names?*
 - better-filenames.txt
 - 003_raw-data_2022-07-09.txt
 - fig01_scatterplot-talk-length-vs-interest.png
@@ -26,12 +26,12 @@ Creating a well-organized hierarchy of files with clear naming conventions is an
 
 ## This is what happens when you do not have effective naming conventions:
 
-![](figures/comic.gif)
+<img src="figures/comic.gif" alt="comic" width="500"/>
 
 ---
 
 ## How to make good file names? 
-## Follow 3 principles! <img src="figures/thumbs-up.png" alt="machine" width="50"/>
+## <img src="figures/thumbs-up.png" alt="good" width="20"/> Follow 3 principles! 
   
 
 *1*{: .circle .circle-blue} Machine-Readable  
@@ -40,7 +40,8 @@ Creating a well-organized hierarchy of files with clear naming conventions is an
 
 *3*{: .circle .circle-yellow} Plays Well With Default Ordering 
 
-## *1*{: .circle .circle-blue} Machine-Readable <img src="figures/machine-reading.png" alt="machine" width="200"/>
+## *1*{: .circle .circle-blue} Machine-Readable 
+<img src="figures/machine-reading.png" alt="machine" width="200"/>
 
 **Goal*: The characters in file names should be able to handled by all computer systems, and the names should be brief and easily searchable. 
 
@@ -54,7 +55,7 @@ Creating a well-organized hierarchy of files with clear naming conventions is an
 
       e.g. [element 1]_[element 2]_[WordPart-WordPart-WordPart]_[element 3].txt
 
-- Avoid spaces and special characters, such as: ~ ! @ # $ % ^ & * ( ) ` ; : < > ? . , [ ] { } ' " | <img src="figures/say-no.png" alt="machine" width="30"/>
+- Avoid spaces and special characters, such as: ~ ! @ # $ % ^ & * ( ) ` ; : < > ? . , [ ] { } ' " | <img src="figures/say-no.png" alt="say-no" width="30"/>
 
 - Make file names 32 characters or less
 
@@ -71,7 +72,7 @@ Creating a well-organized hierarchy of files with clear naming conventions is an
 
 ## *2*{: .circle .circle-red} Human-Readable   
 
-## *Principle 2: Human-Readable*{: .lable .lable-red}
+## *Principle 2: Human-Readable*{: .label .label-red}
 
 
 *Goal*: The file names should provide concise information and be easily understandable to anyone who may access them in future.
