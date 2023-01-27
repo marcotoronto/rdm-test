@@ -6,7 +6,10 @@ nav_order: 2
 
 # File Naming
 
-![](figures/comic.gif)
+## Why is file naming important?
+
+Creating a well-organized hierarchy of files with clear naming conventions is an important part of improving your research process. This is especially important if you are working with large data sets and complex output files or coordinating with multiple people at multiple institutions. There are many ways to structure your folders, and multiple naming conventions you can use. The key is **consistency**. Make your file names descriptive, and include information about dates and versioning. The best practice is to consult with your lab or with your co-workers to develop a naming schema that everyone is willing to follow consistently.
+
 
 ## What do you think about the following file names?
 
@@ -15,36 +18,35 @@ nav_order: 2
 - final revision.docx
 - Lily's schedule&plan 2022Jul9.xlsx
 
-![](figures/cakes-exmaple.jpeg)
-
-## What about these?
+## What about these names?
 - better-filenames.txt
 - 003_raw-data_2022-07-09.txt
 - fig01_scatterplot-talk-length-vs-interest.png
 - 20220709_interview-script_v01.docx
 
-![](figures/folder-screenshot.jpeg)
+## This is what happens when you do not have effective naming conventions:
 
-## Why is file naming important?
-
-Creating a well-organized hierarchy of files with clear naming conventions is an important part of improving your research process. This is especially important if you are working with large data sets and complex output files or coordinating with multiple people at multiple institutions. There are many ways to structure your folders, and multiple naming conventions you can use. The key is **consistency**. Make your file names descriptive, and include information about dates and versioning. The best practice is to consult with your lab or with your co-workers to develop a naming schema that everyone is willing to follow consistently.
+![](figures/comic.gif)
 
 
-## How to make good file names? -- Follow 3 principles!
+## How to make good file names? -- Follow 3 principles! 
+*1*{: .circle .circle-blue} Machine-readable
+*2*{: .circle .circle-red} Human-readable
+*3*{: .circle .circle-yellow} Plays Well With Default Ordering 
 
-1. **Machine**-readable: the characters can be handled by all computer systems, and the names are brief and easily searchable 
-
-2. **Human**-readable: the names provide concise information and are easily understandable to anyone who may access them in future
-
-3. Plays well with **default ordering**: start with the element that is used to order the files and keep versions at the end
+{: .} 
 
 
-### Machine-readable
 
-![](figures/machine-reading.png)
+## Principle 1 Machine-Readable   ![50%](figures/machine-reading.png)
+{: .note}
+
+
+
+**Goal**：The characters in file names should be able to handled by all computer systems, and the names should be brief and easily searchable.
 
 - Only use the following:
-  - Alphanumeric characters (examples)
+  - Alphanumeric characters (alphabetic characters and Arabic numerials) ![](figures/alphanumeric.png)
   - Element delimiters: **_(underscore)**
   - Word delimiters (within an element): **- (dash)** and/or **capitalize** the first letter of each word (camel case)
   - e.g. [element 1]_[element 2]_[WordPart-WordPart-WordPart]_[element 3].txt
@@ -53,12 +55,16 @@ Creating a well-organized hierarchy of files with clear naming conventions is an
 - If you decide to abbreviate the elements with 2- or 3-letter codes (e.g. project 1 = P1, mouse = "MUS"), make sure these are well documented 
 - Keep case sensitivity in mind - machine searching for files named "Scan" would not find files named "scan"
 
-#### Exercise - Make the following file names more machine-readable! 
+### Exercise - Make the following file names more machine-readable! 
+
+![](figures/cakes-exmaple.jpeg)
 
 
 
 
-### Human-readable
+## 2. Human-Readable
+
+The file names should provide concise information and be easily understandable to anyone who may access them in future.
 
 - Provide **essential information** concisely in the file name
   - Ideally 3 elements, 5 max.
@@ -70,11 +76,9 @@ Creating a well-organized hierarchy of files with clear naming conventions is an
   - Define acronyms, abbreviations, and codes
 
 
-#### Exercise - Make the following file names more human-readable!
+## 3. Plays Well With Default Ordering 
 
-
-
-### Plays well with default ordering 
+The names should start with the element that is used to order the files and keep versions at the end.
 
 - Decide the beginning of the file name according to how you want to sort and search for your files
   - When using a sequential numbering system, use **leading zeros** to make sure files sort in sequential order. e.g. 001, 002, 010, 011 ....100,101 ...
@@ -84,13 +88,19 @@ Creating a well-organized hierarchy of files with clear naming conventions is an
   - For version numbers, use at least two digits with a leading zero (e.g. v0)
   - Version types (e.g. _raw, _processed, _composite)
 
-#### Exercise - Make the following file names play well with default ordering!
+### Exercise - Make the following file names more human-readable and play well with default ordering!
 
 
 
 
 
-## Now you know how to organize files with clear and consistent file naming conventions!
+
+
+
+
+## Now you know how to organize files with your own file naming conventions! We .........As long as your names are clear and consistent, you are good to move forward!
+
+![](figures/folder-screenshot.jpeg)
 
 
 ## References
