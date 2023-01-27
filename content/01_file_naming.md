@@ -31,7 +31,7 @@ Creating a well-organized hierarchy of files with clear naming conventions is an
 ---
 
 ## How to make good file names? 
-## <img src="figures/thumbs-up.png" alt="good" width="20"/> Follow 3 principles! 
+## Follow 3 principles! 
   
 
 *1*{: .circle .circle-blue} Machine-Readable  
@@ -47,13 +47,13 @@ Creating a well-organized hierarchy of files with clear naming conventions is an
 
 - Only use the following:
 
-  - Alphanumeric characters (alphabetic characters and Arabic numerials)   <img src="figures/alphanumeric.png" alt="alphanumeric" width="200"/>
+  - Alphanumeric characters (alphabetic characters and Arabic numerials)   <img src="figures/alphanumeric.png" alt="alphanumeric" width="60"/>
 
   - Element delimiters: **_(underscore)**
   
   - Word delimiters (within an element): **- (dash)** and/or **capitalize** the first letter of each word (camel case)
 
-      e.g. [element 1]_[element 2]_[WordPart-WordPart-WordPart]_[element 3].txt
+      e.g. [element 1]\_[element 2]\_[WordPart-WordPart-WordPart]_[element 3].txt
 
 - Avoid spaces and special characters, such as: ~ ! @ # $ % ^ & * ( ) ` ; : < > ? . , [ ] { } ' " | <img src="figures/say-no.png" alt="say-no" width="30"/>
 
@@ -71,9 +71,6 @@ Creating a well-organized hierarchy of files with clear naming conventions is an
 
 
 ## *2*{: .circle .circle-red} Human-Readable   
-
-## *Principle 2: Human-Readable*{: .label .label-red}
-
 
 *Goal*: The file names should provide concise information and be easily understandable to anyone who may access them in future.
 
@@ -103,13 +100,8 @@ Creating a well-organized hierarchy of files with clear naming conventions is an
 
 
 
-
-
-
-
-
-
-## Now you know how to organize files with your own file naming conventions! We .........As long as your names are clear and consistent, you are good to move forward!
+---
+### Now you know how to organize files with your own file naming conventions! The screenshot below is for your reference. As long as your names are clear and consistent, you are good to move forward!
 
 ![](figures/folder-screenshot.jpeg)
 
