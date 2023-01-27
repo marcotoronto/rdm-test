@@ -47,7 +47,8 @@ Creating a well-organized hierarchy of files with clear naming conventions is an
 
 - Only use the following:
 
-  - Alphanumeric characters (alphabetic characters and Arabic numerials)   <img src="figures/alphanumeric.png" alt="alphanumeric" width="60"/>
+  - Alphanumeric characters (alphabetic characters and Arabic numerials)   
+  <img src="figures/alphanumeric.png" alt="alphanumeric" width="60"/>
 
   - Element delimiters: **_(underscore)**
   
