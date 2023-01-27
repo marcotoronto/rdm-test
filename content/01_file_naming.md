@@ -28,25 +28,25 @@ Creating a well-organized hierarchy of files with clear naming conventions is an
 
 ![](figures/comic.gif)
 
+---
 
-## How to make good file names? -- Follow 3 principles! 
-*1*{: .circle .circle-blue} Machine-readable
-*2*{: .circle .circle-red} Human-readable
+## How to make good file names? 
+## Follow 3 principles! 
+
+*1*{: .circle .circle-blue} Machine-Readable  
+
+*2*{: .circle .circle-red} Human-Readable  
+
 *3*{: .circle .circle-yellow} Plays Well With Default Ordering 
-
 {: .} 
 
+<img src="figures/machine-reading.png" alt="machine" width="200"/>
 
-
-## Principle 1 Machine-Readable   ![50%](figures/machine-reading.png)
-{: .note}
-
-
-
-**Goal**：The characters in file names should be able to handled by all computer systems, and the names should be brief and easily searchable.
+## *Principle 1*{: .circle .circle-blue} Machine-Readable   
+**Goal*: The characters in file names should be able to handled by all computer systems, and the names should be brief and easily searchable. 
 
 - Only use the following:
-  - Alphanumeric characters (alphabetic characters and Arabic numerials) ![](figures/alphanumeric.png)
+  - Alphanumeric characters (alphabetic characters and Arabic numerials)   <img src="figures/alphanumeric.png" alt="alphanumeric" width="200"/>
   - Element delimiters: **_(underscore)**
   - Word delimiters (within an element): **- (dash)** and/or **capitalize** the first letter of each word (camel case)
   - e.g. [element 1]_[element 2]_[WordPart-WordPart-WordPart]_[element 3].txt
@@ -62,9 +62,10 @@ Creating a well-organized hierarchy of files with clear naming conventions is an
 
 
 
-## 2. Human-Readable
+## *Principle 2*{: .circle .circle-red} Human-Readable   
 
-The file names should provide concise information and be easily understandable to anyone who may access them in future.
+
+*Goal*: The file names should provide concise information and be easily understandable to anyone who may access them in future.
 
 - Provide **essential information** concisely in the file name
   - Ideally 3 elements, 5 max.
@@ -76,9 +77,9 @@ The file names should provide concise information and be easily understandable t
   - Define acronyms, abbreviations, and codes
 
 
-## 3. Plays Well With Default Ordering 
+## *Principle 3*{: .circle .circle-yellow} Plays Well With Default Ordering 
 
-The names should start with the element that is used to order the files and keep versions at the end.
+*Goal*: The names should start with the element that is used to order the files and keep versions at the end.
 
 - Decide the beginning of the file name according to how you want to sort and search for your files
   - When using a sequential numbering system, use **leading zeros** to make sure files sort in sequential order. e.g. 001, 002, 010, 011 ....100,101 ...
