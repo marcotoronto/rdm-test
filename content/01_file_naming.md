@@ -31,28 +31,35 @@ Creating a well-organized hierarchy of files with clear naming conventions is an
 ---
 
 ## How to make good file names? 
-## Follow 3 principles! 
+## Follow 3 principles! <img src="figures/thumbs-up.png" alt="machine" width="50"/>
+  
 
 *1*{: .circle .circle-blue} Machine-Readable  
 
 *2*{: .circle .circle-red} Human-Readable  
 
 *3*{: .circle .circle-yellow} Plays Well With Default Ordering 
-{: .} 
 
-<img src="figures/machine-reading.png" alt="machine" width="200"/>
+## *1*{: .circle .circle-blue} Machine-Readable <img src="figures/machine-reading.png" alt="machine" width="200"/>
 
-## *Principle 1*{: .circle .circle-blue} Machine-Readable   
 **Goal*: The characters in file names should be able to handled by all computer systems, and the names should be brief and easily searchable. 
 
 - Only use the following:
+
   - Alphanumeric characters (alphabetic characters and Arabic numerials)   <img src="figures/alphanumeric.png" alt="alphanumeric" width="200"/>
+
   - Element delimiters: **_(underscore)**
+  
   - Word delimiters (within an element): **- (dash)** and/or **capitalize** the first letter of each word (camel case)
-  - e.g. [element 1]_[element 2]_[WordPart-WordPart-WordPart]_[element 3].txt
-- Avoid spaces and special characters, such as: ~ ! @ # $ % ^ & * ( ) ` ; : < > ? . , [ ] { } ' " | 
+
+      e.g. [element 1]_[element 2]_[WordPart-WordPart-WordPart]_[element 3].txt
+
+- Avoid spaces and special characters, such as: ~ ! @ # $ % ^ & * ( ) ` ; : < > ? . , [ ] { } ' " | <img src="figures/say-no.png" alt="machine" width="30"/>
+
 - Make file names 32 characters or less
+
 - If you decide to abbreviate the elements with 2- or 3-letter codes (e.g. project 1 = P1, mouse = "MUS"), make sure these are well documented 
+
 - Keep case sensitivity in mind - machine searching for files named "Scan" would not find files named "scan"
 
 ### Exercise - Make the following file names more machine-readable! 
@@ -62,12 +69,14 @@ Creating a well-organized hierarchy of files with clear naming conventions is an
 
 
 
-## *Principle 2*{: .circle .circle-red} Human-Readable   
+## *2*{: .circle .circle-red} Human-Readable   
+
+## *Principle 2: Human-Readable*{: .lable .lable-red}
 
 
 *Goal*: The file names should provide concise information and be easily understandable to anyone who may access them in future.
 
-- Provide **essential information** concisely in the file name
+- Provide *essential information* concisely in the file name
   - Ideally 3 elements, 5 max.
   - Avoid complex hierarchical folder structures.
 - Consider putting authors' names in the file name
@@ -77,7 +86,7 @@ Creating a well-organized hierarchy of files with clear naming conventions is an
   - Define acronyms, abbreviations, and codes
 
 
-## *Principle 3*{: .circle .circle-yellow} Plays Well With Default Ordering 
+## *3*{: .circle .circle-yellow} Plays Well With Default Ordering 
 
 *Goal*: The names should start with the element that is used to order the files and keep versions at the end.
 
