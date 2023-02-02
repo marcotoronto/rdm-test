@@ -18,15 +18,17 @@ Creating a well-organized hierarchy of files with clear naming conventions is an
 - final revision.docx
 - Lily's schedule&plan 2022Jul9.xlsx
 
-## *What about these names?*
+## This is what happens when you do not have effective naming conventions:
+
+<img src="figures/comic.gif" alt="comic" width="500"/>
+
+
+## *Are these names better?*
 - better-filenames.txt
 - 003_raw-data_2022-07-09.txt
 - fig01_scatterplot-talk-length-vs-interest.png
 - 20220709_interview-script_v01.docx
 
-## This is what happens when you do not have effective naming conventions:
-
-<img src="figures/comic.gif" alt="comic" width="500"/>
 
 ---
 
@@ -43,12 +45,12 @@ Creating a well-organized hierarchy of files with clear naming conventions is an
 ## *1*{: .circle .circle-blue} Machine-Readable 
 <img src="figures/machine-reading.png" alt="machine" width="200"/>
 
-**Goal*: The characters in file names should be able to handled by all computer systems, and the names should be brief and easily searchable. 
+**Goal**: The characters in file names should be able to handled by all computer systems, and the names should be brief and easily searchable. 
 
 - Only use the following:
 
   - Alphanumeric characters (alphabetic characters and Arabic numerials)   
-  <img src="figures/alphanumeric.png" alt="alphanumeric" width="60"/>
+  <img src="figures/alphanumeric.png" alt="alphanumeric" width="200"/>
 
   - Element delimiters: **_(underscore)**
   
@@ -56,7 +58,7 @@ Creating a well-organized hierarchy of files with clear naming conventions is an
 
       e.g. [element 1]\_[element 2]\_[WordPart-WordPart-WordPart]_[element 3].txt
 
-- Avoid spaces and special characters, such as: ~ ! @ # $ % ^ & * ( ) ` ; : < > ? . , [ ] { } ' " | <img src="figures/say-no.png" alt="say-no" width="30"/>
+- Avoid spaces and special characters, such as: ~ ! @ # $ % ^ & * ( ) ` ; : < > ? . , [ ] { } ' " \|  <img src="figures/say-no.png" alt="say-no" width="30"/>
 
 - Make file names 32 characters or less
 
@@ -64,11 +66,11 @@ Creating a well-organized hierarchy of files with clear naming conventions is an
 
 - Keep case sensitivity in mind - machine searching for files named "Scan" would not find files named "scan"
 
-### Exercise - Make the following file names more machine-readable! 
+### Exercise - Pick your favourite file name and make it more machine-readable! 
 
 ![](figures/cakes-exmaple.jpeg)
 
-
+[//]: #(activity link: https://bit.ly/rdmactivity)
 
 
 ## *2*{: .circle .circle-red} Human-Readable   
@@ -99,12 +101,13 @@ Creating a well-organized hierarchy of files with clear naming conventions is an
 
 ### Exercise - Make the following file names more human-readable and play well with default ordering!
 
+Your lab has a spectrometer that is measuring thermal emissions **once a day** for **a year** for your experiment. There are **three people** who take that measurement in the lab. 
+
+Please create a file naming convention for these *.hdf5 files* to reflect what you have learned about file naming in today's session and post your example on Padlet.
 
 
 ---
 ### Now you know how to organize files with your own file naming conventions! The screenshot below is for your reference. As long as your names are clear and consistent, you are good to move forward!
-
-![](figures/folder-screenshot.jpeg)
 
 
 ## References
