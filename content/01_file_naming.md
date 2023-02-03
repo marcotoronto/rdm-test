@@ -81,24 +81,18 @@ Only use the following:
 - Word delimiters (within an element): **-(dash)** and/or **capitalize** the first letter of each word (camel case)
 <br>
 <br>
-e.g. [element 1]\_[element 2]\_[WordPart-WordPart-WordPart]_[element 3].txt
+**e.g. [element 1]\_[element 2]\_[WordPart-WordPart-WordPart]_[element 3].txt**
 <br>
 <br>
 
-<span style="color:pink"> 
+- Avoid spaces and special characters, such as: ~ ! @ # $ % ^ & * ( ) ` ; : < > ? . , [ ] { } ' "  \|   <img src="figures/say-no.png" alt="say-no" width="19">
+{: .warn}
 
-- Avoid spaces and special characters, such as: ~ ! @ # $ % ^ & * ( ) ` ; : < > ? . , [ ] { } ' " \|  <img src="figures/say-no.png" alt="say-no" width="19">  
-
-</span>
 
 - Make file names 32 characters or less
 
 - If you decide to abbreviate the elements with 2- or 3-letter codes (e.g. project 1 = P1, mouse = "MUS"), make sure these are well documented
-
-
-```
-Keep case sensitivity in mind - Machine searching for files named "Scan" would not find files named "scan"
-```
+- Keep case sensitivity in mind - Machine searching for files named "Scan" would not find files named "scan"
 
 <br>
 
@@ -123,9 +117,8 @@ Keep case sensitivity in mind - Machine searching for files named "Scan" would n
 
 Goal
 {: .label .label-green }
-    
-    - The file names should provide concise information.  
 
+    - The file names should provide concise information.  
     - They are easily understandable to anyone who may access them in future.
 
 - Provide *essential information* concisely in the file name
@@ -142,15 +135,19 @@ Goal
 
 ## *3*{: .circle .circle-yellow} Plays Well With Default Ordering 
 
-*Goal*: The names should start with the element that is used to order the files and keep versions at the end.
+Goal
+{: .label .label-green }
 
-- Decide the beginning of the file name according to how you want to sort and search for your files
-  - When using a sequential numbering system, use **leading zeros** to make sure files sort in sequential order. e.g. 001, 002, 010, 011 ....100,101 ...
+    - The names should start with the element that is used to order the files.
+    - Keep versions at the end.
+
+Decide the beginning of the file name according to how you want to sort and search for your files
+- When using a sequential numbering system, use **leading zeros** to make sure files sort in sequential order. e.g. 001, 002, 010, 011 ....100,101 ...
 - Order elements from general to specific to make searching easier
-- Versions: should be used as the last element
-  - Use ISO 8601 standard for dates: **YYYYMMDD** or **YYYY-MM-DD** 
-  - For version numbers, use at least two digits with a leading zero (e.g. v0)
-  - Version types (e.g. _raw, _processed, _composite)
+Versions: should be used as the last element
+- Use ISO 8601 standard for dates: **YYYYMMDD** or **YYYY-MM-DD** 
+- For version numbers, use at least two digits with a leading zero (e.g. v0)
+- Version types (e.g. _raw, _processed, _composite)
 
 ## Exercise
     Your lab has a spectrometer that is measuring thermal emissions once a day for a year for your experiment. There are three people who take that measurement in the lab. 
@@ -167,11 +164,7 @@ Goal
 
 <br>
 
-<span style="color:yellow">
-
 ### **Congrats! Now you know how to organize files with your own file naming conventions! As long as your names are clear and consistent, you are good to move forward!**
-
-</span>
 
 <br>
 <br>
