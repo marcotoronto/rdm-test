@@ -44,23 +44,31 @@ Are these names better?
 <br>
 <br>
 
-## Follow 3 principles to make good file names!
-<br>
+
+## Follow 3 principles to make good file names! &nbsp; &nbsp; &nbsp;  <img src="figures/thumbs-up.png" align="center" width="100"/> 
+
 *1*{: .circle .circle-blue} Machine-Readable
 
 *2*{: .circle .circle-red} Human-Readable  
 
 *3*{: .circle .circle-yellow} Plays Well With Default Ordering 
+
+
+
 <br>
 <br>
 
 ## *1*{: .circle .circle-blue} Machine-Readable 
+
+<br>
+
 <p align="center">
 <img src="figures/machine-reading.png" alt="machine" width="500"/>
 </p>
 
 Goal
 {: .label .label-green }
+
     - The characters in file names should be able to handled by all computer systems.
     - The names should be brief and easily searchable. 
 
@@ -80,7 +88,7 @@ Only use the following:
 <br>
 <br>
 **e.g. [element 1]\_[element 2]\_[WordPart-WordPart-WordPart]_[element 3].txt**
-<br>
+
 <br>
 
 Avoid spaces and special characters, such as: ~ ! @ # $ % ^ & * ( ) ` ; : < > ? . , [ ] { } ' "  \|   <img src="figures/say-no.png" alt="say-no" width="19">
@@ -109,10 +117,10 @@ Pick your favourite file name and make it more machine-readable!
 
 
 ## *2*{: .circle .circle-red} Human-Readable
+<br>
 
-<p align="center">
 <img src="figures/human-reading.jpg" alt="human" width="500"/>
-</p>
+
 
 Goal
 {: .label .label-green }
@@ -125,7 +133,9 @@ Goal
   - Avoid complex hierarchical folder structures.
 - Consider putting authors' names in the file name.
   - Put family names first followed by first names or initials.
-- Write down your naming convention pattern and **document it** in your README file.
+- Write down your naming convention pattern and **document it** in your README file. 
+<img src="figures/readme.png" width="350"/>
+
   - e.g. My file naming convention is [SA-MPL-EID]\_[YYYY-MM-DD]\_[###]_[status].[txt]
   - Define acronyms, abbreviations and codes
 
