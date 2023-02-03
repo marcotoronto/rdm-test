@@ -14,23 +14,22 @@ Creating a well-organized hierarchy of files with clear naming conventions is an
 
 
 <span style="color:grey"> 
-What do you think about the following file names?
+What do you think about the following file names?  
 
   - 10_data 2.txt
   - figure 1.png
   - final revision.docx
-  - Lily's schedule&plan 2022Jul9.xlsx
+  - Lily's schedule&plan 2022Jul9.xlsx 
 </span>
 
 <br>
 
 <span style="color:grey"> 
 This is what happens when you do not have effective naming conventions:
+</span>
 <br>
 <br>
 <img src="figures/comic.gif" alt="comic" width="500"/>
-</span>
-
 
 <br>
 
@@ -49,40 +48,51 @@ Are these names better?
 
 ## Follow 3 principles to make good file names!
 <br>
-<details>
-<summary> *1*{: .circle .circle-blue} Machine-Readable </summary>
-.......
-</details>
+*1*{: .circle .circle-blue} Machine-Readable
 
 *2*{: .circle .circle-red} Human-Readable  
 
 *3*{: .circle .circle-yellow} Plays Well With Default Ordering 
-
 <br>
 
-## *1*{: .circle .circle-blue} Machine-Readable <img src="figures/machine-reading.png" alt="machine" width="200"/>
+## *1*{: .circle .circle-blue} Machine-Readable 
+<p align="center">
+<img src="figures/machine-reading.png" alt="machine" width="200"/>
+</p>
 
 Goal
 {: .label .label-green }
 ```
-The characters in file names should be able to handled by all computer systems, and the names should be brief and easily searchable. 
+- The characters in file names should be able to handled by all computer systems.
+- The names should be brief and easily searchable. 
 ```
 
 - Only use the following:
 
   - Alphanumeric characters (alphabetic characters and Arabic numerials)  
   <br>
-  <img src="figures/alphanumeric.png" alt="alphanumeric" width="200"/>
+
+  <p align="center">
+  <img src="figures/alphanumeric.png" alt="alphanumeric" width="150"/>
+  </p>
+
   <br>
-  - Element delimiters: **_(underscore)**
-  
-  - Word delimiters (within an element): **- (dash)** and/or **capitalize** the first letter of each word (camel case)
+
+  - Element delimiters: **_(underscore)**  
+  - Word delimiters (within an element): **  
+  - (dash)** and/or **capitalize** the first letter of each word (camel case)
+  <br>
+  <br>
 
   e.g. [element 1]\_[element 2]\_[WordPart-WordPart-WordPart]_[element 3].txt
-
+<br>
 <br>
 
-- Avoid spaces and special characters, such as: ~ ! @ # $ % ^ & * ( ) ` ; : < > ? . , [ ] { } ' " \|  <img src="figures/say-no.png" alt="say-no" width="25"/>
+<span style="color:pink">
+
+- Avoid spaces and special characters, such as: ~ ! @ # $ % ^ & * ( ) ` ; : < > ? . , [ ] { } ' " \|  <img src="figures/say-no.png" alt="say-no" width="19"/>
+
+</span>
 
 <br>
 
@@ -97,11 +107,15 @@ Keep case sensitivity in mind - Machine searching for files named "Scan" would n
 <br>
 <br>
 
-### Exercise - Pick your favourite file name and make it more machine-readable! 
+Exercise
+{: .label .label-yellow }
+```
+Pick your favourite file name and make it more machine-readable! 
 
 ![](figures/cakes-exmaple.jpeg)
 
 [//]: #(activity link: https://bit.ly/rdmactivity)
+```
 
 <br>
 <br>
