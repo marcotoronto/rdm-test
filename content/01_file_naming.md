@@ -47,7 +47,7 @@ Are these names better?
 <br>
 
 
-# Follow 3 principles to make good file names! &nbsp; &nbsp; &nbsp;  <img src="figures/thumbs-up.png" align="center" width="100"/> 
+# Follow 3 principles to make good file names! &nbsp; &nbsp;  <img src="figures/thumbs-up.png" align="center" width="50"/> 
 
 *1*{: .circle .circle-blue} Machine-Readable
 
