@@ -63,7 +63,8 @@ Are these names better?
 
 Goal
 {: .label .label-green }
-    The characters in file names should be able to handled by all computer systems, and the names should be brief and easily searchable. 
+    - The characters in file names should be able to handled by all computer systems.
+    - The names should be brief and easily searchable. 
 
 Only use the following:
 
@@ -122,9 +123,10 @@ Keep case sensitivity in mind - Machine searching for files named "Scan" would n
 
 Goal
 {: .label .label-green }
-```
-- The file names should provide concise information and be easily understandable to anyone who may access them in future.
-```
+    
+    - The file names should provide concise information.  
+
+    - They are easily understandable to anyone who may access them in future.
 
 - Provide *essential information* concisely in the file name
   - Ideally 3 elements, 5 max.
