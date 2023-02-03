@@ -4,9 +4,7 @@ title: File Naming
 nav_order: 2
 ---
 
-# File Naming
-
-## Why is file naming important?
+# Why is file naming important?
 
 Creating a well-organized hierarchy of files with clear naming conventions is an important part of improving your research process. This is especially important if you are working with large data sets and complex output files or coordinating with multiple people at multiple institutions. There are many ways to structure your folders, and multiple naming conventions you can use. The key is **consistency**. Make your file names descriptive, and include information about dates and versioning. The best practice is to consult with your lab or with your co-workers to develop a naming schema that everyone is willing to follow consistently.
 <br>
@@ -45,7 +43,7 @@ Are these names better?
 <br>
 
 
-## Follow 3 principles to make good file names! &nbsp; &nbsp; &nbsp;  <img src="figures/thumbs-up.png" align="center" width="100"/> 
+# Follow 3 principles to make good file names! &nbsp; &nbsp; &nbsp;  <img src="figures/thumbs-up.png" align="center" width="100"/> 
 
 *1*{: .circle .circle-blue} Machine-Readable
 
@@ -59,9 +57,9 @@ Are these names better?
 <br>
 
 ## *1*{: .circle .circle-blue} Machine-Readable 
-
+<br>
 <img src="figures/machine-reading.png" width="600"/>
-
+<br>
 
 Goal
 {: .label .label-green }
@@ -73,10 +71,7 @@ Goal
 
 - Alphanumeric characters (alphabetic characters and Arabic numerials)  
 <br>
-
-<p align="center">
 <img src="figures/alphanumeric.png" alt="alphanumeric" width="200"/>
-</p>
 
 <br>
 
@@ -99,10 +94,10 @@ Avoid spaces and special characters, such as: ~ ! @ # $ % ^ & * ( ) ` ; : < > ? 
 - Keep case sensitivity in mind - Machine searching for files named "Scan" would not find files named "scan"
 
 
-## Exercise
-Let's try improve the file names!
-    
-Pick your favourite file name and make it more machine-readable! 
+### Exercise
+Let's try improve the file names! Pick your favourite file name and make it more machine-readable! 
+
+<br>
 
 ![](figures/cakes-exmaple.jpeg)
 
@@ -118,6 +113,7 @@ Pick your favourite file name and make it more machine-readable!
 
 <img src="figures/human-reading.jpg" width="600"/>
 
+<br>
 
 Goal
 {: .label .label-green }
@@ -126,16 +122,15 @@ Goal
     - They are easily understandable to anyone who may access them in future.
 
 - Provide *essential information* concisely in the file name
-  - Ideally 3 elements, 5 max.
-  - Avoid complex hierarchical folder structures.
+   - Ideally 3 elements, 5 max.
+   - Avoid complex hierarchical folder structures.
 - Consider putting authors' names in the file name.
-  - Put family names first followed by first names or initials.
+   - Put family names first followed by first names or initials.
 - Write down your naming convention pattern and **document it** in your README file. 
 <br>
 
-<p align="center">
-<img src="figures/readme.png" width="350"/>
-</p>
+  <img src="figures/readme.png" width="350"/>
+<br>
 
 - e.g. My file naming convention is [SA-MPL-EID]\_[YYYY-MM-DD]\_[###]_[status].[txt]
 - Define acronyms, abbreviations and codes
@@ -144,9 +139,9 @@ Goal
 <br>
 
 ## *3*{: .circle .circle-yellow} Plays Well With Default Ordering 
-
+<br>
 <img src="figures/follow-rule.jpg" width="500"/>
-
+<br>
 
 Goal
 {: .label .label-green }
@@ -159,17 +154,19 @@ Goal
 - Order elements from general to specific to make searching easier
 - Use ISO 8601 standard for dates: **YYYYMMDD** or **YYYY-MM-DD** 
 - Versions: should be used as the last element
-  <p align="center">
-  <img src="figures/comic.gif" width="300"/>
-  </p>
+  <br>
 
-  - For version numbers, use at least two digits with a leading zero (e.g. v0)
-  - Version types (e.g. _raw, _processed, _composite)
+  <img src="figures/comic.gif" width="500"/>
+  <br>
+
+ - For version numbers, use at least two digits with a leading zero (e.g. v0)
+ - Version types (e.g. _raw, _processed, _composite)
 
 <br>
 <br>
 
 ## Exercise
+<br>
 <img src="figures/ordered.jpg" width="300"/>
 <br>
 Your lab has a spectrometer that is measuring thermal emissions **once a day for a year** for your experiment. There are **three people** who take that measurement in the lab. 
@@ -187,7 +184,7 @@ Please create a file naming convention for these **.hdf5 files** to reflect what
 </p>
 
 ## **Congrats!**
-### Now you know how to organize files with your own file naming conventions! As long as your names are clear and consistent, you are good to move forward!
+Now you know how to organize files with your own file naming conventions! As long as your names are clear and consistent, you are good to move forward!
 
 <br>
 <br>
