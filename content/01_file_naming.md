@@ -9,6 +9,8 @@ nav_order: 2
 ## Why is file naming important?
 
 Creating a well-organized hierarchy of files with clear naming conventions is an important part of improving your research process. This is especially important if you are working with large data sets and complex output files or coordinating with multiple people at multiple institutions. There are many ways to structure your folders, and multiple naming conventions you can use. The key is **consistency**. Make your file names descriptive, and include information about dates and versioning. The best practice is to consult with your lab or with your co-workers to develop a naming schema that everyone is willing to follow consistently.
+<br>
+<br>
 
 
 ## *What do you think about the following file names?*
@@ -17,10 +19,14 @@ Creating a well-organized hierarchy of files with clear naming conventions is an
 - figure 1.png
 - final revision.docx
 - Lily's schedule&plan 2022Jul9.xlsx
+<br>
+<br>
 
 ## This is what happens when you do not have effective naming conventions:
-
+<br>
 <img src="figures/comic.gif" alt="comic" width="500"/>
+<br>
+<br>
 
 
 ## *Are these names better?*
@@ -34,7 +40,7 @@ Creating a well-organized hierarchy of files with clear naming conventions is an
 
 ## How to make good file names? 
 ## Follow 3 principles! 
-  
+<br>
 
 *1*{: .circle .circle-blue} Machine-Readable  
 
@@ -42,29 +48,42 @@ Creating a well-organized hierarchy of files with clear naming conventions is an
 
 *3*{: .circle .circle-yellow} Plays Well With Default Ordering 
 
+<br>
+<br>
+<br>
+
 ## *1*{: .circle .circle-blue} Machine-Readable 
+<br>
 <img src="figures/machine-reading.png" alt="machine" width="200"/>
 
 **Goal**: The characters in file names should be able to handled by all computer systems, and the names should be brief and easily searchable. 
 
 - Only use the following:
 
-  - Alphanumeric characters (alphabetic characters and Arabic numerials)   
+  - Alphanumeric characters (alphabetic characters and Arabic numerials)  
+  <br>
   <img src="figures/alphanumeric.png" alt="alphanumeric" width="200"/>
-
+  <br>
   - Element delimiters: **_(underscore)**
   
   - Word delimiters (within an element): **- (dash)** and/or **capitalize** the first letter of each word (camel case)
 
       e.g. [element 1]\_[element 2]\_[WordPart-WordPart-WordPart]_[element 3].txt
-
-- Avoid spaces and special characters, such as: ~ ! @ # $ % ^ & * ( ) ` ; : < > ? . , [ ] { } ' " \|  <img src="figures/say-no.png" alt="say-no" width="30"/>
-
+<br>
+- Avoid spaces and special characters, such as: ~ ! @ # $ % ^ & * ( ) ` ; : < > ? . , [ ] { } ' " \|  <img src="figures/say-no.png" alt="say-no" width="25"/>
+<br>
 - Make file names 32 characters or less
 
-- If you decide to abbreviate the elements with 2- or 3-letter codes (e.g. project 1 = P1, mouse = "MUS"), make sure these are well documented 
+- If you decide to abbreviate the elements with 2- or 3-letter codes (e.g. project 1 = P1, mouse = "MUS"), make sure these are well documented
 
-- Keep case sensitivity in mind - machine searching for files named "Scan" would not find files named "scan"
+Keep case sensitivity in mind
+{: .label .label-yellow }
+```sh
+Machine searching for files named "Scan" would not find files named "scan"
+```
+
+<br>
+<br>
 
 ### Exercise - Pick your favourite file name and make it more machine-readable! 
 
@@ -72,19 +91,24 @@ Creating a well-organized hierarchy of files with clear naming conventions is an
 
 [//]: #(activity link: https://bit.ly/rdmactivity)
 
+<br>
+<br>
+<br>
+<br>
 
-## *2*{: .circle .circle-red} Human-Readable   
+## *2*{: .circle .circle-red} Human-Readable
+<img src="figures/human-reading.jpg" alt="human" width="200"/>
 
 *Goal*: The file names should provide concise information and be easily understandable to anyone who may access them in future.
 
 - Provide *essential information* concisely in the file name
   - Ideally 3 elements, 5 max.
   - Avoid complex hierarchical folder structures.
-- Consider putting authors' names in the file name
+- Consider putting authors' names in the file name.
   - Put family names first followed by first names or initials.
-- Write down your naming convention pattern and **document it** in your README file
-  - e.g. My file naming convention is [SA-MPL-EID]_[YYYY-MM-DD]_[###]_[status].[txt]
-  - Define acronyms, abbreviations, and codes
+- Write down your naming convention pattern and **document it** in your README file.
+  - e.g. My file naming convention is [SA-MPL-EID]\_[YYYY-MM-DD]\_[###]_[status].[txt]
+  - Define acronyms, abbreviations and codes
 
 
 ## *3*{: .circle .circle-yellow} Plays Well With Default Ordering 
