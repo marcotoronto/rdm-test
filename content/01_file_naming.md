@@ -143,6 +143,10 @@ Goal
 <br>
 
 ## *3*{: .circle .circle-yellow} Plays Well With Default Ordering 
+<br>
+
+<img src="figures/ordered.jpg" width="500"/>
+
 
 Goal
 {: .label .label-green }
@@ -150,7 +154,7 @@ Goal
     - The names should start with the element that is used to order the files.
     - Keep versions at the end.
 
-Decide the beginning of the file name according to how you want to sort and search for your files
+- Decide the beginning of the file name according to how you want to sort and search for your files
 - When using a sequential numbering system, use **leading zeros** to make sure files sort in sequential order. e.g. 001, 002, 010, 011 ....100,101 ...
 - Order elements from general to specific to make searching easier
 Versions: should be used as the last element
@@ -158,21 +162,23 @@ Versions: should be used as the last element
 - For version numbers, use at least two digits with a leading zero (e.g. v0)
 - Version types (e.g. _raw, _processed, _composite)
 
+<br>
+
 ## Exercise
 
-Your lab has a spectrometer that is measuring thermal emissions once a day for a year for your experiment. There are three people who take that measurement in the lab. 
+Your lab has a spectrometer that is measuring thermal emissions **once a day for a year** for your experiment. There are **three people** who take that measurement in the lab. 
     
-Please create a file naming convention for these .hdf5 files to reflect what you have learned about file naming in today's session and post your example on Padlet.
+Please create a file naming convention for these **.hdf5 files** to reflect what you have learned about file naming in today's session and post your example on Padlet.
+
+[//]: # (activity link: https://bit.ly/rdmactivity)
 
 <br>
 
 <br>
 
 <p align="center">
-<img src="figures/congrats.jpg" width="500"/>
+<img src="figures/congrats.jpg" width="800"/>
 </p>
-
-<br>
 
 ## **Congrats!**
 ### Now you know how to organize files with your own file naming conventions! As long as your names are clear and consistent, you are good to move forward!
