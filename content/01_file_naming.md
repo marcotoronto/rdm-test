@@ -6,8 +6,10 @@ nav_order: 2
 
 # Why is file naming important?
 
-Creating a well-organized hierarchy of files with clear naming conventions is an important part of improving your research process. This is especially important if you are working with large data sets and complex output files or coordinating with multiple people at multiple institutions. There are many ways to structure your folders, and multiple naming conventions you can use. The key is **consistency**. Make your file names descriptive, and include information about dates and versioning. The best practice is to consult with your lab or with your co-workers to develop a naming schema that everyone is willing to follow consistently.
 <br>
+
+Creating a well-organized hierarchy of files with clear naming conventions is an important part of improving your research process. This is especially important if you are working with large data sets and complex output files or coordinating with multiple people at multiple institutions. There are many ways to structure your folders, and multiple naming conventions you can use. The key is **consistency**. Make your file names descriptive, and include information about dates and versioning. The best practice is to consult with your lab or with your co-workers to develop a naming schema that everyone is willing to follow consistently.
+
 <br>
 
 
@@ -19,6 +21,7 @@ What do you think about the following file names?
   - final revision.docx
   - Lily's schedule&plan 2022Jul9.xlsx 
 </span>
+
 <br>
 
 <span style="color:grey"> 
@@ -38,6 +41,7 @@ Are these names better?
 - fig01_scatterplot-talk-length-vs-interest.png
 - 20220709_interview-script_v01.docx
 </span>
+
 <br>
 <br>
 <br>
@@ -54,10 +58,13 @@ Are these names better?
 
 
 <br>
+
 <br>
 
 ## *1*{: .circle .circle-blue} Machine-Readable 
+
 <br>
+
 <img src="figures/machine-reading.png" width="600"/>
 <br>
 
@@ -70,15 +77,20 @@ Goal
 ### Only use the following:
 
 - Alphanumeric characters (alphabetic characters and Arabic numerials)  
+
 <br>
+
 <img src="figures/alphanumeric.png" alt="alphanumeric" width="200"/>
 
 <br>
 
 - Element delimiters: **_(underscore)**  
 - Word delimiters (within an element): **-(dash)** and/or **capitalize** the first letter of each word (camel case)
+
 <br>
+
 <br>
+
 **e.g. [element 1]\_[element 2]\_[WordPart-WordPart-WordPart]_[element 3].txt**
 
 <br>
@@ -93,6 +105,7 @@ Avoid spaces and special characters, such as: ~ ! @ # $ % ^ & * ( ) ` ; : < > ? 
 - If you decide to abbreviate the elements with 2- or 3-letter codes (e.g. project 1 = P1, mouse = "MUS"), make sure these are well documented
 - Keep case sensitivity in mind - Machine searching for files named "Scan" would not find files named "scan"
 
+<br>
 
 ### Exercise
 Let's try improve the file names! Pick your favourite file name and make it more machine-readable! 
@@ -104,11 +117,14 @@ Let's try improve the file names! Pick your favourite file name and make it more
 [//]: # (activity link: https://bit.ly/rdmactivity)
 
 <br>
+
 <br>
+
 <br>
 
 
 ## *2*{: .circle .circle-red} Human-Readable
+
 <br>
 
 <img src="figures/human-reading.jpg" width="600"/>
@@ -126,20 +142,25 @@ Goal
    - Avoid complex hierarchical folder structures.
 - Consider putting authors' names in the file name.
    - Put family names first followed by first names or initials.
-- Write down your naming convention pattern and **document it** in your README file. 
+- Write down your naming convention pattern and **document it** in your 
+
 <br>
 
   <img src="figures/readme.png" width="350"/>
+
 <br>
 
 - e.g. My file naming convention is [SA-MPL-EID]\_[YYYY-MM-DD]\_[###]_[status].[txt]
 - Define acronyms, abbreviations and codes
 
 <br>
+
 <br>
 
 ## *3*{: .circle .circle-yellow} Plays Well With Default Ordering 
+
 <br>
+
 <img src="figures/follow-rule.jpg" width="500"/>
 <br>
 
@@ -154,21 +175,28 @@ Goal
 - Order elements from general to specific to make searching easier
 - Use ISO 8601 standard for dates: **YYYYMMDD** or **YYYY-MM-DD** 
 - Versions: should be used as the last element
+
   <br>
 
   <img src="figures/comic.gif" width="500"/>
+
   <br>
 
  - For version numbers, use at least two digits with a leading zero (e.g. v0)
  - Version types (e.g. _raw, _processed, _composite)
 
 <br>
+
 <br>
 
 ## Exercise
+
 <br>
+
 <img src="figures/ordered.jpg" width="300"/>
+
 <br>
+
 Your lab has a spectrometer that is measuring thermal emissions **once a day for a year** for your experiment. There are **three people** who take that measurement in the lab. 
     
 Please create a file naming convention for these **.hdf5 files** to reflect what you have learned about file naming in today's session and post your example on Padlet.
@@ -187,7 +215,9 @@ Please create a file naming convention for these **.hdf5 files** to reflect what
 Now you know how to organize files with your own file naming conventions! As long as your names are clear and consistent, you are good to move forward!
 
 <br>
+
 <br>
+
 <br>
 
 ## References
