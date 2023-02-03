@@ -63,10 +63,7 @@ Are these names better?
 
 Goal
 {: .label .label-green }
-```
-- The characters in file names should be able to handled by all computer systems.
-- The names should be brief and easily searchable. 
-```
+    The characters in file names should be able to handled by all computer systems, and the names should be brief and easily searchable. 
 
 Only use the following:
 
@@ -120,7 +117,7 @@ Keep case sensitivity in mind - Machine searching for files named "Scan" would n
 ## *2*{: .circle .circle-red} Human-Readable
 
 <p align="center">
-<img src="figures/human-reading.jpg" alt="human" width="300"/>
+<img src="figures/human-reading.jpg" alt="human" width="500"/>
 </p>
 
 Goal
