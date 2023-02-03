@@ -54,10 +54,11 @@ Are these names better?
 
 *3*{: .circle .circle-yellow} Plays Well With Default Ordering 
 <br>
+<br>
 
-## *1*{: .circle .circle-blue} Machine-Readable 
+### *1*{: .circle .circle-blue} Machine-Readable 
 <p align="center">
-<img src="figures/machine-reading.png" alt="machine" width="200"/>
+<img src="figures/machine-reading.png" alt="machine" width="500"/>
 </p>
 
 Goal
@@ -73,14 +74,13 @@ Goal
   <br>
 
   <p align="center">
-  <img src="figures/alphanumeric.png" alt="alphanumeric" width="150"/>
+  <img src="figures/alphanumeric.png" alt="alphanumeric" width="200"/>
   </p>
 
   <br>
 
   - Element delimiters: **_(underscore)**  
-  - Word delimiters (within an element): **  
-  - (dash)** and/or **capitalize** the first letter of each word (camel case)
+  - Word delimiters (within an element): **-(dash)** and/or **capitalize** the first letter of each word (camel case)
   <br>
   <br>
 
@@ -90,7 +90,7 @@ Goal
 
 <span style="color:pink">
 
-- Avoid spaces and special characters, such as: ~ ! @ # $ % ^ & * ( ) ` ; : < > ? . , [ ] { } ' " \|  <img src="figures/say-no.png" alt="say-no" width="19"/>
+- Avoid spaces and special characters, such as: ~ ! @ # $ % ^ & * ( ) ` ; : < > ? . , [ ] { } ' " \|  <img src="figures/say-no.png" alt="say-no" width="19"/>  
 
 </span>
 
@@ -100,6 +100,7 @@ Goal
 
 - If you decide to abbreviate the elements with 2- or 3-letter codes (e.g. project 1 = P1, mouse = "MUS"), make sure these are well documented
 
+
 ```
 Keep case sensitivity in mind - Machine searching for files named "Scan" would not find files named "scan"
 ```
@@ -107,24 +108,32 @@ Keep case sensitivity in mind - Machine searching for files named "Scan" would n
 <br>
 <br>
 
-Exercise
-{: .label .label-yellow }
-```
+## Exercise
+
+Let's try improve the file names!
+
 Pick your favourite file name and make it more machine-readable! 
+
 
 ![](figures/cakes-exmaple.jpeg)
 
 [//]: #(activity link: https://bit.ly/rdmactivity)
+
+<br>
+<br>
+<br>
+
+### *2*{: .circle .circle-red} Human-Readable
+
+<p align="center">
+<img src="figures/human-reading.jpg" alt="human" width="300"/>
+</p>
+
+Goal
+{: .label .label-green }
 ```
-
-<br>
-<br>
-<br>
-
-## *2*{: .circle .circle-red} Human-Readable
-<img src="figures/human-reading.jpg" alt="human" width="200"/>
-
-*Goal*: The file names should provide concise information and be easily understandable to anyone who may access them in future.
+- The file names should provide concise information and be easily understandable to anyone who may access them in future.
+```
 
 - Provide *essential information* concisely in the file name
   - Ideally 3 elements, 5 max.
@@ -139,7 +148,7 @@ Pick your favourite file name and make it more machine-readable!
 <br>
 <br>
 
-## *3*{: .circle .circle-yellow} Plays Well With Default Ordering 
+### *3*{: .circle .circle-yellow} Plays Well With Default Ordering 
 
 *Goal*: The names should start with the element that is used to order the files and keep versions at the end.
 
