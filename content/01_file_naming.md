@@ -28,7 +28,7 @@ This is what happens when you do not have effective naming conventions:
 </span>
 <br>
 <br>
-<img src="figures/comic.gif" alt="comic" width="500"/>
+<img src="figures/file_names.png" width="300"/>
 
 <br>
 
@@ -60,11 +60,8 @@ Are these names better?
 
 ## *1*{: .circle .circle-blue} Machine-Readable 
 
-<br>
+<img src="figures/machine-reading.png" width="600"/>
 
-<p align="center">
-<img src="figures/machine-reading.png" alt="machine" width="500"/>
-</p>
 
 Goal
 {: .label .label-green }
@@ -72,7 +69,7 @@ Goal
     - The characters in file names should be able to handled by all computer systems.
     - The names should be brief and easily searchable. 
 
-Only use the following:
+### Only use the following:
 
 - Alphanumeric characters (alphabetic characters and Arabic numerials)  
 <br>
@@ -94,13 +91,13 @@ Only use the following:
 Avoid spaces and special characters, such as: ~ ! @ # $ % ^ & * ( ) ` ; : < > ? . , [ ] { } ' "  \|   <img src="figures/say-no.png" alt="say-no" width="19">
 {: .warn}
 
+### Make sure to do the following:
 
 - Make file names 32 characters or less
 
 - If you decide to abbreviate the elements with 2- or 3-letter codes (e.g. project 1 = P1, mouse = "MUS"), make sure these are well documented
 - Keep case sensitivity in mind - Machine searching for files named "Scan" would not find files named "scan"
 
-<br>
 
 ## Exercise
 Let's try improve the file names!
@@ -119,7 +116,7 @@ Pick your favourite file name and make it more machine-readable!
 ## *2*{: .circle .circle-red} Human-Readable
 <br>
 
-<img src="figures/human-reading.jpg" alt="human" width="500"/>
+<img src="figures/human-reading.jpg" width="600"/>
 
 
 Goal
@@ -134,18 +131,21 @@ Goal
 - Consider putting authors' names in the file name.
   - Put family names first followed by first names or initials.
 - Write down your naming convention pattern and **document it** in your README file. 
-<img src="figures/readme.png" width="350"/>
+<br>
 
-  - e.g. My file naming convention is [SA-MPL-EID]\_[YYYY-MM-DD]\_[###]_[status].[txt]
-  - Define acronyms, abbreviations and codes
+<p align="center">
+<img src="figures/readme.png" width="350"/>
+</p>
+
+- e.g. My file naming convention is [SA-MPL-EID]\_[YYYY-MM-DD]\_[###]_[status].[txt]
+- Define acronyms, abbreviations and codes
 
 <br>
 <br>
 
 ## *3*{: .circle .circle-yellow} Plays Well With Default Ordering 
-<br>
 
-<img src="figures/ordered.jpg" width="500"/>
+<img src="figures/follow-rule.jpg" width="500"/>
 
 
 Goal
@@ -157,15 +157,21 @@ Goal
 - Decide the beginning of the file name according to how you want to sort and search for your files
 - When using a sequential numbering system, use **leading zeros** to make sure files sort in sequential order. e.g. 001, 002, 010, 011 ....100,101 ...
 - Order elements from general to specific to make searching easier
-Versions: should be used as the last element
 - Use ISO 8601 standard for dates: **YYYYMMDD** or **YYYY-MM-DD** 
-- For version numbers, use at least two digits with a leading zero (e.g. v0)
-- Version types (e.g. _raw, _processed, _composite)
+- Versions: should be used as the last element
+  <p align="center">
+  <img src="figures/comic.gif" width="300"/>
+  </p>
 
+  - For version numbers, use at least two digits with a leading zero (e.g. v0)
+  - Version types (e.g. _raw, _processed, _composite)
+
+<br>
 <br>
 
 ## Exercise
-
+<img src="figures/ordered.jpg" width="300"/>
+<br>
 Your lab has a spectrometer that is measuring thermal emissions **once a day for a year** for your experiment. There are **three people** who take that measurement in the lab. 
     
 Please create a file naming convention for these **.hdf5 files** to reflect what you have learned about file naming in today's session and post your example on Padlet.
