@@ -56,7 +56,7 @@ Are these names better?
 <br>
 <br>
 
-### *1*{: .circle .circle-blue} Machine-Readable 
+## *1*{: .circle .circle-blue} Machine-Readable 
 <p align="center">
 <img src="figures/machine-reading.png" alt="machine" width="500"/>
 </p>
@@ -68,33 +68,30 @@ Goal
 - The names should be brief and easily searchable. 
 ```
 
-- Only use the following:
+Only use the following:
 
-  - Alphanumeric characters (alphabetic characters and Arabic numerials)  
-  <br>
+- Alphanumeric characters (alphabetic characters and Arabic numerials)  
+<br>
 
-  <p align="center">
-  <img src="figures/alphanumeric.png" alt="alphanumeric" width="200"/>
-  </p>
+<p align="center">
+<img src="figures/alphanumeric.png" alt="alphanumeric" width="200"/>
+</p>
 
-  <br>
+<br>
 
-  - Element delimiters: **_(underscore)**  
-  - Word delimiters (within an element): **-(dash)** and/or **capitalize** the first letter of each word (camel case)
-  <br>
-  <br>
-
-  e.g. [element 1]\_[element 2]\_[WordPart-WordPart-WordPart]_[element 3].txt
+- Element delimiters: **_(underscore)**  
+- Word delimiters (within an element): **-(dash)** and/or **capitalize** the first letter of each word (camel case)
+<br>
+<br>
+e.g. [element 1]\_[element 2]\_[WordPart-WordPart-WordPart]_[element 3].txt
 <br>
 <br>
 
-<span style="color:pink">
+<span style="color:pink"> 
 
-- Avoid spaces and special characters, such as: ~ ! @ # $ % ^ & * ( ) ` ; : < > ? . , [ ] { } ' " \|  <img src="figures/say-no.png" alt="say-no" width="19"/>  
+- Avoid spaces and special characters, such as: ~ ! @ # $ % ^ & * ( ) ` ; : < > ? . , [ ] { } ' " \|  <img src="figures/say-no.png" alt="say-no" width="19">  
 
 </span>
-
-<br>
 
 - Make file names 32 characters or less
 
@@ -106,24 +103,21 @@ Keep case sensitivity in mind - Machine searching for files named "Scan" would n
 ```
 
 <br>
-<br>
 
 ## Exercise
+    Let's try improve the file names!
+    
+    Pick your favourite file name and make it more machine-readable! 
+  ![](figures/cakes-exmaple.jpeg)
 
-Let's try improve the file names!
-
-Pick your favourite file name and make it more machine-readable! 
-
-
-![](figures/cakes-exmaple.jpeg)
-
-[//]: #(activity link: https://bit.ly/rdmactivity)
+[//]: # (activity link: https://bit.ly/rdmactivity)
 
 <br>
 <br>
 <br>
 
-### *2*{: .circle .circle-red} Human-Readable
+
+## *2*{: .circle .circle-red} Human-Readable
 
 <p align="center">
 <img src="figures/human-reading.jpg" alt="human" width="300"/>
@@ -146,9 +140,8 @@ Goal
 
 <br>
 <br>
-<br>
 
-### *3*{: .circle .circle-yellow} Plays Well With Default Ordering 
+## *3*{: .circle .circle-yellow} Plays Well With Default Ordering 
 
 *Goal*: The names should start with the element that is used to order the files and keep versions at the end.
 
@@ -160,23 +153,33 @@ Goal
   - For version numbers, use at least two digits with a leading zero (e.g. v0)
   - Version types (e.g. _raw, _processed, _composite)
 
-### Exercise - Make the following file names more human-readable and play well with default ordering!
+## Exercise
+    Your lab has a spectrometer that is measuring thermal emissions once a day for a year for your experiment. There are three people who take that measurement in the lab. 
+    
+    Please create a file naming convention for these .hdf5 files to reflect what you have learned about file naming in today's session and post your example on Padlet.
 
-Your lab has a spectrometer that is measuring thermal emissions **once a day** for **a year** for your experiment. There are **three people** who take that measurement in the lab. 
+<br>
 
-Please create a file naming convention for these *.hdf5 files* to reflect what you have learned about file naming in today's session and post your example on Padlet.
+<br>
 
+<p align="center">
+<img src="figures/congrats.jpg" width="500"/>
+</p>
 
----
-### Now you know how to organize files with your own file naming conventions! The screenshot below is for your reference. As long as your names are clear and consistent, you are good to move forward!
+<br>
 
+<span style="color:yellow">
+
+### **Congrats! Now you know how to organize files with your own file naming conventions! As long as your names are clear and consistent, you are good to move forward!**
+
+</span>
+
+<br>
+<br>
+<br>
 
 ## References
-
-    https://datacarpentry.org/rr-organization1/01-file-naming/index.html
-
-    https://authors.library.caltech.edu/103626/1/FileNamingConventionWorksheet_Caltech.pdf
-
-    http://www.exadox.com/en/articles/file-naming-convention-ten-rules-best-practice
-
-    https://datamanagement.hms.harvard.edu/collect/file-naming-conventions
+- https://datacarpentry.org/rr-organization1/01-file-naming/index.html
+- https://authors.library.caltech.edu/103626/1/FileNamingConventionWorksheet_Caltech.pdf
+- http://www.exadox.com/en/articles/file-naming-convention-ten-rules-best-practice
+- https://datamanagement.hms.harvard.edu/collect/file-naming-conventions
