@@ -21,7 +21,6 @@ What do you think about the following file names?
   - final revision.docx
   - Lily's schedule&plan 2022Jul9.xlsx 
 </span>
-
 <br>
 
 <span style="color:grey"> 
@@ -41,7 +40,6 @@ Are these names better?
 - fig01_scatterplot-talk-length-vs-interest.png
 - 20220709_interview-script_v01.docx
 </span>
-
 <br>
 <br>
 <br>
