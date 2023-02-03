@@ -83,7 +83,7 @@ Only use the following:
 <br>
 <br>
 
-- Avoid spaces and special characters, such as: ~ ! @ # $ % ^ & * ( ) ` ; : < > ? . , [ ] { } ' "  \|   <img src="figures/say-no.png" alt="say-no" width="19">
+Avoid spaces and special characters, such as: ~ ! @ # $ % ^ & * ( ) ` ; : < > ? . , [ ] { } ' "  \|   <img src="figures/say-no.png" alt="say-no" width="19">
 {: .warn}
 
 
@@ -95,10 +95,11 @@ Only use the following:
 <br>
 
 ## Exercise
-    Let's try improve the file names!
+Let's try improve the file names!
     
-    Pick your favourite file name and make it more machine-readable! 
-  ![](figures/cakes-exmaple.jpeg)
+Pick your favourite file name and make it more machine-readable! 
+
+![](figures/cakes-exmaple.jpeg)
 
 [//]: # (activity link: https://bit.ly/rdmactivity)
 
@@ -148,9 +149,10 @@ Versions: should be used as the last element
 - Version types (e.g. _raw, _processed, _composite)
 
 ## Exercise
-    Your lab has a spectrometer that is measuring thermal emissions once a day for a year for your experiment. There are three people who take that measurement in the lab. 
+
+Your lab has a spectrometer that is measuring thermal emissions once a day for a year for your experiment. There are three people who take that measurement in the lab. 
     
-    Please create a file naming convention for these .hdf5 files to reflect what you have learned about file naming in today's session and post your example on Padlet.
+Please create a file naming convention for these .hdf5 files to reflect what you have learned about file naming in today's session and post your example on Padlet.
 
 <br>
 
@@ -162,7 +164,8 @@ Versions: should be used as the last element
 
 <br>
 
-### **Congrats! Now you know how to organize files with your own file naming conventions! As long as your names are clear and consistent, you are good to move forward!**
+## **Congrats!**
+### Now you know how to organize files with your own file naming conventions! As long as your names are clear and consistent, you are good to move forward!
 
 <br>
 <br>
