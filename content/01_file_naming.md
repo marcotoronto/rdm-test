@@ -48,68 +48,11 @@ Are these names better?
 <br>
 
 ## Follow 3 principles to make good file names!
-
 <br>
 <details>
 <summary> *1*{: .circle .circle-blue} Machine-Readable </summary>
-<br>
-
-## *1*{: .circle .circle-blue} Machine-Readable 
-<img src="figures/machine-reading.png" alt="machine" width="500"/>
-
-Goal
-{: .label .label-green }
-```
-The characters in file names should be able to handled by all computer systems, and the names should be brief and easily searchable. 
-```
-
-- Only use the following:
-
-  - Alphanumeric characters (alphabetic characters and Arabic numerials)  
-
-<p align="center">
-  <img src="figures/alphanumeric.png" width="200"/>
-</p>
-
-  <br>
-  <img src="figures/alphanumeric.png" alt="alphanumeric" width="200"/>
-  <br>
-  - Element delimiters: **_(underscore)**
-  
-  - Word delimiters (within an element): **- (dash)** and/or **capitalize** the first letter of each word (camel case)
-
-  e.g. [element 1]\_[element 2]\_[WordPart-WordPart-WordPart]_[element 3].txt
-
-<br>
-
-- Avoid spaces and special characters, such as: ~ ! @ # $ % ^ & * ( ) ` ; : < > ? . , [ ] { } ' " \|  <img src="figures/say-no.png" alt="say-no" width="25"/>
-
-<br>
-
-- Make file names 32 characters or less
-
-- If you decide to abbreviate the elements with 2- or 3-letter codes (e.g. project 1 = P1, mouse = "MUS"), make sure these are well documented
-
-```
-Keep case sensitivity in mind - Machine searching for files named "Scan" would not find files named "scan"
-```
-
-<br>
-<br>
-
-### Exercise - Pick your favourite file name and make it more machine-readable! 
-
-![](figures/cakes-exmaple.jpeg)
-
-[//]: #(activity link: https://bit.ly/rdmactivity)
-
-<br>
-<br>
-<br>
+.......
 </details>
-
-<br>
-*1*{: .circle .circle-blue} Machine-Readable  
 
 *2*{: .circle .circle-red} Human-Readable  
 
