@@ -6,4 +6,4 @@ The workshop content was adapted from .  Both the source material and this revis
 
 Images are under the Pixabay License.
 
-The [workshop site](https://ubc-library-rc.github.io/intro-git/) uses the [Just the Docs](https://github.com/pmarsceill/just-the-docs) Jekyll theme.
+The [workshop site](https://ubc-library-rc.github.io/rdm/) uses the [Just the Docs](https://github.com/pmarsceill/just-the-docs) Jekyll theme.
