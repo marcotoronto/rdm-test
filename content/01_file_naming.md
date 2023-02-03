@@ -13,39 +13,49 @@ Creating a well-organized hierarchy of files with clear naming conventions is an
 <br>
 
 
-## *What do you think about the following file names?*
-{: .label .label-grey }
+<span style="color:grey"> 
+What do you think about the following file names?
 
-- 10_data 2.txt
-- figure 1.png
-- final revision.docx
-- Lily's schedule&plan 2022Jul9.xlsx
+  - 10_data 2.txt
+  - figure 1.png
+  - final revision.docx
+  - Lily's schedule&plan 2022Jul9.xlsx
+</span>
+
 <br>
+
+<span style="color:grey"> 
 This is what happens when you do not have effective naming conventions:
-{: .label .label-grey }
+<br>
 <br>
 <img src="figures/comic.gif" alt="comic" width="500"/>
-<br>
+</span>
+
+
 <br>
 
-## *Are these names better?*
-{: .label .label-grey }
+<span style="color:grey"> 
+Are these names better?  
+
 - better-filenames.txt
 - 003_raw-data_2022-07-09.txt
 - fig01_scatterplot-talk-length-vs-interest.png
 - 20220709_interview-script_v01.docx
+</span>
 
 <br>
 <br>
 <br>
 
-## How to make good file names? 
-## Follow 3 principles! 
+## Follow 3 principles to make good file names!
+
 <br>
 <details>
-<summary>*1*{: .circle .circle-blue} Machine-Readable</summary>
+<summary> *1*{: .circle .circle-blue} Machine-Readable </summary>
 <br>
-## *1*{: .circle .circle-blue} Machine-Readable <img src="figures/machine-reading.png" alt="machine" width="200"/>
+
+## *1*{: .circle .circle-blue} Machine-Readable 
+<img src="figures/machine-reading.png" alt="machine" width="500"/>
 
 Goal
 {: .label .label-green }
@@ -58,7 +68,7 @@ The characters in file names should be able to handled by all computer systems, 
   - Alphanumeric characters (alphabetic characters and Arabic numerials)  
 
 <p align="center">
-  <img src="figures/say-no.png" width="25"/>
+  <img src="figures/alphanumeric.png" width="200"/>
 </p>
 
   <br>
