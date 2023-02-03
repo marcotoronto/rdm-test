@@ -6,8 +6,6 @@ nav_order: 2
 
 # Why is file naming important?
 
-<br>
-
 Creating a well-organized hierarchy of files with clear naming conventions is an important part of improving your research process. This is especially important if you are working with large data sets and complex output files or coordinating with multiple people at multiple institutions. There are many ways to structure your folders, and multiple naming conventions you can use. The key is **consistency**. Make your file names descriptive, and include information about dates and versioning. The best practice is to consult with your lab or with your co-workers to develop a naming schema that everyone is willing to follow consistently.
 
 <br>
@@ -46,8 +44,12 @@ Are these names better?
 <br>
 <br>
 
+<img src="figures/thumbs-up.png" align="center" width="50"/> 
 
-# Follow 3 principles to make good file names! &nbsp; &nbsp;  <img src="figures/thumbs-up.png" align="center" width="50"/> 
+<br>
+
+# Follow 3 principles to make good file names!  
+
 
 *1*{: .circle .circle-blue} Machine-Readable
 
@@ -76,11 +78,12 @@ Goal
 
 ### Only use the following:
 
+<br>
+
 - Alphanumeric characters (alphabetic characters and Arabic numerials)  
 
 <br>
-
-<img src="figures/alphanumeric.png" alt="alphanumeric" width="200"/>
+  <img src="figures/alphanumeric.png" alt="alphanumeric" width="200"/>
 
 <br>
 
@@ -91,7 +94,7 @@ Goal
 
 <br>
 
-**e.g. [element 1]\_[element 2]\_[WordPart-WordPart-WordPart]_[element 3].txt**
+  **e.g. [element 1]\_[element 2]\_[WordPart-WordPart-WordPart]_[element 3].txt**
 
 <br>
 
@@ -108,6 +111,9 @@ Avoid spaces and special characters, such as: ~ ! @ # $ % ^ & * ( ) ` ; : < > ? 
 <br>
 
 ### Exercise
+
+<br>
+
 Let's try improve the file names! Pick your favourite file name and make it more machine-readable! 
 
 <br>
@@ -137,21 +143,23 @@ Goal
     - The file names should provide concise information.  
     - They are easily understandable to anyone who may access them in future.
 
+<br>
+
 - Provide *essential information* concisely in the file name
    - Ideally 3 elements, 5 max.
    - Avoid complex hierarchical folder structures.
 - Consider putting authors' names in the file name.
    - Put family names first followed by first names or initials.
-- Write down your naming convention pattern and **document it** in your 
+- Write down your naming convention pattern and **document it** in your README file.
 
 <br>
 
-  <img src="figures/readme.png" width="350"/>
+    <img src="figures/readme.png" width="350"/>
 
 <br>
 
-- e.g. My file naming convention is [SA-MPL-EID]\_[YYYY-MM-DD]\_[###]_[status].[txt]
-- Define acronyms, abbreviations and codes
+   - e.g. My file naming convention is [SA-MPL-EID]\_[YYYY-MM-DD]\_[###]_[status].[txt]
+   - Define acronyms, abbreviations and codes
 
 <br>
 
@@ -170,6 +178,8 @@ Goal
     - The names should start with the element that is used to order the files.
     - Keep versions at the end.
 
+<br>
+
 - Decide the beginning of the file name according to how you want to sort and search for your files
 - When using a sequential numbering system, use **leading zeros** to make sure files sort in sequential order. e.g. 001, 002, 010, 011 ....100,101 ...
 - Order elements from general to specific to make searching easier
@@ -182,8 +192,8 @@ Goal
 
   <br>
 
- - For version numbers, use at least two digits with a leading zero (e.g. v0)
- - Version types (e.g. _raw, _processed, _composite)
+   - For version numbers, use at least two digits with a leading zero (e.g. v0)
+   - Version types (e.g. _raw, _processed, _composite)
 
 <br>
 
@@ -193,7 +203,7 @@ Goal
 
 <br>
 
-<img src="figures/ordered.jpg" width="300"/>
+<img src="figures/ordered.jpg" width="400"/>
 
 <br>
 
