@@ -8,7 +8,7 @@ nav_order: 2
 <p style="margin-top:20px;margin-bottom:25px">
 Creating a well-organized hierarchy of files with clear naming conventions is an important part of improving your research process. This is especially important if you are working with large data sets and complex output files or coordinating with multiple people at multiple institutions. There are many ways to structure your folders, and multiple naming conventions you can use. The key is <b>consistency</b>. Make your file names descriptive, and include information about dates and versioning. The best practice is to consult with your lab or with your co-workers to develop a naming schema that everyone is willing to follow consistently. </p>
 
-<p style="margin-bottom:px; color:grey">
+<p style="margin-bottom:25px; color:grey">
 What do you think about the following file names? 
 <br> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;- 10_data 2.txt  
 <br> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;- figure 1.png  
@@ -16,35 +16,29 @@ What do you think about the following file names?
 <br> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;- Lily's schedule&plan 2022Jul9.xlsx 
 </p>
 
-<br>
-
-<span style="color:grey"> 
+<p style="margin-bottom:15px;color:grey"> 
 This is what happens when you do not have effective naming conventions:
-</span>
-<br>
-<br>
+</p>
 <img src="figures/file_names.png" width="300"/>
 
 <br>
 
-<span style="color:grey"> 
+
+<p style="color:grey"> 
 Are these names better?  
-
-- better-filenames.txt
-- 003_raw-data_2022-07-09.txt
-- fig01_scatterplot-talk-length-vs-interest.png
-- 20220709_interview-script_v01.docx
-</span>
-
-<br>
-<br>
-<br>
-
-<img src="figures/thumbs-up.png" align="center" width="50"/> 
+<br> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;- better-filenames.txt
+<br> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;- 003_raw-data_2022-07-09.txt
+<br> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;- fig01_scatterplot-talk-length-vs-interest.png
+<br> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;- 20220709_interview-script_v01.docx
+</p>
 
 <br>
+<br>
+<br>
 
-# Follow 3 principles to make good file names!  
+
+
+# Follow these three principles to make good file names!  <img src="figures/thumbs-up.png" align="center" width="50"/> 
 
 
 *1*{: .circle .circle-blue} Machine-Readable
