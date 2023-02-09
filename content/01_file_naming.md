@@ -24,6 +24,7 @@ Looking for a cheat sheet? Check out our [one-pager](https://osf.io/pfweq)!
 {:toc}
 </details>
 
+---
 
 <p style="margin-bottom:25px; color:grey">
 What do you think about the following file names? 
