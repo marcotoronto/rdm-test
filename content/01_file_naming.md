@@ -3,19 +3,27 @@ layout: default
 title: File Naming
 nav_order: 2
 ---
-
-<h1> 
-Why is file naming important? 
-</h1>
+# Why is file naming important? 
+{: .no_toc }
 
 <p style="margin-top:20px;margin-bottom:25px">
 Creating a well-organized hierarchy of files with clear naming conventions is an important part of improving your research process. This is especially important if you are working with large data sets and complex output files or coordinating with multiple people at multiple institutions. There are many ways to structure your folders, and multiple naming conventions you can use. The key is <b>consistency</b>. Make your file names descriptive, and include information about dates and versioning. The best practice is to consult with your lab or with your co-workers to develop a naming schema that everyone is willing to follow consistently. 
 </p>
   
-  
+
 Looking for a cheat sheet? Check out our [one-pager](https://osf.io/pfweq)!
 {: .note}
   
+
+<details open markdown="block">
+  <summary>
+    Table of contents
+  </summary>
+  {: .text-delta }
+1. TOC
+{:toc}
+</details>
+
 
 <p style="margin-bottom:25px; color:grey">
 What do you think about the following file names? 
@@ -189,16 +197,9 @@ Now you know how to organize files with your own file naming conventions! As lon
 ---
 
 
-# References
+# Sources
 - https://datacarpentry.org/rr-organization1/01-file-naming/index.html
 - https://authors.library.caltech.edu/103626/1/FileNamingConventionWorksheet_Caltech.pdf
 - http://www.exadox.com/en/articles/file-naming-convention-ten-rules-best-practice
 - https://datamanagement.hms.harvard.edu/collect/file-naming-conventions
-
-<br>
-
-# Acknowledgements
-The file naming workshop content was adapted from [Data Carpentry: Naming](https://datacarpentry.org/rr-organization1/01-file-naming/index.html). The source material and this revised version are available under a [Creative Commons Attribution 4.0](https://creativecommons.org/licenses/by/4.0) license.
-
-
-The [workshop site](https://ubc-library-rc.github.io/rdm/content/01_file_naming.html) uses images from [Pixabay](https://pixabay.com).
+- https://pixabay.com
