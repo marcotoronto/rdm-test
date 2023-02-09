@@ -97,10 +97,11 @@ Avoid spaces and special characters, such as: ~ ! @ # $ % ^ & * ( ) ` ; : < > ? 
 
 - If you decide to abbreviate the elements with 2- or 3-letter codes (e.g. project 1 = P1, mouse = "MUS"), make sure these are well documented.
 - Keep case sensitivity in mind - Machine searching for files named "Scan" would not find files named "scan".
+  
+  
 
-<p style="margin-top:30px">
-<h3> Exercise </h3>
-</p>
+## Exercise 1
+
 
 Let's try improve the file names! Pick your favourite file name and make it more machine-readable! 
 
@@ -172,9 +173,9 @@ Goal
 </p>
 
 
-<p style="margin-top:30px">
-<h3> Exercise </h3>
-</p>
+
+## Exercise 2 
+
 
 <img src="figures/thermometer.jpg" width="150"/>
 
