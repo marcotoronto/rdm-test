@@ -61,7 +61,7 @@ Goal
     - The characters in file names should be able to handled by all computer systems.
     - The names should be brief and easily searchable. 
 
-<p style="margin-bottom:20px">
+<p style="margin-top:20px;margin-bottom:20px">
 <h3> Only use the following: </h3>
 </p>
 
@@ -72,7 +72,7 @@ Goal
 
 - Element delimiters: **_(underscore)**  
 - Word delimiters (within an element): **-(dash)** and/or **capitalize** the first letter of each word (camel case)  
-&nbsp;&nbsp;&nbsp;&nbsp;e.g. [element 1]\_[element 2]\_[WordPart-WordPart-WordPart]_[element 3].txt
+&nbsp;&nbsp;e.g. [element 1]\_[element 2]\_[WordPart-WordPart-WordPart]_[element 3].txt
 
 Avoid spaces and special characters, such as: ~ ! @ # $ % ^ & * ( ) ` ; : < > ? . , [ ] { } ' "  \|   <img src="figures/say-no.png" width="19">
 {: .warn}
@@ -103,7 +103,7 @@ Let's try improve the file names! Pick your favourite file name and make it more
 ## *2*{: .circle .circle-red} &nbsp; Human-Readable
 
 <p style="margin-top:20px">
-<img src="figures/human-reading.jpg" width="100"/>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="figures/human-reading.jpg" width="300"/>
 </p>
 
 Goal
