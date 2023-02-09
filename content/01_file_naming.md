@@ -11,6 +11,11 @@ Why is file naming important?
 <p style="margin-top:20px;margin-bottom:25px">
 Creating a well-organized hierarchy of files with clear naming conventions is an important part of improving your research process. This is especially important if you are working with large data sets and complex output files or coordinating with multiple people at multiple institutions. There are many ways to structure your folders, and multiple naming conventions you can use. The key is <b>consistency</b>. Make your file names descriptive, and include information about dates and versioning. The best practice is to consult with your lab or with your co-workers to develop a naming schema that everyone is willing to follow consistently. 
 </p>
+  
+  
+Looking for a cheat sheet? Check out our [one-pager](https://osf.io/pfweq)!
+{: .note}
+  
 
 <p style="margin-bottom:25px; color:grey">
 What do you think about the following file names? 
@@ -84,7 +89,7 @@ Avoid spaces and special characters, such as: ~ ! @ # $ % ^ & * ( ) ` ; : < > ? 
 - If you decide to abbreviate the elements with 2- or 3-letter codes (e.g. project 1 = P1, mouse = "MUS"), make sure these are well documented.
 - Keep case sensitivity in mind - Machine searching for files named "Scan" would not find files named "scan".
 
-<p style="margin-top:25px">
+<p style="margin-top:30px">
 <h3> Exercise </h3>
 </p>
 
@@ -158,7 +163,7 @@ Goal
 </p>
 
 
-<p style="margin-top:25px">
+<p style="margin-top:30px">
 <h3> Exercise </h3>
 </p>
 
@@ -171,10 +176,7 @@ Please create a file naming convention for these **.hdf5 files** to reflect what
 
 [//]: # (activity link: https://bit.ly/rdmactivity)
 
-
 <br>
-
----
 
 # Congrats!
 
@@ -184,11 +186,8 @@ Please create a file naming convention for these **.hdf5 files** to reflect what
 
 Now you know how to organize files with your own file naming conventions! As long as your names are clear and consistent, you are good to move forward!
 
-<br>
-
 ---
 
-<br>
 
 # References
 - https://datacarpentry.org/rr-organization1/01-file-naming/index.html
