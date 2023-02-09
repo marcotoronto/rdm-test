@@ -101,7 +101,7 @@ Avoid spaces and special characters, such as: ~ ! @ # $ % ^ & * ( ) ` ; : < > ? 
 
   
   
-### Exercis e
+### Exercise 1
 
 
 Let's try improve the file names! Pick your favourite file name and make it more machine-readable! 
@@ -176,7 +176,7 @@ Goal
   
   
 
-### Exercise
+### Exercise 2
 
 
 <img src="figures/thermometer.jpg" width="150"/>
