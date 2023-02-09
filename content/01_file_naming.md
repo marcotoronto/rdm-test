@@ -47,7 +47,6 @@ Are these names better?
 
 *3*{: .circle .circle-yellow} &nbsp;Plays Well With Default Ordering 
 
----
 
 <br>
 
@@ -85,9 +84,9 @@ Avoid spaces and special characters, such as: ~ ! @ # $ % ^ & * ( ) ` ; : < > ? 
 - If you decide to abbreviate the elements with 2- or 3-letter codes (e.g. project 1 = P1, mouse = "MUS"), make sure these are well documented.
 - Keep case sensitivity in mind - Machine searching for files named "Scan" would not find files named "scan".
 
-<br>
-
-### Exercise
+<p style="margin-top:25px">
+<h3> Exercise </h>
+</p>
 
 Let's try improve the file names! Pick your favourite file name and make it more machine-readable! 
 
@@ -101,7 +100,6 @@ Let's try improve the file names! Pick your favourite file name and make it more
 
 <br>
 
----
 
 ## *2*{: .circle .circle-red} &nbsp; Human-Readable
 
@@ -134,7 +132,6 @@ Goal
 <br>
 <br>
 
----
 
 ## *3*{: .circle .circle-yellow} &nbsp; Plays Well With Default Ordering
 
@@ -161,10 +158,9 @@ Goal
 </p>
 
 
-<br>
-
-
-### Exercise 
+<p style="margin-top:25px">
+<h3> Exercise </h>
+</p>
 
  <img src="figures/thermometer.jpg" width="150"/>
 
