@@ -21,8 +21,6 @@ This is what happens when you do not have effective naming conventions:
 </p>
 <img src="figures/file_names.png" width="300"/>
 
-<br>
-
 
 <p style="margin-top:20px;color:grey"> 
 Are these names better?  
@@ -40,6 +38,7 @@ Are these names better?
 <p style="margin-top:20px">
 
 *1*{: .circle .circle-blue} &nbsp;Machine-Readable
+
 </p>
 
 *2*{: .circle .circle-red} &nbsp;Human-Readable  
@@ -52,7 +51,7 @@ Are these names better?
 <br>
 
 
-## *1*{: .circle .circle-blue} Machine-Readable 
+## *1*{: .circle .circle-blue} &nbsp; Machine-Readable 
 
 <p style="margin-top:20px">
 <img src="figures/machine-reading.png" width="300"/>
@@ -83,8 +82,10 @@ Goal
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;**e.g. [element 1]\_[element 2]\_[WordPart-WordPart-WordPart]_[element 3].txt**
 
 <p style="margin-top:20px">
+
 Avoid spaces and special characters, such as: ~ ! @ # $ % ^ & * ( ) ` ; : < > ? . , [ ] { } ' "  \|   <img src="figures/say-no.png" alt="say-no" width="19">
 {: .warn}
+
 </p>
 
 ### Make sure to do the following:
@@ -99,7 +100,9 @@ Avoid spaces and special characters, such as: ~ ! @ # $ % ^ & * ( ) ` ; : < > ? 
 Let's try improve the file names! Pick your favourite file name and make it more machine-readable! 
 
 <p style="margin-top:20px">
-![](figures/cakes-exmaple.jpeg)
+
+<img src="figures/cakes-example.jpeg" width="500"/>
+
 </p>
 
 [//]: # (activity link: https://bit.ly/rdmactivity)
@@ -109,7 +112,7 @@ Let's try improve the file names! Pick your favourite file name and make it more
 <br>
 
 
-## *2*{: .circle .circle-red} Human-Readable
+## *2*{: .circle .circle-red} &nbsp; Human-Readable
 
 <p style="margin-top:20px">
 <img src="figures/human-reading.jpg" width="300"/>
@@ -131,6 +134,7 @@ Goal
 - Write down your naming convention pattern and **document it** in your README file.
    - e.g. My file naming convention is [SA-MPL-EID]\_[YYYY-MM-DD]\_[###]_[status].[txt]
    - Define acronyms, abbreviations and codes
+
 </p>
 
 <p style="margin-top:20px;margin-bottom:20px">
