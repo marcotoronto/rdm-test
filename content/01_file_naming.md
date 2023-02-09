@@ -41,6 +41,7 @@ Are these names better?
 
 <p style="margin-bottom:20px">
 <h1> Follow three principles!  &nbsp; <img src="figures/thumbs-up.png" align="center" width="50"/> </h1> 
+</p>
 
 *1*{: .circle .circle-blue} &nbsp;Machine-Readable
 
@@ -50,7 +51,7 @@ Are these names better?
 
 <br>
 
-<h2> *1*{: .circle .circle-blue} &nbsp; Machine-Readable </h2>
+## *1*{: .circle .circle-blue} &nbsp; Machine-Readable 
 
 <p style="margin-top:20px;margin-bottom:20px">
 <img src="figures/machine-reading.png" width="300"/>
@@ -68,20 +69,18 @@ Goal
 
 - Alphanumeric characters (alphabetic characters and Arabic numerials)  
 
-<p style="margin-top:20px; margin-bottom:20px">
-  &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; <img src="figures/alphanumeric.png" alt="alphanumeric" width="200"/>
-</p>
+<p style="margin-top:20px;margin-bottom:20px">
+  &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; <img src="figures/alphanumeric.png" width="200"/> </p>
 
 - Element delimiters: **_(underscore)**  
 - Word delimiters (within an element): **-(dash)** and/or **capitalize** the first letter of each word (camel case)
 
 <p style="margin-botoom:20px">
-
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;**e.g. [element 1]\_[element 2]\_[WordPart-WordPart-WordPart]_[element 3].txt**
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;e.g. [element 1]\_[element 2]\_[WordPart-WordPart-WordPart]_[element 3].txt
 </p>
 
 
-Avoid spaces and special characters, such as: ~ ! @ # $ % ^ & * ( ) ` ; : < > ? . , [ ] { } ' "  \|   <img src="figures/say-no.png" alt="say-no" width="19">
+Avoid spaces and special characters, such as: ~ ! @ # $ % ^ & * ( ) ` ; : < > ? . , [ ] { } ' "  \|   <img src="figures/say-no.png" width="19">
 {: .warn}
 
 
@@ -91,15 +90,14 @@ Avoid spaces and special characters, such as: ~ ! @ # $ % ^ & * ( ) ` ; : < > ? 
 - Keep case sensitivity in mind - Machine searching for files named "Scan" would not find files named "scan"
 
 <p style="margin-top:25px">
-<h3> Exercise <h3>
+
+### Exercise
 </p>
 
 Let's try improve the file names! Pick your favourite file name and make it more machine-readable! 
 
 <p style="margin-top:20px">
-
 <img src="figures/cakes-example.jpeg" width="550"/>
-
 </p>
 
 [//]: # (activity link: https://bit.ly/rdmactivity)
@@ -109,20 +107,17 @@ Let's try improve the file names! Pick your favourite file name and make it more
 <br>
 
 
-<h2> *2*{: .circle .circle-red} &nbsp; Human-Readable </h2>
+## *2*{: .circle .circle-red} &nbsp; Human-Readable
 
 <p style="margin-top:20px">
 <img src="figures/human-reading.jpg" width="300"/>
 </p>
-
-<p style="margin-bottom:20px">
 
 Goal
 {: .label .label-green }
 
     - The file names should provide concise information.  
     - They are easily understandable to anyone who may access them in future.
-</p>
 
 - Provide *essential information* concisely in the file name
    - Ideally 3 elements, 5 max.
@@ -134,17 +129,15 @@ Goal
    - Define acronyms, abbreviations and codes
 
 
-<p style="margin-top:20px;margin-bottom:20px">
+<p style="margin-top:20px;margin-bottom:25px">
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="figures/readme.png" width="350"/>
 </p>
 
 
-<br>
 
-<h2> *3*{: .circle .circle-yellow} &nbsp; Plays Well With Default Ordering </h2>
+### *3*{: .circle .circle-yellow} &nbsp; Plays Well With Default Ordering
 
 <p style="margin-top:20px;margin-bottom:20px">
-
 <img src="figures/follow-rule.jpg" width="300"/>
 </p>
 
@@ -169,7 +162,7 @@ Goal
 
 <br>
 
-<h2> Exercise </h2>
+### Exercise
 
 Your lab has a spectrometer that is measuring thermal emissions **once a day for a year** for your experiment. 
 There are three people who take that measurement in the lab. 
@@ -187,11 +180,10 @@ Please create a file naming convention for these **.hdf5 files** to reflect what
 <br>
 <br>
 
-<h2> **Congrats!** </h2>
+# Congrats!#
 Now you know how to organize files with your own file naming conventions! As long as your names are clear and consistent, you are good to move forward!
 
 
-<p style="margin-top:20px>
-
+<p style="margin-top:20px">
 <img src="figures/congrats.jpg" width="300"/>
 </p>
