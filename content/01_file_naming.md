@@ -184,4 +184,22 @@ Please create a file naming convention for these **.hdf5 files** to reflect what
 
 Now you know how to organize files with your own file naming conventions! As long as your names are clear and consistent, you are good to move forward!
 
+<br   >
 
+---
+
+<br>
+
+# References
+- https://datacarpentry.org/rr-organization1/01-file-naming/index.html
+- https://authors.library.caltech.edu/103626/1/FileNamingConventionWorksheet_Caltech.pdf
+- http://www.exadox.com/en/articles/file-naming-convention-ten-rules-best-practice
+- https://datamanagement.hms.harvard.edu/collect/file-naming-conventions
+
+<br>
+
+# Acknowledgements
+The file naming workshop content was adapted from [Data Carpentry: Naming](https://datacarpentry.org/rr-organization1/01-file-naming/index.html). The source material and this revised version are available under a [Creative Commons Attribution 4.0](https://creativecommons.org/licenses/by/4.0) license.
+
+
+The [workshop site](https://ubc-library-rc.github.io/rdm/content/01_file_naming.html) uses images from [Pixabay](https://pixabay.com).
