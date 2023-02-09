@@ -35,7 +35,8 @@ Are these names better?
 <br> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;- 20220709_interview-script_v01.docx
 </p>
 
-<br>
+---
+
 <br>
 <br>
 
@@ -89,15 +90,14 @@ Avoid spaces and special characters, such as: ~ ! @ # $ % ^ & * ( ) ` ; : < > ? 
 - If you decide to abbreviate the elements with 2- or 3-letter codes (e.g. project 1 = P1, mouse = "MUS"), make sure these are well documented
 - Keep case sensitivity in mind - Machine searching for files named "Scan" would not find files named "scan"
 
-<p style="margin-top:25px">
+<br>
 
 ### Exercise
-</p>
 
 Let's try improve the file names! Pick your favourite file name and make it more machine-readable! 
 
 <p style="margin-top:20px">
-<img src="figures/cakes-example.jpeg" width="550"/>
+<img src="figures/cakes-example.jpeg" width="600"/>
 </p>
 
 [//]: # (activity link: https://bit.ly/rdmactivity)
@@ -118,6 +118,7 @@ Goal
 
     - The file names should provide concise information.  
     - They are easily understandable to anyone who may access them in future.
+    
 
 - Provide *essential information* concisely in the file name
    - Ideally 3 elements, 5 max.
@@ -130,10 +131,11 @@ Goal
 
 
 <p style="margin-top:20px;margin-bottom:25px">
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="figures/readme.png" width="350"/>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="figures/readme.png" width="350"/>
 </p>
 
-
+<br>
+<br>
 
 ### *3*{: .circle .circle-yellow} &nbsp; Plays Well With Default Ordering
 
@@ -178,12 +180,11 @@ Please create a file naming convention for these **.hdf5 files** to reflect what
 
 
 <br>
-<br>
 
-# Congrats!#
+# Congrats!
 Now you know how to organize files with your own file naming conventions! As long as your names are clear and consistent, you are good to move forward!
 
 
-<p style="margin-top:20px">
-<img src="figures/congrats.jpg" width="300"/>
+<p style="margin-top:25px">
+<img src="figures/congrats.jpg" width="400"/>
 </p>
