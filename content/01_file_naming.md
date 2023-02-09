@@ -4,9 +4,13 @@ title: File Naming
 nav_order: 2
 ---
 
-# Why is file naming important?
+<h1> 
+Why is file naming important? 
+</h1>
+
 <p style="margin-top:20px;margin-bottom:25px">
-Creating a well-organized hierarchy of files with clear naming conventions is an important part of improving your research process. This is especially important if you are working with large data sets and complex output files or coordinating with multiple people at multiple institutions. There are many ways to structure your folders, and multiple naming conventions you can use. The key is <b>consistency</b>. Make your file names descriptive, and include information about dates and versioning. The best practice is to consult with your lab or with your co-workers to develop a naming schema that everyone is willing to follow consistently. </p>
+Creating a well-organized hierarchy of files with clear naming conventions is an important part of improving your research process. This is especially important if you are working with large data sets and complex output files or coordinating with multiple people at multiple institutions. There are many ways to structure your folders, and multiple naming conventions you can use. The key is <b>consistency</b>. Make your file names descriptive, and include information about dates and versioning. The best practice is to consult with your lab or with your co-workers to develop a naming schema that everyone is willing to follow consistently. 
+</p>
 
 <p style="margin-bottom:25px; color:grey">
 What do you think about the following file names? 
@@ -19,6 +23,7 @@ What do you think about the following file names?
 <p style="margin-bottom:20px;color:grey"> 
 This is what happens when you do not have effective naming conventions:
 </p>
+
 <img src="figures/file_names.png" width="300"/>
 
 
@@ -32,10 +37,10 @@ Are these names better?
 
 <br>
 <br>
-
 <br>
 
-# Follow three principles!  &nbsp; <img src="figures/thumbs-up.png" align="center" width="50"/> 
+<p style="margin-bottom:20px">
+<h1> Follow three principles!  &nbsp; <img src="figures/thumbs-up.png" align="center" width="50"/> </h1> 
 
 *1*{: .circle .circle-blue} &nbsp;Machine-Readable
 
@@ -43,13 +48,9 @@ Are these names better?
 
 *3*{: .circle .circle-yellow} &nbsp;Plays Well With Default Ordering 
 
-
-
-
 <br>
 
-
-## *1*{: .circle .circle-blue} &nbsp; Machine-Readable 
+<h2> *1*{: .circle .circle-blue} &nbsp; Machine-Readable </h2>
 
 <p style="margin-top:20px;margin-bottom:20px">
 <img src="figures/machine-reading.png" width="300"/>
@@ -62,8 +63,7 @@ Goal
     - The names should be brief and easily searchable. 
 
 <p style="margin-bottom:20px">
-
-### Only use the following:
+<h3> Only use the following: </h3>
 </p>
 
 - Alphanumeric characters (alphabetic characters and Arabic numerials)  
@@ -85,14 +85,13 @@ Avoid spaces and special characters, such as: ~ ! @ # $ % ^ & * ( ) ` ; : < > ? 
 {: .warn}
 
 
-### Make sure to do the following:
+<h3> Make sure to do the following: </h3>
 
 - If you decide to abbreviate the elements with 2- or 3-letter codes (e.g. project 1 = P1, mouse = "MUS"), make sure these are well documented
 - Keep case sensitivity in mind - Machine searching for files named "Scan" would not find files named "scan"
 
 <p style="margin-top:25px">
-
-### Exercise
+<h3> Exercise <h3>
 </p>
 
 Let's try improve the file names! Pick your favourite file name and make it more machine-readable! 
@@ -110,7 +109,7 @@ Let's try improve the file names! Pick your favourite file name and make it more
 <br>
 
 
-## *2*{: .circle .circle-red} &nbsp; Human-Readable
+<h2> *2*{: .circle .circle-red} &nbsp; Human-Readable </h2>
 
 <p style="margin-top:20px">
 <img src="figures/human-reading.jpg" width="300"/>
@@ -142,7 +141,7 @@ Goal
 
 <br>
 
-## *3*{: .circle .circle-yellow} &nbsp; Plays Well With Default Ordering 
+<h2> *3*{: .circle .circle-yellow} &nbsp; Plays Well With Default Ordering </h2>
 
 <p style="margin-top:20px;margin-bottom:20px">
 
@@ -156,8 +155,7 @@ Goal
     - Keep versions at the end.
 
 - Decide the beginning of the file name according to how you want to sort and search for your files
-- When using a sequential numbering system, use **leading zeros** to make sure files sort in sequential order. e.g. 001, 002, 010, 011 
-....100,101 ...
+- When using a sequential numbering system, use **leading zeros** to make sure files sort in sequential order. e.g. 001, 002, 010, 011....100,101 ...
 - Order elements from general to specific to make searching easier
 - Use ISO 8601 standard for dates: **YYYYMMDD** or **YYYY-MM-DD** 
 - Versions: should be used as the last element
@@ -171,20 +169,17 @@ Goal
 
 <br>
 
-## Exercise
+<h2> Exercise </h2>
 
 Your lab has a spectrometer that is measuring thermal emissions **once a day for a year** for your experiment. 
 There are three people who take that measurement in the lab. 
-
 
 <p style="margin-top:25px;margin-bottom:20px">
 
 <img src="figures/thermometer.jpg" width="300"/>
 </p>
 
-
 Please create a file naming convention for these **.hdf5 files** to reflect what you have learned about file naming in today's session and post your example on Padlet.
-
 
 [//]: # (activity link: https://bit.ly/rdmactivity)
 
@@ -192,9 +187,9 @@ Please create a file naming convention for these **.hdf5 files** to reflect what
 <br>
 <br>
 
-
-## **Congrats!**
+<h2> **Congrats!** </h2>
 Now you know how to organize files with your own file naming conventions! As long as your names are clear and consistent, you are good to move forward!
+
 
 <p style="margin-top:20px>
 
