@@ -20,7 +20,7 @@ Looking for a cheat sheet? Check out our [one-pager](https://osf.io/pfweq)!
     Table of contents
   </summary>
   {: .text-delta }
- TOC
+ - TOC
 {:toc}
 </details>
 
