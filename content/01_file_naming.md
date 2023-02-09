@@ -147,7 +147,7 @@ Goal
 - Order elements from general to specific to make searching easier
 - Use ISO 8601 standard for dates: **YYYYMMDD** or **YYYY-MM-DD** 
 - Versions: should be used as the last element
-   - For version numbers, use at least two digits with a leading zero (e.g. v0)
+   - For **version numbers**, use at least two digits with a leading zero (e.g. v0)
    - Version types (e.g. _raw, _processed, _composite)
 
 <p style="margin-top:20px;margin-bottom:20px">
