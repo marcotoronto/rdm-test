@@ -33,10 +33,9 @@ Are these names better?
 <br>
 <br>
 
-<p style="margin-bottom:20px">
+<br>
 
 # Follow three principles!  &nbsp; <img src="figures/thumbs-up.png" align="center" width="50"/> 
-</p>
 
 *1*{: .circle .circle-blue} &nbsp;Machine-Readable
 
