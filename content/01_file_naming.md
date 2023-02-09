@@ -72,12 +72,7 @@ Goal
 
 - Element delimiters: **_(underscore)**  
 - Word delimiters (within an element): **-(dash)** and/or **capitalize** the first letter of each word (camel case)
-
-<p style="margin-botoom:20px">
-
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;e.g. [element 1]\_[element 2]\_[WordPart-WordPart-WordPart]_[element 3].txt
-</p>
-
+&nbsp;&nbsp;&nbsp;&nbsp;e.g. [element 1]\_[element 2]\_[WordPart-WordPart-WordPart]_[element 3].txt
 
 Avoid spaces and special characters, such as: ~ ! @ # $ % ^ & * ( ) ` ; : < > ? . , [ ] { } ' "  \|   <img src="figures/say-no.png" width="19">
 {: .warn}
@@ -85,8 +80,8 @@ Avoid spaces and special characters, such as: ~ ! @ # $ % ^ & * ( ) ` ; : < > ? 
 
 <h3> Make sure to do the following: </h3>
 
-- If you decide to abbreviate the elements with 2- or 3-letter codes (e.g. project 1 = P1, mouse = "MUS"), make sure these are well documented
-- Keep case sensitivity in mind - Machine searching for files named "Scan" would not find files named "scan"
+- If you decide to abbreviate the elements with 2- or 3-letter codes (e.g. project 1 = P1, mouse = "MUS"), make sure these are well documented.
+- Keep case sensitivity in mind - Machine searching for files named "Scan" would not find files named "scan".
 
 <br>
 
@@ -125,7 +120,7 @@ Goal
    - Put family names first followed by first names or initials.
 - Write down your naming convention pattern and **document it** in your README file.
    - e.g. My file naming convention is [SA-MPL-EID]\_[YYYY-MM-DD]\_[###]_[status].[txt]
-   - Define acronyms, abbreviations and codes
+   - Define acronyms, abbreviations and codes.
 
 
 <p style="margin-top:25px;margin-bottom:25px">
@@ -147,7 +142,7 @@ Goal
     - The names should start with the element that is used to order the files.
     - Keep versions at the end.
 
-- Decide the beginning of the file name according to how you want to sort and search for your files
+- Decide the beginning of the file name according to how you want to sort and search for your files.
 - When using a sequential numbering system, use **leading zeros** to make sure files sort in sequential order. e.g. 001, 002, 010, 011....100,101 ...
 - Order elements from general to specific to make searching easier
 - Use ISO 8601 standard for dates: **YYYYMMDD** or **YYYY-MM-DD** 
@@ -163,7 +158,9 @@ Goal
 <br>
 
 
-### Exercise &nbsp;&nbsp;&nbsp; <img src="figures/thermometer.jpg" width="150"/>
+### Exercise 
+
+&nbsp;&nbsp;&nbsp; <img src="figures/thermometer.jpg" width="150"/>
 
 Your lab has a spectrometer that is measuring thermal emissions **once a day for a year** for your experiment. 
 There are three people who take that measurement in the lab. 
