@@ -170,38 +170,34 @@ Goal
 </p>
 
 
-<p style="margin-top:25px;margin-bottom:20px">
+<br>
 
 ## Exercise
-</p>
 
-Your lab has a spectrometer that is measuring thermal emissions **once a day for a year** for your experiment. There are three people who take that measurement in the lab. 
-    
-Please create a file naming convention for these **.hdf5 files** to reflect what you have learned about file naming in today's session and post your example on Padlet.
+Your lab has a spectrometer that is measuring thermal emissions **once a day for a year** for your experiment. 
+There are three people who take that measurement in the lab. 
 
-<p style="margin-top:20px;margin-bottom:20px">
+
+<p style="margin-top:25px;margin-bottom:20px">
 
 <img src="figures/thermometer.jpg" width="300"/>
 </p>
+
+
+Please create a file naming convention for these **.hdf5 files** to reflect what you have learned about file naming in today's session and post your example on Padlet.
+
 
 [//]: # (activity link: https://bit.ly/rdmactivity)
 
 
 <br>
+<br>
 
-<img src="figures/congrats.jpg" width="300"/>
 
 ## **Congrats!**
 Now you know how to organize files with your own file naming conventions! As long as your names are clear and consistent, you are good to move forward!
 
-<br>
+<p style="margin-top:20px>
 
-<br>
-
-<br>
-
-## References
-- https://datacarpentry.org/rr-organization1/01-file-naming/index.html
-- https://authors.library.caltech.edu/103626/1/FileNamingConventionWorksheet_Caltech.pdf
-- http://www.exadox.com/en/articles/file-naming-convention-ten-rules-best-practice
-- https://datamanagement.hms.harvard.edu/collect/file-naming-conventions
+<img src="figures/congrats.jpg" width="300"/>
+</p>
