@@ -200,7 +200,7 @@ Now you know how to organize files with your own file naming conventions! As lon
 ---
 
 
-# Sources
+## Sources
 {: .no_toc }
 - https://datacarpentry.org/rr-organization1/01-file-naming/index.html
 - https://authors.library.caltech.edu/103626/1/FileNamingConventionWorksheet_Caltech.pdf
