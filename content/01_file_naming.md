@@ -20,7 +20,7 @@ Looking for a cheat sheet? Check out our [one-pager](https://osf.io/pfweq)!
     Table of contents
   </summary>
   {: .text-delta }
-1. TOC
+ TOC
 {:toc}
 </details>
 
@@ -187,6 +187,7 @@ Please create a file naming convention for these **.hdf5 files** to reflect what
 <br>
 
 # Congrats!
+{: .no_toc }
 
 <p style="margin-top:25px">
 <img src="figures/congrats.jpg" width="300"/>
@@ -198,6 +199,7 @@ Now you know how to organize files with your own file naming conventions! As lon
 
 
 # Sources
+{: .no_toc }
 - https://datacarpentry.org/rr-organization1/01-file-naming/index.html
 - https://authors.library.caltech.edu/103626/1/FileNamingConventionWorksheet_Caltech.pdf
 - http://www.exadox.com/en/articles/file-naming-convention-ten-rules-best-practice
