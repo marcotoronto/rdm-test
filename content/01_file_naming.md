@@ -38,7 +38,6 @@ Are these names better?
 ---
 
 <br>
-<br>
 
 <p style="margin-bottom:20px">
 <h1> Follow three principles!  &nbsp; <img src="figures/thumbs-up.png" align="center" width="50"/> </h1> 
@@ -130,14 +129,14 @@ Goal
    - Define acronyms, abbreviations and codes
 
 
-<p style="margin-top:20px;margin-bottom:25px">
+<p style="margin-top:25px;margin-bottom:25px">
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="figures/readme.png" width="350"/>
 </p>
 
 <br>
 <br>
 
-### *3*{: .circle .circle-yellow} &nbsp; Plays Well With Default Ordering
+## *3*{: .circle .circle-yellow} &nbsp; Plays Well With Default Ordering
 
 <p style="margin-top:20px;margin-bottom:20px">
 <img src="figures/follow-rule.jpg" width="300"/>
@@ -164,15 +163,11 @@ Goal
 
 <br>
 
-### Exercise
+
+### Exercise &nbsp;&nbsp;&nbsp <img src="figures/thermometer.jpg" width="80"/>
 
 Your lab has a spectrometer that is measuring thermal emissions **once a day for a year** for your experiment. 
 There are three people who take that measurement in the lab. 
-
-<p style="margin-top:25px;margin-bottom:20px">
-
-<img src="figures/thermometer.jpg" width="300"/>
-</p>
 
 Please create a file naming convention for these **.hdf5 files** to reflect what you have learned about file naming in today's session and post your example on Padlet.
 
@@ -182,9 +177,11 @@ Please create a file naming convention for these **.hdf5 files** to reflect what
 <br>
 
 # Congrats!
-Now you know how to organize files with your own file naming conventions! As long as your names are clear and consistent, you are good to move forward!
-
 
 <p style="margin-top:25px">
 <img src="figures/congrats.jpg" width="400"/>
 </p>
+
+Now you know how to organize files with your own file naming conventions! As long as your names are clear and consistent, you are good to move forward!
+
+
