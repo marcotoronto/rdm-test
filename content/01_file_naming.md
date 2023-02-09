@@ -71,7 +71,7 @@ Goal
   &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; <img src="figures/alphanumeric.png" width="200"/> </p>
 
 - Element delimiters: **_(underscore)**  
-- Word delimiters (within an element): **-(dash)** and/or **capitalize** the first letter of each word (camel case)
+- Word delimiters (within an element): **-(dash)** and/or **capitalize** the first letter of each word (camel case)  
 &nbsp;&nbsp;&nbsp;&nbsp;e.g. [element 1]\_[element 2]\_[WordPart-WordPart-WordPart]_[element 3].txt
 
 Avoid spaces and special characters, such as: ~ ! @ # $ % ^ & * ( ) ` ; : < > ? . , [ ] { } ' "  \|   <img src="figures/say-no.png" width="19">
@@ -103,7 +103,7 @@ Let's try improve the file names! Pick your favourite file name and make it more
 ## *2*{: .circle .circle-red} &nbsp; Human-Readable
 
 <p style="margin-top:20px">
-<img src="figures/human-reading.jpg" width="300"/>
+<img src="figures/human-reading.jpg" width="100"/>
 </p>
 
 Goal
@@ -133,7 +133,7 @@ Goal
 ## *3*{: .circle .circle-yellow} &nbsp; Plays Well With Default Ordering
 
 <p style="margin-top:20px;margin-bottom:20px">
-<img src="figures/follow-rule.jpg" width="300"/>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="figures/follow-rule.jpg" width="300"/>
 </p>
 
 Goal
@@ -160,7 +160,7 @@ Goal
 
 ### Exercise 
 
-&nbsp;&nbsp;&nbsp; <img src="figures/thermometer.jpg" width="150"/>
+ <img src="figures/thermometer.jpg" width="150"/>
 
 Your lab has a spectrometer that is measuring thermal emissions **once a day for a year** for your experiment. 
 There are three people who take that measurement in the lab. 
