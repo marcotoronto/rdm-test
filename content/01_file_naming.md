@@ -85,7 +85,7 @@ Avoid spaces and special characters, such as: ~ ! @ # $ % ^ & * ( ) ` ; : < > ? 
 - Keep case sensitivity in mind - Machine searching for files named "Scan" would not find files named "scan".
 
 <p style="margin-top:25px">
-<h3> Exercise </h>
+<h3> Exercise </h3>
 </p>
 
 Let's try improve the file names! Pick your favourite file name and make it more machine-readable! 
