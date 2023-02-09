@@ -16,7 +16,7 @@ What do you think about the following file names?
 <br> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;- Lily's schedule&plan 2022Jul9.xlsx 
 </p>
 
-<p style="margin-bottom:15px;color:grey"> 
+<p style="margin-bottom:20px;color:grey"> 
 This is what happens when you do not have effective naming conventions:
 </p>
 <img src="figures/file_names.png" width="300"/>
@@ -24,7 +24,7 @@ This is what happens when you do not have effective naming conventions:
 <br>
 
 
-<p style="color:grey"> 
+<p style="margin-top:20px;color:grey"> 
 Are these names better?  
 <br> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;- better-filenames.txt
 <br> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;- 003_raw-data_2022-07-09.txt
@@ -34,30 +34,30 @@ Are these names better?
 
 <br>
 <br>
-<br>
+
+
+# Follow three principles to make good file names!  &nbsp; <img src="figures/thumbs-up.png" align="center" width="50"/> 
+<p style="margin-top:20px">
+
+*1*{: .circle .circle-blue} &nbsp;Machine-Readable
+</p>
+
+*2*{: .circle .circle-red} &nbsp;Human-Readable  
+
+*3*{: .circle .circle-yellow} &nbsp;Plays Well With Default Ordering 
 
 
 
-# Follow these three principles to make good file names!  <img src="figures/thumbs-up.png" align="center" width="50"/> 
-
-
-*1*{: .circle .circle-blue} Machine-Readable
-
-*2*{: .circle .circle-red} Human-Readable  
-
-*3*{: .circle .circle-yellow} Plays Well With Default Ordering 
-
-
-
-<br>
 
 <br>
+
 
 ## *1*{: .circle .circle-blue} Machine-Readable 
 
-<br>
+<p style="margin-top:20px">
+<img src="figures/machine-reading.png" width="300"/>
+</p>
 
-<img src="figures/machine-reading.png" width="600"/>
 <br>
 
 Goal
@@ -68,32 +68,26 @@ Goal
 
 ### Only use the following:
 
-<br>
+<p style="margin-top:20px">
 
 - Alphanumeric characters (alphabetic characters and Arabic numerials)  
+</p>
 
-<br>
-  <img src="figures/alphanumeric.png" alt="alphanumeric" width="200"/>
-
-<br>
+<p style="margin-top:20px; margin-bottom:20px">
+  &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; <img src="figures/alphanumeric.png" alt="alphanumeric" width="200"/>
+</p>
 
 - Element delimiters: **_(underscore)**  
 - Word delimiters (within an element): **-(dash)** and/or **capitalize** the first letter of each word (camel case)
 
-<br>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;**e.g. [element 1]\_[element 2]\_[WordPart-WordPart-WordPart]_[element 3].txt**
 
-<br>
-
-  **e.g. [element 1]\_[element 2]\_[WordPart-WordPart-WordPart]_[element 3].txt**
-
-<br>
-
+<p style="margin-top:20px">
 Avoid spaces and special characters, such as: ~ ! @ # $ % ^ & * ( ) ` ; : < > ? . , [ ] { } ' "  \|   <img src="figures/say-no.png" alt="say-no" width="19">
 {: .warn}
+</p>
 
 ### Make sure to do the following:
-
-- Make file names 32 characters or less
 
 - If you decide to abbreviate the elements with 2- or 3-letter codes (e.g. project 1 = P1, mouse = "MUS"), make sure these are well documented
 - Keep case sensitivity in mind - Machine searching for files named "Scan" would not find files named "scan"
@@ -102,17 +96,13 @@ Avoid spaces and special characters, such as: ~ ! @ # $ % ^ & * ( ) ` ; : < > ? 
 
 ### Exercise
 
-<br>
-
 Let's try improve the file names! Pick your favourite file name and make it more machine-readable! 
 
-<br>
-
+<p style="margin-top:20px">
 ![](figures/cakes-exmaple.jpeg)
+</p>
 
 [//]: # (activity link: https://bit.ly/rdmactivity)
-
-<br>
 
 <br>
 
@@ -121,11 +111,9 @@ Let's try improve the file names! Pick your favourite file name and make it more
 
 ## *2*{: .circle .circle-red} Human-Readable
 
-<br>
-
-<img src="figures/human-reading.jpg" width="600"/>
-
-<br>
+<p style="margin-top:20px">
+<img src="figures/human-reading.jpg" width="300"/>
+</p>
 
 Goal
 {: .label .label-green }
@@ -133,7 +121,7 @@ Goal
     - The file names should provide concise information.  
     - They are easily understandable to anyone who may access them in future.
 
-<br>
+<p style="margin-top:20px">
 
 - Provide *essential information* concisely in the file name
    - Ideally 3 elements, 5 max.
@@ -141,15 +129,15 @@ Goal
 - Consider putting authors' names in the file name.
    - Put family names first followed by first names or initials.
 - Write down your naming convention pattern and **document it** in your README file.
-
-<br>
-
-    <img src="figures/readme.png" width="350"/>
-
-<br>
-
    - e.g. My file naming convention is [SA-MPL-EID]\_[YYYY-MM-DD]\_[###]_[status].[txt]
    - Define acronyms, abbreviations and codes
+</p>
+
+<p style="margin-top:20px;margin-bottom:20px">
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="figures/readme.png" width="350"/>
+</p>
+
+
 
 <br>
 
@@ -159,7 +147,7 @@ Goal
 
 <br>
 
-<img src="figures/follow-rule.jpg" width="500"/>
+<img src="figures/follow-rule.jpg" width="300"/>
 <br>
 
 Goal
@@ -171,14 +159,15 @@ Goal
 <br>
 
 - Decide the beginning of the file name according to how you want to sort and search for your files
-- When using a sequential numbering system, use **leading zeros** to make sure files sort in sequential order. e.g. 001, 002, 010, 011 ....100,101 ...
+- When using a sequential numbering system, use **leading zeros** to make sure files sort in sequential order. e.g. 001, 002, 010, 011 
+....100,101 ...
 - Order elements from general to specific to make searching easier
 - Use ISO 8601 standard for dates: **YYYYMMDD** or **YYYY-MM-DD** 
 - Versions: should be used as the last element
 
   <br>
 
-  <img src="figures/comic.gif" width="500"/>
+  <img src="figures/comic.gif" width="300"/>
 
   <br>
 
@@ -193,7 +182,7 @@ Goal
 
 <br>
 
-<img src="figures/ordered.jpg" width="400"/>
+<img src="figures/ordered.jpg" width="300"/>
 
 <br>
 
@@ -208,7 +197,7 @@ Please create a file naming convention for these **.hdf5 files** to reflect what
 <br>
 
 <p align="center">
-<img src="figures/congrats.jpg" width="800"/>
+<img src="figures/congrats.jpg" width="300"/>
 </p>
 
 ## **Congrats!**
