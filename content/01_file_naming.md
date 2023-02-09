@@ -184,7 +184,7 @@ Please create a file naming convention for these **.hdf5 files** to reflect what
 
 Now you know how to organize files with your own file naming conventions! As long as your names are clear and consistent, you are good to move forward!
 
-<br   >
+<br>
 
 ---
 
