@@ -37,9 +37,7 @@ Are these names better?
 
 ---
 
-<br>
-
-<p style="margin-bottom:20px">
+<p style="margin-bottom:20px;margin-top:25px">
 <h1> Follow three principles!  &nbsp; <img src="figures/thumbs-up.png" align="center" width="50"/> </h1> 
 </p>
 
@@ -76,6 +74,7 @@ Goal
 - Word delimiters (within an element): **-(dash)** and/or **capitalize** the first letter of each word (camel case)
 
 <p style="margin-botoom:20px">
+
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;e.g. [element 1]\_[element 2]\_[WordPart-WordPart-WordPart]_[element 3].txt
 </p>
 
@@ -119,7 +118,7 @@ Goal
     - They are easily understandable to anyone who may access them in future.
     
 
-- Provide *essential information* concisely in the file name
+- Provide **essential information** concisely in the file name
    - Ideally 3 elements, 5 max.
    - Avoid complex hierarchical folder structures.
 - Consider putting authors' names in the file name.
@@ -164,12 +163,12 @@ Goal
 <br>
 
 
-### Exercise &nbsp;&nbsp;&nbsp <img src="figures/thermometer.jpg" width="80"/>
+### Exercise &nbsp;&nbsp;&nbsp; <img src="figures/thermometer.jpg" width="150"/>
 
 Your lab has a spectrometer that is measuring thermal emissions **once a day for a year** for your experiment. 
 There are three people who take that measurement in the lab. 
 
-Please create a file naming convention for these **.hdf5 files** to reflect what you have learned about file naming in today's session and post your example on Padlet.
+Please create a file naming convention for these **.hdf5 files** to reflect what you have learned about file naming in today's session.
 
 [//]: # (activity link: https://bit.ly/rdmactivity)
 
@@ -179,7 +178,7 @@ Please create a file naming convention for these **.hdf5 files** to reflect what
 # Congrats!
 
 <p style="margin-top:25px">
-<img src="figures/congrats.jpg" width="400"/>
+<img src="figures/congrats.jpg" width="300"/>
 </p>
 
 Now you know how to organize files with your own file naming conventions! As long as your names are clear and consistent, you are good to move forward!
