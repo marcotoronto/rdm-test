@@ -47,6 +47,8 @@ Are these names better?
 
 *3*{: .circle .circle-yellow} &nbsp;Plays Well With Default Ordering 
 
+---
+
 <br>
 
 ## *1*{: .circle .circle-blue} &nbsp; Machine-Readable 
@@ -61,7 +63,7 @@ Goal
     - The characters in file names should be able to handled by all computer systems.
     - The names should be brief and easily searchable. 
 
-<p style="margin-top:20px;margin-bottom:20px">
+<p style="margin-top:25px;margin-bottom:20px">
 <h3> Only use the following: </h3>
 </p>
 
@@ -99,6 +101,7 @@ Let's try improve the file names! Pick your favourite file name and make it more
 
 <br>
 
+---
 
 ## *2*{: .circle .circle-red} &nbsp; Human-Readable
 
@@ -112,6 +115,7 @@ Goal
     - The file names should provide concise information.  
     - They are easily understandable to anyone who may access them in future.
     
+  
 
 - Provide **essential information** concisely in the file name
    - Ideally 3 elements, 5 max.
@@ -129,6 +133,8 @@ Goal
 
 <br>
 <br>
+
+---
 
 ## *3*{: .circle .circle-yellow} &nbsp; Plays Well With Default Ordering
 
@@ -171,6 +177,8 @@ Please create a file naming convention for these **.hdf5 files** to reflect what
 
 
 <br>
+
+---
 
 # Congrats!
 
