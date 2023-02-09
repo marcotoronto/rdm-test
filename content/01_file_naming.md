@@ -159,10 +159,10 @@ Goal
 
 
 <p style="margin-top:25px">
-<h3> Exercise </h>
+<h3> Exercise </h3>
 </p>
 
- <img src="figures/thermometer.jpg" width="150"/>
+<img src="figures/thermometer.jpg" width="150"/>
 
 Your lab has a spectrometer that is measuring thermal emissions **once a day for a year** for your experiment. 
 There are three people who take that measurement in the lab. 
