@@ -181,10 +181,10 @@ Goal
 
 <img src="figures/thermometer.jpg" width="150"/>
 
-Your lab has a spectrometer that is measuring thermal emissions **once a day for a year** for your experiment. 
+Your lab has a spectrometer that is measuring thermal emissions once a day for a year for your experiment. 
 There are three people who take that measurement in the lab. 
 
-Please create a file naming convention for these **.hdf5 files** to reflect what you have learned about file naming in today's session.
+Please create a file naming convention for these files to reflect what you have learned about file naming in today's session.
 
 [//]: # (activity link: https://bit.ly/rdmactivity)
 
