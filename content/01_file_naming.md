@@ -1,7 +1,7 @@
 ---
 layout: default
 title: File Naming
-nav_order: 2
+nav_order: 3
 ---
 # Why is file naming important? 
 {: .no_toc }
@@ -11,7 +11,7 @@ Creating a well-organized hierarchy of files with clear naming conventions is an
 </p>
   
 
-Looking for a cheat sheet? Check out our [one-pager](https://osf.io/pfweq)!
+Looking for a cheat sheet? Check out our <a href="https://osf.io/pfweq" target="_blank">one-pager</a>
 {: .note}
   
 
