@@ -26,7 +26,7 @@ Looking for a cheat sheet? Check out our <a href="https://osf.io/ena5p" target="
     Table of contents
   </summary>
   {: .text-delta }
- TOC
+  TOC
 {:toc}
 </details>
 
@@ -62,6 +62,7 @@ Share your experience in Padlet
 <p style="margin-bottom: 50px"></p>
 
 # What are proprietary formats?
+
 - The file you were trying to open in the warm-up exercise was an older proprietary file that can no longer be opened. This inaccessibility can happen to other proprietary formats like Microsoft 
 - They are limited by software patents, lack of format specification details, or built-in encryption to prevent open usage by the public.
 - This results in requiring specific software provided by one vendor to use the proprietary format.
@@ -75,6 +76,7 @@ We recommend <B>open formats</b> because they are more sustainable and easier to
 <p style="margin-bottom: 30px"></p>
 
 # What are open formats?
+
 - They are non-proprietary.
 - They are freely available for everyone to use.
 - Because the specifications are released, open-source developers can write software to utilize the file format in case a particular vendor no longer supports the format.
@@ -83,6 +85,7 @@ We recommend <B>open formats</b> because they are more sustainable and easier to
 <p style="margin-bottom: 50px"></p>
 
 # We recommend these common file formats:
+
 <p style="margin-bottom: 20px"></p>
 
 | File Type | Recommended File Formats |
@@ -105,7 +108,7 @@ We recommend <B>open formats</b> because they are more sustainable and easier to
 <img src="figures/congrats.jpg" width="300" style="margin-left:30px"/>
 </p>
 
-Now you know how to organize files with your own file naming conventions! As long as your names are clear and consistent, you are good to move forward!
+Now you know which file formarts are proper for data curation and you can preserve the data for a longer term!
 
 <br>
 
