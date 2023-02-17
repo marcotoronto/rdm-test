@@ -63,8 +63,11 @@ Share your experience in Padlet
 
 <img src="figures/trouble.jpg" width="300" style="margin-left:30px"/>
 
+<p style="margin-bottom: 30px"></p>
 
-<p style="margin-bottom: 70px"></p>
+---
+
+<p style="margin-bottom: 20px"></p>
 
 ## What are proprietary formats?
 
@@ -77,7 +80,7 @@ Share your experience in Padlet
 - This results in requiring specific software provided by one vendor to use the proprietary format.
 - In some cases, an industry may treat specific file formats as a de facto standard even if the formats are proprietary and rely on expensive software.
 
-<p style="margin-bottom: 30px"></p>
+<p style="margin-bottom: 50px"></p>
 
 We recommend <b>open formats</b> because they are more sustainable and easier to preserve in the long term. <img src="figures/thumbs-up.png" width="25"/> 
 {: .note}
@@ -95,7 +98,7 @@ We recommend <b>open formats</b> because they are more sustainable and easier to
 
 <img src="figures/open-source.jpg" width="300" style="margin-left:30px"/>
 
-<p style="margin-bottom: 50px"></p>
+<p style="margin-bottom: 70px"></p>
 
 ## Quality ~~and~~ or Size
 In addition to choosing between open and proprietary formats, <b>file quality</b>, the representation of the given item’s characteristics, is a large part of the file format decision. Encoding that handles high resolution will have larger sizes than lower quality file formats. However, the trade-off comes at the cost of storage space and convenience in disseminating the file to others.
@@ -104,7 +107,7 @@ In addition to choosing between open and proprietary formats, <b>file quality</b
 
 <img src="figures/balance.jpg" width="300" style="margin-left:30px"/>
 
-<p style="margin-bottom: 50px"></p>
+<p style="margin-bottom: 55px"></p>
 
 
 ## We recommend these common file formats
