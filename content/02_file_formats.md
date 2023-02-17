@@ -103,7 +103,7 @@ We recommend <b>open formats</b> because they are more sustainable and easier to
 <p style="margin-bottom: 20px"></p>
 
 
-| File Type | <p style="width:200px">Recommended Formats</p> |
+| File Type | Recommended Formats |
 | - | -|
 | Text | XML, ASCII, TXT, PDF|
 | Images | TIFF, JPEG2000, PNG, JPEG/JFIF | 
