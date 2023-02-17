@@ -59,6 +59,10 @@ Share your experience in Padlet
 
 [//]: # (activity link: https://bit.ly/rdmactivity)
 
+<p style="margin-bottom: 25px"></p>
+
+<img src="figures/trouble.jpg" width="300" style="margin-left:30px"/>
+
 
 <p style="margin-bottom: 70px"></p>
 
