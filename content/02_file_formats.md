@@ -26,7 +26,7 @@ Looking for a cheat sheet? Check out our <a href="https://osf.io/ena5p" target="
     Table of contents
   </summary>
   {: .text-delta }
-  TOC
+ - TOC
 {:toc}
 </details>
 
