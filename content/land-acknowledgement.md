@@ -1,9 +1,9 @@
 ---
 layout: default
 nav_order: 2
-title: Land acknowledgement 
+title: Land Acknowledgement 
 ---
-# Land acknowledgement
+# Land Acknowledgement
 
 We would like to acknowledge the Indigenous lands where we are located.    
 

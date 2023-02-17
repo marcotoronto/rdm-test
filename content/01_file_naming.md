@@ -11,7 +11,7 @@ Creating a well-organized hierarchy of files with clear naming conventions is an
 </p>
   
 
-Looking for a cheat sheet? Check out our <a href="https://osf.io/pfweq" target="_blank">one-pager</a>
+Looking for a cheat sheet? Check out our <a href="https://osf.io/pfweq" target="_blank">one-pager</a>!
 {: .note}
   
 
@@ -137,11 +137,13 @@ Goal
     - Names are easily understandable to anyone who accesses them in future.
     
   
-
-Provide< <b>essential information</b> concisely in the file name
+  
+Provide <b>essential information</b> concisely in the file name
 - Ideally 3 elements, 5 max.
 - Avoid complex hierarchical folder structures.
+
 Consider putting authors' names in the file name. Put family names first followed by first names or initials.
+  
 Write down your naming convention pattern and <b>document it</b> in your README file.
 - e.g. My file naming convention is `[SA-MPL-EID]_[YYYY-MM-DD]_[###]_[status].[txt]`
 - Define acronyms, abbreviations and codes.
@@ -174,6 +176,8 @@ Goal
 - Versions: should be used as the last element
    - For <b>version numbers</b>, use at least two digits with a leading zero (e.g. v0)
    - Version types (e.g. _raw, _processed, _composite)
+  
+
   
 
 <p style="margin-top:20px;margin-bottom:20px">
