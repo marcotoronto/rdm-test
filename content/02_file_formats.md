@@ -32,8 +32,8 @@ Looking for a cheat sheet? Check out our <a href="https://osf.io/ena5p" target="
 
 ---
 
-What formats do you use the most?
-- .xlsx (Microsoft Excel) 
+Which formats do you use the most?
+- .xls (Microsoft Excel) 
 - .mp3 (for digital audio)
 - .docx (Microsoft Document) 
 - .gdoc (Google Document)
@@ -50,18 +50,19 @@ These are all commonly used file formats, but what if we tell you that these for
 
 <p style="margin-bottom: 50px"></p>
 
-## Warm-up Exercise
+## Warm-up exercise
 {: .no_toc}
 
-Let's try to open an older proprietary file and see whether you can use it. 
+Let's try to open the Lotus 1-2-3 version 3 file <https://github.com/openpreserve/format-corpus/tree/master/office/spreadsheet/wk3> (this is from 1990) and try to see the variable used.  
+Share your experience in Padlet
 
-Open the Lotus 1-2-3 version 3 file https://github.com/openpreserve/format-corpus/tree/master/office/spreadsheet/wk3 (this is from 1990) and try to see the variable used.
-Share your experience in Padlet - link
+[//]: # (activity link: https://bit.ly/rdmactivity)
 
 
 <p style="margin-bottom: 50px"></p>
 
-## What are proprietary formats?
+# What are proprietary formats?
+- The file you were trying to open in the warm-up exercise was an older proprietary file that can no longer be opened. This inaccessibility can happen to other proprietary formats like Microsoft 
 - They are limited by software patents, lack of format specification details, or built-in encryption to prevent open usage by the public.
 - This results in requiring specific software provided by one vendor to use the proprietary format.
 - In some cases, an industry may treat specific file formats as a de facto standard even if the formats are proprietary and rely on expensive software.
@@ -73,7 +74,7 @@ We recommend <B>open formats</b> because they are more sustainable and easier to
 
 <p style="margin-bottom: 30px"></p>
 
-## What are open formats?
+# What are open formats?
 - They are non-proprietary.
 - They are freely available for everyone to use.
 - Because the specifications are released, open-source developers can write software to utilize the file format in case a particular vendor no longer supports the format.
@@ -81,8 +82,8 @@ We recommend <B>open formats</b> because they are more sustainable and easier to
 
 <p style="margin-bottom: 50px"></p>
 
-## We recommend these common file formats:
-<p style="margin-bottom: 10px"></p>
+# We recommend these common file formats:
+<p style="margin-bottom: 20px"></p>
 
 | File Type | Recommended File Formats |
 | -- | --|
