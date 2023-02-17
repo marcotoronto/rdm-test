@@ -95,8 +95,17 @@ We recommend <b>open formats</b> because they are more sustainable and easier to
 
 <img src="figures/open-source.jpg" width="300" style="margin-left:30px"/>
 
+<p style="margin-bottom: 50px"></p>
+
+## Quality ~~and~~ or Size
+In addition to choosing between open and proprietary formats, <b>file quality</b>, the representation of the given item’s characteristics, is a large part of the file format decision. Encoding that handles high resolution will have larger sizes than lower quality file formats. However, the trade-off comes at the cost of storage space and convenience in disseminating the file to others.
+
+<p style="margin-bottom: 25px"></p>
+
+<img src="figures/balance.jpg" width="300" style="margin-left:30px"/>
 
 <p style="margin-bottom: 50px"></p>
+
 
 ## We recommend these common file formats
 
@@ -111,8 +120,6 @@ We recommend <b>open formats</b> because they are more sustainable and easier to
 | Audio | PCM, WAVE, DSD |
 | Dataset | CSV, TSV, .db, .sqlite, Shapefile |
 | Web Data | JSON, XML, HTML |
-
-
 
 <br>
 
