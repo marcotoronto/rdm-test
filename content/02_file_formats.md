@@ -53,7 +53,8 @@ These are all commonly used file formats, but what if we tell you that these for
 ### Warm-up exercise
 {: .no_toc}
 
-Let's try to open the Lotus 1-2-3 version 3 file <https://github.com/openpreserve/format-corpus/tree/master/office/spreadsheet/wk3> (this is from 1990) and try to see the variable used.  
+Let's try to open the Lotus 1-2-3 version 3 file <https://bit.ly/3I0c6nG> (this is from 1990) and try to see the variable used.  
+  
 Share your experience in Padlet
 
 [//]: # (activity link: https://bit.ly/rdmactivity)
@@ -74,7 +75,7 @@ Share your experience in Padlet
 
 <p style="margin-bottom: 30px"></p>
 
-We recommend <b>open formats</b> because they are more sustainable and easier to preserve in the long term. <img src="figures/thumbs-up.png" width="40"/> 
+We recommend <b>open formats</b> because they are more sustainable and easier to preserve in the long term. <img src="figures/thumbs-up.png" width="25"/> 
 {: .note}
 
 <p style="margin-bottom: 30px"></p>
@@ -97,7 +98,8 @@ We recommend <b>open formats</b> because they are more sustainable and easier to
 
 <p style="margin-bottom: 20px"></p>
 
-| File Type | Recommended Formats |
+
+| File Type | <div style="width:200px">Recommended Formats</div> |
 | - | -|
 | Text | XML, ASCII, TXT, PDF|
 | Images | TIFF, JPEG2000, PNG, JPEG/JFIF | 
@@ -117,7 +119,7 @@ We recommend <b>open formats</b> because they are more sustainable and easier to
 <img src="figures/congrats.jpg" width="300" style="margin-left:30px"/>
 </p>
 
-Now you know which file formarts are proper for data curation and the research data can be preserved for a longer term!
+Now you know which file formarts are proper for data curation so your research data can be preserved for a longer term!
 
 <br>
 
