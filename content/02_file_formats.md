@@ -74,7 +74,7 @@ Share your experience in Padlet
 
 <p style="margin-bottom: 30px"></p>
 
-We recommend <b>open formats</b> because they are more sustainable and easier to preserve in the long term. <img src="figures/thumbs-up.png" width="20"/> 
+We recommend <b>open formats</b> because they are more sustainable and easier to preserve in the long term. <img src="figures/thumbs-up.png" width="40"/> 
 {: .note}
 
 <p style="margin-bottom: 30px"></p>
@@ -84,7 +84,7 @@ We recommend <b>open formats</b> because they are more sustainable and easier to
 - They are non-proprietary.
 - They are <b>freely available for everyone</b> to use.
 - Because the specifications are released, open-source developers can write software to utilize the file format in case a particular vendor no longer supports the format.
-- They may decrease the risk of technical obsolescence by removing the dependency on the underlying technology.
+- They may <b>decrease the risk</b> of technical obsolescence by removing the dependency on the underlying technology.
 
 <p style="margin-bottom: 25px"></p>
 
@@ -117,7 +117,7 @@ We recommend <b>open formats</b> because they are more sustainable and easier to
 <img src="figures/congrats.jpg" width="300" style="margin-left:30px"/>
 </p>
 
-Now you know which file formarts are proper for data curation and you can preserve the data for a longer term!
+Now you know which file formarts are proper for data curation and the research data can be preserved for a longer term!
 
 <br>
 
