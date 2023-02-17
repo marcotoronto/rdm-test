@@ -60,7 +60,7 @@ Share your experience in Padlet
 [//]: # (activity link: https://bit.ly/rdmactivity)
 
 
-<p style="margin-bottom: 50px"></p>
+<p style="margin-bottom: 70px"></p>
 
 ## What are proprietary formats?
 
@@ -99,7 +99,7 @@ We recommend <b>open formats</b> because they are more sustainable and easier to
 <p style="margin-bottom: 20px"></p>
 
 
-| File Type | <div style="width:200px">Recommended Formats</div> |
+| File Type | <p style="width:200px">Recommended Formats</p> |
 | - | -|
 | Text | XML, ASCII, TXT, PDF|
 | Images | TIFF, JPEG2000, PNG, JPEG/JFIF | 
