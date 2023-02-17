@@ -26,13 +26,13 @@ Looking for a cheat sheet? Check out our <a href="https://osf.io/pfweq" target="
 
 ---
 
-<p style="margin-bottom:25px">
-What do you think about the following file names? 
-<br> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;- 10_data 2.txt  
-<br> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;- figure 1.png  
-<br> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;- final revision.docx
-<br> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;- Lily's schedule&plan 2022Jul9.xlsx 
-</p>
+What do you think about the following file names?
+- 10_data 2.txt  
+- figure 1.png  
+- final revision.docx
+- Lily's schedule&plan 2022Jul9.xlsx 
+
+<p style="margin-bottom: 25px"></p>
 
 <p style="margin-bottom:20px"> 
 This is what happens when you do not have effective naming conventions:
@@ -40,14 +40,13 @@ This is what happens when you do not have effective naming conventions:
 
 <img src="figures/file_names.png" width="300" style="margin-left:30px"/>
 
+<p style="margin-bottom: 20px"></p>
 
-<p style="margin-top:20px"> 
 Are these names better?  
-<br> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;- better-filenames.txt
-<br> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;- 003_raw-data_2022-07-09.txt
-<br> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;- fig01_scatterplot-talk-length-vs-interest.png
-<br> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;- 20220709_interview-script_v01.docx
-</p>
+- better-filenames.txt
+- 003_raw-data_2022-07-09.txt
+- fig01_scatterplot-talk-length-vs-interest.png
+- 20220709_interview-script_v01.docx
 
 ---
 
