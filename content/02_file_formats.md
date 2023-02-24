@@ -50,12 +50,14 @@ These are all commonly used file formats, but what if we tell you that these for
 
 <p style="margin-bottom: 50px"></p>
 
-### Warm-up exercise
+### Warm-up - Exercise 1
 {: .no_toc}
 
-Let's try to open the Lotus 1-2-3 version 3 file <https://bit.ly/3I0c6nG> (this is from 1990) and try to see the variable used.  
+A dancing club in Saskatoon has kept its documents since the early 2000s. Recently, a club member wanted to refer back to an agenda from July 5, 2003 (please see the WordPerfect file below) but was unable to open it.   
   
-Share your experience in Padlet
+Could you <a href="exercise_files/Agenda July 5th.wpd" target="_blank"> download that document </a>  and try to recover it on your machine?
+  
+Please share your experience in Padlet
 
 [//]: # (activity link: https://bit.ly/rdmactivity)
 
@@ -85,7 +87,7 @@ Share your experience in Padlet
 We recommend <b>open formats</b> because they are more sustainable and easier to preserve in the long term. <img src="figures/thumbs-up.png" width="25"/> 
 {: .note}
 
-<p style="margin-bottom: 30px"></p>
+<p style="margin-bottom: 40px"></p>
 
 ## What are open formats?
 
@@ -98,16 +100,34 @@ We recommend <b>open formats</b> because they are more sustainable and easier to
 
 <img src="figures/open-source.jpg" width="300" style="margin-left:30px"/>
 
+<p style="margin-bottom: 50px"></p>
+
+### Exercise 2
+{: .no_toc}
+
+Please help us to preserve datasets for the long term.
+  
+<a href="https://doi.org/10.5683/SP3/NX3LZ9" target="_blank">Access a dataset</a>:
+Koralesky, Katherine; Sirovica, Lara; Hendricks, Jillian; Mills, Katelyn; von Keyserlingk, Marina; Weary, Daniel, 2022, "Social Acceptance of Genetic Engineering Technology", , Borealis, V2  
+
+Download one Excel (.xlsx) file and convert it to CSV; do the same with a Word file (convert to PDF or .txt)  
+
+Please also share your experience in Padlet
+
+[//]: # (activity link: https://bit.ly/rdmactivity)
+
+<p style="margin-bottom: 25px"></p>
+
 <p style="margin-bottom: 70px"></p>
 
-## Quality ~~and~~ or Size
+## Quality or Size?
 In addition to choosing between open and proprietary formats, <b>file quality</b>, the representation of the given item’s characteristics, is a large part of the file format decision. Encoding that handles high resolution will have larger sizes than lower quality file formats. However, the trade-off comes at the cost of storage space and convenience in disseminating the file to others.
 
 <p style="margin-bottom: 25px"></p>
 
 <img src="figures/balance.jpg" width="300" style="margin-left:30px"/>
 
-<p style="margin-bottom: 55px"></p>
+<p style="margin-bottom: 60px"></p>
 
 
 ## We recommend these common file formats
