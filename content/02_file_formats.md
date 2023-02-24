@@ -104,11 +104,12 @@ We recommend <b>open formats</b> because they are more sustainable and easier to
 
 ### Exercise 2
 {: .no_toc}
-
+  
 Please help us to preserve datasets for the long term.
   
-<a href="https://doi.org/10.5683/SP3/NX3LZ9" target="_blank">Access a dataset</a>:
-Koralesky, Katherine; Sirovica, Lara; Hendricks, Jillian; Mills, Katelyn; von Keyserlingk, Marina; Weary, Daniel, 2022, "Social Acceptance of Genetic Engineering Technology", , Borealis, V2  
+Access a dataset:  
+
+Koralesky, Katherine; Sirovica, Lara; Hendricks, Jillian; Mills, Katelyn; von Keyserlingk, Marina; Weary, Daniel, 2022, "Social Acceptance of Genetic Engineering Technology", <https://doi.org/10.5683/SP3/NX3LZ9>, Borealis, V2
 
 <p style="margin-bottom: 20px"></p>
 <img src="figures/dna.jpg" width="300" style="margin-left:30px"/>
@@ -154,7 +155,7 @@ In addition to choosing between open and proprietary formats, <b>file quality</b
 {: .no_toc }
 
 <p style="margin-top:25px">
-<img src="figures/congrats.jpg" width="300" style="margin-left:30px"/>
+<img src="figures/robot_graduate.png" width="300"/>
 </p>
 
 Now you know which file formarts are proper for data curation so your research data can be preserved for a longer term!
