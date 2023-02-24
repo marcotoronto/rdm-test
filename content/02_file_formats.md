@@ -87,7 +87,7 @@ Please share your experience in Padlet
 We recommend <b>open formats</b> because they are more sustainable and easier to preserve in the long term. <img src="figures/thumbs-up.png" width="25"/> 
 {: .note}
 
-<p style="margin-bottom: 40px"></p>
+<p style="margin-bottom: 50px"></p>
 
 ## What are open formats?
 
@@ -110,7 +110,11 @@ Please help us to preserve datasets for the long term.
 <a href="https://doi.org/10.5683/SP3/NX3LZ9" target="_blank">Access a dataset</a>:
 Koralesky, Katherine; Sirovica, Lara; Hendricks, Jillian; Mills, Katelyn; von Keyserlingk, Marina; Weary, Daniel, 2022, "Social Acceptance of Genetic Engineering Technology", , Borealis, V2  
 
-Download one Excel (.xlsx) file and convert it to CSV; do the same with a Word file (convert to PDF or .txt)  
+<p style="margin-bottom: 20px"></p>
+<img src="figures/dna.jpg" width="300" style="margin-left:30px"/>
+<p style="margin-bottom: 20px"></p>
+
+Download one Excel (.xlsx) file and convert it to CSV; do the same with a Word（.docx)file (convert to PDF or .txt)  
 
 Please also share your experience in Padlet
 
