@@ -41,7 +41,7 @@ Which formats do you use the most?
 <p style="margin-bottom: 25px"></p>
 
 <p style="margin-bottom:20px"> 
-These are all commonly used file formats, but what if we tell you that these formats are <b>not recommended</b> to be used for data curation? These formats are unsustainable because they are proprietary. <img src="figures/say-no.png" width="20">
+These are all commonly used file formats, but what if we tell you that these formats are not recommended to be used for data curation? These formats are unsustainable because they are proprietary. <img src="figures/say-no.png" width="20">
 </p>
 
 <p style="margin-bottom: 30px"></p>
@@ -74,7 +74,7 @@ Please share your experience in Padlet
 ## What are proprietary formats?
 
 - The file you were trying to open in the warm-up exercise was an older proprietary file that can no longer be opened. This inaccessibility can happen to other proprietary formats like Microsoft Word or Google Docs. 
-- They are limited by software patents, lack of format specification details, or built-in encryption to <b>prevent open usage</b> by the public.
+- They are limited by software patents, lack of format specification details, or built-in encryption to revent open usage by the public.
 <p style="margin-bottom: 20px"></p>
 <img src="figures/encryption.jpg" width="300" style="margin-left:30px"/>
 <p style="margin-bottom: 20px"></p>
@@ -84,7 +84,7 @@ Please share your experience in Padlet
 
 <p style="margin-bottom: 50px"></p>
 
-We recommend <b>open formats</b> because they are more sustainable and easier to preserve in the long term. <img src="figures/thumbs-up.png" width="25"/> 
+We recommend open formats because they are more sustainable and easier to preserve in the long term. <img src="figures/thumbs-up.png" width="25"/> 
 {: .note}
 
 <p style="margin-bottom: 50px"></p>
@@ -92,9 +92,9 @@ We recommend <b>open formats</b> because they are more sustainable and easier to
 ## What are open formats?
 
 - They are non-proprietary.
-- They are <b>freely available for everyone</b> to use.
+- They are freely available for everyone to use.
 - Because the specifications are released, open-source developers can write software to utilize the file format in case a particular vendor no longer supports the format.
-- They may <b>decrease the risk</b> of technical obsolescence by removing the dependency on the underlying technology.
+- They may decrease the risk of technical obsolescence by removing the dependency on the underlying technology.
 
 <p style="margin-bottom: 25px"></p>
 
@@ -126,7 +126,7 @@ Please also share your experience in Padlet
 <p style="margin-bottom: 70px"></p>
 
 ## Quality or Size?
-In addition to choosing between open and proprietary formats, <b>file quality</b>, the representation of the given item’s characteristics, is a large part of the file format decision. Encoding that handles high resolution will have larger sizes than lower quality file formats. However, the trade-off comes at the cost of storage space and convenience in disseminating the file to others.
+In addition to choosing between open and proprietary formats, file quality, the representation of the given item’s characteristics, is a large part of the file format decision. Encoding that handles high resolution will have larger sizes than lower quality file formats. However, the trade-off comes at the cost of storage space and convenience in disseminating the file to others.
 
 <p style="margin-bottom: 25px"></p>
 
