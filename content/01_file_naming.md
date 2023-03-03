@@ -94,7 +94,7 @@ Goal
 - Word delimiters (within an element): <b>-(dash)</b> and/or <b>capitalize</b> the first letter of each word (camel case)  
    e.g. `[element 1]_[element 2]_[WordPart-WordPart-WordPart]_[element 3].txt`
 
-Avoid spaces and special characters, such as: ~ ! @ # $ % ^ & * ( ) ` ; : < > ? . , [ ] { } ' " \|  <img src="figures/say-no.png" width="19">
+Avoid spaces and other special characters, such as: ~ ! @ # $ % ^ & * ( ) ` ; : < > ? . , [ ] { } ' " \|  <img src="figures/say-no.png" width="19">
 {: .warn}
 
 
