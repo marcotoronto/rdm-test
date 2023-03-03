@@ -53,14 +53,12 @@ These are all commonly used file formats, but what if we tell you that these for
 ### Warm-up - Exercise 1
 {: .no_toc}
 {: .label .label-orange }
-
-A dancing club in Saskatoon has kept its documents since the early 2000s. Recently, a club member wanted to refer back to an agenda from July 5, 2003 (please see the WordPerfect file below) but was unable to open it.   
-  
-Could you <a href="exercise_files/Agenda July 5th.wpd" target="_blank"> download that document </a>  and try to recover it on your machine?
-  
-Please share your experience in Padlet
-
-[//]: # (activity link: https://bit.ly/rdmactivity)
+  A dancing club in Saskatoon has kept its documents since the early 2000s. Recently, a club member wanted to refer back to an agenda from July 5, 2003 (please see the WordPerfect file below) but was unable to open it.   
+    
+  Could you <a href="exercise_files/Agenda July 5th.wpd" target="_blank"> download that document </a>  and try to recover it on your machine?
+    
+  Please share your experience in Padlet
+  [//]: # (activity link: https://bit.ly/rdmactivity)
 
 <p style="margin-bottom: 25px"></p>
 
