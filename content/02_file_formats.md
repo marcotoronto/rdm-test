@@ -52,6 +52,7 @@ These are all commonly used file formats, but what if we tell you that these for
 
 ### Warm-up - Exercise 1
 {: .no_toc}
+{: .label .label-orange }
 
 A dancing club in Saskatoon has kept its documents since the early 2000s. Recently, a club member wanted to refer back to an agenda from July 5, 2003 (please see the WordPerfect file below) but was unable to open it.   
   
@@ -104,6 +105,7 @@ We recommend open formats because they are more sustainable and easier to preser
 
 ### Exercise 2
 {: .no_toc}
+{: .label .label-orange }
   
 Please help us to preserve datasets for the long term.
   
@@ -115,7 +117,7 @@ Koralesky, Katherine; Sirovica, Lara; Hendricks, Jillian; Mills, Katelyn; von Ke
 <img src="figures/dna.jpg" width="300" style="margin-left:30px"/>
 <p style="margin-bottom: 20px"></p>
 
-Download one Excel (.xlsx) file and convert it to CSV; do the same with a Word（.docx)file (convert to PDF or .txt)  
+Download one Excel ( .xlsx) file and convert it to CSV; do the same with a Word ( .docx) file (convert to PDF or .txt)  
 
 Please also share your experience in Padlet
 
