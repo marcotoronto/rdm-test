@@ -44,7 +44,7 @@ A README complements but does not replace the metadata that data repositories (e
 
 <p style="margin-bottom: 30px"></p>
 
-<img src="figures/readmefileexample.png" width="300" style="margin-left:30px"/>
+<img src="figures/readmefileexample.png" width="600" style="margin-left:30px"/>
 
 <p style="margin-bottom: 50px"></p>
 
@@ -73,7 +73,7 @@ Core elements of *any* README include:
 
 <p style="margin-bottom: 20px"></p>
 
-<img src="figures/readmefile.png" width="300" style="margin-left:30px"/>
+<img src="figures/readmefile.png" width="600" style="margin-left:30px"/>
 
 <p style="margin-bottom: 20px"></p>
 
@@ -94,7 +94,7 @@ How you write your README is as important as the information you include. Always
 
 <p style="margin-bottom: 25px"></p>
 
-<img src="figures/readme.png" width="300" style="margin-left:30px"/>
+<img src="figures/readme.png" width="400" style="margin-left:30px"/>
 
 <p style="margin-bottom: 25px"></p>
 
