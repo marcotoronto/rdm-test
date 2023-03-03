@@ -93,12 +93,6 @@ We recommend open formats because they are more sustainable and easier to preser
 - They are non-proprietary.
 - They are freely available for everyone to use.
 
-<p style="margin-bottom: 25px"></p>
-
-<img src="figures/reusable.png" width="200" style="margin-left:30px"/>
-
-<p style="margin-bottom: 50px"></p>
-
 - Because the specifications are released, open-source developers can write software to utilize the file format in case a particular vendor no longer supports the format.
 - They may decrease the risk of technical obsolescence by removing the dependency on the underlying technology.
 
@@ -108,29 +102,6 @@ We recommend open formats because they are more sustainable and easier to preser
 
 <p style="margin-bottom: 50px"></p>
 
-### Exercise 2
-{: .no_toc}
-{: .label .label-green }
-  
-Please help us to preserve datasets for the long term.
-  
-Access a dataset:  
-
-Koralesky, Katherine; Sirovica, Lara; Hendricks, Jillian; Mills, Katelyn; von Keyserlingk, Marina; Weary, Daniel, 2022, "Social Acceptance of Genetic Engineering Technology", <https://doi.org/10.5683/SP3/NX3LZ9>, Borealis, V2
-
-<p style="margin-bottom: 20px"></p>
-<img src="figures/dna.jpg" width="300" style="margin-left:30px"/>
-<p style="margin-bottom: 20px"></p>
-
-Download one Excel ( .xlsx) file and convert it to CSV; do the same with a Word ( .docx) file (convert to PDF or .txt)  
-
-Please also share your experience in Padlet
-
-[//]: # (activity link: https://bit.ly/rdmactivity)
-
-<p style="margin-bottom: 25px"></p>
-
-<p style="margin-bottom: 70px"></p>
 
 ## Quality or Size?
 In addition to choosing between open and proprietary formats, file quality, the representation of the given item’s characteristics, is a large part of the file format decision. Encoding that handles high resolution will have larger sizes than lower quality file formats. However, the trade-off comes at the cost of storage space and convenience in disseminating the file to others.
@@ -155,6 +126,29 @@ In addition to choosing between open and proprietary formats, file quality, the 
 | Audio | PCM, WAVE, DSD |
 | Dataset | CSV, TSV, .db, .sqlite, Shapefile |
 | Web Data | JSON, XML, HTML |
+
+<br>
+
+### Exercise 2
+{: .no_toc}
+{: .label .label-green }
+  
+Please help us to preserve datasets for the long term.
+  
+Access a dataset:  
+
+Koralesky, Katherine; Sirovica, Lara; Hendricks, Jillian; Mills, Katelyn; von Keyserlingk, Marina; Weary, Daniel, 2022, "Social Acceptance of Genetic Engineering Technology", <https://doi.org/10.5683/SP3/NX3LZ9>, Borealis, V2
+
+<p style="margin-bottom: 20px"></p>
+<img src="figures/dna.jpg" width="300" style="margin-left:30px"/>
+<p style="margin-bottom: 20px"></p>
+
+Download one Excel ( .xlsx) file and convert it to CSV; do the same with a Word ( .docx) file (convert to PDF or .txt)  
+
+Please also share your experience in Padlet
+
+
+[//]: # (activity link: https://bit.ly/rdmactivity)
 
 <br>
 
