@@ -36,7 +36,7 @@ It is a guide to your dataset and is usually a plain text file to maximize its u
 
 ---
 
-# Why is README important? 
+# Why Is README Important? 
 
 A README complements but does not replace the metadata that data repositories (e.g. Dataverse or FRDR) ask you to provide when you deposit your data. The best practice is to record information in both the *repository’s metadata* and the *README*. The repository’s metadata will support findability within and between data repositories while the README is portable and continues to describe the dataset after it has been separated from its original context. In all cases, you should use any conventions appropriate to *your discipline* to record the information about your dataset.
 
@@ -105,7 +105,7 @@ You can create a README using any text editor (e.g. TextEdit, Notepad++, Atom.io
 
 
 
-## Exercise 2
+## Exercise
 {: .no_toc}
 {: .label .label-green }
 
@@ -116,7 +116,7 @@ You can create a README using any text editor (e.g. TextEdit, Notepad++, Atom.io
 {: .no_toc }
 
 <p style="margin-top:25px">
-<img src="figures/robot_graduate.png" width="300"/>
+<img src="figures/congrats.jpg" width="300"/>
 </p>
 
 <br>
