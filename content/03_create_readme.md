@@ -4,7 +4,7 @@ title: Create a README File
 nav_order: 5
 ---
 # What is README?
-{:no-toc}
+{: .no_toc}
 
 A README is a guide to your dataset and is usually a plain text file to maximize its usability and long-term preservation potential. The purpose of a README is to assist other researchers to understand your dataset, its contents, provenance, licensing and how interact with it. README files are generally named ```README```, ```readme.txt``` or ```read-me.md``` and are included as a component of a dataset.
 
@@ -96,7 +96,7 @@ How you write your README is as important as the information you include. Always
 
 <p style="margin-bottom: 25px"></p>
 
-<img src="figures/data_dictionary.png" width="500" style="margin-left:30px"/>
+<img src="figures/data_dictionary.png" width="600" style="margin-left:30px"/>
 
 <p style="margin-bottom: 30px"></p>
 
@@ -139,3 +139,5 @@ You are now ready to write up a good README file so other researchers can unders
 - Cornell University. Guide to writing "readme" style metadata. <https://bit.ly/2W4t9xa>
 - The Graduate Institute Geneva. Readme.txt. <https://bit.ly/3aH6AUx>
 - GitHub Basic Writing and Formatting Syntax. <https://bit.ly/2y7c4dZ>
+- <https://pixabay.com>
+- <https://www.pexels.com>
