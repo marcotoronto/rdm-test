@@ -171,7 +171,7 @@ Goal
 - Decide the beginning of the file name according to how you want to sort and search for your files.
 - When using a sequential numbering system, use <b>leading zeros</b> to make sure files sort in sequential order. e.g. 001, 002, 010, 011....100,101 ...
 - Order elements from general to specific to make searching easier
-- Use ISO 8601 standard for dates: <b>YYYYMMDD</b> or <b>YYYY-MM-DD</b> 
+- Use <a href="http://www.w3.org/TR/NOTE-datetime" target="_blank">ISO 8601 standard</a> for dates: <b>YYYYMMDD</b> or <b>YYYY-MM-DD</b> 
 - Versions: should be used as the last element
    - For <b>version numbers</b>, use at least two digits with a leading zero (e.g. v0)
    - Version types (e.g. _raw, _processed, _composite)

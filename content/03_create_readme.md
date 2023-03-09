@@ -35,16 +35,12 @@ Looking for a cheat sheet? Check out our <a href="https://osf.io/aqxw3" target="
 <p style="margin-bottom: 50px"></p>
 
 
----
-
-# Why Is README Important? 
+## Why Is README Important? 
 
 A README complements but does not replace the metadata that data repositories (e.g. Dataverse or FRDR) ask you to provide when you deposit your data. The best practice is to record information in both the *repository’s metadata* and the *README*. The repository’s metadata will support findability within and between data repositories while the README is portable and continues to describe the dataset after it has been separated from its original context. In all cases, you should use any conventions appropriate to *your discipline* to record the information about your dataset.
 
 
 ---
-
-
 
 # How Do I Create a Readme?
 
@@ -52,18 +48,18 @@ A README complements but does not replace the metadata that data repositories (e
 
 Core elements of *any* README include:
 
-- Contact information for the researcher(s)
-- The use license for your data (unless that is included in a separate file)
-- The context of your data collection (the goal of your research)
-- Your data collection methods (protocols, sampling, instruments, coverage, etc.)
-- The structure of files
-- Naming conventions for files, if applicable
-- Your sources used
-- Your quality assurance work (data validation, check-ing)
-- Any data manipulations or modifications
-- Data confidentiality and permissions
-- The names of labels and variables
-- Explanations of codes and classifications
+- **Contact information** for the researcher(s)
+- The use **license** for your data (unless that is included in a separate file)
+- The **context** of your data collection (the goal of your research)
+- Your data collection **methods** (protocols, sampling, instruments, coverage, etc.)
+- The **structure** of files
+- **Naming conventions** for files, if applicable
+- The **sources** you used
+- Your **quality assurance** work (data validation, check-ing)
+- Any data manipulations or **modifications**
+- Data **confidentiality** and permissions
+- The names of labels and **variables**
+- Explanations of **codes** and classifications
 
 <p style="margin-bottom: 20px"></p>
 
@@ -71,19 +67,12 @@ Core elements of *any* README include:
 
 <p style="margin-bottom: 20px"></p>
 
-Cornell University’s <a href="https://data.research.cornell.edu/content/readme" target="_blank">Guide to writing “readme” style metadata</a> provides a thorough description of the content that you should consider including in your README file. It also provides a template readme.txt file for you to work from.
-
-<p style="margin-bottom: 50px"></p>
-
-## Exercise 1
-{: .no_toc}
-{: .label .label-green }
+Cornell University’s <a href="https://data.research.cornell.edu/content/readme" target="_blank">Guide to writing “readme” style metadata</a> provides a thorough description of the content that you should consider including in your README file. It also provides a <a href="https://cornell.app.box.com/v/ReadmeTemplate" target="_blank">template</a> readme.txt file for you to work from.
 
 
+<p style="margin-bottom: 30px"></p>
 
-<p style="margin-bottom: 50px"></p>
-
-## The Style
+### The Style
 How you write your README is as important as the information you include. Always remember to be as clear as possible. The following are some best practices related to data documentation:
 
 - Don’t use jargon
@@ -101,7 +90,7 @@ How you write your README is as important as the information you include. Always
 <p style="margin-bottom: 30px"></p>
 
 ## The Process
-Document your work as you go, so you don’t lose track of any details. If you wait until the end of your project, you might already have lost or forgotten valuable information.
+**Document your work as you go**, so you don’t lose track of any details. If you wait until the end of your project, you might already have lost or forgotten valuable information.{: .note}
   
 You can create a README using any text editor (e.g. TextEdit, Notepad++, Atom.io, Sublime Text) or word processor (e.g. Word, LibreOffice). Save your README as UTF-8 encoded text. Using plain text helps preserve your information because it relies on durable, open standards rather than proprietary formats. If you’re using GitHub, your README should be written using <a href="https://docs.github.com/en/get-started/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax" target="blank">Markdown syntax </a> (readme.md).
 
@@ -109,14 +98,21 @@ You can create a README using any text editor (e.g. TextEdit, Notepad++, Atom.io
 
 <img src="figures/readme.png" width="400" style="margin-left:30px"/>
 
-<p style="margin-bottom: 30px"></p>
+<p style="margin-bottom: 50px"></p>
 
 
-## Exercise 2
+## Exercise
 {: .no_toc}
 {: .label .label-green }
 
+Now, let's practice what we just learned. Please <a href="exercise_files/UBC_README.txt" target="_blank"> download this README
+template </a>, choose one data project that you are doing right now and spend 5-7 minutes filling the template. 
 
+> Pay special attention to the variables list. A dataset without naming variables is not useful. How would your peers know what a variable named ```OxIntake13``` means?
+
+
+
+<br>
 <br>
 
 # Congrats!

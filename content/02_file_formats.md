@@ -58,7 +58,8 @@ These are all commonly used file formats, but what if we tell you that these for
   Could you <a href="exercise_files/Agenda July 5th.wpd" target="_blank"> download that document </a>  and try to recover it on your machine?
     
   Please share your experience in Padlet
-  [//]: # (activity link: https://bit.ly/rdmactivity)
+
+[//]: # (activity link: https://bit.ly/rdmactivity)
 
 <p style="margin-bottom: 25px"></p>
 
