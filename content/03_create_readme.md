@@ -45,7 +45,7 @@ A README complements but does not replace the metadata that data repositories (e
 # How Do I Create a Readme?
 
 ## The Content
-
+  
 Core elements of *any* README include:
 
 - **Contact information** for the researcher(s)
@@ -72,8 +72,9 @@ Cornell University’s <a href="https://data.research.cornell.edu/content/readme
 
 <p style="margin-bottom: 50px"></p>
 
-### The Style
-How you write your README is as important as the information you include. Always remember to be as clear as possible. The following are some best practices related to data documentation:
+## The Style
+  
+How you write your README is as important as the information you include. Always remember to be **as clear as possible**. The following are some best practices related to data documentation:
 
 - Don’t use jargon
 - Define terms and acronyms
@@ -90,6 +91,7 @@ How you write your README is as important as the information you include. Always
 <p style="margin-bottom: 50px"></p>
 
 ## The Process
+  
 **Document your work as you go**, so you don’t lose track of any details. If you wait until the end of your project, you might already have lost or forgotten valuable information.{: .note}
   
 You can create a README using any text editor (e.g. TextEdit, Notepad++, Atom.io, Sublime Text) or word processor (e.g. Word, LibreOffice). Save your README as UTF-8 encoded text. Using plain text helps preserve your information because it relies on durable, open standards rather than proprietary formats. If you’re using GitHub, your README should be written using <a href="https://docs.github.com/en/get-started/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax" target="blank">Markdown syntax </a> (readme.md).
