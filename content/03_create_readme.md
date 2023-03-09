@@ -110,6 +110,8 @@ You can create a README using any text editor (e.g. TextEdit, Notepad++, Atom.io
 {: .no_toc}
 {: .label .label-green }
 
+<p style="margin-bottom: 20px"></p>
+
 Now, let's practice what we just learned. Please <a download href="exercise_files/UBC_README.txt" target="_blank"> download this README
 template </a>, choose one data project that you are doing right now and spend 5-7 minutes filling the template. 
 
