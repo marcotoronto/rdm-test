@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Folder Organizing
+title: 🧁 Folder Organizing
 nav_order: 6
 ---
 
