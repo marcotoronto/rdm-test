@@ -86,12 +86,14 @@ How you write your README is as important as the information you include. Always
 
 <p style="margin-bottom: 25px"></p>
 
-<img src="figures/data_dictionary.png" width="600" style="margin-left:30px"/>
+<img src="figures/data_dictionary.png" width="650" style="margin-left:30px"/>
 
 <p style="margin-bottom: 50px"></p>
 
 ## The Process
-  
+
+<p style="margin-bottom: 20px"></p>
+
 **Document your work as you go**, so you don’t lose track of any details. If you wait until the end of your project, you might already have lost or forgotten valuable information.
 {: .note}
   
