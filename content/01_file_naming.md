@@ -110,6 +110,8 @@ Avoid spaces and other special characters, such as: ~ ! @ # $ % ^ & * ( ) ` ; : 
 ### Exercise 1
 {: .no_toc }
 
+<p style="margin-bottom: 20px"></p>
+
 Let's try improve the file names! Pick your favourite file name and make it more machine-readable! 
 
 <p style="margin-top:20px">
@@ -187,6 +189,7 @@ Goal
 ### Exercise 2
 {: .no_toc }
 
+<p style="margin-bottom: 20px"></p>
 
 <img src="figures/thermometer.jpg" width="150" style="margin-left:30px"/>
 
