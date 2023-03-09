@@ -133,6 +133,8 @@ In addition to choosing between open and proprietary formats, file quality, the 
 ### Exercise 2
 {: .no_toc}
 {: .label .label-green }
+
+<p style="margin-bottom: 20px"></p>
   
 Please help us to preserve datasets for the long term.
   
