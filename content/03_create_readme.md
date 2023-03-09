@@ -67,10 +67,10 @@ Core elements of *any* README include:
 
 <p style="margin-bottom: 20px"></p>
 
-Cornell University’s <a href="https://data.research.cornell.edu/content/readme" target="_blank">Guide to writing “readme” style metadata</a> provides a thorough description of the content that you should consider including in your README file. It also provides a <a href="https://cornell.app.box.com/v/ReadmeTemplate" target="_blank">template</a> readme.txt file for you to work from.
+Cornell University’s <a href="https://data.research.cornell.edu/content/readme" target="_blank">Guide to writing “readme” style metadata</a> provides a thorough description of the content that you should consider including in your README file. 
 
 
-<p style="margin-bottom: 30px"></p>
+<p style="margin-bottom: 50px"></p>
 
 ### The Style
 How you write your README is as important as the information you include. Always remember to be as clear as possible. The following are some best practices related to data documentation:
@@ -87,7 +87,7 @@ How you write your README is as important as the information you include. Always
 
 <img src="figures/data_dictionary.png" width="600" style="margin-left:30px"/>
 
-<p style="margin-bottom: 30px"></p>
+<p style="margin-bottom: 50px"></p>
 
 ## The Process
 **Document your work as you go**, so you don’t lose track of any details. If you wait until the end of your project, you might already have lost or forgotten valuable information.{: .note}
@@ -105,14 +105,12 @@ You can create a README using any text editor (e.g. TextEdit, Notepad++, Atom.io
 {: .no_toc}
 {: .label .label-green }
 
-Now, let's practice what we just learned. Please <a href="exercise_files/UBC_README.txt" target="_blank"> download this README
+Now, let's practice what we just learned. Please <a download href="exercise_files/UBC_README.txt" target="_blank"> download this README
 template </a>, choose one data project that you are doing right now and spend 5-7 minutes filling the template. 
 
-> Pay special attention to the variables list. A dataset without naming variables is not useful. How would your peers know what a variable named ```OxIntake13``` means?
+Pay special attention to the variables list. A dataset without naming variables is not useful. How would your peers know what a variable named ```OxIntake13``` means?
 
 
-
-<br>
 <br>
 
 # Congrats!
