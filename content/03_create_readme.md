@@ -92,11 +92,10 @@ How you write your README is as important as the information you include. Always
 
 ## The Process
 
-<p style="margin-bottom: 20px"></p>
+<p style="margin-bottom: 15px"></p>
 
 **Document your work as you go**, so you don’t lose track of any details. If you wait until the end of your project, you might already have lost or forgotten valuable information.
 {: .note}
-  
 You can create a README using any text editor (e.g. TextEdit, Notepad++, Atom.io, Sublime Text) or word processor (e.g. Word, LibreOffice). Save your README as UTF-8 encoded text. Using plain text helps preserve your information because it relies on durable, open standards rather than proprietary formats. If you’re using GitHub, your README should be written using <a href="https://docs.github.com/en/get-started/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax" target="blank">Markdown syntax </a> (readme.md).
 
 <p style="margin-bottom: 25px"></p>
@@ -110,7 +109,7 @@ You can create a README using any text editor (e.g. TextEdit, Notepad++, Atom.io
 {: .no_toc}
 {: .label .label-green }
 
-<p style="margin-bottom: 20px"></p>
+<p style="margin-bottom: 10px"></p>
 
 Now, let's practice what we just learned. Please <a download href="exercise_files/UBC_README.txt" target="_blank"> download this README
 template </a>, choose one data project that you are doing right now and spend 5-7 minutes filling the template. 
