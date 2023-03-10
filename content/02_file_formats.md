@@ -53,11 +53,14 @@ These are all commonly used file formats, but what if we tell you that these for
 ### Warm-up - Exercise 1
 {: .no_toc}
 {: .label .label-green }
-  A dancing club in Saskatoon has kept its documents since the early 2000s. Recently, a club member wanted to refer back to an agenda from July 5, 2003 (please see the WordPerfect file below) but was unable to open it.   
+
+<p style="margin-bottom: 10px"></p>
+
+A dancing club in Saskatoon has kept its documents since the early 2000s. Recently, a club member wanted to refer back to an agenda from July 5, 2003 (please see the WordPerfect file below) but was unable to open it.   
     
-  Could you <a href="exercise_files/Agenda July 5th.wpd" target="_blank"> download that document </a>  and try to recover it on your machine?
+Could you <a href="exercise_files/Agenda July 5th.wpd" target="_blank"> download that document </a>  and try to recover it on your machine?
     
-  Please share your experience in Padlet
+Please share your experience in Padlet
 
 [//]: # (activity link: https://bit.ly/rdmactivity)
 
@@ -134,8 +137,8 @@ In addition to choosing between open and proprietary formats, file quality, the 
 {: .no_toc}
 {: .label .label-green }
 
-<p style="margin-bottom: 20px"></p>
-  
+<p style="margin-bottom: 10px"></p>
+
 Please help us to preserve datasets for the long term.
   
 Access a dataset:  
