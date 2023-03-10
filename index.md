@@ -13,8 +13,8 @@ Research data management (RDM) are processes applied throughout the lifecycle of
 </p>
 
 Research Commons is now offering bite-size workshops "<b>Data Bites</b>" that are 30 minutes each during lunch time. By going through our mini-workshops, you will learn the basics of RDM from the following 4 core components:
-- File naming
-- File formats for data curation
-- Folder organizing
-- Creating a README file
+- [File naming](content/01_file_naming.md)
+- [File formats for data curation](content/02_file_formats.md)
+- [Creating a README file](content/03_create_readme.md)
+- [Directory Structures](content/04_directory_structures.md)
 

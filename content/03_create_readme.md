@@ -1,6 +1,6 @@
 ---
 layout: default
-title: 🧁 Create a README File
+title: Create a README File
 nav_order: 5
 ---
 # What is README?
@@ -50,7 +50,6 @@ Core elements of *any* README include:
 
 - **Contact information** for the researcher(s)
 - The use **license** for your data (unless that is included in a separate file)
-- The **context** of your data collection (the goal of your research)
 - Your data collection **methods** (protocols, sampling, instruments, coverage, etc.)
 - The **structure** of files
 - **Naming conventions** for files, if applicable
@@ -58,7 +57,7 @@ Core elements of *any* README include:
 - Your **quality assurance** work (data validation, check-ing)
 - Any data manipulations or **modifications**
 - Data **confidentiality** and permissions
-- The names of labels and **variables**
+- The names of labels and **variables** -i.e. a data dictionary or a codebook
 - Explanations of **codes** and classifications
 
 <p style="margin-bottom: 20px"></p>

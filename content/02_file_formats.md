@@ -1,6 +1,6 @@
 ---
 layout: default
-title: 🧁 File Formats
+title: File Formats
 nav_order: 4
 ---
 

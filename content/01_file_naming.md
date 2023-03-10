@@ -1,6 +1,6 @@
 ---
 layout: default
-title: 🧁 File Naming
+title: File Naming
 nav_order: 3
 ---
 # Why is file naming important? 
