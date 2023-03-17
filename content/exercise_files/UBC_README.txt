@@ -8,7 +8,7 @@ GENERAL INFORMATION
 
 Title of Dataset: 
 
-<provide at least two contacts>
+<provide at least one contact>
 Author/Principal Investigator Information
 Name: 
 ORCID:
@@ -16,19 +16,6 @@ Institution:
 Address: 
 Email: 
 
-Author/Associate or Co-investigator Information
-Name: 
-ORCID:
-Institution: 
-Address: 
-Email: 
-
-Author/Alternate Contact Information
-Name: 
-ORCID:
-Institution: 
-Address: 
-Email: 
 
 Date of data collection: <provide single date, range, or approximate date; suggested format YYYY-MM-DD> 
 
@@ -51,6 +38,19 @@ Was data derived from another source?
 If yes, list source(s): 
 
 
+
+DATA-SPECIFIC INFORMATION FOR: [FILENAME]
+<repeat this section for each dataset, folder or file, as appropriate>
+
+Number of variables: 
+
+Number of cases/rows: 
+
+Variable List: <list variable name(s), description(s), unit(s) and value labels as appropriate for each>
+
+Missing data codes: <list code/symbol and definition>
+
+Specialized formats or other abbreviations used: 
 DATA & FILE OVERVIEW
 
 File List: <list all files (or folders, as appropriate for dataset organization) contained in the dataset, with a brief description>
@@ -59,10 +59,6 @@ Relationship between files, if important:
 
 Additional related data collected that was not included in the current data package: 
 
-Are there multiple versions of the dataset?
-If yes, name of file(s) that was updated: 
-Why was the file updated? 
-When was the file updated? 
 
 
 METHODOLOGICAL INFORMATION
@@ -82,15 +78,3 @@ Describe any quality-assurance procedures performed on the data:
 People involved with sample collection, processing, analysis and/or submission: 
 
 
-DATA-SPECIFIC INFORMATION FOR: [FILENAME]
-<repeat this section for each dataset, folder or file, as appropriate>
-
-Number of variables: 
-
-Number of cases/rows: 
-
-Variable List: <list variable name(s), description(s), unit(s) and value labels as appropriate for each>
-
-Missing data codes: <list code/symbol and definition>
-
-Specialized formats or other abbreviations used: 
