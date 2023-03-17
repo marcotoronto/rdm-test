@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Folder Organizing
+title: Directory Structures
 nav_order: 6
 ---
 
