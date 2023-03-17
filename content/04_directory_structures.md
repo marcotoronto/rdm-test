@@ -36,10 +36,10 @@ Instead of keeping every document in a single place, we often organize our files
 
 
 # Directory Hierarchies
-
+  
 A typical directory structure is composed of a **root directory** (i.e. top-level folder), **subdirectories** (i.e. subfolders), and relevant **files**.
 
-The structure looks like this: 
+The structure looks like this:   
 
 ```
 ├── Project-Folder/
@@ -52,16 +52,15 @@ The structure looks like this:
 |   |   ├── File-1
 |   |   ├── File-2
 
-```
+```  
+
 
 Directory names are frequently followed by a slash ```/``` to differentiate them from files. 
 {: .note}
 
 Question
 {: .label .label-green}
-
 <p style="margin-bottom: 10px"></p>
-
 Which ones in this example are root directories? What about subdirectories?
 
 # README Files and Data Dictionaries 
