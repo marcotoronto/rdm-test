@@ -40,26 +40,3 @@ Instead of keeping every document in a single place, we often organize our files
 A typical directory structure is composed of a **root directory** (i.e. top-level folder), **subdirectories** (i.e. subfolders), and relevant **files**.
 
 The structure looks like this:   
-
-```
-├── Project-Folder/
-|   ├── Experiment-Data/
-|   |   ├── File-1
-|   |   ├── File-2
-|   ├── Experiment-Analysis/
-|   |   ├── File-1
-|   ├── Experiment-Report/
-|   |   ├── File-1
-|   |   ├── File-2
-```
-
-Directory names are frequently followed by a slash- / -to differentiate them from files. 
-{: .note}
-
-Question
-{: .label .label-green}
-<p style="margin-bottom: 10px"></p>
-Which ones in this example are root directories? What about subdirectories?
-
-# README Files and Data Dictionaries 
-README files and Data Dictionaries - containing a brief description of the major folder contents, naming conventions, and data structure - are critical for transparency and reproducibility because they allow others to easily understand the contents of your directory and data without needing to ask the creator. This is especially helpful when working with a group or sharing directories with others.
