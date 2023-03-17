@@ -49,7 +49,7 @@ The structure looks like this:
 |   ├── Experiment-Report/
 |   |   ├── File-1
 |   |   ├── File-2
-```  
+```
 
 
 Directory names are frequently followed by a slash- / -to differentiate them from files. 
@@ -92,7 +92,6 @@ Visually, the stucture looks like this:
 |   ├── Experiment-Report/
 |   |   ├── File-1
 |   |   ├── File-2
-
 ```
 
 ```_README``` should exist in at least two locations: the root directory and the data directory.
@@ -162,7 +161,6 @@ Feel free to refer to the example that we saw earlier:
 |   ├── Experiment-Report/
 |   |   ├── File-1
 |   |   ├── File-2
-
 ```
 
 [//]: # (activity link: https://bit.ly/rdmactivity)
