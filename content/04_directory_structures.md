@@ -55,7 +55,7 @@ The structure looks like this:
 ```  
 
 
-Directory names are frequently followed by a slash ```/``` to differentiate them from files. 
+Directory names are frequently followed by a slash- / -to differentiate them from files. 
 {: .note}
 
 Question
