@@ -30,10 +30,10 @@ Instead of keeping every document in a single place, we often organize our files
 
 
 <p style="margin-bottom: 30px"></p>
-
 <img src="figures/folder_organizing.png" width="500" style="margin-left:30px"/>
-
 <p style="margin-bottom: 50px"></p>
+
+
 
 # Directory Hierarchies
 
