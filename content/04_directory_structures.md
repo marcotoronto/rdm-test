@@ -26,7 +26,7 @@ Instead of keeping every document in a single place, we often organize our files
 {:toc}
 </details>
 
-<p style="margin-bottom: 20px"></p>
+---
 
 
 <p style="margin-bottom: 30px"></p>
