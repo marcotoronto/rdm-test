@@ -17,15 +17,6 @@ Now, let’s pretend that you store everything on your computer in one single fo
 
 Instead of keeping every document in a single place, we often organize our files using directory or folder structures. This helps us save precious time and improve our productivity. Organizing folders can also help us collaborate more effectively by ensuring that everyone can find the files they need.
 
-<details open markdown="block">
-  <summary>
-    Table of contents
-  </summary>
-  {: .text-delta }
- - TOC
-{:toc}
-</details>
-
 
 <p style="margin-bottom: 30px"></p>
 
@@ -36,7 +27,6 @@ Instead of keeping every document in a single place, we often organize our files
 ---
 
 # Directory Hierarchies
-  
 A typical directory structure is composed of a **root directory** (i.e. top-level folder), **subdirectories** (i.e. subfolders), and relevant **files**.
 
 The structure looks like this:   
