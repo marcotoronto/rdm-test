@@ -5,7 +5,7 @@ nav_order: 7
 ---
 
 # Why are structured directories important?
-{: .no_toc }
+{: .no_toc}
 
 Now, let’s pretend that you store everything on your computer in one single folder – some of us are probably known to use our desktops for this. Imagine how long it would take you to find data you collected on a specific day a few years ago. 
 
