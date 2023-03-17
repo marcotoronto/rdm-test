@@ -57,7 +57,7 @@ Core elements of *any* README include:
 - Your **quality assurance** work (data validation, check-ing)
 - Any data manipulations or **modifications**
 - Data **confidentiality** and permissions
-- The names of labels and **variables** -i.e. a data dictionary or a codebook
+- The names of labels and variables -i.e. a **data dictionary** or a **codebook**
 - Explanations of **codes** and classifications
 
 <p style="margin-bottom: 20px"></p>
@@ -95,6 +95,7 @@ How you write your README is as important as the information you include. Always
 
 **Document your work as you go**, so you don’t lose track of any details. If you wait until the end of your project, you might already have lost or forgotten valuable information.
 {: .note}
+
 You can create a README using any text editor (e.g. TextEdit, Notepad++, Atom.io, Sublime Text) or word processor (e.g. Word, LibreOffice). Save your README as UTF-8 encoded text. Using plain text helps preserve your information because it relies on durable, open standards rather than proprietary formats. If you’re using GitHub, your README should be written using <a href="https://docs.github.com/en/get-started/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax" target="blank">Markdown syntax </a> (readme.md).
 
 <p style="margin-bottom: 25px"></p>
