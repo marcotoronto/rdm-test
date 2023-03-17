@@ -74,7 +74,7 @@ Click [here](content/03_create_readme.md) to review how to create a README file!
 
 <p style="margin-bottom: 30px"></p>
 
-## We need three files to store all metadata:
+## Three files needed to store all metadata
 1. A ```_README``` file which resides in our **root directory** and elaborates on the contents of our folder structure.
 2. A ```_README``` file that resides in our **data directory** and discusses some of the particulars of the how, where, and who did the actual data collection.
 3. A ```_DATA-DICTIONARY``` file that also resides in our data directory and elaborates on how our data is stored and organized.
@@ -103,18 +103,20 @@ Visually, the stucture looks like this:
 
 
 ### Naming
+{: .no_toc}
 ```_README``` and ```_DATA-DICTIONARY``` should be the first things you look at when looking at any directory or folder, as this is your guide to its contents. Therefore these files should
 - Be prepended with an underscore "_". This will push these files to the top of the directory for easy access;
 - Be in all caps, so they really stand out.
 
 
 ### Format
+{: .no_toc}
 ```_README``` and ```_DATA-DICTIONARY``` files should be written in plain text, for this will ensure that the files describing your project can be opened on any computer. You will often see readme files called ```_README.txt``` or ```_README.md```.
 
 <p style="margin-bottom: 30px"></p>
 
 ## Exercise
-
+{: .no_toc}
 
 Say you’re in BIOL 116 and you’re working on your research project. You have files that looked like the following before submitting our final assignment:
 
