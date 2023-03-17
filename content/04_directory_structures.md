@@ -13,7 +13,7 @@ Now, let’s pretend that you store everything on your computer in one single fo
 <img src="figures/folders.png" width="300"/>
 </p>
 
-<p style="margin-bottom:25px">
+<p style="margin-bottom:25px"></p>
 
 Instead of keeping every document in a single place, we often organize our files using directory or folder structures. This helps us save precious time and improve our productivity. Organizing folders can also help us collaborate more effectively by ensuring that everyone can find the files they need.
 
