@@ -39,6 +39,32 @@ Looking for a cheat sheet? Check out our <a href="https://osf.io/aqxw3" target="
 
 A README complements but does not replace the metadata that data repositories (e.g. Dataverse or FRDR) ask you to provide when you deposit your data. The best practice is to record information in both the *repository’s metadata* and the *README*. The repository’s metadata will support findability within and between data repositories while the README is portable and continues to describe the dataset after it has been separated from its original context. In all cases, you should use any conventions appropriate to *your discipline* to record the information about your dataset.
 
+<p style="margin-bottom: 50px"></p>
+
+## Exercise 1
+{: .no_toc}
+{: .label .label-green }
+
+Please help us to make sense of a dataset.
+  
+Access a dataset:  
+
+>Clark, Luke, 2019, "Role Reversal: The Influence of Slot Machine Gambling on Subsequent Alcohol Consumption", <https://doi.org/10.5683/SP2/SLOY0N>, Borealis, V1, UNF:6:zsehCAz4agntvPwDZF03OA== [fileUNF]  
+  
+Download the data file <b>"Gambling_Alcohol_Study 1_Archive.tab"</b> in the <b>Original File Format</b>. Examining the data, try to answer the following questions:
+1. Describe different gambling conditions in this study.
+2. A variable named "ResultingBAC", what does it mean?
+3. How was the data collected?
+
+Please share your experience in Padlet.
+
+<p style="margin-bottom: 30px"></p>
+
+<img src="figures/confused.jpg" width="300" style="margin-left:30px"/>
+
+<p style="margin-bottom: 50px"></p>
+
+[//]: # (activity link: https://bit.ly/rdmactivity)
 
 ---
 
@@ -105,7 +131,7 @@ You can create a README using any text editor (e.g. TextEdit, Notepad++, Atom.io
 <p style="margin-bottom: 50px"></p>
 
 
-## Exercise
+## Exercise 2
 {: .no_toc}
 {: .label .label-green }
 

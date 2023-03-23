@@ -63,7 +63,7 @@ Question
 Which ones in this example are root directories? What about subdirectories?
 
 # README Files and Data Dictionaries 
-README files and Data Dictionaries - containing a brief description of the major folder contents, naming conventions, and data structure - are critical for transparency and reproducibility because they allow others to easily understand the contents of your directory and data without needing to ask the creator. This is especially helpful when working with a group or sharing directories with others.
+README files and Data Dictionaries - containing a brief description of the major folder contents, naming conventions, and data structure - are critical for <b>transparency and reproducibility</b> because they allow others to easily understand the contents of your directory and data without needing to ask the creator. This is especially helpful when working with a group or sharing directories with others.
 
 Click [here](03_create_readme.md) to review how to create a README file!
 {: .note}
@@ -111,12 +111,19 @@ Visually, the stucture looks like this:
 
 ### Format
 {: .no_toc}
-```_README``` and ```_DATA-DICTIONARY``` files should be written in plain text, for this will ensure that the files describing your project can be opened on any computer. You will often see readme files called ```_README.txt``` or ```_README.md```.
+```_README``` and ```_DATA-DICTIONARY``` files should be written in <b>plain text</b>, for this will ensure that the files describing your project can be opened on any computer. You will often see readme files called ```_README.txt``` or ```_README.md```.
 
 <p style="margin-bottom: 30px"></p>
 
 ## Exercise
 {: .no_toc}
+{: .label .label-green }
+
+<p style="margin-bottom: 30px"></p>
+
+<img src="figures/folders2.png" width="200" style="margin-left:30px"/>
+
+<p style="margin-bottom: 30px"></p>
 
 Say you’re in BIOL 116 and you’re working on your research project. You have files that looked like the following before submitting our final assignment:
 
@@ -135,11 +142,7 @@ Pither_BIOL116RProject_Lab-report_V2.docx
 Pither_BIOL116RProject_Lab-report_V3.docx
 ```
 
-<p style="margin-bottom: 30px"></p>
 
-<img src="figures/folders2.png" width="200" style="margin-left:30px"/>
-
-<p style="margin-bottom: 30px"></p>
 
 Let's put them into structured folders! Please copy the template and use it for your exercise:
 
