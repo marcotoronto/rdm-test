@@ -83,8 +83,7 @@ Core elements of *any* README include:
 - Your **quality assurance** work (data validation, check-ing)
 - Any data manipulations or **modifications**
 - Data **confidentiality** and permissions
-- The names of labels and variables -i.e. a **data dictionary** or a **codebook**
-- Explanations of **codes** and classifications
+- The names of labels and variables adn explanations of **codes** and classifications -i.e. a **data dictionary** or a **codebook**
 
 <p style="margin-bottom: 20px"></p>
 
@@ -103,10 +102,6 @@ How you write your README is as important as the information you include. Always
 
 - Don’t use jargon
 - Define terms and acronyms
-- State limitations
-- Use descriptive titles
-- Be specific and quantify
-- Use appropriate and specific keywords
 - Make it <a href="https://ubc-library-rc.github.io/rdm/content/01_file_naming.html#1--machine-readable" target="_blank">machine-readable </a> (avoid special characters)
 
 <p style="margin-bottom: 25px"></p>
