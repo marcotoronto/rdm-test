@@ -96,7 +96,6 @@ We recommend open formats because they are more sustainable and easier to preser
 
 - They are non-proprietary.
 - They are freely available for everyone to use.
-
 - Because the specifications are released, open-source developers can write software to utilize the file format in case a particular vendor no longer supports the format.
 - They may decrease the risk of technical obsolescence by removing the dependency on the underlying technology.
 
