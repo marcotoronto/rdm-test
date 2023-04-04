@@ -74,10 +74,9 @@ Click [here](03_create_readme.md) to review how to create a README file!
 
 <p style="margin-bottom: 30px"></p>
 
-## Three files needed to store all metadata
-1. A ```_README``` file which resides in our **root directory** and elaborates on the contents of our folder structure.
-2. A ```_README``` file that resides in our **data directory** and discusses some of the particulars of the how, where, and who did the actual data collection.
-3. A ```_DATA-DICTIONARY``` file that also resides in our data directory and elaborates on how our data is stored and organized.
+## Two Types of files needed to store all metadata
+1. ```_README``` file which resides in our **root directory** and elaborates on the contents of our folder structure, discusses how, where, and who did the data collection.
+2. A ```_DATA-DICTIONARY``` file that also resides in our data directory and elaborates on how our data is stored and organized.
 
 Visually, the stucture looks like this:
 
@@ -86,7 +85,6 @@ Visually, the stucture looks like this:
 |   ├── _README.md                  <--
 |   ├── Experiment-Data/
 |   |   ├── _DATA-DICTIONARY.md     <--
-|   |   ├── _README.txt             <--
 |   |   ├── File-1
 |   |   ├── File-2
 |   ├── Experiment-Analysis/
@@ -95,9 +93,6 @@ Visually, the stucture looks like this:
 |   |   ├── File-1
 |   |   ├── File-2
 ```
-
-```_README``` should exist in at least two locations: the root directory and the data directory.
-{: .note}
 
 
 
@@ -159,8 +154,7 @@ Feel free to refer to the example that we saw earlier:
 ├── Project-Folder/
 |   ├── _README.md                  
 |   ├── Experiment-Data/
-|   |   ├── _DATA-DICTIONARY.md     
-|   |   ├── _README.txt             
+|   |   ├── _DATA-DICTIONARY.md            
 |   |   ├── File-1
 |   |   ├── File-2
 |   ├── Experiment-Analysis/
