@@ -107,7 +107,7 @@ How you write your README is as important as the information you include. Always
 - Use descriptive titles
 - Be specific and quantify
 - Use appropriate and specific keywords
-- Make it machine-readable (avoid special characters)
+- Make it <a href="https://ubc-library-rc.github.io/rdm/content/01_file_naming.html#1--machine-readable" target="_blank">machine-readable </a> (avoid special characters)
 
 <p style="margin-bottom: 25px"></p>
 
