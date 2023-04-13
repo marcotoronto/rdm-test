@@ -141,7 +141,8 @@ In addition to choosing between open and proprietary formats, file quality, the 
 Please help us to preserve datasets for the long term.
   
 Access a dataset:  
->Koralesky, Katherine; Sirovica, Lara; Hendricks, Jillian; Mills, Katelyn; von Keyserlingk, Marina; Weary, Daniel, 2022, "Social Acceptance of Genetic Engineering Technology", <https://doi.org/10.5683/SP3/NX3LZ9>, Borealis, V2
+>Koralesky, Katherine; Sirovica, Lara; Hendricks, Jillian; Mills, Katelyn; von Keyserlingk, Marina; Weary, Daniel, 2022, "Social Acceptance of Genetic Engineering Technology", <a href="https://doi.org/10.5683/SP3/NX3LZ9" target="_blank">https://doi.org/10.5683/SP3/NX3LZ9</a>, Borealis, V2
+
 
 <p style="margin-bottom: 20px"></p>
 <img src="figures/dna.jpg" width="300" style="margin-left:30px"/>
