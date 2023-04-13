@@ -49,8 +49,8 @@ Please help us to make sense of a dataset.
   
 Access a dataset:  
 
->Clark, Luke, 2019, "Role Reversal: The Influence of Slot Machine Gambling on Subsequent Alcohol Consumption", <https://doi.org/10.5683/SP2/SLOY0N>, Borealis, V1, UNF:6:zsehCAz4agntvPwDZF03OA== [fileUNF]  
-  
+>Clark, Luke, 2019, "Role Reversal: The Influence of Slot Machine Gambling on Subsequent Alcohol Consumption", <a href="https://doi.org/10.5683/SP2/SLOY0N" target="_blank">, Borealis, V1, UNF:6:zsehCAz4agntvPwDZF03OA== [fileUNF]  
+
 Download the data file <b>"Gambling_Alcohol_Study 1_Archive.tab"</b> in the <b>Original File Format</b>. Examining the data, try to answer the following questions:
 1. Describe different gambling conditions in this study.
 2. A variable named "ResultingBAC", what does it mean?
