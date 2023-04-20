@@ -74,9 +74,9 @@ Click [here](03_create_readme.md) to review how to create a README file!
 
 <p style="margin-bottom: 30px"></p>
 
-## Two Types of files needed to store all metadata
+## Two types of files needed to store all metadata
 1. ```_README``` file which resides in our **root directory** and elaborates on the contents of our folder structure, discusses how, where, and who did the data collection.
-2. ```_DATA-DICTIONARY``` file that also resides in our data directory and elaborates on how our data is stored and organized.
+2. ```_DATA-DICTIONARY``` file that resides in our **data directory** and elaborates on how our data is stored and organized.
 
 Visually, the stucture looks like this:
 
