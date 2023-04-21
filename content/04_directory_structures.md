@@ -39,7 +39,7 @@ Instead of keeping every document in a single place, we often organize our files
   
 A typical directory structure is composed of a **root directory** (i.e. top-level folder), **subdirectories** (i.e. subfolders), and relevant **files**.
 
-The structure looks like this:   
+Usually, we separate data, analysis, and reports into stand-alone subdirectories under the project's root directory. The structure looks like this:   
 
 ```
 ├── Project-Folder/
@@ -78,7 +78,7 @@ Click [here](03_create_readme.md) to review how to create a README file!
 1. ```_README``` file which resides in our **root directory** and elaborates on the contents of our folder structure, discusses how, where, and who did the data collection.
 2. ```_DATA-DICTIONARY``` file that resides in our **data directory** and elaborates on how our data variables are defined and described.
 
-Visually, the stucture looks like this:
+The stucture looks like this:
 
 ```
 ├── Project-Folder/
@@ -99,14 +99,14 @@ Visually, the stucture looks like this:
 
 ### Naming
 {: .no_toc}
-```_README``` and ```_DATA-DICTIONARY``` should be the first things you look at when looking at any directory or folder, as this is your guide to its contents. Therefore these files should
+```Readme files``` and ```data dictionaries``` should be the first things you look at when looking at any directory or folder, as this is your guide to its contents. Therefore these files should
 - Be prepended with an underscore "_". This will push these files to the top of the directory for easy access;
 - Be in all caps, so they really stand out.
 
 
 ### Format
 {: .no_toc}
-```_README``` and ```_DATA-DICTIONARY``` files should be written in <b>plain text</b>, for this will ensure that the files describing your project can be opened on any computer. You will often see readme files called ```_README.txt``` or ```_README.md```.
+```Readme files``` and ```data dictionaries``` should be written in <b>plain text</b>, for this will ensure that the files describing your project can be opened on any computer. You will often see readme files called ```_README.txt``` or ```_README.md```.
 
 <p style="margin-bottom: 30px"></p>
 
