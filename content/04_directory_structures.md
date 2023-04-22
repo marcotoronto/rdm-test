@@ -17,6 +17,12 @@ Now, let’s pretend that you store everything on your computer in one single fo
 
 Instead of keeping every document in a single place, we often organize our files using directory or folder structures. This helps us save precious time and improve our productivity. Organizing folders can also help us collaborate more effectively by ensuring that everyone can find the files they need.
 
+<p style="margin-bottom: 20px"></p>
+
+Looking for a cheat sheet? Check out our <a href="https://osf.io/5br6a" target="_blank">one-pager</a>!
+{: .note}
+
+
 <details open markdown="block">
   <summary>
     Table of contents
