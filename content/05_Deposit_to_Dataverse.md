@@ -94,7 +94,7 @@ Depending on your user permissions, you will have a button for either:
 - **Submit for Review** (the draft dataset is re-viewed by a research data admins)
 - **Publish** (makes the dataset publicly available)
 
-Changes made to Files, Metadata, or Terms **after publishing** your dataset will be saved as a Draft version. Click `Publish` again to make the changes go live; the new version will supersede the old. Admin assistance is needed to un-publish a dataset, so be sure before Submitting or .
+Changes made to Files, Metadata, or Terms **after publishing** your dataset will be saved as a Draft version. Click `Publish` again to make the changes go live; the new version will supersede the old. Admin assistance is needed to un-publish a dataset, so be sure before Submitting or Publishing.
 
 
 <br>
