@@ -68,6 +68,7 @@ The following step-by-step instructions will lead you to practice depositing dat
 ## *2*{: .circle .circle-red} &nbsp;Add & Edit Data
 
 ### 1. Choose the dataverse you want to deposit data into. (choose `Research Commons Workshops Dataverse` for practice purpose) 
+{: .no_toc }
 
 You can find dataverses via: 
 <p style="margin-bottom:25px; margin-left:30px">
@@ -77,6 +78,7 @@ You can find dataverses via:
 
 
 ### 2. Create a new dataset
+{: .no_toc }
 
 - Choose `+Add Data` > `New Dataset` (not New Dataverse) from the dropdown menu
 
@@ -94,6 +96,8 @@ If desired, fill in additional metadata fields. *Recommended: Keywords, Related 
 You can save the dataset without adding any files. 
 
 ### 3. Upload data files
+{: .no_toc }
+
 The Files section is at the bottom of the page, below the Citation Metadata.
 
 - `Drag and drop files` from your desktop, or `+Select Files` to Add, or Upload from Dropbox.
@@ -103,12 +107,14 @@ The Files section is at the bottom of the page, below the Citation Metadata.
 - Describe the files: Title, Description, Tags. Remember that people can’t use your data if they don’t know what it is!
 
 ### 4. save changes
+{: .no_toc }
 
 Click `Save Changes` button. This saves the dataset in **Draft** form; it is **not yet published** nor publicly visible.
 
 Once a dataset is published, Dataverse assigns a **DOI** to permanently identify it. You can also assign a **Private URL** to share with a journal without publishing the data. 
 
 ### 5. Edit your dataset  
+{: .no_toc }
 
 You can edit elements of your dataset at any time using the `Files`, `Metadata`, and `Terms` (license and use permissions) tabs at the bottom of the page. 
 Files can be `Restricted` or `Embargoed` so they are available only on request.
