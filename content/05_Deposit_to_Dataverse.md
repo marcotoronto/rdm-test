@@ -6,6 +6,7 @@ nav_order: 7
 
 <p style="margin-top:25px">
 <img src="figures/work-in-progress.png" width="600"/>
+</p>
 
 # What is UBC Dataverse Collection?
 {: .no_toc }
@@ -13,8 +14,6 @@ nav_order: 7
 <p style="margin-top:20px"></p>
 
 <a href="https://borealisdata.ca" target="_blank">Borealis</a>, the Canadian Dataverse Repository, is a bilingual, multidisciplinary, secure, Canadian research data repository, supported by academic libraries and research institutions across Canada. Borealis supports open discovery, management, sharing, and preservation of Canadian research data stored entirely on Canadian servers. 
-
-
 
 <b>UBC Dataverse Collection</b> is a cross-disciplinary research data repository on Borealis. Datasets in the dataverse collection are discoverable by Google, UBC Library Summon, FRDR, DataCite, and much more. It is an open-source application to publish, share, reference, cite, extract and analyze research data. 
 
@@ -41,12 +40,10 @@ Looking for a cheat sheet? Check out our <a href="https://osf.io/sczv5" target="
 
 <p style="margin-bottom: 25px"></p>
 
-
-The following step-by-step instructions will lead you to practice depositing data in a dataverse instance. To deposit your actual datasets,  visit `https://borealisdata.ca`.
+The following step-by-step instructions will lead you to practice depositing data in a dataverse instance. To deposit your actual datasets, visit `https://borealisdata.ca`.
 {: .warn}
 
 ## *1*{: .circle .circle-blue} &nbsp;Create Account
-
 
 1. Go to <a href="https://demo.borealisdata.ca/dataverse/ubc" target="_blank">the pratice mode of Borealis</a> > Login (at top right)
 2. Locate UBC and use your CWL to create an account. You will be redirected to the UBC Dataverse Collection.
