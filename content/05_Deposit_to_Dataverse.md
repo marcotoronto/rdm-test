@@ -42,18 +42,9 @@ Looking for a cheat sheet? Check out our <a href="https://osf.io/sczv5" target="
 
 <p style="margin-bottom: 25px"></p>
 
-*1*{: .circle .circle-blue} &nbsp;Create Account
-
-*2*{: .circle .circle-red} &nbsp;Add & Edit Data
-
-*3*{: .circle .circle-yellow} &nbsp;Publish Dataset
-
-*4*{: .circle .circle-green} &nbsp;Cite Dataset
-
-<br>
 
 The following step-by-step instructions will lead you to practice depositing data in a dataverse instance. To deposit your actual datasets,  visit `https://borealisdata.ca`.
-{: .Warn}
+{: .warn}
 
 <br>
 
