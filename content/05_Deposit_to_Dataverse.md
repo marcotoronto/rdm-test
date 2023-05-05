@@ -4,12 +4,11 @@ title: Deposit in UBC Dataverse
 nav_order: 7
 ---
 
+<p style="margin-top:25px">
+<img src="figures/work-in-progress.png" width="600"/>
+
 # What is UBC Dataverse Collection?
 {: .no_toc }
-
-<p style="margin-top:25px">
-<img src="figures/borealis-logo.png" width="200"/> &nbsp;&nbsp;&nbsp;&nbsp; <img src="figures/ubc-logo.png" width="200"/>
-</p> 
 
 <p style="margin-top:20px"></p>
 
@@ -46,8 +45,6 @@ Looking for a cheat sheet? Check out our <a href="https://osf.io/sczv5" target="
 The following step-by-step instructions will lead you to practice depositing data in a dataverse instance. To deposit your actual datasets,  visit `https://borealisdata.ca`.
 {: .warn}
 
-<br>
-
 ## *1*{: .circle .circle-blue} &nbsp;Create Account
 
 
@@ -61,23 +58,27 @@ The following step-by-step instructions will lead you to practice depositing dat
 ### 1. Choose the dataverse you want to deposit data into. (choose `Research Commons Workshops Dataverse` for practice purpose) 
 {: .no_toc }
 
+<p style="margin-bottom: 10px"></p>
+
 You can find dataverses via: 
 <p style="margin-bottom:25px; margin-left:30px">
 <img src="figures/borealis-find-dataverse.png" width="600"/></p>
 
-    If you need to deposit into another dataverse or create a stand-alone dataverse, please email Research Data Team at research.data@ubc.ca.
 
+  If you need to deposit into another dataverse or create a stand-alone dataverse, please email Research Data Team at research.data@ubc.ca.
+
+<p style="margin-bottom: 25px"></p>
 
 ### 2. Create a new dataset
 {: .no_toc }
+
+<p style="margin-bottom: 10px"></p>
 
 - Choose `+Add Data` > `New Dataset` (not New Dataverse) from the dropdown menu
 
 - Select a dataset Template for the desired Creative Commons license (default license is CC0)
 
-Be Aware
-{: .label .label-green }
-  Selecting a template will clear all other data fields, so do this first.
+  Selecting a template will clear all other data fields, so do this first. {: .warn}
 
 - Fill in **Required Metadata** fields marked with a *.
 
