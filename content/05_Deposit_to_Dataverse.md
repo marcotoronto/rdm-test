@@ -27,7 +27,7 @@ Looking for a cheat sheet? Check out our <a href="https://osf.io/sczv5" target="
 
 <details open markdown="block">
   <summary>
-    Table of contents
+    How to deposit in UBC Dataverse Collection?
   </summary>
   {: .text-delta }
  - TOC
@@ -37,11 +37,12 @@ Looking for a cheat sheet? Check out our <a href="https://osf.io/sczv5" target="
 ---
 
 # How to deposit in UBC Dataverse Collection?
+{: .no_toc}
 
 <p style="margin-bottom: 25px"></p>
 
 The following step-by-step instructions will lead you to practice depositing data in a dataverse instance. To deposit your actual datasets, visit `https://borealisdata.ca`.
-{: .highlight}
+{: .highlight }
 
 ## Here is a dataset for you to practice depositing
 {: .no_toc}
@@ -111,7 +112,7 @@ If you need to deposit into another dataverse or create a stand-alone dataverse,
 - Fill in <b>required metadata</b> fields marked with a *.
 
 If desired, fill in additional metadata fields. *Recommended: Keywords, Related Publications*. Many more metadata fields become available for editing after your dataset is saved.
-{: .highlight}
+{: .highlight }
 
 - Click `Save Changes` button. This saves the dataset in **Draft** form; it is **not yet published** nor publicly visible. You can save the dataset without uploading files. 
 
@@ -135,7 +136,7 @@ You can upload files via:
 
 <b>Max file size: 3Gb</b>. If your files are too large, try putting them into a Zip file(s), or contact research.data@ubc.ca for help.
 
-{: .note-title}
+{: .note-title }
 > Describe the files
 > 
 > Describe each uploaded files with Title, Description, Tags. 
@@ -166,7 +167,7 @@ You can also assign a **Private URL** to share with a journal without publishing
 
 
 
-## *4*{: .circle .circle-purple} &nbsp;Edit Your Dataset  
+## *4*{: .circle .circle-purple} &nbsp;Edit Dataset  
 
 You can edit elements of your dataset at any time using the `Files`, `Metadata`, and `Terms` (license and use permissions) tabs at the bottom of the page. 
   
@@ -174,7 +175,9 @@ Files can be `Restricted` or `Embargoed` so they are available only on request.
 
 Changes made to Files, Metadata, or Terms <b>after publishing</b> your dataset will be saved as a Draft version. Click `Submit for Review` or `Publish` again to make the changes go live; the new version will supersede the old.
 
+
 Admin assistance is needed to un-publish a dataset, so be sure before Submitting or Publishing.
+{: .warn }
 
 
 <br>
