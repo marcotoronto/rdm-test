@@ -42,7 +42,7 @@ Looking for a cheat sheet? Check out our <a href="https://osf.io/sczv5" target="
 <p style="margin-bottom: 25px"></p>
 
 The following step-by-step instructions will lead you to practice depositing data in a dataverse instance. To deposit your actual datasets, visit `https://borealisdata.ca`.
-{: .note }
+{: .warn }
 
 ## Here is a dataset for you to practice depositing
 {: .no_toc}
@@ -173,10 +173,6 @@ Changes made to Files, Metadata, or Terms <b>after publishing</b> your dataset w
 
 Admin assistance is needed to un-publish a dataset, so be sure before Submitting or Publishing.
 {: .warn }
-
-
-<br>
-
 
 
 
