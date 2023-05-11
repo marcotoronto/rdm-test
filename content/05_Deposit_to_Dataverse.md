@@ -22,7 +22,7 @@ UBC Library can create a Dataverse setup for your research group where you can a
 <p style="margin-bottom: 20px"></p>
 
 Looking for a cheat sheet? Check out our <a href="https://osf.io/sczv5" target="_blank">one-pager</a>!
-{: .note}
+{: .note }
 
 
 <details open markdown="block">
@@ -42,7 +42,7 @@ Looking for a cheat sheet? Check out our <a href="https://osf.io/sczv5" target="
 <p style="margin-bottom: 25px"></p>
 
 The following step-by-step instructions will lead you to practice depositing data in a dataverse instance. To deposit your actual datasets, visit `https://borealisdata.ca`.
-{: .highlight }
+{: .note }
 
 ## Here is a dataset for you to practice depositing
 {: .no_toc}
@@ -112,7 +112,7 @@ If you need to deposit into another dataverse or create a stand-alone dataverse,
 - Fill in <b>required metadata</b> fields marked with a *.
 
 If desired, fill in additional metadata fields. *Recommended: Keywords, Related Publications*. Many more metadata fields become available for editing after your dataset is saved.
-{: .highlight }
+{: .note }
 
 - Click `Save Changes` button. This saves the dataset in **Draft** form; it is **not yet published** nor publicly visible. You can save the dataset without uploading files. 
 
@@ -136,12 +136,7 @@ You can upload files via:
 
 <b>Max file size: 3Gb</b>. If your files are too large, try putting them into a Zip file(s), or contact research.data@ubc.ca for help.
 
-{: .note-title }
-> Describe the files
-> 
-> Describe each uploaded files with Title, Description, Tags. 
-> 
-> Remember that people can’t use your data if they don’t know what it is!
+<b>Describe the files</b>: Title, Description, Tags. Remember that people can’t use your data if they don’t know what it is!
 
 
 
@@ -208,6 +203,8 @@ Copy and paste, or use the `Cite Dataset` button to export the citation into End
 
 # Congrats!
 {: .no_toc }
+
+Now you know how to deposit your dataset in UBC Dataverse Collection!
 
 <p style="margin-top:25px;margin-left:30px">
 <img src="figures/congrats.jpg" width="300"/>
