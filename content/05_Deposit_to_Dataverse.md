@@ -41,21 +41,26 @@ Looking for a cheat sheet? Check out our <a href="https://osf.io/sczv5" target="
 <p style="margin-bottom: 25px"></p>
 
 The following step-by-step instructions will lead you to practice depositing data in a dataverse instance. To deposit your actual datasets, visit `https://borealisdata.ca`.
-{: .warn}
+{: .highlight}
 
-## Below is a dataset for you to practice depositing
+## Here is a dataset for you to practice depositing
+{: .no_toc}
+
+<p style="margin-bottom: 10px"></p>
 
 Title
 {: .label .label-green}
 
 UBC Farm Monthly Bird Surveys
 
+
 Abstract
 {: .label .label-green}
 
 Nature Vancouver, a not-for-profit charitable society based in Vancouver, BC, has conducted monthly bird surveys at UBC Farm since March 2007, in part to record the seasonal bird species over the year in nine different habitat areas of the Farm. Surveys occur on the third Sunday of the month starting at 8am (March to September) or 9am (October to February) and typically last two to three hours. Bird occurrences are recorded by genus and species, or when identification is not clear, then simply to genus. The nine stations of the farm include the market garden fields, the herb and flower gardens, the biodiversity hedgerows, and the forested portion of the farm.
 
-Download the Files
+
+Click to Download the Files
 {: .label .label-green}
 
 - <a download href="exercise_files\NatureVancouverBirdRecords.csv" target="_blank"> The Data file</a>
@@ -71,7 +76,9 @@ Download the Files
 
 <br>
 
-## *2*{: .circle .circle-red} &nbsp;Add & Edit Data
+## *2*{: .circle .circle-red} &nbsp;Create Dataset
+
+<p style="margin-bottom: 10px"></p>
 
 ### 1. Choose the dataverse you want to deposit data into.
 {: .no_toc }
@@ -104,7 +111,7 @@ If you need to deposit into another dataverse or create a stand-alone dataverse,
 - Fill in <b>required metadata</b> fields marked with a *.
 
 If desired, fill in additional metadata fields. *Recommended: Keywords, Related Publications*. Many more metadata fields become available for editing after your dataset is saved.
-{: .note}
+{: .highlight}
 
 - Click `Save Changes` button. This saves the dataset in **Draft** form; it is **not yet published** nor publicly visible. You can save the dataset without uploading files. 
 
@@ -118,23 +125,31 @@ If desired, fill in additional metadata fields. *Recommended: Keywords, Related 
 ### 3. Upload data files
 {: .no_toc }
 
+<p style="margin-bottom: 10px"></p>
+
 The Files section is at the bottom of the page. 
 
 You can upload files via:
 <p style="margin-bottom:25px; margin-left:30px">
 <img src="figures/dataset_file_upload.png" width="500"/></p>
 
-Max file size: 3Gb. If your files are too large, try putting them into a Zip file(s), or contact research.data@ubc.ca for help.
+<b>Max file size: 3Gb</b>. If your files are too large, try putting them into a Zip file(s), or contact research.data@ubc.ca for help.
 
-Describe the files: Title, Description, Tags. Remember that people can’t use your data if they don’t know what it is!
+{: .note-title}
+> Describe the files
+> 
+> Describe each uploaded files with Title, Description, Tags. 
+> 
+> Remember that people can’t use your data if they don’t know what it is!
+
 
 
 <p style="margin-bottom: 30px"></p>
 
 
 
-### 4. Submit or Publish
-{: .no_toc }
+## *3*{: .circle .circle-yellow} &nbsp;Submit or Publish Dataset
+
 
 Depending on your user permissions, you will have a button for either:
 - `Submit for Review` (the draft dataset is re-viewed by a research data admins)
@@ -151,8 +166,7 @@ You can also assign a **Private URL** to share with a journal without publishing
 
 
 
-### 5. Edit your dataset  
-{: .no_toc }
+## *4*{: .circle .circle-purple} &nbsp;Edit Your Dataset  
 
 You can edit elements of your dataset at any time using the `Files`, `Metadata`, and `Terms` (license and use permissions) tabs at the bottom of the page. 
   
@@ -171,7 +185,7 @@ Admin assistance is needed to un-publish a dataset, so be sure before Submitting
 <p style="margin-top:25px;margin-left:30px">
 <img src="figures/reusable.png" width="200"/> </p> 
 
-## *4*{: .circle .circle-green} &nbsp;Cite Dataset
+## *5*{: .circle .circle-green} &nbsp;Cite Dataset
 
 <p style="margin-bottom: 10px"></p>
 
