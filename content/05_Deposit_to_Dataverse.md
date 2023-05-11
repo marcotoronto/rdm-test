@@ -43,10 +43,31 @@ Looking for a cheat sheet? Check out our <a href="https://osf.io/sczv5" target="
 The following step-by-step instructions will lead you to practice depositing data in a dataverse instance. To deposit your actual datasets, visit `https://borealisdata.ca`.
 {: .warn}
 
+Below is your practice dataset:
+
+Title
+{: .label .label-green}
+
+UBC Farm Monthly Bird Surveys
+
+Abstract
+{: .label .label-green}
+
+Nature Vancouver, a not-for-profit charitable society based in Vancouver, BC, has conducted monthly bird surveys at UBC Farm since March 2007, in part to record the seasonal bird species over the year in nine different habitat areas of the Farm. Surveys occur on the third Sunday of the month starting at 8am (March to September) or 9am (October to February) and typically last two to three hours. Bird occurrences are recorded by genus and species, or when identification is not clear, then simply to genus. The nine stations of the farm include the market garden fields, the herb and flower gardens, the biodiversity hedgerows, and the forested portion of the farm.
+
+Files
+{: .label .label-green}
+
+- <a download href="exercise_files\NatureVancouverBirdRecords.csv" target="_blank"> The Data file</a>
+
+- <a download href="exercise_files\NatureVancouverMonthlyBirdSurveys_Metadata.pdf" target="_blank"> The metadata/data dictionary file</a>
+
+<br>
+
 ## *1*{: .circle .circle-blue} &nbsp;Create Account
 
 1. Go to <a href="https://demo.borealisdata.ca/dataverse/ubc" target="_blank">the pratice mode of Borealis</a> > Login (at top right)
-2. Locate UBC and use your CWL to create an account. You will be redirected to the UBC Dataverse Collection.
+2. Locate UBC and use your CWL to create an account. You will be redirected to the <b>UBC Dataverse Collection</b>.
 
 <br>
 
@@ -64,7 +85,7 @@ You can find dataverses via:
 
   If you need to deposit into another dataverse or create a stand-alone dataverse, please email Research Data Team at research.data@ubc.ca.
 
-<p style="margin-bottom: 25px"></p>
+<p style="margin-bottom: 30px"></p>
 
 ### 2. Create a new dataset
 {: .no_toc }
@@ -73,40 +94,45 @@ You can find dataverses via:
 
 - Choose `+Add Data` > `New Dataset` (not New Dataverse) from the dropdown menu
 
-- Select a dataset Template for the desired Creative Commons license (default license is CC0)
+- Select a <b>dataset template</b> for the desired Creative Commons license (default license is CC0). Selecting a template will clear all other data fields, so do this first. 
 
-  Selecting a template will clear all other data fields, so do this first. {: .warn}
-
-- Fill in **Required Metadata** fields marked with a *.
+- Fill in <b>required metadata</b> fields marked with a *.
 
 If desired, fill in additional metadata fields. *Recommended: Keywords, Related Publications*. Many more metadata fields become available for editing after your dataset is saved.
 {: .note}
 
-You can save the dataset without adding any files. 
+
+<p style="margin-bottom: 30px"></p>
 
 ### 3. Upload data files
 {: .no_toc }
 
-The Files section is at the bottom of the page, below the Citation Metadata.
+The Files section is at the bottom of the page. You can save the dataset without uploading files. 
 
-- `Drag and drop files` from your desktop, or `+Select Files` to Add, or Upload from Dropbox.
+You can upload files via:
+<p style="margin-bottom:25px; margin-left:30px">
+<img src="figures/dataset_file_upload.png" width="600"/></p>
 
-- Max file size: 3Gb. If your files are too large, try      putting them into a Zip file(s), or contact <research.data@ubc.ca> for help.
+- Max file size: 3Gb. If your files are too large, try putting them into a Zip file(s), or contact research.data@ubc.ca for help.
 
 - Describe the files: Title, Description, Tags. Remember that people can’t use your data if they don’t know what it is!
 
-### 4. save changes
+<p style="margin-bottom: 30px"></p>
+
+### 4. Save changes
 {: .no_toc }
 
-Click `Save Changes` button. This saves the dataset in **Draft** form; it is **not yet published** nor publicly visible.
+- Click `Save Changes` button. This saves the dataset in **Draft** form; it is **not yet published** nor publicly visible.
+- Once a dataset is reviewed and published by a research data admins, Dataverse assigns a **DOI** to permanently identify the dataset. 
+- You can also assign a **Private URL** to share with a journal without publishing the data. 
 
-Once a dataset is published, Dataverse assigns a **DOI** to permanently identify it. You can also assign a **Private URL** to share with a journal without publishing the data. 
+<p style="margin-bottom: 30px"></p>
 
 ### 5. Edit your dataset  
 {: .no_toc }
 
-You can edit elements of your dataset at any time using the `Files`, `Metadata`, and `Terms` (license and use permissions) tabs at the bottom of the page. 
-Files can be `Restricted` or `Embargoed` so they are available only on request.
+- You can edit elements of your dataset at any time using the `Files`, `Metadata`, and `Terms` (license and use permissions) tabs at the bottom of the page. 
+- Files can be `Restricted` or `Embargoed` so they are available only on request.
 
 <br>
 
