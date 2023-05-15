@@ -15,9 +15,9 @@ nav_order: 7
 
 <a href="https://borealisdata.ca" target="_blank">Borealis</a>, the Canadian Dataverse Repository, is a bilingual, multidisciplinary, secure, Canadian research data repository, supported by academic libraries and research institutions across Canada. Borealis supports open discovery, management, sharing, and preservation of Canadian research data stored entirely on Canadian servers. 
 
-<b>UBC Dataverse Collection</b> is a cross-disciplinary research data collection on Borealis. Datasets in the dataverse collection are discoverable by Google, UBC Library Summon, FRDR, DataCite, and much more. It is an open-source application to publish, share, reference, cite, extract and analyze research data. 
+<b>UBC Dataverse Collection</b> is a cross-disciplinary research data collection on Borealis. Datasets in the Dataverse collection are discoverable by Google, UBC Library Summon, FRDR, DataCite, and much more. It is an open-source application to publish, share, reference, cite, extract and analyze research data. 
 
-UBC Library can create a Dataverse setup for your research group where you can actively manage your data, share it securely with colleagues, provide version control, establish a permanent data citation, get a DOI for your dataset, and more. All Dataverse files are digitally preserved.
+UBC Library can create a Dataverse setup for your research group where you can actively manage your data, share it securely with colleagues, provide version control, establish a permanent data citation, get a DOI for your dataset, and more. All Dataverse files are digitally preserved (Level 1 preservation).
 
 <p style="margin-bottom: 20px"></p>
 
@@ -54,6 +54,10 @@ Title
 
 UBC Farm Monthly Bird Surveys
 
+Author(s)
+{: .label .label-green}
+
+Nature Vancouver
 
 Abstract
 {: .label .label-green}
@@ -135,6 +139,9 @@ You can upload files now:
 
 <b>Max file size: 3Gb</b>. If your files are too large, try putting them into a Zip file(s), or contact research.data@ubc.ca for help.
 
+By default, the software will unzip your directory. If you want to preserve directory structure, you can double-zip that directory before uploading
+{: .note }
+
 <b>Describe the files</b>: Title, Description, Tags. Remember that people can’t use your data if they don’t know what it is!
 
 
@@ -152,7 +159,7 @@ Depending on your user permissions, you will have a button for either:
 
 Once a dataset is published, Dataverse assigns a **DOI** to permanently identify the dataset.  
 
-We can also assign a **Private URL** to share with a journal without publishing the data. 
+We can also assign a **Private URL** to share with a journal and/or peer-reviewers without publishing the data. 
 
 
 
@@ -198,7 +205,7 @@ Copy and paste, or use the `Cite Dataset` button to export the citation into End
 # Congrats!
 {: .no_toc }
 
-Now you know how to deposit your dataset in UBC Dataverse Collection!
+Now you know how to deposit your dataset in a **Demo** UBC Dataverse Collection!
 
 <p style="margin-top:25px;margin-left:30px">
 <img src="figures/congrats.jpg" width="300"/>
