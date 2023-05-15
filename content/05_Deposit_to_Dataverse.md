@@ -181,8 +181,7 @@ Admin assistance is needed to un-publish a dataset, so be sure before Submitting
 {: .warn }
 
 
-<p style="margin-top:20px;margin-left:30px">
-<img src="figures/reusable.png" width="200"/> </p> 
+
 
 ## *5*{: .circle .circle-green} &nbsp;Cite Dataset
 
