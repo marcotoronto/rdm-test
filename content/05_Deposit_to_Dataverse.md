@@ -139,7 +139,7 @@ You can upload files now:
 
 <b>Max file size: 3Gb</b>. If your files are too large, try putting them into a Zip file(s), or contact research.data@ubc.ca for help.
 
-By default, the software will unzip your directory. If you want to preserve directory structure, you can double-zip that directory before uploading
+By default, the software will unzip your directory upon upload. If you want to preserve directory structure, you can double-zip that directory before uploading
 {: .note }
 
 <b>Describe the files</b>: Title, Description, Tags. Remember that people can’t use your data if they don’t know what it is!
