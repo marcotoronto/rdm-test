@@ -137,7 +137,7 @@ You can upload files now:
 <p style="margin-bottom:25px; margin-left:30px">
 <img src="figures/dataset_file_upload.png" width="500"/></p>
 
-<b>Max file size: 3Gb</b>. If your files are too large, try putting them into a Zip file(s), or contact `mailto:research.data@ubc.ca` for help.
+<b>Max file size: 3Gb</b>. If your files are too large, try putting them into a Zip file(s), or contact `research.data@ubc.ca` for help.
 
 By default, the software will unzip your directory upon upload. If you want to preserve directory structure, you can double-zip that directory before uploading
 {: .note }
