@@ -8,7 +8,7 @@ nav_order: 7
 <img src="figures/work-in-progress.png" width="600"/>
 </p>
 
-# What is UBC Dataverse Collection?
+# What is UBC Dataverse Collection @Borealis?
 {: .no_toc }
 
 <p style="margin-top:20px"></p>
@@ -41,10 +41,10 @@ Looking for a cheat sheet? Check out our <a href="https://osf.io/sczv5" target="
 
 <p style="margin-bottom: 25px"></p>
 
-The following step-by-step instructions will lead you to practice depositing data in a Demo UBC Dataverse instance. To deposit your actual datasets, visit `https://borealisdata.ca`.
+The following step-by-step instructions will allow you to practice depositing data in a **Demo** UBC Dataverse instance. To deposit your actual datasets, visit `https://borealisdata.ca`.
 {: .warn }
 
-## Here is a dataset for you to practice depositing
+## Practice Dataset
 {: .no_toc}
 
 <p style="margin-bottom: 10px"></p>
@@ -72,7 +72,7 @@ Click to Download the Files
 
 ## *1*{: .circle .circle-blue} &nbsp;Create Account
 
-1. Go to <a href="https://demo.borealisdata.ca/dataverse/ubc" target="_blank">the pratice mode of Borealis</a> > Login (at top right)
+1. Go to <a href="https://demo.borealisdata.ca/dataverse/ubc" target="_blank">the Borealis **Demo** </a> > Login (at top right)
 2. Locate UBC and use your CWL to create an account. You will be redirected to the <b>UBC Dataverse Collection</b>.
 
 <br>
@@ -84,13 +84,12 @@ Click to Download the Files
 ### 1. Choose the dataverse you want to deposit data into.
 {: .no_toc }
 
-Choose `Research Commons Workshops Dataverse` for practice purpose
+Choose `Research Commons Workshops Dataverse` for this exercise
 
 You can find dataverses via: 
 <p style="margin-bottom:25px; margin-left:30px">
 <img src="figures/borealis-find-dataverse.png" width="500"/></p>
 
-If you need to deposit into another dataverse or create a stand-alone dataverse, please email Research Data Team at research.data@ubc.ca.
 
 <p style="margin-bottom: 30px"></p>
 
@@ -130,7 +129,7 @@ If desired, fill in additional metadata fields. *Recommended: Keywords, Related 
 
 The Files section is at the bottom of the page. 
 
-You can upload files via:
+You can upload files now:
 <p style="margin-bottom:25px; margin-left:30px">
 <img src="figures/dataset_file_upload.png" width="500"/></p>
 
@@ -153,7 +152,7 @@ Depending on your user permissions, you will have a button for either:
 
 Once a dataset is published, Dataverse assigns a **DOI** to permanently identify the dataset.  
 
-You can also assign a **Private URL** to share with a journal without publishing the data. 
+We can also assign a **Private URL** to share with a journal without publishing the data. 
 
 
 
