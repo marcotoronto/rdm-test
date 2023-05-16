@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Basic Deposit
-parent: 05_Deposit_to_Dataverse
+parent: Deposit in UBC Dataverse Collection
 nav_order: 1
 ---
 
@@ -9,9 +9,9 @@ nav_order: 1
 <img src="figures/work-in-progress.png" width="600"/>
 </p>
 
-
 Looking for a cheat sheet? Check out our <a href="https://osf.io/sczv5" target="_blank">one-pager</a>!
 {: .note }
+
 
 
 <details open markdown="block">
