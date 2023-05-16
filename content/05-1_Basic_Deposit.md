@@ -9,10 +9,6 @@ nav_order: 1
 <img src="figures/work-in-progress.png" width="600"/>
 </p>
 
-Looking for a cheat sheet? Check out our <a href="https://osf.io/sczv5" target="_blank">one-pager</a>!
-{: .note }
-
-
 
 <details open markdown="block">
   <summary>
@@ -23,7 +19,12 @@ Looking for a cheat sheet? Check out our <a href="https://osf.io/sczv5" target="
 {:toc}
 </details>
 
+Looking for a cheat sheet? Check out our <a href="https://osf.io/sczv5" target="_blank">one-pager</a>!
+{: .note }
+
+
 ---
+
 
 # How to deposit in UBC Dataverse Collection?
 {: .no_toc}
@@ -137,7 +138,7 @@ By default, the software will unzip your directory upon upload. If you want to p
 
 
 
-<p style="margin-bottom: 30px"></p>
+<br>
 
 
 
@@ -155,7 +156,7 @@ We can also assign a **Private URL** to share with a journal and/or peer-reviewe
 
 
 
-<p style="margin-bottom: 30px"></p>
+<br>
 
 
 
@@ -175,6 +176,7 @@ Admin assistance is needed to un-publish a dataset, so be sure before Submitting
 {: .warn }
 
 
+<br>
 
 
 ## *5*{: .circle .circle-green} &nbsp;Cite Dataset
