@@ -5,10 +5,6 @@ parent: Deposit in UBC Dataverse Collection
 nav_order: 1
 ---
 
-<p style="margin-top:25px">
-<img src="figures/work-in-progress.png" width="600"/>
-</p>
-
 
 <details open markdown="block">
   <summary>
