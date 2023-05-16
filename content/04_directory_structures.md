@@ -1,6 +1,6 @@
 ---
 layout: default
-title: - Directory Structures
+title: Directory Structures
 nav_order: 6
 ---
 
