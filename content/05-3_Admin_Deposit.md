@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Admin Deposit
-parent: 05_Deposit_to_Dataverse
+parent: Deposit in UBC Dataverse Collection
 nav_order: 3
 ---
 

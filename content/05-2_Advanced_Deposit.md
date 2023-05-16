@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Advanced Deposit
-parent: 05_Deposit_to_Dataverse
+parent: Deposit in UBC Dataverse Collection
 nav_order: 2
 ---
 
