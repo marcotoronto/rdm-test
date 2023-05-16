@@ -217,5 +217,4 @@ Now you know how to deposit your dataset in a **Demo** UBC Dataverse Collection!
 ---
 
 
-### Sources
-{: .no_toc }
+
