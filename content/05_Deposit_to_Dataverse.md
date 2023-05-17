@@ -2,7 +2,7 @@
 layout: default
 title: Deposit in UBC Dataverse Collection
 has_children: true
-nav_order: 7
+nav_order: 8
 ---
 
 # What is UBC Dataverse Collection @Borealis?

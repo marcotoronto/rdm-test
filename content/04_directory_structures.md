@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Directory Structures
-nav_order: 6
+nav_order: 7
 ---
 
 # Why are structured directories important?

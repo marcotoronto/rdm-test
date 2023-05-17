@@ -1,7 +1,7 @@
 ---
 layout: default
 title: File Formats
-nav_order: 4
+nav_order: 5
 ---
 
 # File Formats for Data Curation
