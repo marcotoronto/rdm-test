@@ -7,8 +7,7 @@ nav_order: 1
 
 <br>
 
-<a href="https://borealisdata.ca/dataverse/ubc" target="_blank"><b>UBC Dataverse Collection</b> </a>is a cross-disciplinary res
-earch data collection on Borealis. Datasets in the Dataverse collection are discoverable by Google, UBC Library Summon, FRDR, DataCite, and much more. It is an open-source application to publish, share, reference, cite, extract and analyze research data. 
+<a href="https://borealisdata.ca/dataverse/ubc" target="_blank"><b>UBC Dataverse Collection</b> </a>is a cross-disciplinary research data collection on Borealis. Datasets in the Dataverse collection are discoverable by Google, UBC Library Summon, FRDR, DataCite, and much more. It is an open-source application to publish, share, reference, cite, extract and analyze research data. 
 
 <br>
 
