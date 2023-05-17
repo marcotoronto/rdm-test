@@ -9,7 +9,7 @@ nav_order: 7
 
 Now, let’s pretend that you store everything on your computer in one single folder – some of us are probably known to use our desktops for this. Imagine how long it would take you to find data you collected on a specific day a few years ago. 
 
-<p style="margin-top:25px">
+<p style="margin-top:25px;margin-left:30px">
 <img src="figures/folders.png" width="300"/>
 </p>
 
@@ -178,7 +178,7 @@ Feel free to refer to the example that we saw earlier:
 # Congrats!
 {: .no_toc }
 
-<p style="margin-top:25px">
+<p style="margin-top:25px;margin-left:30px">
 <img src="figures/smily-face.png" width="200"/>
 </p>
   
