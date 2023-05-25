@@ -34,16 +34,14 @@ Looking for a cheat sheet? Check out our <a href="https://osf.io/5u4f3" target="
 Tabular data (Stata, SPSS, Excel, R, & CS) is <b>normalized to .tab</b> format on upload--a non-proprietary archival format that a variety of programs can read. See bit.ly/2VmKTGF for more about this process. 
 
 <b>Normalization</b> is important for long-term preservation of digital data. The deposited files can be downloaded in multiple formats, always including the original. 
-You will choose the format from a list when you click Download. 
-(Picture)
 {: .note}
 
-In Dataverse, tabular normalization also allows you to perform statistical data exploration and visualization *right in your browser*. Click the Explore button in the Files tab to see what it can do! 
-(Picture)
+<p style="margin-top:25px;margin-left:30px">
+<img src="figures/borealis-download.png" width="500"/> </p> 
+
+In Dataverse, tabular normalization also allows you to perform statistical data exploration and visualization *right in your browser*. Click the `Data Explore` button to see what it can do! 
 
 Learn more about the TwoRavens Data Explorer application at https://bit.ly/3uo2iSL.
-{: .note}
-
 
 ## Compressed Files (.zip, tar)
 {: .no_toc}
@@ -91,14 +89,19 @@ Files can also be unrestricted if the terms change--for example, once an embargo
 
 # Version control
 
-Every change made to a dataset—adding files, editing metadata, etc—is saved as a new version of the dataset. This allows you to track the change history of the project, which can be viewed under the Versions tab. This is useful if you need to roll back to a previous version, or find out who made what changes and when.
+Every change made to a dataset—adding files, editing metadata, etc—is saved as a new version of the dataset. This allows you to track the change history of the project, which can be viewed under the `Versions` tab. This is useful if you need to roll back to a previous version, or find out who made what changes and when.
 
 <p style="margin-top:25px;margin-left:30px">
 <img src="figures/borealis-version-control.png" width="500"/> </p> 
 
+
+
 <br>
 
-# Where can UBC Dataverse datasets be discovered?
+# Sharing Data
+
+## Where can UBC Dataverse datasets be discovered?
+
 Data deposited in UBC Dataverse Collection is indexed by, and integrated with, many services on the Web, including:
 
 - <a href="http://datacite.org" target="_blank">**DataCite**</a>: This major global non-profit organization provides DOls, indexes the metadata for every object assigned a DOl, and offers a search interface for those objects at <https://search.datacite.org>.
@@ -109,14 +112,68 @@ Data deposited in UBC Dataverse Collection is indexed by, and integrated with, m
 - **Any APIs**
 
 
+## Social Media
+Spread the word about your research and improve your altmetrics by sharing your linked data on social media!
+
+Dataverse provides a `Share` button for
+1. each dataverse
+2. each dataset
+
+<p style="margin-top:25px;margin-left:30px">
+<img src="figures/borealis-social-media.png" width="500"/> </p> 
+
+This button gives you the option to create a post with a link to your data on Facebook, Twitter, Linkedin.
+
+## Linking to your dataset
+
+There are 2 main ways to direct people to your dataset:
+
+### *1*{: .circle .circle-blue} &nbsp;DOI 
+{: .no_toc}
+
+A **permanent DOI (Digital Object Identifier)** is assigned to the dataset by Borealis when the first Draft is created. Once the dataset is **Published**, anyone can use the DOI link to find it. While the dataset is still **unpublished**, the DOI can only be used by Dataverse *account holders* with permission to view that Dataverse.
+
+Use DOIs in citations, on your personal or research group website, in publications, and anywhere else you want to be sure the link to your
+data wireman stable over time
+
+Click <a href="bit.ly/2VJtHdM" target="_blank">here</a> for more information about UBC DOIs.
+
+### *2*{: .circle .circle-red} &nbsp;Private URL
+{: .no_toc}
+
+A **temporary link** for use with **unpublished** data. The dataset can only be seen by those who have the link, and users *do not need a Dataverse account*. Great for giving pre-publication access to journals, reviewers, and collaborators.
+
+To create a Private URL, click `Private URL`. The generated URL can be access from this location until the dataset is published, so you can copy it again and again as needed.
+
+<p style="margin-top:25px;margin-left:30px">
+<img src="figures/borealis-private-url.png" width="500"/> </p>
+
+
 <br>
 
-# Licenses and Terms
+## Licenses and Terms
 
-You have control over how your data can be used. Dataverse allows for a variety of licenses and terms of use:
+You have control over how your data can be used. Dataverse allows for a variety of licenses and terms of use.
 
-- Built-in License Templates—can be selected at da-taset creation, and changed at any time. These auto-matically apply the right information about the li-cense to the dataset’s metadata.Apply a template to your dataset by selecting one from the drop-down menu under Dataset Template, at the top of the New Dataset creation form.
-- Custom: One-size-fits-all licenses don’t suit every dataset, you can create customized terms and con-ditions of use.To customize terms:Any dataset saved in Draft or Published form will have a Terms tab on the dataset page. Click Edit Terms Require-mentsand fill in the form with your Terms of Use and/or Terms of Access for Restricted files. If you need help creating a custom license, contact research.data@ubc.ca
+### **Built-in License Templates** 
+{: .no_toc}
+
+Templates can be selected at dataset creation, and changed at any time. These automatically apply the right information about the license to the dataset’s metadata.
+
+<p style="margin-top:25px;margin-left:30px">
+<img src="figures/borealis-templates.png" width="500"/> </p>
+
+### **Custom license**
+{: .no_toc}
+
+One-size-fits-all licenses don’t suit every dataset. You can create customized terms and conditions of use. 
+
+To customize terms: 
+
+<p style="margin-top:25px;margin-left:30px">
+<img src="figures/borealis-edit-terms.png" width="500"/> </p>
+
+If you need help creating a custom license, contact research.data@ubc.ca.
 
 
 
