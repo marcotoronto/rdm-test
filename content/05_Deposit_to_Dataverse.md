@@ -5,6 +5,12 @@ has_children: true
 nav_order: 8
 ---
 
+# Why deposit data?
+
+Storing your data in a repository like Borealis makes it easy for other researchers, publishers, and collaborators to find, use, and cite your data. It supports the Open Science movement goals of trans-parency, accessibility, and collaboration, and can increase attention to your work.
+
+Further, the Tri-Agency in Canada (NSERC, CIHR, SSHRC) have introduced <a href="https://bit.lv/2H3mGLv" target="_blank">a policy</a> requiring some grant recipients to deposit their project data in a repository.
+
 # What is UBC Dataverse Collection @Borealis?
 {: .no_toc }
 
