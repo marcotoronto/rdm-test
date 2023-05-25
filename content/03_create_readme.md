@@ -143,7 +143,7 @@ Pay special attention to the variables list. A dataset without naming variables 
 # Congrats!
 {: .no_toc }
 
-<p style="margin-top:25px">
+<p style="margin-top:25px;margin-left:30px">
 <img src="figures/angel-congrats.jpg" width="300"/>
 </p>
 
