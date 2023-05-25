@@ -5,7 +5,7 @@ parent: Deposit in UBC Dataverse Collection
 nav_order: 1
 ---
 
-<p style="margin-bottom: 15px"></p>
+# Basic Deposit in UBC Dataverse Collection
 
 <a href="https://borealisdata.ca/dataverse/ubc" target="_blank"><b>UBC Dataverse Collection</b> </a>is a cross-disciplinary research data collection on Borealis. Datasets in the Dataverse collection are discoverable by Google, UBC Library Summon, FRDR, DataCite, and much more. It is an open-source application to publish, share, reference, cite, extract and analyze research data. 
 
