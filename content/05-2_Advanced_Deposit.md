@@ -100,7 +100,7 @@ Every change made to a dataset—adding files, editing metadata, etc—is saved 
 
 # Sharing Data
 
-## Where can UBC Dataverse datasets be discovered?
+## Where can UBC Dataverse Collection datasets be discovered?
 
 Data deposited in UBC Dataverse Collection is indexed by, and integrated with, many services on the Web, including:
 
@@ -163,8 +163,12 @@ Templates can be selected at dataset creation, and changed at any time. These au
 <p style="margin-top:25px;margin-left:30px">
 <img src="figures/borealis-templates.png" width="500"/> </p>
 
+<br>
+
 You can use this <a href="https://copyright.ubc.ca/creative-commons/" target="_blank">UBC Library Copyright page </a>  to decide what license to use with your dataset. We recommend CC-BY or CC-0 license for your data.  
 {: .note }
+
+<br>
 
 ### **Custom license**
 {: .no_toc}
