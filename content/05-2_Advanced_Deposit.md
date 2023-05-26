@@ -106,7 +106,7 @@ Data deposited in UBC Dataverse Collection is indexed by, and integrated with, m
 
 - <a href="http://datacite.org" target="_blank">**DataCite**</a>: This major global non-profit organization provides DOls, indexes the metadata for every object assigned a DOl, and offers a search interface for those objects at <https://search.datacite.org>.
 - <a href="https://orcid.org/" target="_blank">**ORCID**</a>: Adding your ORCID to your dataset metadata links it to your body of work, ensuring researchers can easily find all vour publications.
-- <a href="https://www.lunaris.ca/en" target="_blank">**Lunaris**</a>: is a scalable, national research data discovery service
+- <a href="https://www.lunaris.ca/en" target="_blank">**Lunaris**</a>: a scalable, national research data discovery service
 - **Google/Google Scholar/Google Data**: Though data in Dataverse is not automatically searchable by Google Scholar, the UBC Dataverse has been customized so its deposited datasets are findable using this popular search tool.
 - <a href="https://www.openaire.eu" target="_blank">**OpenAIRE**</a>
 - **Any APIs**
@@ -136,14 +136,14 @@ A **permanent DOI (Digital Object Identifier)** is assigned to the dataset by Bo
 Use DOIs in citations, on your personal or research group website, in publications, and anywhere else you want to be sure the link to your
 data wireman stable over time
 
-Click <a href="bit.ly/2VJtHdM" target="_blank">here</a> for more information about UBC DOIs.
+Click <a href="https://researchdata.library.ubc.ca/plan/get-dois/" target="_blank">here</a> for more information about UBC DOIs.
 
 ### *2*{: .circle .circle-red} &nbsp;Private URL
 {: .no_toc}
 
 A **temporary link** for use with **unpublished** data. The dataset can only be seen by those who have the link, and users *do not need a Dataverse account*. Great for giving pre-publication access to journals, reviewers, and collaborators.
 
-To create a Private URL, click `Private URL`. The generated URL can be access from this location until the dataset is published, so you can copy it again and again as needed.
+To create a Private URL, click `Private URL`. The generated URL can be access from this location until the dataset is published, so you can copy it again and again as needed. The Private URL will automatically disappear once the dataset is published.
 
 <p style="margin-top:25px;margin-left:30px">
 <img src="figures/borealis-private-url.png" width="500"/> </p>
@@ -163,6 +163,9 @@ Templates can be selected at dataset creation, and changed at any time. These au
 <p style="margin-top:25px;margin-left:30px">
 <img src="figures/borealis-templates.png" width="500"/> </p>
 
+You can use this <a href="https://copyright.ubc.ca/creative-commons/" target="_blank">UBC Library Copyright page </a>  to decide what license to use with your dataset. We recommend CC-BY or CC-0 license for your data.  
+{: .note }
+
 ### **Custom license**
 {: .no_toc}
 
@@ -173,7 +176,7 @@ To customize terms:
 <p style="margin-top:25px;margin-left:30px">
 <img src="figures/borealis-edit-terms.png" width="500"/> </p>
 
-If you need help creating a custom license, contact research.data@ubc.ca.
+If you need help creating a custom license, contact `research.data@ubc.ca`.
 
 
 
