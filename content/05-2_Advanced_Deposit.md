@@ -57,11 +57,11 @@ Sometimes, it is a good idea to deposit the intact Zipped folder to preserve the
 
 # File Size
 
-Dataverse is not intended to handle Big Data. Current file size limits are:
+Borealis is not intended to handle Big Data. Current file size limits are:
 - For upload: 3 Gb per file (unlimited number of files in a dataset)
 - For tabular normalization: 500 Mb per file (tabular files over this size will remain in their original format, e.g. Excel)
 
-While there is no cap on the overall number of files that you can upload. If your data exceeds 10 Gb, please contact research.data@ubc.ca to discuss the best repository options, as we have other solutions.
+While there is no cap on the overall number of files that you can upload. If your data exceeds 10 Gb, please contact `research.data@ubc.ca` to discuss the best repository options, as we have other solutions (e.g FRDR).
 {: .note}
 
 <br>
@@ -106,7 +106,7 @@ Data deposited in UBC Dataverse Collection is indexed by, and integrated with, m
 
 - <a href="http://datacite.org" target="_blank">**DataCite**</a>: This major global non-profit organization provides DOls, indexes the metadata for every object assigned a DOl, and offers a search interface for those objects at <https://search.datacite.org>.
 - <a href="https://orcid.org/" target="_blank">**ORCID**</a>: Adding your ORCID to your dataset metadata links it to your body of work, ensuring researchers can easily find all vour publications.
-- <a href="https://www.frdr.ca/docs/en/searching/" target="_blank">**FRDR**</a>: Canada's Federated Research Data. Repository. FRDR provides a centralized platform for searching the contents of dozens of Canadian data repositories.
+- <a href="https://www.lunaris.ca/en" target="_blank">**Lunaris**</a>: is a scalable, national research data discovery service
 - **Google/Google Scholar/Google Data**: Though data in Dataverse is not automatically searchable by Google Scholar, the UBC Dataverse has been customized so its deposited datasets are findable using this popular search tool.
 - <a href="https://www.openaire.eu" target="_blank">**OpenAIRE**</a>
 - **Any APIs**
