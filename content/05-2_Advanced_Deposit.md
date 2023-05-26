@@ -51,10 +51,9 @@ Compressed files are the preferred method for uploading large datasets or many f
 
 **Zip files are automatically extracted on upload**, and the contents will appear as a list under the Files tab. Folder structure and file hierarchy within the zip file are maintained on extraction.
 
-Sometimes, it is a good idea to deposit the intact Zipped folder to preserve the content as it is. In this case, please double-zip your directory and the software will unzip it once upon upload, leaving your directory zipped.
+Sometimes, it is a good idea to deposit the intact Zipped folder to preserve the content as it is. In this case, please double-zip your directory and the software will unzip it once upon upload, leaving your directory files together.
 {: .note}
 
-<br>
 
 # File Size
 
