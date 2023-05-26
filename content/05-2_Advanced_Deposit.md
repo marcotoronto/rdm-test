@@ -49,9 +49,9 @@ In Dataverse, tabular normalization also allows you to perform statistical data 
 
 Compressed files are the preferred method for uploading large datasets or many files to Dataverse.
 
-Zip files are automatically extracted on upload, and the contents will appear as a list under the Files tab. Folder structure and file hierarchy within the zip file are maintained on extraction (as of DV version 4.11).
+**Zip files are automatically extracted on upload**, and the contents will appear as a list under the Files tab. Folder structure and file hierarchy within the zip file are maintained on extraction.
 
-**Geospatial shapefiles and Astronomy data (FITS)** also have special functionality (such as previews) in Dataverse. You can learn more about data licensing in the [Geomatics Deposit Workshop](05-4_Geomatics_Deposit.md)
+Sometimes, it is a good idea to deposit the intact Zipped folder to preserve the content as it is. In this case, please double-zip your directory and the software will unzip it once upon upload, leaving your directory zipped.
 {: .note}
 
 <br>
