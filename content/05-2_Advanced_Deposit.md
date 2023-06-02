@@ -107,7 +107,7 @@ Data deposited in UBC Dataverse Collection is indexed by, and integrated with, m
 - <a href="http://datacite.org" target="_blank">**DataCite**</a>
 - <a href="https://orcid.org/" target="_blank">**ORCID**</a>
 - <a href="https://www.lunaris.ca/en" target="_blank">**Lunaris**</a>: a scalable, national research data discovery service
-- **Google/Google Scholar/Google Data**: Though data in Dataverse is not automatically searchable by Google Scholar, the UBC Dataverse has been customized so its deposited datasets are findable using this popular search tool.
+- **Google/Google Scholar/Google Data**
 - <a href="https://www.openaire.eu" target="_blank">**OpenAIRE**</a>
 - **Any APIs**
 
