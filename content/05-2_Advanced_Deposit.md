@@ -116,7 +116,7 @@ Data deposited in UBC Dataverse Collection is indexed by, and integrated with, m
 Spread the word about your research and improve your altmetrics by sharing your linked data on social media!
 
 Dataverse provides a `Share` button for
-1. each dataverse
+1. each Dataverse collection
 2. each dataset
 
 <p style="margin-top:25px;margin-left:30px">
@@ -131,10 +131,9 @@ There are 2 main ways to direct people to your dataset:
 ### *1*{: .circle .circle-blue} &nbsp;DOI 
 {: .no_toc}
 
-A **permanent DOI (Digital Object Identifier)** is assigned to the dataset by Borealis when the first Draft is created. Once the dataset is **Published**, anyone can use the DOI link to find it. While the dataset is still **unpublished**, the DOI can only be used by Dataverse *account holders* with permission to view that Dataverse.
+A **a DOI (Digital Object Identifier)** is assigned to the dataset by Borealis when the first Draft is created. Once the dataset is **Published**, anyone can use the DOI link to find it. While the dataset is still **unpublished**, the DOI can only be used by Dataverse *account holders* with permission to view that Dataverse.
 
-Use DOIs in citations, on your personal or research group website, in publications, and anywhere else you want to be sure the link to your
-data wireman stable over time
+Use DOIs in citations, on your personal or research group website, in publications, and anywhere else you want to be sure the link to your data is stable over time
 
 Click <a href="https://researchdata.library.ubc.ca/plan/get-dois/" target="_blank">here</a> for more information about UBC DOIs.
 
@@ -165,7 +164,7 @@ Templates can be selected at dataset creation, and changed at any time. These au
 
 <br>
 
-You can use this <a href="https://copyright.ubc.ca/creative-commons/" target="_blank">UBC Library Copyright page </a>  to decide what license to use with your dataset. We recommend CC-BY or CC-0 license for your data.  
+You can use this <a href="https://copyright.ubc.ca/creative-commons/" target="_blank">UBC Library Copyright page </a>  to decide what license to use with your dataset. We recommend **CC-BY or CC-0** license for your data.  
 {: .note }
 
 <br>
