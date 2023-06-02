@@ -104,8 +104,8 @@ Every change made to a dataset—adding files, editing metadata, etc—is saved 
 
 Data deposited in UBC Dataverse Collection is indexed by, and integrated with, many services on the Web, including:
 
-- <a href="http://datacite.org" target="_blank">**DataCite**</a>: This major global non-profit organization provides DOls, indexes the metadata for every object assigned a DOl, and offers a search interface for those objects at <https://search.datacite.org>.
-- <a href="https://orcid.org/" target="_blank">**ORCID**</a>: Adding your ORCID to your dataset metadata links it to your body of work, ensuring researchers can easily find all vour publications.
+- <a href="http://datacite.org" target="_blank">**DataCite**</a>
+- <a href="https://orcid.org/" target="_blank">**ORCID**</a>
 - <a href="https://www.lunaris.ca/en" target="_blank">**Lunaris**</a>: a scalable, national research data discovery service
 - **Google/Google Scholar/Google Data**: Though data in Dataverse is not automatically searchable by Google Scholar, the UBC Dataverse has been customized so its deposited datasets are findable using this popular search tool.
 - <a href="https://www.openaire.eu" target="_blank">**OpenAIRE**</a>
