@@ -17,7 +17,7 @@ nav_order: 3
   {: .text-delta }
  - TOC
 {:toc}
-</details>Deposit
+</details>
 
 Looking for a cheat sheet? Check out our <a href="https://osf.io/2f5wg" target="_blank">one-pager</a>!
 {: .note }
