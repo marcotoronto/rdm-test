@@ -164,12 +164,12 @@ Templates can be selected at dataset creation, and changed at any time. These au
 <p style="margin-top:25px;margin-left:30px">
 <img src="figures/borealis-templates.png" width="500"/> </p>
 
-<br>
+<p style="margin-top:15px"></p>
 
 You can use <a href="https://copyright.ubc.ca/creative-commons/" target="_blank">UBC Library Copyright page </a>  to decide what license to use with your dataset. We recommend **CC-BY or CC-0** license.  
 {: .note }
 
-<br>
+<p style="margin-top:15px"></p>
 
 ### **Custom license**
 {: .no_toc}
