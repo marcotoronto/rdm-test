@@ -51,17 +51,18 @@ Compressed files are the preferred method for uploading large datasets or many f
 
 **Zip files are automatically extracted on upload**, and the contents will appear as a list under the Files tab. Folder structure and file hierarchy within the zip file are maintained on extraction.
 
-Sometimes, it is a good idea to deposit the zipped folder to preserve the content as it is, especially if you need your files to remain together. In this case, please double-zip your directory and the software will unzip it once upon upload, leaving your directory files together.
+Sometimes, it is a good idea to deposit the zipped folder to preserve the content as it is, especially if you need your files to remain together. In this case, please *double-zip* your directory as the software will unzip it once upon upload.
 {: .note}
 
+<br>
 
 # File Size
 
 Borealis is not intended to handle Big Data. Current file size limits are:
-- For upload: 3 Gb per file (unlimited number of files in a dataset)
-- For tabular normalization: 500 Mb per file (tabular files over this size will remain in their original format, e.g. Excel)
+- For upload: **3 Gb** per file (unlimited number of files in a dataset)
+- For tabular normalization: **500 Mb** per file (tabular files over this size will remain in their original format, e.g. Excel)
 
-While there is no cap on the overall number of files that you can upload. If your data exceeds 10 Gb, please contact `research.data@ubc.ca` to discuss the best repository options, as we have other solutions (e.g FRDR).
+While there is no cap on the overall number of files that you can upload, if your data exceeds 10 Gb, please contact `research.data@ubc.ca` to discuss the best repository options, as we have other solutions (e.g FRDR).
 {: .note}
 
 <br>
@@ -116,8 +117,8 @@ Data deposited in UBC Dataverse Collection is indexed by, and integrated with, m
 Spread the word about your research and improve your altmetrics by sharing your linked data on social media!
 
 Dataverse provides a `Share` button for
-1. each Dataverse collection
-2. each dataset
+1. Each Dataverse collection
+2. Each dataset
 
 <p style="margin-top:25px;margin-left:30px">
 <img src="figures/borealis-social-media.png" width="500"/> </p> 
@@ -126,14 +127,15 @@ This button gives you the option to create a post with a link to your data on Fa
 
 ## Linking to your dataset
 
-There are 2 main ways to direct people to your dataset:
+There are two main ways to direct people to your dataset:
 
 ### *1*{: .circle .circle-blue} &nbsp;DOI 
 {: .no_toc}
 
 A **a DOI (Digital Object Identifier)** is assigned to the dataset by Borealis when the first Draft is created. Once the dataset is **Published**, anyone can use the DOI link to find it. While the dataset is still **unpublished**, the DOI can only be used by Dataverse *account holders* with permission to view that Dataverse.
 
-Use DOIs in citations, on your personal or research group website, in publications, and anywhere else you want to be sure the link to your data is stable over time
+Use DOIs in citations, publications, on your personal/research group websites--anywhere you want the link to your data stable over time.
+{: .note}
 
 Click <a href="https://researchdata.library.ubc.ca/plan/get-dois/" target="_blank">here</a> for more information about UBC DOIs.
 
@@ -164,7 +166,7 @@ Templates can be selected at dataset creation, and changed at any time. These au
 
 <br>
 
-You can use this <a href="https://copyright.ubc.ca/creative-commons/" target="_blank">UBC Library Copyright page </a>  to decide what license to use with your dataset. We recommend **CC-BY or CC-0** license for your data.  
+You can use <a href="https://copyright.ubc.ca/creative-commons/" target="_blank">UBC Library Copyright page </a>  to decide what license to use with your dataset. We recommend **CC-BY or CC-0** license.  
 {: .note }
 
 <br>
