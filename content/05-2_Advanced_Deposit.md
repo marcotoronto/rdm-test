@@ -40,7 +40,7 @@ The deposited files can be downloaded in multiple formats, but always including 
 In Dataverse, tabular normalization also allows you to perform statistical data exploration and visualization *right in your browser*. Click the `Data Explore` button to see what it can do. 
 
 <p style="margin-top:25px;margin-left:30px">
-<img src="figures/borealis-download.png" width="500"/> </p> 
+<img src="figures/borealis-download.png" width="550"/> </p> 
 
 
 
