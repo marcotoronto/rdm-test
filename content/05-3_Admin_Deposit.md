@@ -55,7 +55,7 @@ On the main page for the Dataverse collection you want to customize, click the `
 ### <a style="font-size:17px">General Information</a>
 {: .label .label-yellow }
 
-<p style="margin-top:15px></p>
+<p style="margin-top:15px"></p>
 
 You can change basic information about the Dataverse collection, such as:
 
