@@ -5,7 +5,17 @@ parent: Deposit in UBC Dataverse Collection
 nav_order: 2
 ---
 
-<p style="margin-top:25px"></p>
+# Advanced Deposit in UBC Dataverse Collection
+
+<p style="margin-bottom: 15px"></p>
+
+ Before you continue, please make sure you have a good understanding of the content in [Basic Deposit in UBC Dataverse Collection](content/05-1_Basic_Deposit.md)by reading it through or attending an interactive workshop on it. 
+ 
+ This page has detailed information about data discovery, file formats, DOIs, Private URLs, access control, licenses, file size, version control and more.
+
+<p style="margin-top:25px;margin-left:30px;margin-bottom:25px"></p>
+
+
 
 <details open markdown="block">
   <summary>
@@ -22,11 +32,11 @@ Looking for a cheat sheet? Check out our <a href="https://osf.io/5u4f3" target="
 
 ---
 
-# Recommended File formats 
+## Recommended File formats 
 
 *Any kind of file* can be uploaded to Dataverse, but extra functionality is supported for some filetypes:
 
-## Tabular data
+### Tabular data
 {: .no_toc}
 
 Tabular data (Stata, SPSS, Excel, R, & CS) is <b>normalized to .tab</b> format on upload--a non-proprietary archival format that a variety of programs can read. 
@@ -42,7 +52,7 @@ In Dataverse, tabular normalization also allows you to perform statistical data 
 
 
 
-## Compressed Files (.zip, tar)
+### Compressed Files (.zip, tar)
 {: .no_toc}
 
 Compressed files are the preferred method for uploading large datasets or many files to Dataverse.
@@ -54,7 +64,7 @@ Sometimes, it is a good idea to deposit the zipped folder to preserve the conten
 
 <br>
 
-# File Size
+## File Size
 
 Borealis is not intended to handle Big Data. Current file size limits are:
 - For upload: **3 Gb** per file (unlimited number of files in a dataset). If you are depositing files larger than 3GB, *double-zip* your directory.
@@ -65,11 +75,11 @@ While there is no cap on the overall number of files that you can upload, if you
 
 <br>
 
-# Access Control
+## Access Control
 
 Sensitive files can be <b>Restricted</b> or <b>Embargoed</b> so they are not freely available to download. Files can either be fully restricted, or set up so users can send access requests to the contact email for review.
 
-### To restrict, unrestrict, or embargo a file:
+#### To restrict, unrestrict, or embargo a file:
 {: .no_toc}
 
 <p style="margin-top:25px;margin-left:30px">
@@ -86,7 +96,7 @@ Files can also be unrestricted if the terms change--for example, once an embargo
 
 <br>
 
-# Version control
+## Version control
 
 Every change made to a dataset—adding files, editing metadata, etc—is saved as a new version of the dataset. This allows you to track the change history of the project, which can be viewed under the `Versions` tab. This is useful if you need to roll back to a previous version, or find out who made what changes and when.
 
@@ -97,9 +107,9 @@ Every change made to a dataset—adding files, editing metadata, etc—is saved 
 
 <br>
 
-# Sharing Data
+## Sharing Data
 
-## Where can UBC Dataverse Collection datasets be discovered?
+### Where can UBC Dataverse Collection datasets be discovered?
 
 Data deposited in UBC Dataverse Collection is indexed by, and integrated with, many services on the Web, including:
 
@@ -111,7 +121,7 @@ Data deposited in UBC Dataverse Collection is indexed by, and integrated with, m
 - **Any APIs**
 
 
-## Social Media
+### Social Media
 Spread the word about your research and improve your altmetrics by sharing your linked data on social media!
 
 Dataverse provides a `Share` button for
@@ -123,11 +133,11 @@ Dataverse provides a `Share` button for
 
 This button gives you the option to create a post with a link to your data on Facebook, Twitter, Linkedin.
 
-## Linking to your dataset
+### Linking to your dataset
 
 There are two main ways to direct people to your dataset:
 
-### *1*{: .circle .circle-blue} &nbsp;DOI 
+#### *1*{: .circle .circle-blue} &nbsp;DOI 
 {: .no_toc}
 
 A **a DOI (Digital Object Identifier)** is assigned to the dataset by Borealis when the first Draft is created. Once the dataset is **Published**, anyone can use the DOI link to find it. While the dataset is still **unpublished**, the DOI can only be used by Dataverse *account holders* with permission to view that Dataverse.
@@ -137,7 +147,7 @@ Use DOIs in citations, publications, on your personal/research group websites--a
 
 Click <a href="https://researchdata.library.ubc.ca/plan/get-dois/" target="_blank">here</a> for more information about UBC DOIs.
 
-### *2*{: .circle .circle-red} &nbsp;Private URL
+#### *2*{: .circle .circle-red} &nbsp;Private URL
 {: .no_toc}
 
 A **temporary link** for use with **unpublished** data. The dataset can only be seen by those who have the link, and users *do not need a Dataverse account*. Great for giving pre-publication access to journals, reviewers, and collaborators.
@@ -150,11 +160,11 @@ To create a Private URL, click `Private URL`. The generated URL can be access fr
 
 <br>
 
-## Licenses and Terms
+### Licenses and Terms
 
 You have control over how your data can be used. Dataverse allows for a variety of licenses and terms of use.
 
-### **Built-in License Templates** 
+#### **Built-in License Templates** 
 {: .no_toc}
 
 Templates can be selected at dataset creation, and changed at any time. These automatically apply the right information about the license to the dataset’s metadata.
@@ -169,7 +179,7 @@ You can use <a href="https://copyright.ubc.ca/creative-commons/" target="_blank"
 
 <p style="margin-top:15px"></p>
 
-### **Custom license**
+#### **Custom license**
 {: .no_toc}
 
 One-size-fits-all licenses don’t suit every dataset. You can create customized terms and conditions of use. 
