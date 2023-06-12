@@ -6,10 +6,11 @@ nav_order: 2
 ---
 
 # Advanced Deposit in UBC Dataverse Collection
+{: .no_toc}
 
 <p style="margin-bottom: 15px"></p>
 
- Before you continue, please make sure you have a good understanding of the content in [Basic Deposit in UBC Dataverse Collection](content/05-1_Basic_Deposit.md)by reading it through or attending an interactive workshop on it. 
+ Before you continue, please make sure you have a good understanding of the content in [Basic Deposit in UBC Dataverse Collection](content/05-1_Basic_Deposit.md) by reading it through or attending an interactive workshop on it. 
  
  This page has detailed information about data discovery, file formats, DOIs, Private URLs, access control, licenses, file size, version control and more.
 
