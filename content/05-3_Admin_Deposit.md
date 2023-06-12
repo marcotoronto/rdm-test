@@ -65,6 +65,7 @@ You can change basic information about the Dataverse collection, such as:
 - URL
 - Category (institutional, lab, research group...)
 - Affiliation
+- Add a logo for your research group
 - Description
 - Contact Information
 - Metadata Fields (that are available or required for data deposit)
@@ -78,7 +79,7 @@ You can change basic information about the Dataverse collection, such as:
 ### Theme
 {: .no_toc}
 
-You can change the look of the Dataverse collection, including colour scheme, adding a logo, tagline, and website link. You can also choose to inherit theme from the University of British Columbia Dataverse Collection.
+You can change the look of the Dataverse collection, including colour scheme, adding a logo, tagline, and website link. You can also choose to inherit theme from the University of British Columbia Dataverse collection.
 
 <p style="margin-top:15px"></p>
 
@@ -106,11 +107,11 @@ To get the widget code,
 
 <p style="margin-top:15px"></p>
 
-Here you can refine who has access to your dataverse collection, and what actions they can perform. 
+Here you can refine who has access to your Dataverse collection, and what actions they can perform. 
 
 The Permissions page has the following tabs:
 
-- <b>Permissions</b>: Clicking `Edit Access` allows you to decide who can create new sub-dataverse collections and datasets. You can also set the Role that is automatically assigned to those depositing datasets, which determines their editing permissions (recommended role: Contributor).
+- <b>Permissions</b>: Clicking `Edit Access` allows you to decide who can create new sub-Dataverse collections and datasets. You can also set the Role that is automatically assigned to those depositing datasets, which determines their editing permissions (recommended role: Contributor).
 
 <p style="margin-top:25px;margin-left:30px">
 <img src="figures/borealis-edit-access.png" width="550"/> </p> 
