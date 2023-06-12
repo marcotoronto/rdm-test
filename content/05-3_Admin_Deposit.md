@@ -36,7 +36,7 @@ Looking for a cheat sheet? Check out our <a href="https://osf.io/2f5wg" target="
 From the main page of the Dataverse collection within which you’d like to create a sub-Dataverse collection (for example, the *Research Commons Workshops Dataverse*), click `+Add Data` > `New Dataverse` to create a sub-Dataverse collection.
 
 <p style="margin-top:25px;margin-left:30px">
-<img src="figures/borealis-create-Dataverse.png" width="550"/> </p> 
+<img src="figures/borealis-create-dataverse.png" width="550"/> </p> 
 
  Fill in the form with your desired specifications, and click `Create Dataverse`. 
  
@@ -49,7 +49,7 @@ From the main page of the Dataverse collection within which you’d like to crea
 On the main page for the Dataverse collection you want to customize, click the `Edit` button and you will then see a dropdown menu with several options:
 
 <p style="margin-top:25px;margin-left:30px">
-<img src="figures/borealis-edit-Dataverse.png" width="550"/> </p> 
+<img src="figures/borealis-edit-dataverse.png" width="550"/> </p> 
 
 
 ### <a style="font-size:17px">General Information</a>
