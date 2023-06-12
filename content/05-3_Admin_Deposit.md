@@ -51,6 +51,8 @@ On the main page for the Dataverse collection you want to customize, click the `
 <p style="margin-top:25px;margin-left:30px">
 <img src="figures/borealis-edit-dataverse.png" width="550"/> </p> 
 
+<br>
+
 
 ### <a style="font-size:17px">General Information</a>
 {: .label .label-yellow }
