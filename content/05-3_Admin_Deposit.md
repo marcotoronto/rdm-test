@@ -52,8 +52,8 @@ On the main page for the dataverse you want to customize, click the `Edit` butto
 <img src="figures/borealis-edit-dataverse.png" width="550"/> </p> 
 
 
-### <a style="font-size:17px; color=Orange">General Information</a>
-{: .label .label-blue }
+### <a style="font-size:17px">General Information</a>
+{: .label .label-orange }
 
 You can change basic information about the dataverse, such as:
 
@@ -67,8 +67,8 @@ You can change basic information about the dataverse, such as:
 
 
 
-### <a style="font-size:17px; color=Tomato">Theme + Widgets</a>
-{: .label .label-blue }
+### <a style="font-size:17px">Theme + Widgets</a>
+{: .label .label-orange }
 
 ### Theme
 {: .no_toc}
@@ -85,8 +85,8 @@ If you want to provide easy access to your dataverse or a dataset on your person
 To get the widget code,For a Dataverse: Edit-> Theme & Widgets-> Widget tab. For datasets: Edit-> Thumbnail & WidgetsCopy the code displayed and paste it into your website’s HTML code.
 
 
-### <a style="font-size:17px; color=MediumSeaGreen">Permissions</a>
-{: .label .label-blue }
+### <a style="font-size:17px">Permissions</a>
+{: .label .label-orange }
 
 <br>
 
