@@ -91,7 +91,7 @@ You can change the look of the Dataverse collection, including colour scheme, ad
 If you want to display your Dataverse collection or dataset on your personal or project website, Borealis provides code for two widgets:
 
 1. Dataverse collection <b>Search Box Widget</b> allows users to search your Dataverse collection without leaving your site
-2. Dataverse collection <b>Listings Widget</b> shows all your Dataverse collections and datasets and allows users to view their contents and even download files directly from your site. See an example from our colleagues at the - <a href="https://housingresearchcollaborative.allard.ubc.ca/dataverse/">UBC Housing Research Collaborative </a>
+2. Dataverse collection <b>Listings Widget</b> shows all your Dataverse collections and datasets and allows users to view their contents and even download files directly from your site. See an example from our colleagues at the <a href="https://housingresearchcollaborative.allard.ubc.ca/dataverse/">UBC Housing Research Collaborative </a>
 
 To get the widget code, 
 1. Go to the main page of a published Dataverse collection or dataset,
