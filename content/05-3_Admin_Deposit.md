@@ -93,6 +93,9 @@ If you want to display your Dataverse collection or dataset on your personal or 
 1. Dataverse collection <b>Search Box Widget</b> allows users to search your Dataverse collection without leaving your site
 2. Dataverse collection <b>Listings Widget</b> shows all your Dataverse collections and datasets and allows users to view their contents and even download files directly from your site. See an example here from our colleagues at the UBC Housing Research Collaborative  - https://housingresearchcollaborative.allard.ubc.ca/dataverse/
 
+<p style="margin-top:25px;margin-left:30px">
+<img src="figures/borealis-listing-widget.png" width="550"/> </p> 
+
 To get the widget code, 
 1. Go to the main page of a published Dataverse collection or dataset,
 2. `Edit` > `Theme & Widgets` or `Thumbnail & Widgets`> `Widgets` tab,
