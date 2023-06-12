@@ -41,7 +41,7 @@ A README complements but does not replace the metadata that data repositories (e
 
 <p style="margin-bottom: 50px"></p>
 
-## Exercise 1
+## <a style="font-size:22px">Exercise 1</a>
 {: .no_toc}
 {: .label .label-green }
 
