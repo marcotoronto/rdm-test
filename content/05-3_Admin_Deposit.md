@@ -13,7 +13,7 @@ nav_order: 3
 # Admin Access in UBC Dataverse Collection
 {: .no_toc}
 
-Some users, such as data managers or curators, have more options to customize and control the way their Dataverse collections look and act. To get an admin access to your Dataverse collection, please reach out to us `research.data@ubc.ca`.
+Some users, such as data managers or curators, have more options to customize and control the way their Dataverse collections look and act. To get an admin access to your Dataverse collection, please reach out to us at `research.data@ubc.ca`.
 
 
 <details open markdown="block">
@@ -77,7 +77,7 @@ You can change basic information about the Dataverse collection, such as:
 
 You can change the look of the Dataverse collection, including colour scheme, adding a logo, tagline, and website link. You can also choose to inherit theme from the University of British Columbia Dataverse Collection.
 
-<p style="margin-top:15px></p>
+<p style="margin-top:15px"></p>
 
 ### Widgets
 {: .no_toc}
@@ -96,10 +96,37 @@ To get the widget code,
 ### <a style="font-size:17px">Permissions</a>
 {: .label .label-yellow }
 
+Here you can refine who has access to your dataverse collection, and what actions they can perform. 
+
+The Permissions page has the following tabs:
+
+- <b>Permissions</b>: Clicking `Edit Access` allows you to decide who can create new sub-dataverse collections and datasets. You can also set the Role that is automatically assigned to those depositing datasets, which determines their editing permissions (recommended role: Contributor).
+
+<p style="margin-top:25px;margin-left:30px">
+<img src="figures/borealis-edit-access.png" width="550"/> </p> 
+
+- <b>Users/Groups</b> allows you to `Assign Roles to Users/Groups` (must know their user/group name) or `Remove Assigned Role`. 
+
+- <b>Roles</b> Shows you the permitted actions for each role.The UBC Dataverse collection has 9 possible roles with differing levels of permissions.
+
+<p style="margin-top:25px;margin-left:30px">
+<img src="figures/borealis-roles.png" width="550"/> </p> 
+
 <br>
 
 ### <a style="font-size:17px">Groups</a>
 {: .label .label-yellow }
+
+If you need to assign different roles to many different users (e.g. multiple collaborators, research groups), `Creat Group` can streamline the process. 
+
+<p style="margin-top:25px;margin-left:30px">
+<img src="figures/borealis-create-group.png" width="550"/> </p> 
+
+1. Click `+ Create Group`
+2. Assign the group a name, identifier, description
+3. Type the users' names or user IDS in `Users/Groups`, and Dataverse collection will suggest matching users. 
+
+Once the group is created, you can Edit or Delete it from the Groups page. Groups can then be assigned Roles from the Permissions page (described above).
 
 
 <br>
@@ -108,6 +135,27 @@ To get the widget code,
 ### <a style="font-size:17px">Dataset Templates</a>
 {: .label .label-yellow }
 
+Custom Templates
+
+If you will be uploading a lot of files with *some identical metadata* (e.g. several files in a series with the same authors, dates, keywords, etc), you can create custom templates to **autofill** those fields. 
+
+In the dataverse where you want the template, click  `+ Create Dataset Template`. This will open a form with every possible metadata field. 
+
+<p style="margin-top:25px;margin-left:30px">
+<img src="figures/borealis-template.png" width="550"/> </p> 
+
+1. Fill in the fields with the information you want to be autofilled for all datasets using that Template. 
+
+2. Give the Template a name
+
+3. Click `Save + Add Terms`. Next, you will fill in any terms, conditions, or requirements for using data assigned that Template. 
+
+<p style="margin-top:25px;margin-left:30px">
+<img src="figures/borealis-template-terms.png" width="550"/> </p> 
+
+<p style="margin-top:15px"></p>
+
+4. To finish, click `Save Dataset Template`. The Template will now appear on the Dataset Templates page, where it can be viewed, edited, or deleted.
 
 
 <br>
@@ -116,6 +164,10 @@ To get the widget code,
 ### <a style="font-size:17px">Dataset Guestbooks</a>
 {: .label .label-yellow }
 
+Guestbooks is another way to further control your data access. Once you create a Guestbook, when a user attempts to download a dataset, a popup will ask them for information you specify: name, email, institution, position, or custom questions. Any of these questions can be set as Required to permit the download.
+
+<p style="margin-top:25px;margin-left:30px">
+<img src="figures/borealis-guestbook.png" width="550"/> </p> 
 
 <br>
 
