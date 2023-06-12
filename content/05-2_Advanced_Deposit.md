@@ -10,9 +10,10 @@ nav_order: 2
 
 <p style="margin-bottom: 15px"></p>
 
- Before you continue, please make sure you have a good understanding of the content in [Basic Deposit in UBC Dataverse Collection](content/05-1_Basic_Deposit.md) by reading it through or attending an interactive workshop on it. 
+ Before you continue, please make sure you have a good understanding of the deposit basics in [Basic Deposit in UBC Dataverse Collection](content/05-1_Basic_Deposit.md).
+ {: .note}
  
- This page has detailed information about data discovery, file formats, DOIs, Private URLs, access control, licenses, file size, version control and more.
+ In this guide, we expand further on data discovery, file formats, DOIs, Private URLs, access control, licenses, file size, version control and more.
 
 <p style="margin-top:25px;margin-left:30px;margin-bottom:25px"></p>
 
