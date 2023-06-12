@@ -61,10 +61,10 @@ On the main page for the Dataverse collection you want to customize, click the `
 
 You can change basic information about the Dataverse collection, such as:
 
-- Names
+- Collection name
 - URL
 - Category (institutional, lab, research group...)
-- Afffiliation
+- Affiliation
 - Description
 - Contact Information
 - Metadata Fields (that are available or required for data deposit)
@@ -90,7 +90,7 @@ You can change the look of the Dataverse collection, including colour scheme, ad
 If you want to display your Dataverse collection or dataset on your personal or project website, Borealis provides code for two widgets:
 
 1. Dataverse collection <b>Search Box Widget</b> allows users to search your Dataverse collection without leaving your site
-2. Dataverse collection <b>Listings Widget</b> shows all your Dataverse collections and datasets and allows users to view their contents and even download files directly from your site.
+2. Dataverse collection <b>Listings Widget</b> shows all your Dataverse collections and datasets and allows users to view their contents and even download files directly from your site. See an example here from our colleagues at the UBC Housing Research Collaborative  - https://housingresearchcollaborative.allard.ubc.ca/dataverse/
 
 To get the widget code, 
 1. Go to the main page of a published Dataverse collection or dataset,
@@ -117,7 +117,7 @@ The Permissions page has the following tabs:
 
 - <b>Users/Groups</b> allows you to `Assign Roles to Users/Groups` (must know their user/group name) or `Remove Assigned Role`. 
 
-- <b>Roles</b> Shows you the permitted actions for each role.The UBC Dataverse collection has 9 possible roles with differing levels of permissions.
+- <b>Roles</b> Shows you the permitted actions for each role.The UBC Dataverse collection has 9 possible roles with differing levels of permissions. Please reach out to us at `research.data@ubc.ca` to help you decide what roles to assign within your dataverse collection.
 
 <p style="margin-top:25px;margin-left:30px">
 <img src="figures/borealis-roles.png" width="550"/> </p> 
@@ -129,7 +129,7 @@ The Permissions page has the following tabs:
 
 <p style="margin-top:15px"></p>
 
-If you need to assign different roles to many different users (e.g. multiple collaborators, research groups), `Creat Group` can streamline the process. 
+If you need to assign different roles to many different users (e.g. multiple collaborators, research groups), `Create Group` can streamline the process. 
 
 <p style="margin-top:25px;margin-left:30px">
 <img src="figures/borealis-create-group.png" width="550"/> </p> 
@@ -151,7 +151,7 @@ Once the group is created, you can Edit or Delete it from the Groups page. Group
 
 If you will be uploading a lot of files with *some identical metadata* (e.g. several files in a series with the same authors, dates, keywords, etc), you can create custom templates to **autofill** those fields. 
 
-In the dataverse where you want the template, click  `+ Create Dataset Template`. This will open a form with every possible metadata field. 
+In the dataverse collection where you want the template, click  `+ Create Dataset Template`. This will open a form with every possible metadata field. 
 
 <p style="margin-top:25px;margin-left:30px">
 <img src="figures/borealis-template.png" width="550"/> </p> 
@@ -176,7 +176,7 @@ In the dataverse where you want the template, click  `+ Create Dataset Template`
 
 <p style="margin-top:15px"></p>
 
-Guestbooks is another way to further control your data access. Once you create a Guestbook, when a user attempts to download a dataset, a popup will ask them for information you specify: name, email, institution, position, or custom questions. Any of these questions can be set as Required to permit the download.
+Guestbooks is another way to further control your data access. See for example how our colleagues at the Centre for Sustainable Food Systems at UBC Farm manage their datasets within their dataverse collection - https://borealisdata.ca/dataverse/UBC_CSFS. Once you create a Guestbook, when a user attempts to download a dataset, a popup will ask them for information you specify: name, email, institution, position, or custom questions. Any of these questions can be set as Required to permit the download.
 
 <p style="margin-top:25px;margin-left:30px">
 <img src="figures/borealis-guestbook.png" width="550"/> </p> 
