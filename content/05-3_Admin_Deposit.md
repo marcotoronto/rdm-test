@@ -77,6 +77,8 @@ You can change basic information about the Dataverse collection, such as:
 
 You can change the look of the Dataverse collection, including colour scheme, adding a logo, tagline, and website link. You can also choose to inherit theme from the University of British Columbia Dataverse Collection.
 
+<p style="margin-top:15px></p>
+
 ### Widgets
 {: .no_toc}
 
