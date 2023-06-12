@@ -69,6 +69,7 @@ You can change basic information about the Dataverse collection, such as:
 - Contact Information
 - Metadata Fields (that are available or required for data deposit)
 
+<br>
 
 
 ### <a style="font-size:17px">Theme + Widgets</a>
@@ -80,6 +81,8 @@ You can change basic information about the Dataverse collection, such as:
 You can change the look of the Dataverse collection, including colour scheme, adding a logo, tagline, and website link. You can also choose to inherit theme from the University of British Columbia Dataverse Collection.
 
 <p style="margin-top:15px"></p>
+
+
 
 ### Widgets
 {: .no_toc}
@@ -93,6 +96,9 @@ To get the widget code,
 1. Go to the main page of a published Dataverse collection or dataset,
 2. `Edit` > `Theme & Widgets` or `Thumbnail & Widgets`> `Widgets` tab,
 3. Copy the code displayed and paste it into your website’s HTML code.
+
+
+<br>
 
 
 ### <a style="font-size:17px">Permissions</a>
