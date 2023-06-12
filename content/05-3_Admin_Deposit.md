@@ -53,7 +53,7 @@ On the main page for the dataverse you want to customize, click the `Edit` butto
 
 
 ### <a style="font-size:17px">General Information</a>
-{: .label .label-orange }
+{: .label .label-yellow }
 
 You can change basic information about the dataverse, such as:
 
@@ -68,7 +68,7 @@ You can change basic information about the dataverse, such as:
 
 
 ### <a style="font-size:17px">Theme + Widgets</a>
-{: .label .label-orange }
+{: .label .label-yellow }
 
 ### Theme
 {: .no_toc}
@@ -79,8 +79,8 @@ You can change the look of the dataverse, including colour scheme, adding a logo
 {: .no_toc}
 
 If you want to provide easy access to your dataverse or a dataset on your personal or project website, Borealis provides code for two widgets:
-1. Dataverse Search Box—allows users to search your dataverse without leaving your site
-2. Dataverse Listings–shows all your dataverses and datasets and allows users to view their contents and even download files directly from your site.
+1. <b>Dataverse Search Box</b> allows users to search your dataverse without leaving your site
+2. <b>Dataverse Listings</b> shows all your dataverses and datasets and allows users to view their contents and even download files directly from your site.
 
 To get the widget code,For a Dataverse: Edit-> Theme & Widgets-> Widget tab. For datasets: Edit-> Thumbnail & WidgetsCopy the code displayed and paste it into your website’s HTML code.
 
