@@ -118,7 +118,7 @@ The Permissions page has the following tabs:
 
 - <b>Users/Groups</b> allows you to `Assign Roles to Users/Groups` (must know their user/group name) or `Remove Assigned Role`. 
 
-- <b>Roles</b> Shows you the permitted actions for each role.The UBC Dataverse collection has 9 possible roles with differing levels of permissions. Please reach out to us at `research.data@ubc.ca` to help you decide what roles to assign within your dataverse collection.
+- <b>Roles</b> Shows you the permitted actions for each role.The UBC Dataverse collection has eight possible roles with differing levels of permissions. Please reach out to us at `research.data@ubc.ca` to help you decide what roles to assign within your dataverse collection.
 
 <p style="margin-top:25px;margin-left:30px">
 <img src="figures/borealis-roles.png" width="550"/> </p> 
