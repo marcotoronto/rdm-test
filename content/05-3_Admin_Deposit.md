@@ -81,6 +81,9 @@ You can change basic information about the Dataverse collection, such as:
 
 You can change the look of the Dataverse collection, including colour scheme, adding a logo, tagline, and website link. You can also choose to inherit theme from the University of British Columbia Dataverse collection.
 
+<p style="margin-top:25px;margin-left:30px">
+<img src="figures/borealis-theme.png" width="550"/> </p> 
+
 <p style="margin-top:15px"></p>
 
 
@@ -91,12 +94,16 @@ You can change the look of the Dataverse collection, including colour scheme, ad
 If you want to display your Dataverse collection or dataset on your personal or project website, Borealis provides code for two widgets:
 
 1. Dataverse collection <b>Search Box Widget</b> allows users to search your Dataverse collection without leaving your site
-2. Dataverse collection <b>Listings Widget</b> shows all your Dataverse collections and datasets and allows users to view their contents and even download files directly from your site. See an example from our colleagues at the <a href="https://housingresearchcollaborative.allard.ubc.ca/dataverse/">UBC Housing Research Collaborative </a>
+2. Dataverse collection <b>Listings Widget</b> shows all your Dataverse collections and datasets and allows users to view their contents and even download files directly from your site.  
+
+    An example of listings Widget from our colleagues at the <a href="https://housingresearchcollaborative.allard.ubc.ca/dataverse/">UBC Housing Research Collaborative</a>:
 
 <p style="margin-top:25px;margin-left:30px">
 <img src="figures/borealis-listing-widget.png" width="550"/> </p> 
 
-To get the widget code, 
+How to get the widget code?
+{: .label .label-blue }
+
 1. Go to the main page of a published Dataverse collection or dataset,
 2. `Edit` > `Theme & Widgets` or `Thumbnail & Widgets`> `Widgets` tab,
 3. Copy the code displayed and paste it into your website’s HTML code.
