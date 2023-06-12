@@ -91,7 +91,7 @@ You can change the look of the Dataverse collection, including colour scheme, ad
 If you want to display your Dataverse collection or dataset on your personal or project website, Borealis provides code for two widgets:
 
 1. Dataverse collection <b>Search Box Widget</b> allows users to search your Dataverse collection without leaving your site
-2. Dataverse collection <b>Listings Widget</b> shows all your Dataverse collections and datasets and allows users to view their contents and even download files directly from your site. See an example here from our colleagues at the UBC Housing Research Collaborative  - https://housingresearchcollaborative.allard.ubc.ca/dataverse/
+2. Dataverse collection <b>Listings Widget</b> shows all your Dataverse collections and datasets and allows users to view their contents and even download files directly from your site. See an example from our colleagues at the <a href="https://housingresearchcollaborative.allard.ubc.ca/dataverse/">UBC Housing Research Collaborative </a>
 
 <p style="margin-top:25px;margin-left:30px">
 <img src="figures/borealis-listing-widget.png" width="550"/> </p> 
@@ -180,7 +180,7 @@ In the dataverse collection where you want the template, click  `+ Create Datase
 
 <p style="margin-top:15px"></p>
 
-Guestbooks is another way to further control your data access. See for example how our colleagues at the Centre for Sustainable Food Systems at UBC Farm manage their datasets within their dataverse collection - https://borealisdata.ca/dataverse/UBC_CSFS. Once you create a Guestbook, when a user attempts to download a dataset, a popup will ask them for information you specify: name, email, institution, position, or custom questions. Any of these questions can be set as Required to permit the download.
+Guestbooks is another way to further control your data access. See for example how our colleagues at the Centre for Sustainable Food Systems at UBC Farm manage their datasets within their <a href="https://borealisdata.ca/dataverse/UBC_CSFS"> Dataverse collection</a>. Once you create a Guestbook, when a user attempts to download a dataset, a popup will ask them for information you specify: name, email, institution, position, or custom questions. Any of these questions can be set as Required to permit the download.
 
 <p style="margin-top:25px;margin-left:30px">
 <img src="figures/borealis-guestbook.png" width="550"/> </p> 
