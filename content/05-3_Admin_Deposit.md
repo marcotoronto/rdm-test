@@ -96,6 +96,8 @@ To get the widget code,
 ### <a style="font-size:17px">Permissions</a>
 {: .label .label-yellow }
 
+<p style="margin-top:15px"></p>
+
 Here you can refine who has access to your dataverse collection, and what actions they can perform. 
 
 The Permissions page has the following tabs:
@@ -117,6 +119,8 @@ The Permissions page has the following tabs:
 ### <a style="font-size:17px">Groups</a>
 {: .label .label-yellow }
 
+<p style="margin-top:15px"></p>
+
 If you need to assign different roles to many different users (e.g. multiple collaborators, research groups), `Creat Group` can streamline the process. 
 
 <p style="margin-top:25px;margin-left:30px">
@@ -135,7 +139,7 @@ Once the group is created, you can Edit or Delete it from the Groups page. Group
 ### <a style="font-size:17px">Dataset Templates</a>
 {: .label .label-yellow }
 
-Custom Templates
+<p style="margin-top:15px"></p>
 
 If you will be uploading a lot of files with *some identical metadata* (e.g. several files in a series with the same authors, dates, keywords, etc), you can create custom templates to **autofill** those fields. 
 
@@ -150,12 +154,10 @@ In the dataverse where you want the template, click  `+ Create Dataset Template`
 
 3. Click `Save + Add Terms`. Next, you will fill in any terms, conditions, or requirements for using data assigned that Template. 
 
+4. To finish, click `Save Dataset Template`. The Template will now appear on the Dataset Templates page, where it can be viewed, edited, or deleted.
+
 <p style="margin-top:25px;margin-left:30px">
 <img src="figures/borealis-template-terms.png" width="550"/> </p> 
-
-<p style="margin-top:15px"></p>
-
-4. To finish, click `Save Dataset Template`. The Template will now appear on the Dataset Templates page, where it can be viewed, edited, or deleted.
 
 
 <br>
@@ -163,6 +165,8 @@ In the dataverse where you want the template, click  `+ Create Dataset Template`
 
 ### <a style="font-size:17px">Dataset Guestbooks</a>
 {: .label .label-yellow }
+
+<p style="margin-top:15px"></p>
 
 Guestbooks is another way to further control your data access. Once you create a Guestbook, when a user attempts to download a dataset, a popup will ask them for information you specify: name, email, institution, position, or custom questions. Any of these questions can be set as Required to permit the download.
 
