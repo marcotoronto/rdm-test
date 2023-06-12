@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Admin Deposit
+title: Admin Access
 parent: Deposit in UBC Dataverse Collection
 nav_order: 3
 ---
@@ -187,7 +187,14 @@ In the dataverse collection where you want the template, click  `+ Create Datase
 
 <p style="margin-top:15px"></p>
 
-Guestbooks is another way to further control your data access. See for example how our colleagues at the Centre for Sustainable Food Systems at UBC Farm manage their datasets within their <a href="https://borealisdata.ca/dataverse/UBC_CSFS"> Dataverse collection</a>. Once you create a Guestbook, when a user attempts to download a dataset, a popup will ask them for information you specify: name, email, institution, position, or custom questions. Any of these questions can be set as Required to permit the download.
+Guestbooks is another way to *further control* your data access. 
+
+The example below shows how our colleagues at the <a href="https://borealisdata.ca/dataverse/UBC_CSFS">Centre for Sustainable Food Systems at UBC Farm</a> manage datasets within heir Dataverse collection. 
+
+<p style="margin-top:25px;margin-left:30px">
+<img src="figures/borealis-guestbook-terms.png" width="550"/> </p> 
+
+Once you create a Guestbook, when a user attempts to download a dataset, a popup will ask them for information you specify: name, email, institution, position, or custom questions. Any of these questions can be set as Required to permit the download.
 
 <p style="margin-top:25px;margin-left:30px">
 <img src="figures/borealis-guestbook.png" width="550"/> </p> 

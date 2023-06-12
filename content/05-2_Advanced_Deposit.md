@@ -194,5 +194,20 @@ To customize terms:
 If you need help creating a custom license, contact `research.data@ubc.ca`.
 
 
+<br>
+
+# Congrats!
+{: .no_toc }
+
+<p style="margin-top:25px;margin-left:30px">
+<img src="figures/angel-congrats.jpg" width="300"/>
+</p>
+
+You are an expert in data deposit in the UBC Dataverse collection now! 
+
+If you need have more options to customize and control the way your Dataverse collections look and act, you need to know more! Check out our [Admin Access in the UBC Dataverse collection Workshop](05-3_Admin_Access.md).
+
+
+
 
 

@@ -201,7 +201,9 @@ Admin assistance is needed to un-publish a dataset, so be sure before Submitting
 # Congrats!
 {: .no_toc }
 
-Now you know how to deposit your dataset in a **Demo** UBC Dataverse Collection! You are ready to go live at <https://borealisdata.ca>!
+Now you know how to deposit your dataset in a **Demo** UBC Dataverse Collection! You are ready to go live at <https://borealisdata.ca>! 
+
+Want to learn more details about data deposit in the UBC Dataverse collection? You are qualified for the [Advanced Deposit workshop](05-2_Advanced_Deposit.md) now!
 
 <p style="margin-top:25px;margin-left:30px">
 <img src="figures/congrats.jpg" width="300"/>
