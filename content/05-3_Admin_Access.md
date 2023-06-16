@@ -44,7 +44,7 @@ From the main page of the Dataverse collection within which you’d like to crea
 
 <br>
 
-## Customize A Dataverse
+## Customize a Dataverse Collection
 
 On the main page for the Dataverse collection you want to customize, click the `Edit` button and you will then see a dropdown menu with several options:
 
@@ -79,7 +79,7 @@ You can change basic information about the Dataverse collection, such as:
 ### Theme
 {: .no_toc}
 
-You can change the look of the Dataverse collection, including colour scheme, adding a logo, tagline, and website link. You can also choose to inherit theme from the University of British Columbia Dataverse collection.
+You can change the look of the Dataverse collection, including colour scheme, adding a logo, tagline, and website link. You can also choose to inherit the theme from the University of British Columbia Dataverse collection. See below the UBC Farm these embedded in their Dataverse collection.
 
 <p style="margin-top:25px;margin-left:30px">
 <img src="figures/borealis-theme.png" width="550"/> </p> 
