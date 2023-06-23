@@ -5,7 +5,7 @@ has_children: true
 nav_order: 8
 ---
 
-# Why deposit data?
+# Why Deposit Data?
 
 Storing your data in a repository like Borealis makes it easy for other researchers, publishers, and collaborators to find, use, and cite your data. It supports the Open Science movement goals of trans-parency, accessibility, and collaboration, and can increase attention to your work.
 
