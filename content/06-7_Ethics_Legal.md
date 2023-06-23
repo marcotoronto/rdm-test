@@ -1,8 +1,8 @@
 ---
 layout: default
-title: Documentation & Metadata 
+title: Ethics & Legal Compliance
 parent: Data Management Plan
-nav_order: 2
+nav_order: 7
 ---
 
 <p style="margin-top:25px">
