@@ -38,7 +38,7 @@ To create your DMP, please use the <a href="https://assistant.portagenetwork.ca/
 - Natural Sciences and Engineering Research Council (NSERC)
 - Social Sciences and Humanities Research Council (SSHRC)
 
-DMP Assistant is available in both English and French. It allows you to create and export your DMP. Portage has created some excellent exemplars for numerous disciplines and UBC has a general template for use by UBC researchers.
+DMP Assistant is available in both English and French. It allows you to create and export your DMP. Portage has created some excellent <a href="https://zenodo.org/communities/portage-network/search?page=1&size=20&q=exemplar">exemplars </a>for numerous disciplines and UBC has a general template for use by UBC researchers.
 
 
 
