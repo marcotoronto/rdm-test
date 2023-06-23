@@ -9,6 +9,9 @@ nav_order: 9
 <img src="figures/work-in-progress.png" width="600"/>
 </p>
 
+
+# Why Create DMP?
+
 **A Data Management Plan (DMP)** is a short, formal document which clearly articulates the strategies and tools you will implement to effectively manage your data. It speaks to the management of data both <b>during</b> the active phases of your research and <b>after</b> the completion of the research project. 
 
 <a href="https://science.gc.ca/site/science/en/interagency-research-funding/policies-and-guidelines/research-data-management/tri-agency-research-data-management-policy">The Tri-Agency Research Data Management Policy</a> states that: "All grant proposals submitted to the agencies should include methodologies that reflect best practices in RDM. For certain funding opportunities, the agencies will require data management plans (DMPs) to be submitted to the appropriate agency at the time of application, as outlined in the call for proposals; in these cases, the DMPs will be considered in the adjudication process."
