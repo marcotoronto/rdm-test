@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Data Collection
+title: 1-Data Collection
 parent: Data Management Plan
 nav_order: 1
 ---
