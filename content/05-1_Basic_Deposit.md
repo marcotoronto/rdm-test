@@ -6,6 +6,7 @@ nav_order: 1
 ---
 
 # Basic Deposit in UBC Dataverse Collection
+{: .no_toc }
 
 <p style="margin-bottom: 15px"></p>
 
