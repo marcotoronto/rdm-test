@@ -3,6 +3,7 @@ layout: default
 title: Data Management Plan
 has_children: true
 nav_order: 9
+has_toc: false
 ---
 
 <p style="margin-top:25px">
@@ -51,7 +52,7 @@ So far, we are seeing the following funding opportunities requiring DMPs, in add
 
 <br>
 
-## General Notes for DMP creation
+# General Notes for DMP creation
 
 - When creating your research project's DMP, it's important to begin with a **general description** that outlines the project's focus and purpose. 
 - Keep in mind that the DMP should be easily understood by anyone, so try to **avoid using excessive discipline-specific jargon**. 
@@ -66,7 +67,7 @@ Remember that your DMP is a living document that should be **regularly updated**
 <br>
 
 
-## The Tool to Create DMPs
+# The Tool to Create DMPs
 To create your DMP, please use <a href="https://assistant.portagenetwork.ca/tool" target="_blank"> DMP Assistant</a>, a free, open-source Canadian tool for preparing DMPs. The tool follows best practices in data stewardship and walks researchers step-by-step through key questions about data management. DMP Assistant is designed to meet the requirements of these Canadian funders:
 
 - Canada Foundation for Innovation (CFI)
@@ -81,7 +82,14 @@ The Canadian Libraries' Portage community has also collaborated on some excellen
 
 <br>
  
-The following content should be considered in order to create a meaningful DMP:
+# These sections should be considered to create a meaningful DMP:
+1. [Data Collection](06-1_Data_Collection.md)
+2. [Documentation and Metadata](06-2_Documentation_Metadata.md)
+3. [Storage and Backup](06-3_Storage_Backup.md)
+4. [Data Preservation](06-4_Data_Preservation.md)
+5. [Data Sharing and Reuse](06-5_Data_Sharing.md)
+6. [Responsibilities and Resources](06-6_Responsibilities_Resources.md)
+7. [Ethcis and Legal Compliance](06-7_Ethics_Legal.md)
 
 
 
