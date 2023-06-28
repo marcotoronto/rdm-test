@@ -83,6 +83,8 @@ The Canadian Libraries' Portage community has also collaborated on some excellen
 <br>
  
 # These sections should be considered to create a meaningful DMP:
+{: .no_toc }
+
 1. [Data Collection](06-1_Data_Collection.md)
 2. [Documentation and Metadata](06-2_Documentation_Metadata.md)
 3. [Storage and Backup](06-3_Storage_Backup.md)
