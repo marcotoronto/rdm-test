@@ -26,6 +26,7 @@ Looking for a cheat sheet? Check out our <a href="https://osf.io/wmh5n" target="
 
 
 # Why Create DMPs?
+{: .no_toc}
 
 **A Data Management Plan (DMP)** is a short, formal document which clearly articulates the strategies and tools you will implement to effectively manage your data. It speaks to the management of data both <b>during</b> the active phases of your research and <b>after</b> the completion of the research project. 
 
@@ -36,6 +37,7 @@ Looking for a cheat sheet? Check out our <a href="https://osf.io/wmh5n" target="
 So far, we are seeing the following funding opportunities requiring DMPs, in addition to all CFI (Canada Foundation for Innovation) applications:
 
 ### CIHR
+{: .no_toc}
 
 - Network Grants in Skin Health and Muscular Dystrophy (launch fall 2022 / winter 2023)
 - Data Science for Equity (launch fall 2022 / winter 2023)
@@ -43,10 +45,12 @@ So far, we are seeing the following funding opportunities requiring DMPs, in add
 - Team Grant: Strengthening the Health Workforce for System Transformation (Summer 2023)
 
 ### NSERC
+{: .no_toc}
 
 - Subatomic Physics Discovery Grants program (Individual and Project) for fall 2023.
 
 ### SHHRC
+{: .no_toc}
 
 - Partnership Grants Phase 2 (2023)
 
@@ -70,6 +74,7 @@ Remember that your DMP is a living document that should be **regularly updated**
 # Tools to Create DMPs
 
 ## DMP Assistant
+{: .no_toc}
 
 To create your DMP, please use <a href="https://assistant.portagenetwork.ca/tool" target="_blank"> **DMP Assistant**</a>. This is a free, open-source Canadian tool created by the Canadian Libraries' Portage community for preparing DMPs. It is available in *both English and French* and allows you to create and export your DMP. UBC has a *general template for UBC researchers*. This tool follows best practices in data stewardship and walks researchers step-by-step through key questions about data management. 
 
@@ -81,6 +86,9 @@ DMP Assistant is designed to meet the requirements of these Canadian funders:
 
 
 The Portage community has also collaborated on some excellent <a href="https://zenodo.org/communities/portage-network/search?page=1&size=20&q=exemplar" target="_blank">**exemplars** </a>. These exemplars cover a range of disciplines and research methods, highlight best practices for DMPs in those disciplines, and provide a reference point for researchers writing their own DMPs.
+
+## Other tools
+{: .no_toc}
 
 In the United States, the University of California maintains <a href="https://dmptool.org/" target="_blank">DMP Tool</a>, and the Digital Curation Centre in the UK maintains <a href="https://dmponline.dcc.ac.uk/" target="_blank">DMP Online</a>. Each of these tools functions similarly by walking you through the process of writing a DMP.
 
