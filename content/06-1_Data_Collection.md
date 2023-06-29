@@ -25,6 +25,7 @@ Additionally, it is crucial to discuss how you will organize your data. This inc
 You can consult the <a href="01_file_naming.md" target="_blank">File Naming workshop</a> for valuable recommendations and best practices.
 {: .note }
 
+
 By addressing these considerations in your research data management plan, you can ensure that your data collection process is well-documented, standardized, and facilitates efficient data organization and future utilization.
 
 
