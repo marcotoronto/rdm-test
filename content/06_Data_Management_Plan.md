@@ -63,7 +63,7 @@ So far, we are seeing the following funding opportunities requiring DMPs, in add
 - Not all sections or questions in the DMP may be applicable to your specific project, so feel free to leave them blank if necessary. 
 - Additionally, consider including <a href="https://orcid.org" target="_blank"> **ORCIDs**</a> (Open Researcher and Contributor IDs) for the researchers involved. ORCIDs provide metadata that ensure appropriate academic credits are attributed.
 
-Remember that your DMP is a living document that should be **regularly updated** as needed, similar to your README file and data dictionary. By doing so, you can ensure that your research project is *well-documented* and aligned with *best practices* in data management.
+Remember that your DMP is a living document that should be **regularly updated** as needed, similar to your README file and data dictionary.
 {: .note }
 
 
