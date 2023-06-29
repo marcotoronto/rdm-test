@@ -66,6 +66,10 @@ Click to Download the Files
 
 - <a download href="exercise_files\NatureVancouverMonthlyBirdSurveys_Metadata.pdf" target="_blank"> The metadata/data dictionary file</a>
 
+<p style="margin-top:25px; margin-left:30px">
+<img src="figures/bird.jpg" width="300"/></p>
+
+
 <br>
 
 ## *1*{: .circle .circle-blue} &nbsp;Create Account
@@ -158,6 +162,8 @@ Once a dataset is published, Dataverse assigns a **DOI** to permanently identify
 
 We can also assign a **Private URL** to share with a journal and/or peer-reviewers without publishing the data. 
 
+<p style="margin-top:25px; margin-left:30px">
+<img src="figures/publish.jpg" width="300"/></p>
 
 
 
@@ -204,10 +210,12 @@ Admin assistance is needed to un-publish a dataset, so be sure before Submitting
 
 Now you know how to deposit your dataset in a **Demo** UBC Dataverse Collection! You are ready to go live at <https://borealisdata.ca>! 
 
-Want to learn more details about data deposit in the UBC Dataverse collection? You are qualified for the [Advanced Deposit workshop](05-2_Advanced_Deposit.md) now!
-
-<p style="margin-top:25px;margin-left:30px">
-<img src="figures/congrats.jpg" width="300"/>
+<p style="margin-bottom:25px;margin-left:30px">
+<img src="figures/thumb-success.jpg" width="150"/>
 </p>
   
+
+Want to learn more details about data deposit in the UBC Dataverse collection? You are qualified for the [Advanced Deposit workshop](05-2_Advanced_Deposit.md) now!
+
+
 
