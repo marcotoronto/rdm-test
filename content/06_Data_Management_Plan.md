@@ -38,30 +38,30 @@ So far, we are seeing the following funding opportunities requiring DMPs, in add
 ### CIHR
 {: .no_toc}
 
-- Network Grants in Skin Health and Muscular Dystrophy (launch fall 2022 / winter 2023)
-- Data Science for Equity (launch fall 2022 / winter 2023)
-- Virtual Care/Digital Health Team Grants (launch fall 2022 / winter 2023)
-- Team Grant: Strengthening the Health Workforce for System Transformation (Summer 2023)
+- Network Grants in Skin Health and Muscular Dystrophy 
+- Data Science for Equity 
+- Virtual Care/Digital Health Team Grants, now renamed to Team Grant: Strengthening the Health Workforce for System Transformation
+
 
 ### NSERC
 {: .no_toc}
 
-- Subatomic Physics Discovery Grants program (Individual and Project) for fall 2023.
+- Subatomic Physics Discovery Grants program (Individual and Project).
 
 ### SHHRC
 {: .no_toc}
 
-- Partnership Grants Phase 2 (2023)
+- Partnership Grants Phase 2.
 
 <br>
 
 # General Notes for DMP creation
 
-- When creating your research project's DMP, it's important to begin with a **general description** that outlines the project's focus and purpose. 
-- Keep in mind that the DMP should be easily understood by anyone, so try to **avoid using excessive discipline-specific jargon**. 
+- When creating your research project's DMP, it's important to begin with a general description that outlines the project's focus and purpose. 
+- Keep in mind that the DMP should be easily understood by anyone, so try to avoid using excessive discipline-specific jargon. 
 - If you do need to use acronyms, be sure to define them for clarity.
 - Not all sections or questions in the DMP may be applicable to your specific project, so feel free to leave them blank if necessary. 
-- Additionally, consider including <a href="https://orcid.org" target="_blank"> **ORCIDs**</a> (Open Researcher and Contributor IDs) for the researchers involved. ORCIDs provide metadata that ensure appropriate academic credits are attributed.
+- Additionally, consider including <a href="https://researchdata.library.ubc.ca/plan/get-an-orcid-id" target="_blank"> **ORCIDs**</a> (Open Researcher and Contributor IDs) for the researchers involved. ORCIDs provide metadata that ensure appropriate academic credits are attributed.
 
 Remember that your DMP is a living document that should be **regularly updated** as needed, similar to your README file and data dictionary.
 {: .note }
