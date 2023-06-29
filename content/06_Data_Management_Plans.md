@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Data Management Plan
+title: Data Management Plans
 has_children: true
 nav_order: 9
 has_toc: false
