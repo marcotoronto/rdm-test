@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Data Management Plan
+title: Data Management Plans
 has_children: true
 nav_order: 9
 has_toc: false
@@ -72,7 +72,7 @@ Remember that your DMP is a living document that should be **regularly updated**
 
 # Tools to Create DMPs
 
-## DMP Assistant
+## DMP Assistant in Canada
 {: .no_toc}
 
 To create your DMP, please use <a href="https://assistant.portagenetwork.ca/tool" target="_blank"> **DMP Assistant**</a>. This is a free, open-source Canadian tool created by the Canadian Libraries' Portage community for preparing DMPs. It is available in *both English and French* and allows you to create and export your DMP. UBC has a *general template for UBC researchers*. This tool follows best practices in data stewardship and walks researchers step-by-step through key questions about data management. 
