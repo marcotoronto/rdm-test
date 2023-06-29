@@ -81,7 +81,7 @@ DMP Assistant is designed to meet the requirements of these Canadian funders:
 - Social Sciences and Humanities Research Council (SSHRC)
 
 
-The Portage community has also collaborated on some excellent <a href="https://zenodo.org/communities/portage-network/search?page=1&size=20&q=exemplar" target="_blank">**exemplars** </a>. These exemplars cover a range of disciplines and research methods, highlight best practices for DMPs in those disciplines, and provide a reference point for researchers writing their own DMPs.
+The Portage community has also collaborated on some excellent <a href="https://zenodo.org/communities/portage-network/search?page=1&size=20&q=exemplar" target="_blank">**exemplars**</a>. These exemplars cover a range of disciplines and research methods, highlight best practices for DMPs in those disciplines, and provide a reference point for researchers writing their own DMPs.
 
 ## Other tools
 {: .no_toc}
