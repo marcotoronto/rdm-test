@@ -26,7 +26,6 @@ Looking for a cheat sheet? Check out our <a href="https://osf.io/wmh5n" target="
 
 
 # Why Create DMPs?
-{: .no_toc}
 
 **A Data Management Plan (DMP)** is a short, formal document which clearly articulates the strategies and tools you will implement to effectively manage your data. It speaks to the management of data both <b>during</b> the active phases of your research and <b>after</b> the completion of the research project. 
 
