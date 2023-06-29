@@ -6,9 +6,6 @@ nav_order: 9
 has_toc: false
 ---
 
-<p style="margin-top:25px">
-<img src="figures/work-in-progress.png" width="600"/>
-</p>
 
 <details open markdown="block">
   <summary>
