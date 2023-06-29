@@ -71,7 +71,7 @@ Which ones in this example are root directories? What about subdirectories?
 # README Files and Data Dictionaries 
 README files and Data Dictionaries - containing a brief description of the major folder contents, naming conventions, and data structure - are critical for <b>transparency and reproducibility</b> because they allow others to easily understand the contents of your directory and data without needing to ask the creator. This is especially helpful when working with a group or sharing directories with others.
 
-Click [here](03_create_readme.md) to review how to create a README file!
+Click <a href="03_create_readme.md" target="_blank">here</a> to review how to create a README file!
 {: .note}
 
 <p style="margin-bottom: 30px"></p>

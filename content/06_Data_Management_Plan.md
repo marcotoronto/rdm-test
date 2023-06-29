@@ -67,22 +67,27 @@ Remember that your DMP is a living document that should be **regularly updated**
 <br>
 
 
-# The Tool to Create DMPs
-To create your DMP, please use <a href="https://assistant.portagenetwork.ca/tool" target="_blank"> DMP Assistant</a>, a free, open-source Canadian tool for preparing DMPs. The tool follows best practices in data stewardship and walks researchers step-by-step through key questions about data management. DMP Assistant is designed to meet the requirements of these Canadian funders:
+# Tools to Create DMPs
 
+## DMP Assistant
+
+To create your DMP, please use <a href="https://assistant.portagenetwork.ca/tool" target="_blank"> **DMP Assistant**</a>. This is a free, open-source Canadian tool created by the Canadian Libraries' Portage community for preparing DMPs. It is available in *both English and French* and allows you to create and export your DMP. UBC has a *general template for UBC researchers*. This tool follows best practices in data stewardship and walks researchers step-by-step through key questions about data management. 
+
+DMP Assistant is designed to meet the requirements of these Canadian funders:
 - Canada Foundation for Innovation (CFI)
 - Canadian Institutes of Health Research (CIHR)
 - Natural Sciences and Engineering Research Council (NSERC)
 - Social Sciences and Humanities Research Council (SSHRC)
 
-DMP Assistant is available in *both English and French*. It allows you to create and export your DMP. UBC has a **general template for UBC researchers**. 
 
-The Canadian Libraries' Portage community has also collaborated on some excellent <a href="https://zenodo.org/communities/portage-network/search?page=1&size=20&q=exemplar">**exemplars** </a>. These exemplars cover a range of disciplines and research methods, highlight best practices for DMPs in those disciplines, and provide a reference point for researchers writing their own DMPs.
+The Portage community has also collaborated on some excellent <a href="https://zenodo.org/communities/portage-network/search?page=1&size=20&q=exemplar" target="_blank">**exemplars** </a>. These exemplars cover a range of disciplines and research methods, highlight best practices for DMPs in those disciplines, and provide a reference point for researchers writing their own DMPs.
+
+In the United States, the University of California maintains <a href="https://dmptool.org/" target="_blank">DMP Tool</a>, and the Digital Curation Centre in the UK maintains <a href="https://dmponline.dcc.ac.uk/" target="_blank">DMP Online</a>. Each of these tools functions similarly by walking you through the process of writing a DMP.
 
 
 <br>
  
-# These sections should be considered to create a meaningful DMP:
+# These key components should be considered to create a meaningful DMP:
 {: .no_toc }
 
 1. [Data Collection](06-1_Data_Collection.md)

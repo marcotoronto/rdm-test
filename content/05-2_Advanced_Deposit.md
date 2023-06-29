@@ -10,8 +10,8 @@ nav_order: 2
 
 <p style="margin-bottom: 15px"></p>
 
- Before you continue, please make sure you have a good understanding of the deposit basics in [Basic Deposit in UBC Dataverse Collection](05-1_Basic_Deposit.md).
- {: .note}
+ Before you continue, please make sure you have a good understanding of the deposit basics in <a href="05-1_Basic_Deposit.md" target="_blank">Basic Deposit in UBC Dataverse Collection</a>.
+ {: .prereq}
  
  In this guide, we expand further on data discovery, file formats, DOIs, Private URLs, access control, licenses, file size, version control and more.
 
@@ -205,7 +205,7 @@ If you need help creating a custom license, contact `research.data@ubc.ca`.
 
 You are an expert in data deposit in the UBC Dataverse collection now! 
 
-If you need have more options to customize and control the way your Dataverse collections look and act, you need to know more! Check out our [Admin Access in the UBC Dataverse collection Workshop](05-3_Admin_Access.md).
+If you need have more options to customize and control the way your Dataverse collections look and act, you need to know more! Check out our <a href="05-3_Admin_Access.md" target="_blank">Admin Access in the UBC Dataverse collection Workshop</a>.
 
 
 
