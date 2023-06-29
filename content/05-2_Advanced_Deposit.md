@@ -36,7 +36,10 @@ Looking for a cheat sheet? Check out our <a href="https://osf.io/5u4f3" target="
 
 ## Recommended File formats 
 
-*Any kind of file* can be uploaded to Dataverse, but extra functionality is supported for some filetypes:
+<p style="margin-buttom:25px;margin-left:30px">
+<img src="figures/all-file-types.png" width="300"/> </p> 
+
+**Any kind of file** can be uploaded to Dataverse, but extra functionality is supported for some filetypes:
 
 ### Tabular data
 {: .no_toc}
@@ -63,6 +66,11 @@ Compressed files are the preferred method for uploading large datasets or many f
 
 Sometimes, it is a good idea to deposit the zipped folder to preserve the content as it is, especially if you need your files to remain together. In this case, please *double-zip* your directory as the software will unzip it once upon upload.
 {: .note}
+
+
+<p style="margin-top:25px;margin-left:30px">
+<img src="figures/compressed-files.png" width="150"/> </p> 
+
 
 <br>
 
