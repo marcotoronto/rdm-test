@@ -91,8 +91,9 @@ In the United States, the University of California maintains <a href="https://dm
 
 <br>
  
-# These key components should be considered to create a meaningful DMP:
-{: .no_toc }
+# Key Components
+
+These key components should be considered to create a meaningful DMP:
 
 1. [Data Collection](06-1_Data_Collection.md)
 2. [Documentation and Metadata](06-2_Documentation_Metadata.md)
