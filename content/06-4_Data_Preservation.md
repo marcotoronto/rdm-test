@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Data Preservation
-parent: Data Management Plan
+parent: Data Management Plans
 nav_order: 4
 ---
 
