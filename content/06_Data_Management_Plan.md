@@ -74,6 +74,11 @@ Remember that your DMP is a living document that should be **regularly updated**
 
 To create your DMP, please use <a href="https://assistant.portagenetwork.ca/tool" target="_blank"> **DMP Assistant**</a>. This is a free, open-source Canadian tool created by the Canadian Libraries' Portage community for preparing DMPs. It is available in *both English and French* and allows you to create and export your DMP. UBC has a *general template for UBC researchers*. This tool follows best practices in data stewardship and walks researchers step-by-step through key questions about data management. 
 
+<p style="margin-top:25px;margin-left:30px;margin-bottom:25px">
+<img src="figures/dmp_assistant.jpeg" width="500"/>
+</p>
+
+
 DMP Assistant is designed to meet the requirements of these Canadian funders:
 - Canada Foundation for Innovation (CFI)
 - Canadian Institutes of Health Research (CIHR)
