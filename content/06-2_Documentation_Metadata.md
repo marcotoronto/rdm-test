@@ -39,7 +39,8 @@ nav_order: 2
 **A**ccessible
 {: .label .label-green }
 
-        Accessible data is always available and obtainable, this does not mean the files are open, rather that you can access the metadata regarding the files.
+        Accessible data is always available and obtainable, this does not mean the files are open, 
+        rather that you can access the metadata regarding the files.
 
 **I**nteroperable
 {: .label .label-green }
@@ -105,12 +106,17 @@ There are specific considerations and protocols surrounding Indigenous research 
 
 UBC's <a href="https://irsi.ubc.ca" target="_blank">Indigenous Research Support Initiative (ISRI)</a> has published its own Principles for Indigenous Data Governance.
 
-1.    UBC recognizes Indigenous self-governance and self-determination.
-2.    Engagement and data governance will be informed by Indigenous communities following a community-driven and Nation-based pathway.
-3.    Ownership and right to control their data, as asserted by Indigenous governments
-4.    Recognition that access and possession of Indigenous data must be respectfully permitted by the relevant authority. This applies to the collection, protection, use, and management of data records and information.
-5.    UBC helps to advance the interests, rights, and jurisdiction with respect to reclamation of information in UBC's possession including research data, records, and other types of information.
-6.    Indigenous data governance standards apply to data that relates to each Nation.
+<p style="margin-bottom:25px;margin-left:30px">
+<img src="figures/ubc_street_signs.jpeg" width="300"/>
+</p>
+
+
+1. UBC recognizes Indigenous self-governance and self-determination.
+2. Engagement and data governance will be informed by Indigenous communities following a community-driven and Nation-based pathway.
+3. Ownership and right to control their data, as asserted by Indigenous governments
+4. Recognition that access and possession of Indigenous data must be respectfully permitted by the relevant authority. This applies to the collection, protection, use, and management of data records and information.
+5. UBC helps to advance the interests, rights, and jurisdiction with respect to reclamation of information in UBC's possession including research data, records, and other types of information.
+6. Indigenous data governance standards apply to data that relates to each Nation.
 
 ## CARE Principles for Indigenous Data Governance
 
@@ -119,7 +125,8 @@ The CARE Principles for Indigenous Data Governance are designed to complement th
 **C**ollective Benefit
 {: .label .label-green }
 
-        "Data ecosystems shall be designed and function in ways that enable Indigenous Peoples to derive benefit from the data."
+        "Data ecosystems shall be designed and function in ways that enable Indigenous Peoples to 
+        derive benefit from the data."
 
 **A**uthority to Control
 {: .label .label-green }
@@ -129,12 +136,14 @@ The CARE Principles for Indigenous Data Governance are designed to complement th
 **R**esponsibility
 {: .label .label-green }
 
-        Researchers working with Indigenous Peoples have a responsibility to support Indigenous Peoples rights.
+        Researchers working with Indigenous Peoples have a responsibility to support Indigenous Peoples 
+        rights.
 
 **E**thics
 {: .label .label-green }
 
-        "Indigenous Peoples' rights and wellbeing should be the primary concern at all stages of the data life cycle and across the data ecosystem."
+        "Indigenous Peoples' rights and wellbeing should be the primary concern at all stages of the 
+        data life cycle and across the data ecosystem."
 
 The CARE Principles can be examined in depth here: CARE Principles for Indigenous Data
 Governance
