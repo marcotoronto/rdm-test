@@ -12,7 +12,6 @@ nav_order: 5
 A file format encodes information within a computer file so that it can be recognized by an application and accessed. It is indicated by the file name extension. Each file type (such as text, images, or sound) has many file formats available.
 
 <p style="margin-bottom: 25px"></p>
-
 <img src="figures/formats.png" width="300" style="margin-left:30px"/>
 
 <p style="margin-bottom: 25px"></p>

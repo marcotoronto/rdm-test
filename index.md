@@ -22,4 +22,4 @@ Research Commons is now offering bite-size workshops "<b>Data Bites</b>" that ar
 
 <p style="margin-top:90px"></p>
 
-<p style="color:grey; font-size:11px">This workshop series was developed by Billie Hu and Eugene Barsky.
+<p style="color:grey; font-size:11px">This workshop series was developed by Billie Hu and Eugene Barsky.</p>
