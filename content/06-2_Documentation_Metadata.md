@@ -89,8 +89,15 @@ Reflection
         Take a moment to think about your research project. What kind of descriptive, administrative 
         and structural metadata might you want to record?
 
-# Create a README File
 
+<br>
+
+<p style="margin-bottom:25px;margin-left:30px">
+<img src="figures/readme.png" width="400"/>
+</p>
+
+
+# Create a README File
 
 To ensure that fellow researchers can understand and reuse your data, it is crucial to describe what method you will use to facilitate comprehension. One effective approach is to create a robust **README file**. This file should include comprehensive information about your dataset (i.e. *metadata*), such as its contents, provenance, licensing, and instructions on how to interact with it. 
 
@@ -102,11 +109,7 @@ In addition to the README file, you should also consider **defining all your var
 
 Alternatively, you can utilize your README file to provide this information.
 
-<p style="margin-top:25px;margin-left:30px">
-<img src="figures/readme.png" width="400"/>
-</p>
 
-<br>
 
 
 
