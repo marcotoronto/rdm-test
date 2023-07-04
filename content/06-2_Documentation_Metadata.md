@@ -116,17 +116,17 @@ There are specific considerations and protocols surrounding Indigenous research 
 
 UBC's <a href="https://irsi.ubc.ca" target="_blank">Indigenous Research Support Initiative (ISRI)</a> has published its own Principles for Indigenous Data Governance.
 
-<p style="margin-bottom:25px;margin-left:30px">
-<img src="figures/ubc_street_signs.jpeg" width="300"/>
-</p>
-
-
 1. UBC recognizes Indigenous self-governance and self-determination.
 2. Engagement and data governance will be informed by Indigenous communities following a community-driven and Nation-based pathway.
 3. Ownership and right to control their data, as asserted by Indigenous governments
 4. Recognition that access and possession of Indigenous data must be respectfully permitted by the relevant authority. This applies to the collection, protection, use, and management of data records and information.
 5. UBC helps to advance the interests, rights, and jurisdiction with respect to reclamation of information in UBC's possession including research data, records, and other types of information.
 6. Indigenous data governance standards apply to data that relates to each Nation.
+
+<p style="margin-bottom:25px;margin-left:30px">
+<img src="figures/ubc_street_signs.jpeg" width="300"/>
+</p>
+
 
 ## CARE Principles for Indigenous Data Governance
 
