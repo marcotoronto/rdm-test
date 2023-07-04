@@ -31,24 +31,24 @@ nav_order: 2
 </p>
 
 **F**indable
-{: .label .label-green }
+{: .label .label-red }
 
         Findable data is discoverable thanks to its metadata.
 
 
 **A**ccessible
-{: .label .label-green }
+{: .label .label-red }
 
         Accessible data is always available and obtainable, this does not mean the files are open, 
         rather that you can access the metadata regarding the files.
 
 **I**nteroperable
-{: .label .label-green }
+{: .label .label-red }
 
         Interoperable data is able to be used by many researchers from many locations
 
 **R**eusable
-{: .label .label-green }
+{: .label .label-red }
 
         Reusable data is described, licensed, and shared in such a way that wide reuse is possible.
 
