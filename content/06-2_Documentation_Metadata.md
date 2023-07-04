@@ -52,7 +52,7 @@ nav_order: 2
 
         Reusable data is described, licensed, and shared in such a way that wide reuse is possible.
 
-All data can be FAIR, but not all FAIR data is open. OpenAIRE states that data should be "*as open as possible, as closed as necessary*." Not all data can be fully open, but it should still be findable at the metadata level.
+**All data can be FAIR, but not all FAIR data is open**. OpenAIRE states that data should be "*as open as possible, as closed as necessary*." Not all data can be fully open, but it should still be findable at the metadata level.
 {: .note}
 
 ### Metadata, the descriptive data about your project, supports your project's ability to be FAIR. 
@@ -91,9 +91,6 @@ Reflection
 
 # Create a README File
 
-<p style="margin-top:25px;margin-left:30px;margin-bottom:25px">
-<img src="figures/readme.png" width="300"/>
-</p>
 
 To ensure that fellow researchers can understand and reuse your data, it is crucial to describe what method you will use to facilitate comprehension. One effective approach is to create a robust **README file**. This file should include comprehensive information about your dataset (i.e. *metadata*), such as its contents, provenance, licensing, and instructions on how to interact with it. 
 
@@ -104,6 +101,10 @@ You can refer to our <a href="03_create_readme.md" target="_blank">Create a READ
 In addition to the README file, you should also consider **defining all your variables** in a data dictionary or codebook. This serves as a reference document that outlines the definitions and characteristics of each variable in your dataset. By clearly defining and documenting your variables, you enable other researchers to understand the structure and meaning of your data, promoting its effective reuse and interpretation. 
 
 Alternatively, you can utilize your README file to provide this information.
+
+<p style="margin-top:25px;margin-left:30px">
+<img src="figures/readme.png" width="300"/>
+</p>
 
 <br>
 
@@ -154,13 +155,34 @@ The CARE Principles for Indigenous Data Governance are designed to complement th
         "Indigenous Peoples' rights and wellbeing should be the primary concern at all stages of the 
         data life cycle and across the data ecosystem."
 
-The CARE Principles can be examined in depth here: CARE Principles for Indigenous Data
-Governance
+The CARE Principles can be examined in depth <a href="https://static1.squarespace.com/static/5d3799de845604000199cd24/t/5da9f4479ecab221ce848fb2/1571419335217/CARE%2BPrinciples_One%2BPagers%2BFINAL_Oct_17_2019.pdf" target="_blank">here</a>.
+{: .note }
 
 ## The First Nations Principles of OCAP®
 The OCAP® Principles of data governance outline how to interact with First Nations data.
-OCAP® stands for:
 
+**O**wnership
+{: .label .label-yellow}
+
+        First Nations communities or groups own their data collectively
+
+**C**ontrol
+{: .label .label-yellow}
+
+        First Nations communities can control all aspects of the research cycle that impact them 
+        directly.
+
+**A**ccess
+{: .label .label-yellow}
+
+        First Nations retain access to the data, regardless of where it is held.
+
+**P**ossession
+{: .label .label-yellow}
+
+        First Nations retain physical control of the data.
+
+OCAP® certifications are available through the First Nations Information Governance Centre (FNIGC). OCAP® is a registered trademark of the FNIGC.
 
 
 
