@@ -23,7 +23,7 @@ nav_order: 2
 
 # The FAIR Principles
 
-<p style="margin-bottom:25px;margin-left:30px">
+<p style="margin-top:25px;margin-left:30px">
 <img src="figures/fair-data-principles.png" width="500"/>
 </p>
 
@@ -69,6 +69,9 @@ Metadata makes it easier for researchers to:
 - publicize their data,
 - locate and retrieve data sets from others.
 
+<p style="margin-top:25px;margin-left:30px;margin-bottom:25px">
+<img src="figures/metadata1.jpg" width="200"/>
+</p>
 
 
 
@@ -83,9 +86,15 @@ Metadata makes it easier for researchers to:
 Reflection
 {: .label label-blue }
 
-        Take a moment to think about your research project. What kind of descriptive, administrative and structural metadata might you want to record?
+        Take a moment to think about your research project. What kind of descriptive, administrative 
+        and structural metadata might you want to record?
 
 # Create a README File
+
+<p style="margin-top:25px;margin-left:30px;margin-bottom:25px">
+<img src="figures/readme.png" width="300"/>
+</p>
+
 To ensure that fellow researchers can understand and reuse your data, it is crucial to describe what method you will use to facilitate comprehension. One effective approach is to create a robust **README file**. This file should include comprehensive information about your dataset (i.e. *metadata*), such as its contents, provenance, licensing, and instructions on how to interact with it. 
 
 You can refer to our <a href="03_create_readme.md" target="_blank">Create a README File workshop</a> to learn how to create a solid README file.
