@@ -23,16 +23,6 @@ nav_order: 2
 
 # Documentation and Metadata
 
-## Metadata
-Metadata is often described as "data about data" and helps answer the questions of who, what, when, where, why. This descriptive data is essential for creating FAIR and open data, and ensuring that the datasets you preserve will be accessible for many years to come.
-
-Metadata makes it easier for researchers to:
-- share their data,
-- publicize their data,
-- locate and retrieve data sets from others.
-
-
-
 ## The FAIR Principles
 Metadata, the descriptive data about your project, supports your project's ability to be FAIR. 
 
@@ -50,6 +40,18 @@ Metadata, the descriptive data about your project, supports your project's abili
 
 All data can be FAIR, but not all FAIR data is open. OpenAIRE states that data should be "*as open as possible, as closed as necessary*." Not all data can be fully open, but it should still be findable at the metadata level.
 {: .note}
+
+<br>
+
+## Metadata
+Metadata is often described as "data about data" and helps answer the questions of who, what, when, where, why. This descriptive data is essential for creating FAIR and open data, and ensuring that the datasets you preserve will be accessible for many years to come.
+
+Metadata makes it easier for researchers to:
+- share their data,
+- publicize their data,
+- locate and retrieve data sets from others.
+
+
 
 
 ### Three of the most common categories of metadata
