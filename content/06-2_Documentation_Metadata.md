@@ -31,24 +31,24 @@ nav_order: 2
 </p>
 
 **F**indable
-{: .label .label-red }
+{: .label .label-purple }
 
         Findable data is discoverable thanks to its metadata.
 
 
 **A**ccessible
-{: .label .label-red }
+{: .label .label-purple }
 
         Accessible data is always available and obtainable, this does not mean the files are open, 
         rather that you can access the metadata regarding the files.
 
 **I**nteroperable
-{: .label .label-red }
+{: .label .label-purple }
 
         Interoperable data is able to be used by many researchers from many locations
 
 **R**eusable
-{: .label .label-red }
+{: .label .label-purple }
 
         Reusable data is described, licensed, and shared in such a way that wide reuse is possible.
 
@@ -70,7 +70,7 @@ Metadata makes it easier for researchers to:
 - locate and retrieve data sets from others.
 
 <p style="margin-top:25px;margin-left:30px;margin-bottom:25px">
-<img src="figures/metadata1.jpg" width="200"/>
+<img src="figures/metadata1.jpg" width="400"/>
 </p>
 
 
@@ -103,7 +103,7 @@ In addition to the README file, you should also consider **defining all your var
 Alternatively, you can utilize your README file to provide this information.
 
 <p style="margin-top:25px;margin-left:30px">
-<img src="figures/readme.png" width="300"/>
+<img src="figures/readme.png" width="400"/>
 </p>
 
 <br>
@@ -164,7 +164,7 @@ The OCAP® Principles of data governance outline how to interact with First Nati
 **O**wnership
 {: .label .label-yellow}
 
-        First Nations communities or groups own their data collectively
+        First Nations communities or groups own their data collectively.
 
 **C**ontrol
 {: .label .label-yellow}
