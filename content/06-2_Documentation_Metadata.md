@@ -22,22 +22,41 @@ nav_order: 2
 ---
 
 # The FAIR Principles
-Metadata, the descriptive data about your project, supports your project's ability to be FAIR. 
 
 <p style="margin-bottom:25px;margin-left:30px">
-<img src="figures/fair-data-principles.png" width="400"/>
+<img src="figures/fair-data-principles.png" width="500"/>
 </p>
 
 <p style="color:grey; font-size:11px; margin-left:30px">Image: <a href="https://www.openaire.eu/how-to-make-vour-data-fair" target="_blank">OpenAIRE</a>.
 </p>
 
-- **F**indable - Findable data is discoverable thanks to its metadata.
-- **A**ccessible - Accessible data is always available and obtainable, this does not mean the files are open, rather that you can access the metadata regarding the files.
-- **I**nteroperable - Interoperable data is able to be used by many researchers from many locations
-- **R**eusable - Reusable data is described, licensed, and shared in such a way that wide reuse is possible.
+**F**indable
+{: .label .label-green }
+
+        Findable data is discoverable thanks to its metadata.
+
+
+**A**ccessible
+{: .label .label-green }
+
+        Accessible data is always available and obtainable, this does not mean the files are open, rather that you can access the metadata regarding the files.
+
+**I**nteroperable
+{: .label .label-green }
+
+        Interoperable data is able to be used by many researchers from many locations
+
+**R**eusable
+{: .label .label-green }
+
+        Reusable data is described, licensed, and shared in such a way that wide reuse is possible.
 
 All data can be FAIR, but not all FAIR data is open. OpenAIRE states that data should be "*as open as possible, as closed as necessary*." Not all data can be fully open, but it should still be findable at the metadata level.
 {: .note}
+
+### Metadata, the descriptive data about your project, supports your project's ability to be FAIR. 
+{: .no_toc}
+
 
 <br>
 
@@ -52,13 +71,16 @@ Metadata makes it easier for researchers to:
 
 
 
-## Three of the most common categories of metadata
+## Three of the most common categories
 1. **Descriptive**: Descriptive metadata describes the content and context of your data at both the dataset and item level. 
 - Examples: title, author, keywords
 2. **Administrative**: Administrative metadata includes information needed to use the data.
 - Examples: software requirements, copyright, licensing
 3. **Structural**: Structural metadata describes how different datasets relate to one another, or any processing or formatting steps that were undertaken.
 - Examples: Information about the relationship between data sets in a database, file formats
+
+Reflection
+{: .label label-blue }
 
         Take a moment to think about your research project. What kind of descriptive, administrative and structural metadata might you want to record?
 
@@ -72,6 +94,8 @@ You can refer to our <a href="03_create_readme.md" target="_blank">Create a READ
 In addition to the README file, you should also consider **defining all your variables** in a data dictionary or codebook. This serves as a reference document that outlines the definitions and characteristics of each variable in your dataset. By clearly defining and documenting your variables, you enable other researchers to understand the structure and meaning of your data, promoting its effective reuse and interpretation. 
 
 Alternatively, you can utilize your README file to provide this information.
+
+<br>
 
 # Indigenous Research Data
 
@@ -92,12 +116,26 @@ UBC's <a href="https://irsi.ubc.ca" target="_blank">Indigenous Research Support 
 
 The CARE Principles for Indigenous Data Governance are designed to complement the FAIR principles and take into account the current and historic power imbalances between researchers and Indigenous communities.
 
-CARE stands for:
+**C**ollective Benefit
+{: .label .label-green }
 
-- Collective Benefit - "Data ecosystems shall be designed and function in ways that enable Indigenous Peoples to derive benefit from the data."
-- Authority to Control - Indigenous people have the right and authority to control their data.
-- Responsibility - Researchers working with Indigenous Peoples have a responsibility to support Indigenous Peoples rights.
-- Ethics - "Indigenous Peoples' rights and wellbeing should be the primary concern at all stages of the data life cycle and across the data ecosystem."
+        "Data ecosystems shall be designed and function in ways that enable Indigenous Peoples to derive benefit from the data."
+
+**A**uthority to Control
+{: .label .label-green }
+
+        Indigenous people have the right and authority to control their data.
+
+**R**esponsibility
+{: .label .label-green }
+
+        Researchers working with Indigenous Peoples have a responsibility to support Indigenous Peoples rights.
+
+**E**thics
+{: .label .label-green }
+
+        "Indigenous Peoples' rights and wellbeing should be the primary concern at all stages of the data life cycle and across the data ecosystem."
+
 The CARE Principles can be examined in depth here: CARE Principles for Indigenous Data
 Governance
 
