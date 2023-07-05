@@ -34,6 +34,10 @@ Looking for a cheat sheet? Check out our <a href="https://osf.io/wmh5n" target="
 
 ## Funding requiring DMPs
 
+<p style="margin-top:25px;margin-left:30px;margin-bottom:25px">
+<img src="figures/piggy-bank.jpg" width="300"/>
+</p>
+
 
 So far, we are seeing the following funding opportunities requiring DMPs, in addition to all CFI (Canada Foundation for Innovation) applications:
 

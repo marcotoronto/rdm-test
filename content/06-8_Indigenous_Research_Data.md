@@ -50,24 +50,24 @@ The CARE Principles for Indigenous Data Governance are designed to complement th
 **C**ollective Benefit
 {: .label .label-green }
 
-        "Data ecosystems shall be designed and function in ways that enable Indigenous Peoples to 
+    "Data ecosystems shall be designed and function in ways that enable Indigenous Peoples to 
         derive benefit from the data."
 
 **A**uthority to Control
 {: .label .label-green }
 
-        Indigenous people have the right and authority to control their data.
+    Indigenous people have the right and authority to control their data.
 
 **R**esponsibility
 {: .label .label-green }
 
-        Researchers working with Indigenous Peoples have a responsibility to support Indigenous Peoples 
+    Researchers working with Indigenous Peoples have a responsibility to support Indigenous Peoples 
         rights.
 
 **E**thics
 {: .label .label-green }
 
-        "Indigenous Peoples' rights and wellbeing should be the primary concern at all stages of the 
+    "Indigenous Peoples' rights and wellbeing should be the primary concern at all stages of the 
         data life cycle and across the data ecosystem."
 
 The CARE Principles can be examined in depth <a href="https://static1.squarespace.com/static/5d3799de845604000199cd24/t/5da9f4479ecab221ce848fb2/1571419335217/CARE%2BPrinciples_One%2BPagers%2BFINAL_Oct_17_2019.pdf" target="_blank">here</a>.
@@ -79,22 +79,22 @@ The OCAP® Principles of data governance outline how to interact with First Nati
 **O**wnership
 {: .label .label-yellow}
 
-        First Nations communities or groups own their data collectively.
+    First Nations communities or groups own their data collectively.
 
 **C**ontrol
 {: .label .label-yellow}
 
-        First Nations communities can control all aspects of the research cycle that impact them 
+    First Nations communities can control all aspects of the research cycle that impact them 
         directly.
 
 **A**ccess
 {: .label .label-yellow}
 
-        First Nations retain access to the data, regardless of where it is held.
+    First Nations retain access to the data, regardless of where it is held.
 
 **P**ossession
 {: .label .label-yellow}
 
-        First Nations retain physical control of the data.
+    First Nations retain physical control of the data.
 
 OCAP® certifications are available through the First Nations Information Governance Centre (FNIGC). OCAP® is a registered trademark of the FNIGC.
