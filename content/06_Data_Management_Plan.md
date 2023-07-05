@@ -39,21 +39,21 @@ Looking for a cheat sheet? Check out our <a href="https://osf.io/wmh5n" target="
 
 So far, we are seeing the following funding opportunities requiring DMPs, in addition to all CFI (Canada Foundation for Innovation) applications:
 
-### CIHR
-{: .no_toc}
+### <a style="font-size:17px">CIHR</a>
+{: .label .label-yellow .no_toc }
 
 - Network Grants in Skin Health and Muscular Dystrophy 
 - Data Science for Equity 
 - Virtual Care/Digital Health Team Grants, now renamed to Team Grant: Strengthening the Health Workforce for System Transformation
 
 
-### NSERC
-{: .no_toc}
+### <a style="font-size:17px">NSERC</a>
+{: .label .label-yellow .no_toc }
 
 - Subatomic Physics Discovery Grants program (Individual and Project).
 
-### SHHRC
-{: .no_toc}
+### <a style="font-size:17px">SHHRC</a>
+{: .label .label-yellow .no_toc }
 
 - Partnership Grants Phase 2.
 
