@@ -24,7 +24,7 @@ nav_order: 2
 # The FAIR Principles
 
 <p style="margin-top:25px;margin-left:30px">
-<img src="figures/fair-data-principles.png" width="500"/>
+<img src="figures/fair-data-principles.png" width="600"/>
 </p>
 
 <p style="color:grey; font-size:11px; margin-left:30px">Image: <a href="https://www.openaire.eu/how-to-make-vour-data-fair" target="_blank">OpenAIRE</a>.
@@ -45,7 +45,7 @@ nav_order: 2
 **I**nteroperable
 {: .label .label-purple }
 
-        Interoperable data is able to be used by many researchers from many locations
+        Interoperable data is able to be used by many researchers from many locations.
 
 **R**eusable
 {: .label .label-purple }
