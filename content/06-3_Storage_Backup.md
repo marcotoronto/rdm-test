@@ -82,7 +82,7 @@ The backup copies should include all pertinent files, *including your README fil
 
 ## Update the Backups Regularly
 
-Even if you are backing up your data, remember to check that the backups are working and that the data is accessible. *Every time you edit your working copy, the backup copies should be updated*! A backup copy from 6 months ago that contains none of your recent data is practically useless. 
+Even if you are backing up your data, remember to check that the backups are working and that the data is accessible. *Every time you edit your working copy, the backup copies should be updated!* A backup copy from 6 months ago that contains none of your recent data is practically useless. 
 
 Having a well-defined data backup schedule is essential, with **automatic backups** being the most ideal. Certain data storage options at UBC, such as **TeamShare** or **Home Drive**, already have automatic backup features in place. Consider leveraging these existing backup mechanisms to ensure data integrity and reliability.
 
