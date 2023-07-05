@@ -41,6 +41,8 @@ By addressing these considerations in your research data management plan, you ca
 
 <br>
 
+There are many tools for aiding researchers with version control. These tools vary from simpler automated backup systems to platforms with customizable backup and versioning capabilities. If you use any, e.g. Git and Github; The Open Science Framework (OSF) or others - mention and name them in your plan.
+
 
 # Indigenous Research Data
 
