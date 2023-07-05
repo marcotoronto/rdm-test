@@ -33,11 +33,11 @@ At the beginning of any project, researchers should *estimate the required stora
 ## Retain the Raw Data
 An essential step in data storage is to retain an original, unedited copy of your raw data file. This file should be locked in a read-only format, which requires copying the file to make changes. It is imperative that you do not overwrite this file so you have a fail-safe to return to should something go awry.
 
-## Follow the 3-2-1 Backup Rule
+## Follow the 3-2-1 Backup Rule 
 
 ``"I have saved my data. Is it safe?"``
 
-The short answer is No. Data can be lost for a number of reasons including:
+The short answer is no &nbsp;<img src="figures/say-no.png" align="center" width="15"/> &nbsp;. Data can be lost for a number of reasons including:
 - hardware failures software failures
 - viruses or hacking
 - power failures
@@ -45,10 +45,22 @@ The short answer is No. Data can be lost for a number of reasons including:
 - human error
 - theft of equipment
 
-A best practice is to have **three copies** stored in at least **two locations** (in case of a failure at one location), **one of them off-site**. Even if each location is a cloud-based server, do not store all of your backups on the same cloud-based server as a precaution. Cloud-based servers do have internal redundancies to prevent the loss of data, but *utilizing multiple services* is a good practice in the off-chance of a catastrophic loss.
+<p style="margin-top:25px;margin-left:30px;margin-bottom:25px">
+<img src="figures/shock.png" width="250"/>
+</p>
+
+<img src="figures/thumbs-up.png" align="center" width="25"/> &nbsp;The best practice  is to have **three copies** stored in at least **two locations** (in case of a failure at one location), **one of them off-site**. Even if each location is a cloud-based server, do not store all of your backups on the same cloud-based server as a precaution. Cloud-based servers do have internal redundancies to prevent the loss of data, but *utilizing multiple services* is a good practice in the off-chance of a catastrophic loss.
+
+<p style="margin-top:25px;margin-left:30px;margin-bottom:25px">
+<img src="figures/hard-disk.jpeg" width="300"/>
+</p>
 
 ## Bakcup All 
-The backup copies should include all pertinent files, including your README files. Backing up the entire package of stored data helps ensure that everything can be understood in the future.
+The backup copies should include all pertinent files, *including your README files*. Backing up the entire package of stored data helps ensure that everything can be understood in the future.
+
+<p style="margin-top:25px;margin-left:30px;margin-bottom:25px">
+<img src="figures/compressed-files.png" width="150"/>
+</p>
 
 ## Update the Backups Regularly
 
@@ -62,8 +74,16 @@ Certain data storage options at UBC, such as TeamShare or Home Drive, already ha
 ## Team Access
 To facilitate collaboration and teamwork, it is crucial to outline how your collaborators or research team will access, modify, contribute, and work with the data.
 
+<p style="margin-top:25px;margin-left:30px;margin-bottom:25px">
+<img src="figures/network.jpg" width="300"/>
+</p>
+
 ## Security 
 Safeguarding your research data throughout its lifecycle is paramount. Provide a brief overview of the security measures, controls, procedures, and processes that will be implemented to protect your data. This includes outlining the **security controls** that will be in place, as well as any specific **privacy considerations**. 
+
+<p style="margin-top:25px;margin-left:30px;margin-bottom:25px">
+<img src="figures/encryption.jpg" width="300"/>
+</p>
 
 For comprehensive guidance on security and privacy planning for research at UBC, you can refer to the resources available at <a href="https://arc.ubc.ca/planning-research-security-and-privacy" target="_blank">UBC ARC's website</a>.
 {: .note }
