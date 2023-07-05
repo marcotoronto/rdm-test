@@ -20,7 +20,7 @@ nav_order: 1
 
 ---
 
-# Record The Process Data Collection
+# Record the Process of Data Collection
 
 In your research data management plan, it's important to include various aspects related to data collection. First, describe the **type of data** you will collect, such as text, images, audio, or scans. 
 

@@ -26,9 +26,16 @@ Looking for a cheat sheet? Check out our <a href="https://osf.io/wmh5n" target="
 
 **A Data Management Plan (DMP)** is a short, formal document which clearly articulates the strategies and tools you will implement to effectively manage your data. It speaks to the management of data both <b>during</b> the active phases of your research and <b>after</b> the completion of the research project. 
 
+<p style="margin-bottom:15px;margin-left:30px;margin-top:25px">
+<img src="figures/document.png" width="250"/> </p> 
+
+
 <a href="https://science.gc.ca/site/science/en/interagency-research-funding/policies-and-guidelines/research-data-management/tri-agency-research-data-management-policy">The Tri-Agency Research Data Management Policy</a> states that: "All grant proposals submitted to the agencies should include methodologies that reflect best practices in RDM (Research Data Management). For certain funding opportunities (listed below), the agencies will *require data management plans (DMPs)* to be submitted to the appropriate agency at the time of application, as outlined in the call for proposals; in these cases, the DMPs will be considered in the adjudication process."
 
 ## Funding requiring DMPs
+
+<p style="margin-bottom:15px;margin-left:30px;margin-top:25px">
+<img src="figures/piggy-bank.jpg" width="300"/> </p> 
 
 So far, we are seeing the following funding opportunities requiring DMPs, in addition to all CFI (Canada Foundation for Innovation) applications:
 
@@ -75,7 +82,7 @@ Remember that your DMP is a living document that should be **regularly updated**
 To create your DMP, please use <a href="https://assistant.portagenetwork.ca/tool" target="_blank"> **DMP Assistant**</a>. This is a free, open-source Canadian tool created by the Canadian Libraries' Portage community for preparing DMPs. It is available in *both English and French* and allows you to create and export your DMP. UBC has a *general template for UBC researchers*. This tool follows best practices in data stewardship and walks researchers step-by-step through key questions about data management. 
 
 <p style="margin-top:25px;margin-left:30px;margin-bottom:25px">
-<img src="figures/dmp_assistant.jpeg" width="500"/>
+<img src="figures/dmp_assistant.jpeg" width="700"/>
 </p>
 
 
