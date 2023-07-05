@@ -18,6 +18,7 @@ Research Commons is now offering bite-size workshops "<b>Data Bites</b>" that ar
 - [Creating a README file](content/03_create_readme.md)
 - [Directory Structures](content/04_directory_structures.md)
 - [Deposit to UBC Dataverse Collection](content/05_Deposit_to_Dataverse.md)
+- [Create Data Mangament Plans](content/06_Data_Management_Plan.md)
 
 
 <p style="margin-top:90px"></p>
