@@ -70,7 +70,7 @@ Metadata makes it easier for researchers to:
 - locate and retrieve data sets from others.
 
 <p style="margin-top:25px;margin-left:30px;margin-bottom:25px">
-<img src="figures/metadata1.jpg" width="400"/>
+<img src="figures/metadata1.jpg" width="250"/>
 </p>
 
 
@@ -92,10 +92,9 @@ Reflection
 
 <br>
 
-<p style="margin-bottom:25px;margin-left:30px">
+<p style="margin-bottom:10px;margin-left:30px">
 <img src="figures/readme.png" width="400"/>
 </p>
-
 
 # Create a README File
 
