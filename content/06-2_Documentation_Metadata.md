@@ -108,3 +108,7 @@ You can refer to our <a href="03_create_readme.md" target="_blank">Create a READ
 In addition to the README file, you should also consider **defining all your variables** in a data dictionary or codebook. This serves as a reference document that outlines the definitions and characteristics of each variable in your dataset. By clearly defining and documenting your variables, you enable other researchers to understand the structure and meaning of your data, promoting its effective reuse and interpretation. 
 
 Alternatively, you can utilize your README file to provide this information.
+
+<p style="margin-top:25px;margin-left:30px">
+<img src="figures/data_dictionary.png" width="600"/>
+</p>
