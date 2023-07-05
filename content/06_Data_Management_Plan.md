@@ -24,7 +24,9 @@ Looking for a cheat sheet? Check out our <a href="https://osf.io/wmh5n" target="
 
 # Why Create DMPs?
 
-**A Data Management Plan (DMP)** is a short, formal document which clearly articulates the strategies and tools you will implement to effectively manage your data. It speaks to the management of data both <b>during</b> the active phases of your research and <b>after</b> the completion of the research project. 
+**A Data Management Plan (DMP)** is a short, formal document which clearly articulates the strategies and tools you will implement to effectively manage your data. The objective of a DMP is to address issues related to data management at the very beginning, when you are starting your research project. It speaks to the management of data both <b>during</b> the active phases of your research and <b>after</b> the completion of the research project. 
+
+
 
 <p style="margin-bottom:15px;margin-left:30px;margin-top:25px">
 <img src="figures/document.png" width="250"/> </p> 
@@ -69,7 +71,7 @@ So far, we are seeing the following funding opportunities requiring DMPs, in add
 - Not all sections or questions in the DMP may be applicable to your specific project, so feel free to leave them blank if necessary. 
 - Additionally, consider including <a href="https://researchdata.library.ubc.ca/plan/get-an-orcid-id" target="_blank"> **ORCIDs**</a> (Open Researcher and Contributor IDs) for the researchers involved. ORCIDs provide metadata that ensure appropriate academic credits are attributed.
 
-Remember that your DMP is a living document that should be **regularly updated** as needed, similar to your README file and data dictionary.
+Remember that your DMP is a living document that should be **developed at the very beginning** in the research process and **regularly updated** as needed, similar to your README file and data dictionary.
 {: .note }
 
 
@@ -81,7 +83,9 @@ Remember that your DMP is a living document that should be **regularly updated**
 ## DMP Assistant in Canada
 {: .no_toc}
 
-To create your DMP, please use <a href="https://assistant.portagenetwork.ca/tool" target="_blank"> **DMP Assistant**</a>. This is a free, open-source Canadian tool created by the Canadian Libraries' Portage community for preparing DMPs. It is available in *both English and French* and allows you to create and export your DMP. UBC has a *general template for UBC researchers*. This tool follows best practices in data stewardship and walks researchers step-by-step through key questions about data management. 
+To create your DMP, please use <a href="https://assistant.portagenetwork.ca/tool" target="_blank"> **DMP Assistant**</a>. This is a free, open-source Canadian tool created by the Canadian Libraries' Portage community for preparing DMPs. It is available in *both English and French* and allows you to create and export your DMP. 
+
+UBC has a *general template for UBC researchers*. This tool follows best practices in data stewardship and walks researchers step-by-step through key questions about data management. 
 
 <p style="margin-top:25px;margin-left:30px;margin-bottom:25px">
 <img src="figures/dmp_assistant.jpeg" width="700"/>
