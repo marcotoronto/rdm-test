@@ -23,6 +23,8 @@ nav_order: 2
 
 # The FAIR Principles
 
+The FAIR Data Principles (Findable, Accessible, Interoperable, and Reusable), published in <a href="https://doi.org/10.1038/sdata.2016.18">Scientific Data</a> in 2016, are a set of guiding principles proposed by a consortium of scientists and organizations to support the reusability of digital assets. These principles have since been adopted by research institutions worldwide. The guidelines are timely as we see the unprecedented volume, complexity, and speed in the creation of data.
+
 <p style="margin-top:25px;margin-left:30px">
 <img src="figures/fair-data-principles.png" width="600"/>
 </p>
@@ -107,7 +109,7 @@ You can refer to our <a href="03_create_readme.md" target="_blank">Create a READ
 <br>
 
 # Data Dictionary or Codebook
-In addition to the README file, you should also consider **defining all your variables** in a data dictionary or codebook. This serves as a reference document that outlines the definitions and characteristics of each variable in your dataset. By clearly defining and documenting your variables, you enable other researchers to understand the structure and meaning of your data, promoting its effective reuse and interpretation. 
+In addition to the README file, you should always be **defining all your variables** in a data dictionary or codebook. This serves as a reference document that outlines the definitions and characteristics of each variable in your dataset. By clearly defining and documenting your variables, you enable other researchers to understand the structure and meaning of your data, promoting its effective reuse and interpretation. 
 
 Alternatively, you can utilize your README file to provide this information.
 
