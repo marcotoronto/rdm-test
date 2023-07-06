@@ -21,7 +21,7 @@ Research Commons is now offering bite-size workshops "<b>Data Bites</b>" that ar
 - [Create Data Mangament Plans](content/06_Data_Management_Plan.md)
 
 
-You can find and sign up for scheduled Data Bites workshops <a href="bit.ly/databites" target="_blank">here</a>.
+You can find and sign up for scheduled Data Bites workshops <a href="http://bit.ly/databites" target="_blank">here</a>.
 {: .note }
 
 
