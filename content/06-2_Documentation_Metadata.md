@@ -21,9 +21,9 @@ nav_order: 2
 
 ---
 
-# The FAIR Principles
+# Is Your Data FAIR?
 
-The FAIR Data Principles (Findable, Accessible, Interoperable, and Reusable), published in <a href="https://doi.org/10.1038/sdata.2016.18">Scientific Data</a> in 2016, are a set of guiding principles proposed by a consortium of scientists and organizations to support the reusability of digital assets. These principles have since been adopted by research institutions worldwide. The guidelines are timely as we see the unprecedented volume, complexity, and speed in the creation of data.
+The **FAIR Data Principles** (Findable, Accessible, Interoperable, and Reusable), published in <a href="https://doi.org/10.1038/sdata.2016.18">Scientific Data</a> in 2016, are a set of guiding principles proposed by a consortium of scientists and organizations to support the **reusability of digital assets**. These principles have since been adopted by research institutions worldwide. The guidelines are timely as we see the unprecedented volume, complexity, and speed in the creation of data.
 
 <p style="margin-top:25px;margin-left:30px">
 <img src="figures/fair-data-principles.png" width="600"/>
@@ -56,6 +56,8 @@ The FAIR Data Principles (Findable, Accessible, Interoperable, and Reusable), pu
 
 **All data can be FAIR, but not all FAIR data is open**. OpenAIRE states that data should be "*as open as possible, as closed as necessary*." Not all data can be fully open, but it should still be findable at the metadata level.
 {: .note}
+
+<br>
 
 ### Metadata, the descriptive data about your project, supports your project's ability to be FAIR. 
 {: .no_toc}
