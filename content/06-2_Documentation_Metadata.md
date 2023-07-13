@@ -59,22 +59,23 @@ The **FAIR Data Principles** (Findable, Accessible, Interoperable, and Reusable)
 
 <br>
 
-### Metadata, the descriptive data about your project, supports your project's ability to be FAIR. 
+### Want to make your data more FAIR? Metadata, the descriptive data about your project, supports your project's ability to be FAIR!
 {: .no_toc}
 
 
 <br>
 
+
 # Metadata
 Metadata is often described as "data about data" and helps answer the questions of who, what, when, where, why. This descriptive data is essential for creating FAIR and open data, and ensuring that the datasets you preserve will be accessible for many years to come.
 
-Metadata makes it easier for researchers to:
+<img src="figures/thumbs-up.png" align="center" width="25"/> Metadata makes it easier for researchers to:
 - share their data,
 - publicize their data,
 - locate and retrieve data sets from others.
 
 <p style="margin-top:25px;margin-left:30px;margin-bottom:25px">
-<img src="figures/metadata1.jpg" width="250"/>
+<img src="figures/metadata1.jpg" width="200"/>
 </p>
 
 
@@ -85,7 +86,7 @@ Metadata makes it easier for researchers to:
 2. **Administrative**: Administrative metadata includes information needed to use the data.
 - Examples: software requirements, copyright, licensing
 3. **Structural**: Structural metadata describes how different datasets relate to one another, or any processing or formatting steps that were undertaken.
-- Examples: Information about the relationship between data sets in a database, file formats
+- Examples: Information about the relationship between datasets in a database, file formats
 
 Reflection
 {: .label label-blue }
@@ -99,21 +100,25 @@ Reflection
 
 # Create a README File
 
-<p style="margin-top:10px;margin-left:30px">
-<img src="figures/readme.png" width="400"/>
+<p style="margin-top:25px;margin-left:30px">
+<img src="figures/readme.png" width="300"/>
 </p>
 
-To ensure that fellow researchers can understand and reuse your data, it is crucial to describe what method you will use to facilitate comprehension. One effective approach is to create a robust **README file**. This file should include comprehensive information about your dataset (i.e. *metadata*), such as its contents, provenance, licensing, and instructions on how to interact with it. 
+To ensure that fellow researchers can understand and reuse your data, it is crucial to **describe what method you will use** to facilitate comprehension. One effective approach is to create a robust **README file**. This file should include comprehensive information about your dataset (i.e. *metadata*), such as its contents, provenance, licensing, and instructions on how to interact with it. 
 
 You can refer to our <a href="03_create_readme.md" target="_blank">Create a README File workshop</a> to learn how to create a solid README file.
 {: .note }
 
+
+
+• Explain how you will define all your variables in your data dictionary/codebook or use your README file to do that.
+
 <br>
 
 # Data Dictionary or Codebook
-In addition to the README file, you should always be **defining all your variables** in a data dictionary or codebook. This serves as a reference document that outlines the definitions and characteristics of each variable in your dataset. By clearly defining and documenting your variables, you enable other researchers to understand the structure and meaning of your data, promoting its effective reuse and interpretation. 
+In addition to the README file, you should **explain how you will define all your variables**.in a data dictionary or codebook. This serves as a reference document that outlines the definitions and characteristics of each variable in your dataset. By clearly defining and documenting your variables, you enable other researchers to understand the structure and meaning of your data, promoting its effective reuse and interpretation. 
 
-Alternatively, you can utilize your README file to provide this information.
+Alternatively, you can *utilize your README file* to provide this information.
 
 <p style="margin-top:25px;margin-left:30px">
 <img src="figures/data_dictionary.png" width="600"/>

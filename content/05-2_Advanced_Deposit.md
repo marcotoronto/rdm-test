@@ -37,7 +37,7 @@ Looking for a cheat sheet? Check out our <a href="https://osf.io/5u4f3" target="
 ## Recommended File formats 
 
 <p style="margin-buttom:25px;margin-left:30px">
-<img src="figures/all-file-types.png" width="300"/> </p> 
+<img src="figures/all-file-types.png" width=250"/> </p> 
 
 **Any kind of file** can be uploaded to Dataverse, but extra functionality is supported for some filetypes:
 
