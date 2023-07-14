@@ -94,7 +94,7 @@ Stating a well-defined data backup schedule in your plan is essential, with **au
 ### Storage Resources
 
 | UBC-IT Storage Resources | Notes |
-| - | -|
+| - | - |
 |<a href="https://it.ubc.ca/services/web-servers-storage/educloud-server-service" target="_blank">**EduCloud Server Service**</a>|cost associated, need IT skills|
 |<a href="https://it.ubc.ca/services/web-servers-storage/teamshare-storage-service" target="_blank">**Teamshare**</a>|Internal fileshare, costs per GB per year|
 |<a href="https://it.ubc.ca/services/web-servers-storage/microsoft-onedrive" target="_blank">**OneDrive**</a>|free 1TB of storage per user|
@@ -106,14 +106,14 @@ For more detailed comprison among these UBC IT resources, you can refer to their
 {: .note }
 
 | UBC ARC Storage Resources | Notes |
-| - | -|
+| - | - |
 |<a href="https://arc.ubc.ca/chinook" target="_blank">**Chinook**</a>|Object storage application, free for UBC researchers, need to apply to use via UBC ARC|
 |<a href="https://arc.ubc.ca/arc-cloud-platform-ubc-arc-ronin" target="_blank">**RONIN**</a>|allows to harness powerful AWS cloud infrastructure|
 
 
 
 | Digital Research Alliance of Canada (The Alliance) Storage Resources | Notes |
-| - | -|
+| - | - |
 |<a href="https://docs.alliancecan.ca/wiki/Nextcloud" target="_blank">**NextCloud**</a>|100Gb free per user, similar to Dropbox|
 |<a href="https://docs.alliancecan.ca/wiki/Storage_and_file_management/en" target="_blank">**System storage**</a>| Linux based for supporting high-performance computing (HPC) analysis, up to 10Tb per research group|
 
