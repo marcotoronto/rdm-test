@@ -145,7 +145,7 @@ Safeguarding your research data throughout its lifecycle is paramount. Provide a
 <img src="figures/encryption.jpg" width="300"/>
 </p>
 
-For comprehensive guidance on security and privacy planning for research at UBC, you can refer to the resources available at <a href="https://arc.ubc.ca/planning-research-security-and-privacy" target="_blank">UBC ARC's website</a>.
+For comprehensive guidance on security and privacy planning for research at UBC, you can refer to the wealth of resources available at <a href="https://arc.ubc.ca/planning-research-security-and-privacy" target="_blank">UBC ARC's website</a>.
 {: .note }
 
 <br>
