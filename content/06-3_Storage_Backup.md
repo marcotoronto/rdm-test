@@ -114,7 +114,7 @@ For more detailed comprison among these UBC IT resources, you can refer to their
 
 | Digital Research Alliance of Canada (The Alliance) Storage Resources | Notes |
 | - | -|
-|<a href="https://www.westgrid.ca/resources_services/data_storage/cloud_storage" target="_blank">**NextCloud**</a>|100Gb free per user, similar to Dropbox|
+|<a href="https://docs.alliancecan.ca/wiki/Nextcloud" target="_blank">**NextCloud**</a>|100Gb free per user, similar to Dropbox|
 |<a href="https://docs.alliancecan.ca/wiki/Storage_and_file_management/en" target="_blank">**System storage**</a>| Linux based for supporting high-performance computing (HPC) analysis, up to 10Tb per research group|
 
 
