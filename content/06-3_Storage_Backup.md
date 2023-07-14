@@ -110,7 +110,7 @@ For more detailed comprison among these UBC IT resources, you can refer to their
 |<a href="https://arc.ubc.ca/chinook" target="_blank">**Chinook**</a>|Object storage application, free for UBC researchers, need to apply to use via UBC ARC|
 |<a href="https://arc.ubc.ca/arc-cloud-platform-ubc-arc-ronin" target="_blank">**RONIN**</a>|allows to harness powerful AWS cloud infrastructure|
 
-
+<p>
 
 | Digital Research Alliance of Canada (The Alliance) Storage Resources | Notes |
 | - | - |
