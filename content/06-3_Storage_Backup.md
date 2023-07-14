@@ -123,8 +123,7 @@ Reflection
     Before you select your storage solutions, consider the following questions: Does your data 
     comply with FIPPA requirements? Does your data contain any sensitive or confidential 
     information? Does your data include any personal identifiers?
-    Talk to <a href="mailto:research.data@ubc.ca"> us </a> or to <a href="mailto:arc.support@ubc.ca" UBC ARC </a> to help you to find storage that matches your needs.
-
+    Reach out to `research.data@ubc.ca` or to `arc.support@ubc.ca` to discuss sensitive data sharing. 
 
 
 
