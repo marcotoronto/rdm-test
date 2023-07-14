@@ -25,7 +25,7 @@ nav_order: 3
 # Storage and Backup
 {: .no_toc}
 
-Data storage and security considerations are essential aspects of managing research data and should be mapped out in your DMP. The following good practices are recommended for you to implement in your project and mapped out in your DMP.
+Data storage and security considerations are essential aspects of managing research data and should be mapped out in your DMP. The following good practices are recommended for you to implement in your project and noted in your DMP.
 
 <p style="margin-top:25px;margin-left:30px">
 <img src="figures/hard-disk.jpeg" width="300"/>
@@ -35,7 +35,7 @@ Data storage and security considerations are essential aspects of managing resea
 <br>
 
 ## Estimate the Storage Space
-At the beginning of any project, researchers should *estimate the required storage space* during the active phases of your project. This estimation should take into consideration factors such as file versioning, backups, and potential data growth. In deciding where to store your data, ensure that you understand your *organization's policies and infrastructure for data storage and backups*. This includes considering the most appropriate storage system for sensitive data and what institutional policies apply to its handling.
+At the beginning of any project, researchers should *estimate the required storage space* during the active phases of your project. This estimation should take into consideration factors such as file versioning, backups, and potential data growth. In deciding where to store your data, ensure that you understand your *organization's policies and infrastructure for data storage and backups*. This includes considering the most appropriate storage system for <a href="https://arc.ubc.ca/arc-research-cybersecurity-and-privacy-services">sensitive data </a>and what institutional policies apply to its handling.
 
 <p style="margin-top:25px;margin-left:30px">
 <img src="figures/carton-box.png" width="300"/>
@@ -61,7 +61,8 @@ The short answer is no &nbsp;<img src="figures/say-no.png" align="center" width=
 </p>
 
 Data can be lost for a number of reasons including:
-- hardware failures software failures
+- hardware failures
+- software failures
 - viruses or hacking
 - power failures
 - natural disasters
@@ -75,7 +76,7 @@ Data can be lost for a number of reasons including:
 <br>
 
 
-## Bakcup All 
+## Back up All 
 The backup copies should include all pertinent files, *including your README files*. Backing up the entire package of stored data helps ensure that everything can be understood in the future.
 
 <p style="margin-top:25px;margin-left:30px">
