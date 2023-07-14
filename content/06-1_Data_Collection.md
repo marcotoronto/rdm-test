@@ -14,7 +14,7 @@ nav_order: 1
 # Record the Process of Data Collection
 {: .no_toc}
 
-In your research data management plan, it's important to various aspects related to data collection:
+In your research data management plan, it's important to explain various aspects related to data collection:
 
 <details open markdown="block">
   <summary>
@@ -45,6 +45,10 @@ You can refer to the <a href="02_file_formats.md" target="_blank">File Formattin
 
 Next, outline the **softwares and/or platforms** that you will utilize for data collection. Provide a brief explanation of the tools or applications that will be involved in the data collection process.
 
+<p style="margin-top:25px;margin-left:30px;margin-bottom:25px">
+<img src="figures/microscope.jpg" width="200"/>
+</p>
+
 <br>
 
 
@@ -64,10 +68,10 @@ You should aim for concise but descriptive file names, a consistent naming syste
 You can consult the <a href="01_file_naming.md" target="_blank">File Naming workshop</a> for valuable recommendations and best practices.
 {: .note }
 
-### Versioning
+### Version Control
 {: .no_toc}
 
-There are many tools for aiding researchers with version control. These tools vary from simpler automated backup systems to platforms with customizable backup and versioning capabilities. If you use any, e.g. <a href="https://git-scm.com/">Git</a> and <a href="https://github.com/">Github</a>; <a href="https://osf.openscience.ubc.ca/"> The Open Science Framework (OSF)</a> or others - mention and name them in your plan.
+There are many tools for aiding researchers with version control. These tools vary from simpler automated backup systems to platforms with customizable backup and versioning capabilities. If you use any, e.g. <a href="https://git-scm.com/">Git</a> and <a href="https://github.com/">Github</a>; <a href="https://osf.openscience.ubc.ca/"> The Open Science Framework (OSF)</a> or others - **mention and name them** in your plan.
 
 <br>
 

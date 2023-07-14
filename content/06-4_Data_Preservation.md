@@ -22,12 +22,8 @@ nav_order: 4
 
 
 ---
-# What is data preservation?
-
-
-
-# Why preserve data?
-
+# What is your plan for long time access?
+Research data preservation involves ensuring that research data remains accessible, usable, and understandable over time. It encompasses converting data into sustainable formats, storing it in secure repositories, and providing comprehensive metadata and documentation.
 
 
 # What data should be preserved?

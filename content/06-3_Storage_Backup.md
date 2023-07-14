@@ -37,6 +37,10 @@ Data storage and security considerations are essential aspects of managing resea
 ## Estimate the Storage Space
 At the beginning of any project, researchers should *estimate the required storage space* during the active phases of your project. This estimation should take into consideration factors such as file versioning, backups, and potential data growth. In deciding where to store your data, ensure that you understand your *organization's policies and infrastructure for data storage and backups*. This includes considering the most appropriate storage system for sensitive data and what institutional policies apply to its handling.
 
+<p style="margin-top:25px;margin-left:30px">
+<img src="figures/carton-box.png" width="300"/>
+</p>
+
 <br>
 
 
@@ -84,10 +88,43 @@ The backup copies should include all pertinent files, *including your README fil
 
 Even if you are backing up your data, remember to check that the backups are working and that the data is accessible. *Every time you edit your working copy, the backup copies should be updated!* A backup copy from 6 months ago that contains none of your recent data is practically useless. 
 
-Having a well-defined data backup schedule is essential, with **automatic backups** being the most ideal. Certain data storage options at UBC, such as **TeamShare** or **Home Drive**, already have automatic backup features in place. Consider leveraging these existing backup mechanisms to ensure data integrity and reliability.
+Stating a well-defined data backup schedule in your plan is essential, with **automatic backups** being the most ideal. Certain data storage options at UBC, such as **TeamShare** or **Home Drive**, already have automatic backup features in place. Consider leveraging these existing backup mechanisms to ensure data integrity and reliability.
 
-For UBC Online Storage Solutions, you can refer to this <a href="https://it.ubc.ca/sites/it.ubc.ca/files/UBC%20Online%20Storage%20Solutions%20-%20Features%20Comparison%20Chart.pdf" target="_blank">Comparison Chart</a>.
+### Storage Resources
+
+| UBC-IT Storage Resources | Notes |
+| - | -|
+|<a href="https://it.ubc.ca/services/web-servers-storage/educloud-server-service" target="_blank">**EduCloud Server Service**</a>|cost associated, need IT skills|
+|<a href="https://it.ubc.ca/services/web-servers-storage/teamshare-storage-service" target="_blank">**Teamshare**</a>|Internal fileshare, costs per GB per year|
+|<a href="https://it.ubc.ca/services/web-servers-storage/microsoft-onedrive" target="_blank">**OneDrive**</a>|free 1TB of storage per user|
+|<a href="https://it.ubc.ca/services/web-servers-storage/home-drive-storage-service" target="_blank">**Home Drive**</a>|personal storage only, up to 20GB|
+|<a href="https://it.ubc.ca/services/web-servers-storage/sharepoint-software-service" target="_blank">**SharePoint**</a>|powerful, but complicated to develop, cost associated|
+
+
+For more detailed comprison among the last four resources, you can refer to this <a href="https://it.ubc.ca/sites/it.ubc.ca/files/UBC%20Online%20Storage%20Solutions%20-%20Features%20Comparison%20Chart.pdf" target="_blank">Comparison Chart</a>.
 {: .note }
+
+| UBC ARC Storage Resources | Notes |
+| - | -|
+|<a href="https://arc.ubc.ca/chinook" target="_blank">**Chinook**</a>|Object storage application, free|
+|<a href="https://arc.ubc.ca/arc-cloud-platform-ubc-arc-ronin" target="_blank">**RONIN**</a>|allows to harness powerful AWS cloud infrastructure|
+
+
+
+| Compute Canada Storage Resources | Notes |
+| - | -|
+|<a href="https://www.westgrid.ca/resources_services/data_storage/cloud_storage" target="_blank">**ownCloud**</a>|50Gb free per user, similar to Dropbox|
+|<a href="https://docs.computecanada.ca/wiki/Storage_and_file_management" target="_blank">**System storage**</a>|linux based for supporting high performance computing (HPC) analysis, up to 10Tb per research group|
+
+
+Reflection
+{: .label label-blue }
+    Before you select your storage solutions, consider the following questions: Does your data 
+    comply with FIPPA requirements? Does your data contain any sensitive or confidential 
+    information? Does your data include any personal identifiers?
+
+
+
 
 <br>
 
