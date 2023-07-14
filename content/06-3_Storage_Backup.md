@@ -102,19 +102,19 @@ Stating a well-defined data backup schedule in your plan is essential, with **au
 |<a href="https://it.ubc.ca/services/web-servers-storage/sharepoint-software-service" target="_blank">**SharePoint**</a>|powerful, but complicated to develop, cost associated|
 
 
-For more detailed comprison among the last four resources, you can refer to this <a href="https://it.ubc.ca/sites/it.ubc.ca/files/UBC%20Online%20Storage%20Solutions%20-%20Features%20Comparison%20Chart.pdf" target="_blank">Comparison Chart</a>.
+For more detailed comprison among these UBC IT resources, you can refer to their <a href="https://it.ubc.ca/sites/it.ubc.ca/files/UBC%20Online%20Storage%20Solutions%20-%20Features%20Comparison%20Chart.pdf" target="_blank">Comparison Chart</a>.
 {: .note }
 
 | UBC ARC Storage Resources | Notes |
 | - | -|
-|<a href="https://arc.ubc.ca/chinook" target="_blank">**Chinook**</a>|Object storage application, free|
+|<a href="https://arc.ubc.ca/chinook" target="_blank">**Chinook**</a>|Object storage application, free for UBC researchers, need to apply to use via UBC ARC|
 |<a href="https://arc.ubc.ca/arc-cloud-platform-ubc-arc-ronin" target="_blank">**RONIN**</a>|allows to harness powerful AWS cloud infrastructure|
 
 
 
-| Compute Canada Storage Resources | Notes |
+| Digital Research Alliance of Canada (The Alliance) Storage Resources | Notes |
 | - | -|
-|<a href="https://www.westgrid.ca/resources_services/data_storage/cloud_storage" target="_blank">**ownCloud**</a>|50Gb free per user, similar to Dropbox|
+|<a href="https://www.westgrid.ca/resources_services/data_storage/cloud_storage" target="_blank">**NextCloud**</a>|50Gb free per user, similar to Dropbox|
 |<a href="https://docs.computecanada.ca/wiki/Storage_and_file_management" target="_blank">**System storage**</a>|linux based for supporting high performance computing (HPC) analysis, up to 10Tb per research group|
 
 
