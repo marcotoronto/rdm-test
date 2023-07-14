@@ -131,7 +131,7 @@ Reflection
 <br>
 
 ## Team Access
-To facilitate collaboration and teamwork, it is crucial to outline how your collaborators or research team will access, modify, contribute, and work with the data.
+To facilitate collaboration and teamwork, it is a good practice to outline in your DMP how your collaborators or research team will access, modify, contribute, and work with the data.
 
 <p style="margin-top:25px;margin-left:30px;margin-bottom:25px">
 <img src="figures/network.jpg" width="300"/>
