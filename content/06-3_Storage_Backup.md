@@ -118,12 +118,7 @@ For more detailed comprison among these UBC IT resources, you can refer to their
 |<a href="https://docs.alliancecan.ca/wiki/Storage_and_file_management/en" target="_blank">**System storage**</a>| Linux based for supporting high-performance computing (HPC) analysis, up to 10Tb per research group|
 
 
-Reflection
-{: .label label-blue }
-    Before you select your storage solutions, consider the following questions: Does your data 
-    comply with FIPPA requirements? Does your data contain any sensitive or confidential 
-    information? Does your data include any personal identifiers?
-    Reach out to research.data@ubc.ca or to arc.support@ubc.ca to discuss sensitive data sharing. 
+
 
 
 

@@ -38,8 +38,6 @@ In terms of how to preserve data, it is advisable to consider using **optimal fi
 For guidance on preferred file formats, you can refer to the <a href="02_file_formats.md" target="_blank">File Formatting workshop</a>.
 {: .note }
 
-<br>
-
 <img src="figures/sun.jpg" align="center" width="30"/>
 <a href="https://researchdata.library.ubc.ca/deposit/" target="_blank">UBC Library repositories</a> automatically preserve your data! 
 
