@@ -41,7 +41,7 @@ Looking for a cheat sheet? Check out our <a href="https://osf.io/5u4f3" target="
 
 **Any kind of file** can be uploaded to Dataverse, but extra functionality is supported for some filetypes:
 
-### Tabular data
+### Tabular data {: .btn .btn-outline }
 {: .no_toc}
 
 Tabular data (Stata, SPSS, Excel, R, & CS) is <b>normalized to .tab</b> format on upload--a non-proprietary archival format that a variety of programs can read. 
@@ -57,7 +57,7 @@ In Dataverse, tabular normalization also allows you to perform statistical data 
 
 
 
-### Compressed Files (.zip, tar)
+### Compressed Files (.zip, tar) {: .btn .btn-outline }
 {: .no_toc}
 
 Compressed files are the preferred method for uploading large datasets or many files to Dataverse.
@@ -147,7 +147,7 @@ This button gives you the option to create a post with a link to your data on Fa
 
 There are two main ways to direct people to your dataset:
 
-#### *1*{: .circle .circle-blue} &nbsp;DOI 
+*1*{: .circle .circle-blue} &nbsp;DOI  {: .btn .btn-outline }
 {: .no_toc}
 
 A **a DOI (Digital Object Identifier)** is assigned to the dataset by Borealis when the first Draft is created. Once the dataset is **Published**, anyone can use the DOI link to find it. While the dataset is still **unpublished**, the DOI can only be used by Dataverse *account holders* with permission to view that Dataverse.
@@ -157,7 +157,7 @@ Use DOIs in citations, publications, on your personal/research group websites--a
 
 Click <a href="https://researchdata.library.ubc.ca/plan/get-dois/" target="_blank">here</a> for more information about UBC DOIs.
 
-#### *2*{: .circle .circle-red} &nbsp;Private URL
+*2*{: .circle .circle-red} &nbsp;Private URL {: .btn .btn-outline }
 {: .no_toc}
 
 A **temporary link** for use with **unpublished** data. The dataset can only be seen by those who have the link, and users *do not need a Dataverse account*. Great for giving pre-publication access to journals, reviewers, and collaborators.
@@ -174,7 +174,7 @@ To create a Private URL, click `Private URL`. The generated URL can be access fr
 
 You have control over how your data can be used. Dataverse allows for a variety of licenses and terms of use.
 
-#### **Built-in License Templates** 
+**Built-in License Templates**  {: .btn .btn-outline }
 {: .no_toc}
 
 Templates can be selected at dataset creation, and changed at any time. These automatically apply the right information about the license to the dataset’s metadata.
@@ -189,7 +189,7 @@ You can use <a href="https://copyright.ubc.ca/creative-commons/" target="_blank"
 
 <p style="margin-top:15px"></p>
 
-#### **Custom license**
+**Custom license** {: .btn .btn-outline }
 {: .no_toc}
 
 One-size-fits-all licenses don’t suit every dataset. You can create customized terms and conditions of use. 
