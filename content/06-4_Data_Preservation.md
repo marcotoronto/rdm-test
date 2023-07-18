@@ -29,7 +29,7 @@ What is your plan for long time access? Research data preservation involves ensu
 
 The preservation process encompasses converting data into **sustainable formats**, storing it in **secure repositories**, and providing comprehensive **metadata and documentation**.
 
-When considering what data should be preserved, it's important to note that *not all data you create needs to be preserved*. Factors such as the value of your data and funding requirements should be taken into consideration. Consult with <research.data@ubc.ca> as needed to make informed decisions about which data, if any, should be digitally preserved.
+When considering what data should be preserved, it's important to note that *not all data you create needs to be preserved*. In some areas of science,  it is often less expensive to resequence the data sample than to store all the data, especially in the preservation layer. Factors such as the value of your data and funding requirements should be taken into consideration. Consult with <research.data@ubc.ca> as needed to make informed decisions about which data, if any, should be digitally preserved.
 
 
 ## Format Conversion
@@ -39,7 +39,7 @@ For guidance on preferred file formats, you can refer to the <a href="02_file_fo
 {: .note }
 
 
-## Repository Deposit
+## Data Repositories
 
 <p style="margin-top:25px;margin-bottom:25px; margin-left:30px">
 <img src="figures/compressed-files.png" width="150"/> </p> 
@@ -47,7 +47,7 @@ For guidance on preferred file formats, you can refer to the <a href="02_file_fo
 
 
 <span class="fs-3" align="center"> 
-<a href="https://researchdata.library.ubc.ca/deposit/" target="_blank"><u>UBC Library repositories
+<a href="https://researchdata.library.ubc.ca/deposit/" target="_blank"><u>UBC Library 
 </u>
 </a>{: .btn .btn-purple }
 </span> 
@@ -56,9 +56,9 @@ supports three robust repositories for your data:
 
 
 |Repository|Description|
-|-|-|
-|UBC Dataverse Collection|An open-source application to publish, share, reference, cite, extract and analyze research data. UBC Library can create a Dataverse setup for your research group where you can actively manage your data, share it securely with colleagues, provide version control, establish a permanent data citation, get a DOI for your dataset, and more. All Dataverse files are digitally preserved|
-|FRDR| The Federated Research Data Repository, is a Canadian national research data repository. It allows researchers to discover, share, and download Canadian research data.|
+|-|-|-|
+|UBC Dataverse Collection|An open-source application to publish, share, reference, cite, extract and analyze research data. UBC Library can create a Dataverse setup for your research group where you can actively manage your data, share it securely with colleagues, provide version control, establish a permanent data citation, get a DOI for your dataset, and more.| All Borealis files are digitally preserved with Level 1 digital preservation|
+|FRDR| The Federated Research Data Repository, is a Canadian national research data repository. It allows researchers to discover, share, and download Canadian research data.| All FRDR files are preserved with Level 2 digital preservation (Archivematica)|
 |Dryad |Dryad is an international, multi-disciplinary data repository that supports access to data underlying published literature. UBC is a Dryad institutional partner.|
 
 <p style="margin-bottom: 20px"></p>
