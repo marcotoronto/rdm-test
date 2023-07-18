@@ -33,7 +33,7 @@ First, describe the *type of data* you will collect, such as text, images, audio
 Each file type has many *file formats* available. When choosing file formats, it is recommended to use non-proprietary, open data formats like CSV or txt. These formats promote accessibility and long-term usability. 
 
 <p style="margin-top:25px;margin-left:30px;margin-bottom:25px">
-<img src="figures/formats.png" width="200"/>
+<img src="figures/formats.png" width="300"/>
 </p>
 
 You can refer to the <a href="02_file_formats.md" target="_blank">File Formatting workshop</a> for further guidance.
@@ -46,7 +46,7 @@ You can refer to the <a href="02_file_formats.md" target="_blank">File Formattin
 Next, outline the **softwares and/or platforms** that you will utilize for data collection. Provide a brief explanation of the tools or applications that will be involved in the data collection process.
 
 <p style="margin-top:25px;margin-left:30px;margin-bottom:25px">
-<img src="figures/microscope.jpg" width="200"/>
+<img src="figures/microscope.jpg" width="300"/>
 </p>
 
 <br>
@@ -62,7 +62,7 @@ Additionally, it is crucial to discuss how you will organize your data. This inc
 You should aim for concise but descriptive file names, a consistent naming system, and a simple hierarchy. Adopting a naming convention like that for your files can greatly enhance the organization and discoverability of your data.
 
 <p style="margin-left:30px;margin-bottom:25px">
-<img src="figures/file_names.png" width="200"/>
+<img src="figures/file_names.png" width="300"/>
 </p>
 
 You can consult the <a href="01_file_naming.md" target="_blank">File Naming workshop</a> for valuable recommendations and best practices.

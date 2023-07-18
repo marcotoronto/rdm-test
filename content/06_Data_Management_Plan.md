@@ -83,7 +83,7 @@ Remember that your DMP is a living document that should be **developed at the ve
 ## DMP Assistant in Canada
 {: .no_toc}
 
-To create your DMP, please use &nbsp; <span class="fs-3" align="center"> <a href="https://assistant.portagenetwork.ca" target="_blank">**DMP Assistant**</a>{: .btn .btn-purple }</span>. 
+To create your DMP, please use <span class="fs-3" align="center"> <a href="https://assistant.portagenetwork.ca" target="_blank"><u>DMP Assistant</u></a>{: .btn .btn-purple }</span>. 
 
 This is a free, open-source Canadian tool created by the Canadian Libraries' Portage community for preparing DMPs. It is available in *both English and French* and allows you to create and export your DMP. 
 
