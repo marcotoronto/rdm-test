@@ -15,6 +15,8 @@ In short, A README is the portable, durable way to provide information to other 
 Looking for a cheat sheet? Check out our <a href="https://osf.io/aqxw3" target="_blank">one-pager</a>!
 {: .note}
 
+<br>
+
 <details open markdown="block">
   <summary>
     Table of contents
@@ -35,11 +37,13 @@ Looking for a cheat sheet? Check out our <a href="https://osf.io/aqxw3" target="
 <p style="margin-bottom: 50px"></p>
 
 
-## Why Is README Important? 
+## README or Metadata for repositories? 
 
-A README complements but does not replace the metadata that data repositories (e.g. Dataverse or FRDR) ask you to provide when you deposit your data. The best practice is to record information in both the *repository’s metadata* and the *README*. The repository’s metadata will support findability within and between data repositories while the README is portable and continues to describe the dataset after it has been separated from its original context. In all cases, you should use any conventions appropriate to *your discipline* to record the information about your dataset.
+When you deposit your data to data repositories (e.g. Dataverse or FRDR), you are asked ask to provide metadata. A README complements but does not replace the metadata for repositories.
 
-<p style="margin-bottom: 50px"></p>
+The best practice is to record information in **both** the *repository’s metadata* and the *README*. The repository’s metadata will support findability within and between data repositories while the README is portable and continues to describe the dataset after it has been separated from its original context. In all cases, you should use any conventions appropriate to *your discipline* to record the information about your dataset.
+
+<br>
 
 ## Exercise 1
 {: .no_toc}
