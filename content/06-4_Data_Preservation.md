@@ -58,7 +58,7 @@ provides access to two robust, nationally-supported repositories for your data:
 |Repository|Description|Digital Preservation|
 |:----:|:----:|:----:|
 |<a href="https://researchdata.library.ubc.ca/deposit/dataverse">UBC Dataverse Collection</a>|An open-source application to publish, share, reference, cite, extract and analyze research data. UBC Library can create a Dataverse setup for your research group where you can actively manage your data, share it securely with colleagues, provide version control, establish a permanent data citation, get a DOI for your dataset, and more.| All Borealis files are digitally preserved with <a href="https://borealisdata.ca/preservationplan/">Level 1 </a>digital preservation|
-|<a href="https://researchdata.library.ubc.ca/deposit/frdr/">FRDR</a>| The Federated Research Data Repository, is a Canadian national research data repository. It allows researchers to discover, share, and download Canadian research data.| All FRDR files are preserved with Level 2 digital preservation (Archivematica)|
+|<a href="https://researchdata.library.ubc.ca/deposit/frdr/">FRDR</a>| The Federated Research Data Repository, is a Canadian national research data repository for big data. It allows researchers to discover, share, and download Canadian research data.| All FRDR files are preserved with Level 2 digital preservation (Archivematica)|
 
 
 <p style="margin-bottom: 20px"></p>
