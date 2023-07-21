@@ -117,7 +117,9 @@ For more detailed comprison among these UBC IT resources, you can refer to their
 |<a href="https://docs.alliancecan.ca/wiki/Nextcloud" target="_blank">**NextCloud**</a>|100Gb free per user, similar to Dropbox|
 |<a href="https://docs.alliancecan.ca/wiki/Storage_and_file_management/en" target="_blank">**System storage**</a>| Linux based for supporting high-performance computing (HPC) analysis, up to 10Tb per research group|
 
-
+<br>
+UBC OneDrive is an excellent and the simplest solution for data storage needs for most researchers on campus. Just don't forget to back up your data in one more location. 
+{: .note }
 
 
 
