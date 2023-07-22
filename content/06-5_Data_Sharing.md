@@ -24,10 +24,3 @@ nav_order: 5
 ---
 
 
-Reflection
-{: .label label-blue }
-    Before you select your storage solutions, consider the following questions: 
-    Does your data comply with FIPPA requirements? 
-    Does your data contain any sensitive or confidential information? 
-    Does your data include any personal identifiers? 
-    Reach out to research.data@ubc.ca or to arc.support@ubc.ca to discuss sensitive data sharing. 
