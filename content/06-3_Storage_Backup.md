@@ -91,7 +91,15 @@ Even if you are backing up your data, remember to check that the backups are wor
 
 Stating a well-defined data backup schedule in your plan is essential, with **automatic backups** being the most ideal. Certain data storage options at UBC, such as **TeamShare** or **Home Drive**, already have automatic backup features in place. Consider leveraging these existing backup mechanisms to ensure data integrity and reliability.
 
+<p style="margin-top:25px;margin-left:30px">
+<img src="figures/calendar.jpg" width="300"/>
+</p>
+
+
 ### Storage Resources
+
+**OneDrive** is an excellent and the simplest solution for data storage needs for most UBC researchers. Just don't forget to back up your data in one more location. 
+{: .note }
 
 | UBC-IT Storage Resources | Notes |
 | - | - |
@@ -101,9 +109,12 @@ Stating a well-defined data backup schedule in your plan is essential, with **au
 |<a href="https://it.ubc.ca/services/web-servers-storage/home-drive-storage-service" target="_blank">**Home Drive**</a>|personal storage only, up to 20GB|
 |<a href="https://it.ubc.ca/services/web-servers-storage/sharepoint-software-service" target="_blank">**SharePoint**</a>|powerful, but complicated to develop, cost associated|
 
+More Details
+{: .label .label-blue}
 
 For more detailed comprison among these UBC IT resources, you can refer to their <a href="https://it.ubc.ca/sites/it.ubc.ca/files/UBC%20Online%20Storage%20Solutions%20-%20Features%20Comparison%20Chart.pdf" target="_blank">Comparison Chart</a>.
-{: .note }
+
+<p style="margin-top:30px"></p>
 
 | UBC ARC Storage Resources | Notes |
 | - | - |
@@ -117,9 +128,8 @@ For more detailed comprison among these UBC IT resources, you can refer to their
 |<a href="https://docs.alliancecan.ca/wiki/Nextcloud" target="_blank">**NextCloud**</a>|100Gb free per user, similar to Dropbox|
 |<a href="https://docs.alliancecan.ca/wiki/Storage_and_file_management/en" target="_blank">**System storage**</a>| Linux based for supporting high-performance computing (HPC) analysis, up to 10Tb per research group|
 
-<br>
-UBC OneDrive is an excellent and the simplest solution for data storage needs for most researchers on campus. Just don't forget to back up your data in one more location. 
-{: .note }
+
+
 
 
 

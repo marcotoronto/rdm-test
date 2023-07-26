@@ -29,9 +29,12 @@ What forms of the data are you sharing? - Raw, processed, analyzed, and final ar
 What license do you plan to apply? » We like the CC-0 and CC-BY for research data
 
 
+» Much easier when you’ve maintained your RDM and implemented your DMP
+» Effectively boxing up some of your research data
+» All documentation and metadata should be complete at this stage
+
 
 # Data Preservation
-{: .no_toc}
 
 What is your plan for long time access? Research data preservation involves ensuring that research data *remains accessible, usable, and understandable over time*. 
 
