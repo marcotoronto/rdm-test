@@ -51,16 +51,20 @@ Next, outline the **softwares and/or platforms** that you will utilize for data 
 
 <br>
 
-## Microsoft (MS) Teams and OneDrive for data collection
+### Microsoft (MS) Teams and OneDrive
 
-**Microsoft Teams** was configured to facilitate and support collaborative work for UBC staff, faculty and students. Researchers can use Teams to collaborate on research-related documentation and store research data, as well as perform administrative tasks such as scheduling, developing protocols and planning.
+Microsoft Teams and Onedrive are deployed as *data collection and storage solutions for UBC electronic information*, including research data.
+
+**Microsoft (MS) Teams** was configured to facilitate and support collaborative work for UBC staff, faculty and students. Researchers can use Teams to collaborate on research-related documentation and store research data, as well as perform administrative tasks such as scheduling, developing protocols and planning.
 
 <br>
+
 **Microsoft (MS) OneDrive** is a file hosting and synchronization service operated by Microsoft, as part of their suite of MS 365 applications. MS OneDrive allows users to securely store, share and synchronize files and folders from anywhere at any time.
 
 <p>
 
-Microsoft OneDrive and Teams are deployed as data collection and storage solutions for UBC electronic information, including research data. Please see much more information on the <a href="https://arc.ubc.ca/microsoft-onedrive-and-teams-research">Advanced Research Computing website</a>. 
+ Please see more information on the <a href="https://arc.ubc.ca/microsoft-onedrive-and-teams-research" target="_blank">Advanced Research Computing website</a>. 
+
 
 <br>
 
