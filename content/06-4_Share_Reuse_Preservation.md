@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Data Sharing, Reuse & Preservation
+title: Sharing, Reuse, Preservation
 parent: Data Management Plans
 nav_order: 4
 ---
@@ -22,6 +22,14 @@ nav_order: 4
 
 
 ---
+# Data Sharing & Reuse
+What forms of the data are you sharing? - Raw, processed, analyzed, and final are all options
+- Do the funding agency or publisher mandate any of these for you?
+
+What license do you plan to apply? » We like the CC-0 and CC-BY for research data
+
+
+
 # Data Preservation
 {: .no_toc}
 
@@ -41,15 +49,28 @@ For guidance on preferred file formats, you can refer to the <a href="02_file_fo
 
 ## Data Repositories
 
+A repository is a platform that allows researchers to store, share and manage their data in a secure and accessible way. Using a repository for data management can:
+
+•  assign a persistent, unique identifier to the data, such as a **Digital Object Identifier (DOI)**, which can be used to cite and link the data in publications and other platforms.
+
+•  provide **backup and preservation** services for the data, ensuring that the data is not lost or corrupted over time and that it can be retrieved in case of any disaster.
+
+•  enable **data citation**, which can enhance the visibility, impact and recognition of the data and its creators.
+
+•  allow the data owner to choose a **license** for the data, which specifies the terms and conditions of how the data can be used, reused and distributed by others. A license can protect the rights and interests of the data owner and promote ethical and responsible data sharing.
+
+•  support **version control**, which is the process of tracking and documenting the changes made to the data over time. Version control can facilitate collaboration, reproducibility and transparency of the data.
+
+•  perform **data integrity checks**, which are methods of verifying the quality, accuracy and completeness of the data. This can ensure that the data is reliable and trustworthy for analysis and reuse.
+
+
 <p style="margin-top:25px;margin-bottom:25px; margin-left:30px">
 <img src="figures/compressed-files.png" width="150"/> </p> 
 
 
 
 <span class="fs-3" align="center"> 
-<a href="https://researchdata.library.ubc.ca/deposit/" target="_blank"><u>UBC Library 
-</u>
-</a>{: .btn .btn-purple }
+<a href="https://researchdata.library.ubc.ca/deposit/" target="_blank"><u>UBC Library</u></a> {: .btn .btn-purple}
 </span> 
 provides access to two robust, nationally-supported repositories for your data:
 
