@@ -22,7 +22,12 @@ nav_order: 4
 
 
 ---
-# Data Sharing & Reuse
+# Data Sharing, Reuse & Preservation
+
+What are they? something important they share: format conversion, repositories
+
+then, talk about sharing, reuse, preservation
+
 What forms of the data are you sharing? - Raw, processed, analyzed, and final are all options
 - Do the funding agency or publisher mandate any of these for you?
 

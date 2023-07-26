@@ -7,6 +7,8 @@ nav_order: 7
 # Why are structured directories important?
 {: .no_toc }
 
+<p style="margin-top:15px"></p>
+
 Now, let’s pretend that you store everything on your computer in one single folder – some of us are probably known to use our desktops for this. Imagine how long it would take you to find data you collected on a specific day a few years ago. 
 
 <p style="margin-top:25px;margin-left:30px">
@@ -21,6 +23,8 @@ Instead of keeping every document in a single place, we often organize our files
 
 Looking for a cheat sheet? Check out our <a href="https://osf.io/5br6a" target="_blank">one-pager</a>!
 {: .note}
+
+<br>
 
 
 <details open markdown="block">
@@ -68,6 +72,8 @@ Question
 <p style="margin-bottom: 10px"></p>
 Which ones in this example are root directories? What about subdirectories?
 
+<br>
+
 # README Files and Data Dictionaries 
 README files and Data Dictionaries - containing a brief description of the major folder contents, naming conventions, and data structure - are critical for <b>transparency and reproducibility</b> because they allow others to easily understand the contents of your directory and data without needing to ask the creator. This is especially helpful when working with a group or sharing directories with others.
 
@@ -101,7 +107,7 @@ The stucture looks like this:
 ```
 
 
-
+<br>
 
 ### Naming
 {: .no_toc}
@@ -115,6 +121,8 @@ The stucture looks like this:
 ```Readme files``` and ```data dictionaries``` should be written in <b>plain text</b>, for this will ensure that the files describing your project can be opened on any computer. You will often see readme files called ```_README.txt``` or ```_README.md```.
 
 <p style="margin-bottom: 30px"></p>
+
+<br>
 
 ## Exercise
 {: .no_toc}

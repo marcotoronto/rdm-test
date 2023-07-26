@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Responsibilities & Resources
+title: Responsibilities, Resources
 parent: Data Management Plans
 nav_order: 5
 ---
