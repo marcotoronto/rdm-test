@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Data Preservation
+title: Data Sharing, Reuse & Preservation
 parent: Data Management Plans
 nav_order: 4
 ---

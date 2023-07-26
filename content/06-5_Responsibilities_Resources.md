@@ -2,7 +2,7 @@
 layout: default
 title: Responsibilities & Resources
 parent: Data Management Plans
-nav_order: 6
+nav_order: 5
 ---
 
 <p style="margin-top:25px">
