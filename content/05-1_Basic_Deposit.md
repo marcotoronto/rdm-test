@@ -23,8 +23,10 @@ nav_order: 1
 {:toc}
 </details>
 
-Looking for a cheat sheet? Check out our <a href="https://osf.io/sczv5" target="_blank">one-pager</a>!
-{: .note }
+Looking for a cheat sheet? Check out our <a href="https://osf.io/sczv5" target="_blank">one-pager</a>! Need help? Please reach out to `research.data@ubc.ca` for assistance with any of the deposit steps below.
+{: .note } 
+
+
 
 
 ---
@@ -202,7 +204,8 @@ Admin assistance is needed to un-publish a dataset, so be sure before Submitting
 <br>
 
 
-
+Need personalized help? Please reach out to `research.data@ubc.ca` for assistance with any of your data deposit questions.
+{: .note } 
 
 
 # Congrats!
@@ -215,7 +218,7 @@ Now you know how to deposit your dataset in a **Demo** UBC Dataverse Collection!
 </p>
   
 
-Want to learn more details about data deposit in the UBC Dataverse collection? You are qualified for the [Advanced Deposit workshop](05-2_Advanced_Deposit.md) now!
+Want to learn more details about data deposits in the UBC Dataverse collection? You are qualified for the [Advanced Deposit workshop](05-2_Advanced_Deposit.md) now!
 
 
 
