@@ -5,12 +5,6 @@ parent: Data Management Plans
 nav_order: 1
 ---
 
-<p style="margin-top:25px">
-<img src="figures/work-in-progress.png" width="600"/>
-</p>
-
-
-
 # Record the Process of Data Collection
 {: .no_toc}
 
