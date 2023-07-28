@@ -98,6 +98,8 @@ Stating a well-defined data backup schedule in your plan is essential, with **au
 
 ### Storage Resources
 
+<p style="margin-top:25px"></p>
+
 **OneDrive** is an excellent and the simplest solution for data storage needs for most UBC researchers. Just don't forget to back up your data in one more location. 
 {: .note }
 

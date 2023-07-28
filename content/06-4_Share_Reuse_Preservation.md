@@ -41,7 +41,7 @@ Now you have finised your project. Before sharing it, you should consider the fo
 ## Are the formats open?
 In terms of how to preserve data, it is advisable to consider using **optimal file formats**, preferably non-proprietary ones, that support long-term preservation. 
 
-For guidance on preferred file formats, you can refer to the <a href="02_file_formats.md" target="_blank">File Formatting workshop</a>.
+For guidance on preferred file formats, you can refer to the <a href="https://ubc-library-rc.github.io/rdm/content/02_file_formats.html#we-recommend-these-common-file-formats" target="_blank">File Formatting workshop</a>.
 {: .note }
 
 ## Data Repositories
@@ -68,9 +68,7 @@ A repository is a platform that allows researchers to store, share and manage th
 ### What are my option?
 
 <span class="fs-3"> 
-<a href="https://researchdata.library.ubc.ca/deposit/" target="_blank"><u>UBC Library</u></a> {: .btn .btn-purple}
-</span> 
-provides access to two robust, nationally-supported repositories for your data:
+<a href="https://researchdata.library.ubc.ca/deposit/" target="_blank"><u>UBC Library</u></a> {: .btn .btn-purple} </span> provides access to two robust, nationally-supported repositories for your data:
 
 
 
