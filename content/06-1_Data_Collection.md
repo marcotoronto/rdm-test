@@ -61,7 +61,7 @@ Microsoft Teams and Onedrive are deployed as *data collection and storage soluti
 
 **Microsoft (MS) OneDrive** is a file hosting and synchronization service operated by Microsoft, as part of their suite of MS 365 applications. MS OneDrive allows users to securely store, share and synchronize files and folders from anywhere at any time.
 
-<p>
+
 
  Please see more information on the <a href="https://arc.ubc.ca/microsoft-onedrive-and-teams-research" target="_blank">Advanced Research Computing website</a>. 
 
