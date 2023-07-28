@@ -9,13 +9,11 @@ nav_order: 4
 <img src="figures/work-in-progress.png" width="600"/>
 </p>
 
-Before you proceed, all documentation and metadata should be complete by now.
-{: .prereq}
 
 # Data Sharing, Reuse & Preservation
 {: .no_toc}
 
-Remember <a href="https://ubc-library-rc.github.io/rdm/content/06-2_Documentation_Metadata.html#is-your-data-fair" target="_blank">FAIR Data Principles</a>? Everything you have been doing so far is to support the reusability of your data assets! Now it's time to prepare for sharing! This step will be much easier when you’ve maintained your RDM and implemented your DMP. 
+Remember <a href="https://ubc-library-rc.github.io/rdm/content/06-2_Documentation_Metadata.html#is-your-data-fair" target="_blank">FAIR Data Principles</a>? Everything you have been doing so far is to support the reusability of your digital assets! Now it's time to prepare for sharing! 
 
 <details open markdown="block">
   <summary>
@@ -32,16 +30,16 @@ Remember <a href="https://ubc-library-rc.github.io/rdm/content/06-2_Documentatio
 
 # Before sharing
 
-Now you have finised your project. Before sharing it, you should consider the following questions:
+Before sharing your data with the world, you should consider the following questions:
 
-## What forms of the data are you sharing? 
+## What forms of data are you sharing? 
 - Raw, processed, analyzed, and final are all options
 - Check if your funder or publisher requires you to share any specific form of data
 
-## Are the formats open?
-In terms of how to preserve data, it is advisable to consider using **optimal file formats**, preferably non-proprietary ones, that support long-term preservation. 
+## Are the file formats open?
+In terms of data preservation, it is advisable to consider using optimal file formats, preferably non-proprietary ones, that support long-term preservation. 
 
-For guidance on preferred file formats, you can refer to the <a href="https://ubc-library-rc.github.io/rdm/content/02_file_formats.html#we-recommend-these-common-file-formats" target="_blank">File Formatting workshop</a>.
+For guidance on preferred file formats, you can refer to our <a href="https://ubc-library-rc.github.io/rdm/content/02_file_formats.html#we-recommend-these-common-file-formats" target="_blank">File Formatting workshop</a>.
 {: .note }
 
 ## Data Repositories
