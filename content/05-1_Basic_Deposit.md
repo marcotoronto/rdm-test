@@ -110,7 +110,7 @@ Click to Download the Files
 
 - Choose `+Add Data` > `New Dataset` (not New Dataverse) from the dropdown menu
 
-- Select a <b>dataset template</b> for the desired Creative Commons license (default license is CC0). You can learn more about data licensing in the [Advanced Deposit workshop](05-2_Advanced_Deposit). Selecting a template will clear all other data fields, so do this first.
+- Select a <b>dataset template</b> for the desired Creative Commons license (default license is CC0). You can learn more about data licensing in the <a href="https://ubc-library-rc.github.io/rdm/content/05-2_Advanced_Deposit" target="_blank">Advanced Deposit workshop</a>. Selecting a template will clear all other data fields, so do this first.
 
 
 - Fill in <b>required metadata</b> fields marked with a <a style="font-size:22px; color:red">*</a>.
@@ -175,7 +175,7 @@ We can also assign a **Private URL** to share with a journal and/or peer-reviewe
 
 - You can edit elements of your dataset at any time using the `Files`, `Metadata`, and `Terms` (license and use permissions) tabs at the bottom of the page. 
   
-- Files can be `Restricted` or `Embargoed` so they are available only on request. You can learn more about data access restrictions in the [Advanced Deposit workshop](05-2_Advanced_Deposit).
+- Files can be `Restricted` or `Embargoed` so they are available only on request. You can learn more about data access restrictions in the <a href="https://ubc-library-rc.github.io/rdm/content/05-2_Advanced_Deposit" target="_blank">Advanced Deposit workshop</a>.
 
 - Changes made to Files, Metadata, or Terms <b>after publishing</b> your dataset will be saved as a Draft version. Click `Submit for Review` or `Publish` again to make the changes go live; the new version will supersede the old.
 

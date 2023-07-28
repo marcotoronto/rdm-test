@@ -36,7 +36,7 @@ Each file type has many *file formats* available. When choosing file formats, it
 <img src="figures/formats.png" width="300"/>
 </p>
 
-You can refer to the <a href="02_file_formats.md" target="_blank">File Formatting workshop</a> for further guidance.
+You can refer to the <a href="https://ubc-library-rc.github.io/rdm/content/02_file_formats.md" target="_blank">File Formatting workshop</a> for further guidance.
 {: .note }
 
 <br>

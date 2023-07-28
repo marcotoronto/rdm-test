@@ -15,7 +15,7 @@ Before you proceed, all documentation and metadata should be complete by now.
 # Data Sharing, Reuse & Preservation
 {: .no_toc}
 
-Remember [FAIR Data Principles](06-2_Documentation_Metadata.md/#is-your-data-fair)? Everything you have been doing so far is to support the reusability of your data assets! Now it's time to prepare for sharing! This step will be much easier when you’ve maintained your RDM and implemented your DMP. 
+Remember <a href="https://ubc-library-rc.github.io/rdm/content/06-2_Documentation_Metadata.html#is-your-data-fair" target="_blank">FAIR Data Principles</a>? Everything you have been doing so far is to support the reusability of your data assets! Now it's time to prepare for sharing! This step will be much easier when you’ve maintained your RDM and implemented your DMP. 
 
 <details open markdown="block">
   <summary>

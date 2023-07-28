@@ -108,7 +108,7 @@ Reflection
 
 To ensure that fellow researchers can understand and reuse your data, it is crucial to **describe what method you will use to facilitate comprehension**. One effective approach is to create a robust **README file**. This file should include comprehensive information about your dataset (i.e. *metadata*), such as its contents, provenance, licensing, and instructions on how to interact with it. 
 
-You can refer to our <a href="03_create_readme.md" target="_blank">Create a README File workshop</a> to learn how to create a solid README file.
+You can refer to our <a href="https://ubc-library-rc.github.io/rdm/content/03_create_readme.md" target="_blank">Create a README File workshop</a> to learn how to create a solid README file.
 {: .note }
 
 <br>
