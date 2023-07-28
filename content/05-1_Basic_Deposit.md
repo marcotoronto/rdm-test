@@ -89,7 +89,7 @@ Click to Download the Files
 {: .no_toc }
 
 
-- <p style="font-size:17px; color:purple">Choose Research Commons Workshops Dataverse for this exercise </p> 
+- <p style="font-size:17px; color:purple">Choose "Research Commons Workshops Dataverse" for this exercise </p> 
   
   
 - You can find dataverses via: 
