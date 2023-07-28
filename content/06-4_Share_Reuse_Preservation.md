@@ -9,7 +9,13 @@ nav_order: 4
 <img src="figures/work-in-progress.png" width="600"/>
 </p>
 
-<p style="margin-top:25px;margin-left:30px;margin-bottom:25px"></p>
+Before you proceed, all documentation and metadata should be complete by now.
+{: .prereq}
+
+# Data Sharing, Reuse & Preservation
+{: .no_toc}
+
+Remember [FAIR Data Principles](06-2_Documentation_Metadata.md/#is-your-data-fair)? Everything you have been doing so far is to support the reusability of your data assets! Now it's time to prepare for sharing! This step will be much easier when you’ve maintained your RDM and implemented your DMP. 
 
 <details open markdown="block">
   <summary>
@@ -20,43 +26,26 @@ nav_order: 4
 {:toc}
 </details>
 
+<br>
 
 ---
-# Data Sharing, Reuse & Preservation
 
-What are they? something important they share: format conversion, repositories
+# Before sharing
 
-then, talk about sharing, reuse, preservation
+Now you have finised your project. Before sharing it, you should consider the following questions:
 
-What forms of the data are you sharing? - Raw, processed, analyzed, and final are all options
-- Do the funding agency or publisher mandate any of these for you?
+## What forms of the data are you sharing? 
+- Raw, processed, analyzed, and final are all options
+- Check if your funder or publisher requires you to share any specific form of data
 
-What license do you plan to apply? » We like the CC-0 and CC-BY for research data
-
-
-» Much easier when you’ve maintained your RDM and implemented your DMP
-» Effectively boxing up some of your research data
-» All documentation and metadata should be complete at this stage
-
-
-# Data Preservation
-
-What is your plan for long time access? Research data preservation involves ensuring that research data *remains accessible, usable, and understandable over time*. 
-
-The preservation process encompasses converting data into **sustainable formats**, storing it in **secure repositories**, and providing comprehensive **metadata and documentation**.
-
-When considering what data should be preserved, it's important to note that *not all data you create needs to be preserved*. In some areas of science,  it is often less expensive to resequence the data sample than to store all the data, especially in the preservation layer. Factors such as the value of your data and funding requirements should be taken into consideration. Consult with <research.data@ubc.ca> as needed to make informed decisions about which data, if any, should be digitally preserved.
-
-
-## Format Conversion
+## Are the formats open?
 In terms of how to preserve data, it is advisable to consider using **optimal file formats**, preferably non-proprietary ones, that support long-term preservation. 
 
 For guidance on preferred file formats, you can refer to the <a href="02_file_formats.md" target="_blank">File Formatting workshop</a>.
 {: .note }
 
-
 ## Data Repositories
-
+### Why is a data repository important?
 A repository is a platform that allows researchers to store, share and manage their data in a secure and accessible way. Using a repository for data management can:
 
 •  assign a persistent, unique identifier to the data, such as a **Digital Object Identifier (DOI)**, which can be used to cite and link the data in publications and other platforms.
@@ -76,8 +65,9 @@ A repository is a platform that allows researchers to store, share and manage th
 <img src="figures/compressed-files.png" width="150"/> </p> 
 
 
+### What are my option?
 
-<span class="fs-3" align="center"> 
+<span class="fs-3"> 
 <a href="https://researchdata.library.ubc.ca/deposit/" target="_blank"><u>UBC Library</u></a> {: .btn .btn-purple}
 </span> 
 provides access to two robust, nationally-supported repositories for your data:
@@ -95,8 +85,21 @@ provides access to two robust, nationally-supported repositories for your data:
 Refer to our <a href="https://osf.io/rc7de" target="_blank">one-pager</a> for more information regarding where you should deposit your data!
 {: .note}
 
+# Data Sharing
+
+# Data Reuse
+
+What license do you plan to apply? » We like the CC-0 and CC-BY for research data
 
 
+
+# Data Preservation
+
+What is your plan for long time access? Research data preservation involves ensuring that research data *remains accessible, usable, and understandable over time*. 
+
+The preservation process encompasses converting data into **sustainable formats**, storing it in **secure repositories**, and providing comprehensive **metadata and documentation**.
+
+When considering what data should be preserved, it's important to note that *not all data you create needs to be preserved*. In some areas of science,  it is often less expensive to resequence the data sample than to store all the data, especially in the preservation layer. Factors such as the value of your data and funding requirements should be taken into consideration. Consult with <research.data@ubc.ca> as needed to make informed decisions about which data, if any, should be digitally preserved.
 
 
 
