@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Sharing, Reuse, Preservation
+title: Deposit, Reuse, Preservation
 parent: Data Management Plans
 nav_order: 4
 ---
@@ -10,7 +10,7 @@ nav_order: 4
 </p>
 
 
-# Data Sharing, Reuse & Preservation
+# Data Deposit, Reuse & Preservation
 {: .no_toc}
 
 Remember <a href="https://ubc-library-rc.github.io/rdm/content/06-2_Documentation_Metadata.html#is-your-data-fair" target="_blank">FAIR Data Principles</a>? Everything you have been doing so far is to support the reusability of your digital assets! Now it's time to prepare for sharing! 
@@ -34,7 +34,7 @@ Before sharing your data with the world, you should consider the following quest
 
 ## What forms of data are you sharing? 
 - Raw, processed, analyzed, and final are all options
-- Check if your funder or publisher requires you to share any specific form of data
+- Check if your funder or publisher requires you to deposit any specific form of data
 
 ## Are the file formats open?
 In terms of data preservation, it is advisable to consider using optimal file formats, preferably non-proprietary ones, that support long-term preservation. 
@@ -44,7 +44,7 @@ For guidance on preferred file formats, you can refer to our <a href="https://ub
 
 ## Data Repositories
 ### Why is a data repository important?
-A repository is a platform that allows researchers to store, share and manage their data in a secure and accessible way. Using a repository for data management can:
+A repository is a platform that allows researchers to store, deposit and manage their data in a secure and accessible way. Using a repository for data management can:
 
 •  assign a persistent, unique identifier to the data, such as a **Digital Object Identifier (DOI)**, which can be used to cite and link the data in publications and other platforms.
 
@@ -72,7 +72,7 @@ A repository is a platform that allows researchers to store, share and manage th
 
 |Repository|Description|Digital Preservation|
 |:----:|:----:|:----:|
-|<a href="https://researchdata.library.ubc.ca/deposit/dataverse">UBC Dataverse Collection</a>|An open-source application to publish, share, reference, cite, extract and analyze research data. UBC Library can create a Dataverse setup for your research group where you can actively manage your data, share it securely with colleagues, provide version control, establish a permanent data citation, get a DOI for your dataset, and more.| All Borealis files are digitally preserved with <a href="https://borealisdata.ca/preservationplan/">Level 1 </a>digital preservation|
+|<a href="https://researchdata.library.ubc.ca/deposit/dataverse">UBC Dataverse Collection</a>|An open-source application to publish, deposit, reference, cite, extract and analyze research data. UBC Library can create a Dataverse setup for your research group where you can actively manage your data, share it securely with colleagues, provide version control, establish a permanent data citation, get a DOI for your dataset, and more.| All Borealis files are digitally preserved with <a href="https://borealisdata.ca/preservationplan/">Level 1 </a>digital preservation|
 |<a href="https://researchdata.library.ubc.ca/deposit/frdr/">FRDR</a>| The Federated Research Data Repository, is a Canadian national research data repository for big data. It allows researchers to discover, share, and download Canadian research data.| All FRDR files are preserved with Level 2 digital preservation (Archivematica)|
 
 
