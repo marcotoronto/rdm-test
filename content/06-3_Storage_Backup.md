@@ -5,8 +5,6 @@ parent: Data Management Plans
 nav_order: 3
 ---
 
-<p style="margin-top:25px;margin-left:30px;margin-bottom:25px"></p>
-
 <details open markdown="block">
   <summary>
     Table of Content
