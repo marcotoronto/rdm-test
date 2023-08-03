@@ -50,7 +50,7 @@ Consult with <research.data@ubc.ca> as needed to make informed decisions about w
 
 
 
-## File Forms
+## Data Types
 When you are working with data, you may encounter different forms of data, such as **raw, processed, analyzed, and final**. Depending on your research project and goals, you may need to use one or more of these forms of data. However, before you decide which form of data to use or deposit, you should check if your funder or publisher has any specific requirements or preferences for data deposition. This way, you can ensure that your data meets the standards and expectations of your target audience.
 
 <br>
@@ -64,9 +64,7 @@ For guidance on preferred file formats, you can refer to our <a href="https://ub
 <br>
 
 ## Data Repositories
-Storing your data in a repository like Borealis makes it easy for other researchers, publishers, and collaborators to find, use, and cite your data. It supports the Open Science movement goals of trans-parency, accessibility, and collaboration, and can increase attention to your work.
-
-Further, the Tri-Agency in Canada (NSERC, CIHR, SSHRC) have introduced a policy requiring some grant recipients to deposit their project data in a repository.
+Storing your data in a repository like <a href="https://researchdata.library.ubc.ca/deposit/dataverse/">Borealis</a> makes it easy for other researchers, publishers, and collaborators to find, use, and cite your data. It supports the Open Science movement goals of trans-parency, accessibility, and collaboration, and can increase attention to your work.
 
 
 <p style="margin-top:25px;margin-bottom:25px; margin-left:30px">
@@ -81,21 +79,21 @@ UBC Library provides access to two robust, nationally-supported repositories for
 
 |Repository|Description|Digital Preservation|
 |:----:|:----:|:----:|
-|<a href="https://researchdata.library.ubc.ca/deposit/dataverse">UBC Dataverse Collection</a>|An open-source application to publish, deposit, reference, cite, extract and analyze research data. UBC Library can create a Dataverse setup for your research group where you can actively manage your data, share it securely with colleagues, provide version control, establish a permanent data citation, get a DOI for your dataset, and more.| All Borealis files are digitally preserved with <a href="https://borealisdata.ca/preservationplan/">Level 1 </a>digital preservation|
+|<a href="https://researchdata.library.ubc.ca/deposit/dataverse">UBC Dataverse Collection</a>(Borealis)|An open-source application to publish, deposit, reference, cite, extract and analyze research data. UBC Library can create a Dataverse setup for your research group where you can actively manage your data, share it securely with colleagues, provide version control, establish a permanent data citation, get a DOI for your dataset, and more.| All Borealis files are digitally preserved with <a href="https://borealisdata.ca/preservationplan/">Level 1 </a>digital preservation|
 |<a href="https://researchdata.library.ubc.ca/deposit/frdr/">FRDR</a>| The Federated Research Data Repository, is a Canadian national research data repository for big data. It allows researchers to discover, share, and download Canadian research data.| All FRDR files are preserved with Level 2 digital preservation (Archivematica)|
 
 
 <p style="margin-bottom: 20px"></p>
 
-Refer to our <a href="https://osf.io/rc7de" target="_blank">one-pager</a> for more information regarding where you should deposit your data!
+Refer to our <a href="https://osf.io/rc7de" target="_blank">one-pager</a> for more information regarding where you could deposit your data!
 {: .note}
 
 <br>
 
-## License
+## Data Licenses
 One of the benefits of depositing your research data is that it can be reused by other researchers for new purposes or analyses. To enable data reuse, you need to assign a license to your data that specifies how others can use it. A license defines what others may or may not do with your data. You may choose to assign a broad license that allows anyone to do whatever they like with your data, or you may assign a narrower license that restricts use to strictly non-commercial activities and requires attribution to the data creator each time it is used.
 
-### Sources for Licenses
+### Types of Data Licenses
 1.  <a href="http://creativecommons.org/" target="_blank">Creative Commons (CC)</a>
 
 We recommend using the **CC-0 or CC-BY** licenses for research data, as they are the most open and flexible options. The CC-0 license waives all rights to the data, while the CC-BY license requires only attribution to the original source. Both of these licenses allow others to reuse your data without any restrictions or limitations.
@@ -109,7 +107,7 @@ In UBC Dataverse Collection, our preferred license is CC- Zero, however, we invi
 
 
 
-## Citation
+## Data Citations
 
 When you use data from other sources in your research, it is important to acknowledge the data creators and make the data sources easy to find and access. 
 
@@ -120,22 +118,20 @@ When you use data from other sources in your research, it is important to acknow
 The <a href="https://doi.org/10.25490/a97f-egyk" target="_blank">Joint Declaration of Data Citation Principles</a> provide some general guidelines on the importance and definition of data citation.
 {: .note}
 
-se **persistent identifiers** (PIDs) for the data (and software) in your citations, such as DOIs or ARKs. These PIDs provide a stable link to the data (and software) and can resolve to a landing page with more information and access options
+Please ensure that you include **persistent identifiers** (PIDs) for the data (and software) in your citations, such as DOIs or ARKs. These PIDs provide a stable link to the data (and software) and can resolve to a landing page with more information and access options
 
-## Persistent Identifier
+## Persistent Identifiers for Data
 
-A persistent identifier (PID) provides a stable link to the data (and software)and can resolve to a landing page with more information and access options. It provides resources with a unique tag that remains the same over time, even if the material has been moved to another storage solution or website.
+A persistent identifier (PID) provides a stable link to the data (and software) and can resolve to a landing page with more information and access options. It provides resources with a unique tag that remains the same over time, even if the material has been moved to another storage solution or website.
 
-### Commons Types of PIDs
+### Commons Types of PIDs for Data
 {: .no_toc}
 
-1. <a href="https://researchdata.library.ubc.ca/plan/get-dois/" target="_blank"> **DOI** (Digital Object Identifier)</A> for publications and data
+ <a href="https://researchdata.library.ubc.ca/plan/get-dois/" target="_blank"> **DOI** (Digital Object Identifier)</A> for publications and data
 
 To find a DOI for your data, you need to deposit your data in a repository that can assign a DOI to your dataset.
 
-2. <a href="https://researchdata.library.ubc.ca/plan/get-an-orcid-id" target="_blank">**ORCID** (Open Researcher and Contributor ID)</a> for researchers
-
-ORCIDs provide metadata that ensure appropriate academic credits are attributed. 
+Other repositories might use <a href="https://www.handle.net/">handles</a> or <a href="https://arks.org/">ARKs</a> as persistent identifiers for datasets. However, DOIs are preferred as they are also an XML-based metadata package that makes the datasets as discoverable as possible with the widely accepted DataCite metadata schema. 
 
 
 
