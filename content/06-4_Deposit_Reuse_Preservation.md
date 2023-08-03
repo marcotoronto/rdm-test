@@ -80,8 +80,23 @@ Refer to our <a href="https://osf.io/rc7de" target="_blank">one-pager</a> for mo
 {: .note}
 
 ## License
-One of the benefits of depositing your research data is that it can be reused by other researchers for new purposes or analyses. However, to enable data reuse, you need to assign a license to your data that specifies how others can use it. We recommend using the **CC-0 or CC-BY** licenses for research data, as they are the most open and flexible options. The CC-0 license waives all rights to the data, while the CC-BY license requires only attribution to the original source. Both of these licenses allow others to reuse your data without any restrictions or limitations.
+One of the benefits of depositing your research data is that it can be reused by other researchers for new purposes or analyses. To enable data reuse, you need to assign a license to your data that specifies how others can use it. A license defines what others may or may not do with your data. You may choose to assign a broad license that allows anyone to do whatever they like with your data, or you may assign a narrower license that restricts use to strictly non-commercial activities and requires attribution to the data creator each time it is used.
 
+### Sources for Licenses
+1.  <a href="http://creativecommons.org/" target="_blank">Creative Commons (CC)</a>
+
+We recommend using the **CC-0 or CC-BY** licenses for research data, as they are the most open and flexible options. The CC-0 license waives all rights to the data, while the CC-BY license requires only attribution to the original source. Both of these licenses allow others to reuse your data without any restrictions or limitations.
+
+ 2. <a href="https://opendatacommons.org" target="_blank">Open Data Commons (ODC)</a> 
+ 
+ Open Data Commons offers three license options that were created specifically for data/databases.
+
+In UBC Dataverse Collection, our preferred license is CC- Zero, however, we invite our researchers to choose from a variety of Creative Commons licenses from a drop-down menu as they deposit their datasets.
+{: .note}
+
+
+
+## Citation
 
 
 
