@@ -30,9 +30,9 @@ Remember <a href="https://ubc-library-rc.github.io/rdm/content/06-2_Documentatio
 
 ## Why deposit data?
 
-Storing your data in a repository like Borealis makes it easy for other researchers, publishers, and collaborators to find, use, and cite your data. It supports the Open Science movement goals of transparency, accessibility, and collaboration, and can increase attention to your work.
+Storing your data in a repository like <a href="https://researchdata.library.ubc.ca/deposit/dataverse/">Borealis</a> makes it easy for other researchers, publishers, and collaborators to find, use, and cite your data. It supports the Open Science movement goals of transparency, accessibility, and collaboration, and can increase attention to your work.
 
-Further, the Tri-Agency in Canada (NSERC, CIHR, SSHRC) have introduced <a href="https://bit.lv/2H3mGLv" target="_blank">a policy</a> requiring some grant recipients to deposit their project data in a repository.
+Moreover, the Tri-Agency in Canada (NSERC, CIHR, SSHRC) have introduced <a href="https://bit.lv/2H3mGLv" target="_blank">a policy</a> requiring some grant recipients to deposit their project data in a repository.
 
 
 ## Data Preservation
@@ -41,7 +41,8 @@ What is your plan for long time access? Research data preservation involves ensu
 
 The preservation process encompasses:
 - converting data into sustainable formats,
-- storing it in secure repositories, 
+- storing it in secure repositories,
+- viruses control, 
 - providing comprehensive metadata and documentation.
 
 When considering what data should be preserved, it's important to note that **not all data you create needs to be preserved**. In some areas of science,  it is often less expensive to resequence the data sample than to store all the data, especially in the preservation layer. Factors such as the value of your data and funding requirements should be taken into consideration. 
@@ -56,7 +57,7 @@ When you are working with data, you may encounter different forms of data, such 
 <br>
 
 ## File Formats
-In terms of data preservation, it is advisable to consider using optimal file formats, preferably non-proprietary ones, that support long-term preservation. 
+In terms of data preservation, it is advisable to consider using open file formats, preferably non-proprietary ones, that support long-term preservation. 
 
 For guidance on preferred file formats, you can refer to our <a href="https://ubc-library-rc.github.io/rdm/content/02_file_formats.html#we-recommend-these-common-file-formats" target="_blank">File Formatting workshop</a>.
 {: .note }
@@ -64,7 +65,7 @@ For guidance on preferred file formats, you can refer to our <a href="https://ub
 <br>
 
 ## Data Repositories
-Storing your data in a repository like <a href="https://researchdata.library.ubc.ca/deposit/dataverse/">Borealis</a> makes it easy for other researchers, publishers, and collaborators to find, use, and cite your data. It supports the Open Science movement goals of trans-parency, accessibility, and collaboration, and can increase attention to your work.
+Storing your data in a repository like <a href="https://researchdata.library.ubc.ca/deposit/dataverse/">Borealis</a> makes it easy for other researchers, publishers, and collaborators to find, use, and cite your data. It supports the Open Science movement goals of transparency, accessibility, and collaboration, and can increase attention to your work.
 
 
 <p style="margin-top:25px;margin-bottom:25px; margin-left:30px">
@@ -79,7 +80,7 @@ UBC Library provides access to two robust, nationally-supported repositories for
 
 |Repository|Description|Digital Preservation|
 |:----:|:----:|:----:|
-|<a href="https://researchdata.library.ubc.ca/deposit/dataverse">UBC Dataverse Collection</a>(Borealis)|An open-source application to publish, deposit, reference, cite, extract and analyze research data. UBC Library can create a Dataverse setup for your research group where you can actively manage your data, share it securely with colleagues, provide version control, establish a permanent data citation, get a DOI for your dataset, and more.| All Borealis files are digitally preserved with <a href="https://borealisdata.ca/preservationplan/">Level 1 </a>digital preservation|
+|<a href="https://researchdata.library.ubc.ca/deposit/dataverse">UBC Dataverse Collection</a> (Borealis)|An open-source application to publish, deposit, reference, cite, extract and analyze research data. UBC Library can create a Dataverse setup for your research group where you can actively manage your data, share it securely with colleagues, provide version control, establish a permanent data citation, get a DOI for your dataset, and more.| All Borealis files are digitally preserved with <a href="https://borealisdata.ca/preservationplan/">Level 1 </a>digital preservation|
 |<a href="https://researchdata.library.ubc.ca/deposit/frdr/">FRDR</a>| The Federated Research Data Repository, is a Canadian national research data repository for big data. It allows researchers to discover, share, and download Canadian research data.| All FRDR files are preserved with Level 2 digital preservation (Archivematica)|
 
 
@@ -98,9 +99,9 @@ One of the benefits of depositing your research data is that it can be reused by
 
 We recommend using the **CC-0 or CC-BY** licenses for research data, as they are the most open and flexible options. The CC-0 license waives all rights to the data, while the CC-BY license requires only attribution to the original source. Both of these licenses allow others to reuse your data without any restrictions or limitations.
 
- 2. <a href="https://opendatacommons.org" target="_blank">Open Data Commons (ODC)</a> 
+2. <a href="https://opendatacommons.org" target="_blank">Open Data Commons (ODC)</a> 
  
- Open Data Commons offers three license options that were created specifically for data/databases.
+ Open Data Commons offers three license options that were created specifically for data/databases. These are mostly commonly used for governmental data, such as municipal, provincial, and federal datasets.
 
 In UBC Dataverse Collection, our preferred license is CC- Zero, however, we invite our researchers to choose from a variety of Creative Commons licenses from a drop-down menu as they deposit their datasets.
 {: .note}
@@ -127,9 +128,7 @@ A persistent identifier (PID) provides a stable link to the data (and software) 
 ### Commons Types of PIDs for Data
 {: .no_toc}
 
- <a href="https://researchdata.library.ubc.ca/plan/get-dois/" target="_blank"> **DOI** (Digital Object Identifier)</A> for publications and data
-
-To find a DOI for your data, you need to deposit your data in a repository that can assign a DOI to your dataset.
+ <a href="https://researchdata.library.ubc.ca/plan/get-dois/" target="_blank"> **DOI** (Digital Object Identifier)</A> for publications and data. To secure a DOI for your data, you need to deposit your data in a repository that can assign a DOI to your dataset.
 
 Other repositories might use <a href="https://www.handle.net/">handles</a> or <a href="https://arks.org/">ARKs</a> as persistent identifiers for datasets. However, DOIs are preferred as they are also an XML-based metadata package that makes the datasets as discoverable as possible with the widely accepted DataCite metadata schema. 
 
