@@ -37,7 +37,7 @@ Data stewardship ensures that the data is properly managed, maintained, and used
 
 
 <p style="margin-top:25px">
-<img src="figures/dmp_responsibility.png" width="500"/>
+<img src="figures/dmp_responsibility.png" width="600"/>
 </p>
 
 <p style="color:grey; font-size:11px">
@@ -48,19 +48,24 @@ Lab Manual
 , 2021.
 </p>
 
+<br>
 
 ## Resources and Costs
 
 Data management and long-term access require adequate resources and costs that need to be estimated and described in your project plan. These resources and costs may involve the following elements:
 
 - The **hardware and software** that you will use to store, process, analyze, and share your data.
-  - e.g purchasing or renting servers, computers, storage devices, databases, applications, or cloud services. 
+
+  e.g purchasing or renting servers, computers, storage devices, databases, applications, or cloud services. 
 
 - The **personnel** that you will hire or assign to perform data management tasks, such as data collection, cleaning, documentation, curation, archiving, or dissemination. 
-  - e.g. paying salaries, benefits, or fees to data managers, analysts, curators, librarians, or consultants. 
+
+  e.g. paying salaries, benefits, or fees to data managers, analysts, curators, librarians, or consultants. 
 
 - The **training** that you will provide or receive to enhance your data management skills and knowledge. 
-  - e.g. attending or organizing workshops, courses, webinars, or tutorials on data management topics, such as data quality, ethics, policies, or best practices. 
+
+  e.g. attending or organizing workshops, courses, webinars, or tutorials on data management topics, such as data quality, ethics, policies, or best practices. 
 
 - The **services** that you will use or provide to facilitate data access and reuse by yourself or others. 
-  - e.g. subscribing or contributing to data repositories, platforms, portals, or networks that allow you to store, discover, access, or share your data.
+
+  e.g. subscribing or contributing to data repositories, platforms, portals, or networks that allow you to store, discover, access, or share your data.
