@@ -15,6 +15,7 @@ nav_order: 4
 
 Remember <a href="https://ubc-library-rc.github.io/rdm/content/06-2_Documentation_Metadata.html#is-your-data-fair" target="_blank">FAIR Data Principles</a>? Everything you have been doing so far is to support the reusability of your digital assets! Now it's time to take your data management one step further!
 
+<br>
 
 
 <details open markdown="block">
@@ -49,7 +50,7 @@ When considering what data should be preserved, it's important to note that **no
 
 Consult with <research.data@ubc.ca> as needed to make informed decisions about which data, if any, should be digitally preserved.
 
-
+<br>
 
 ## Data Types
 When you are working with data, you may encounter different forms of data, such as **raw, processed, analyzed, and final**. Depending on your research project and goals, you may need to use one or more of these forms of data. However, before you decide which form of data to use or deposit, you should check if your funder or publisher has any specific requirements or preferences for data deposition. This way, you can ensure that your data meets the standards and expectations of your target audience.
@@ -90,6 +91,10 @@ Refer to our <a href="https://osf.io/rc7de" target="_blank">one-pager</a> for mo
 One of the benefits of depositing your research data is that it can be reused by other researchers for new purposes or analyses. To enable data reuse, you need to assign a license to your data that specifies how others can use it. A license defines what others may or may not do with your data. You may choose to assign a broad license that allows anyone to do whatever they like with your data, or you may assign a narrower license that restricts use to strictly non-commercial activities and requires attribution to the data creator each time it is used.
 
 ### Types of Data Licenses
+{: .no_toc}
+
+<p style="margin-bottom: 15px"></p>
+
 
 *1*{: .circle .circle-blue} &nbsp; <a href="http://creativecommons.org/" target="_blank">Creative Commons (CC)</a>
 
@@ -115,17 +120,15 @@ When you use data from other sources in your research, it is important to acknow
 The <a href="https://doi.org/10.25490/a97f-egyk" target="_blank">Joint Declaration of Data Citation Principles</a> provide some general guidelines on the importance and definition of data citation.
 {: .note}
 
-Please ensure that you include **persistent identifiers** (PIDs) for the data (and software) in your citations, such as DOIs or ARKs. These PIDs provide a stable link to the data (and software) and can resolve to a landing page with more information and access options
+Please ensure that you include **persistent identifiers** (PIDs) for the data (and software) in your citations, such as DOIs or ARKs (explained below). These PIDs provide a stable link to the data (and software) and can resolve to a landing page with more information and access options. 
 
 <br>
 
-## Persistent Identifiers for Data
+## DOI for your data
 
-A persistent identifier (PID) provides a stable link to the data (and software) and can resolve to a landing page with more information and access options. It provides resources with a unique tag that remains the same over time, even if the material has been moved to another storage solution or website.
+<a href="https://researchdata.library.ubc.ca/plan/get-dois/" target="_blank"> **DOI** (Digital Object Identifier)</A> is a common type of persistent identifier for publications and data. To secure a DOI for your data, you need to deposit your data in a repository that can assign a DOI to your dataset.
 
- <a href="https://researchdata.library.ubc.ca/plan/get-dois/" target="_blank"> **DOI** (Digital Object Identifier)</A> is a common type of PID for publications and data. To secure a DOI for your data, you need to deposit your data in a repository that can assign a DOI to your dataset.
-
-Other repositories might use <a href="https://www.handle.net/">handles</a> or <a href="https://arks.org/">ARKs</a> as persistent identifiers for datasets. However, DOIs are preferred as they are also an XML-based metadata package that makes the datasets as discoverable as possible with the widely accepted DataCite metadata schema. 
+Some repositories might use <a href="https://www.handle.net/">handles</a> or <a href="https://arks.org/">ARKs</a> as persistent identifiers for datasets. However, DOIs are preferred as they are also an XML-based metadata package that makes the datasets as discoverable as possible with the widely accepted DataCite metadata schema. 
 
 
 
