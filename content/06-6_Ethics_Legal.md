@@ -33,15 +33,10 @@ Managing and sharing research data involves various **legal, ethical, and intell
 - the attribution of data sources, 
 - the compliance with relevant laws and regulations, and more.
 
-Researchers who manage and share their data should be aware of these issues and explain how they will follow the appropriate guidelines and policies for their field and region. 
+Researchers who manage and share their data should be aware of these issues and explain how they will <u>follow the appropriate guidelines and policies</u> for their field and region. 
 
+They should also ensure that they comply with any applicable <u>privacy legislation and laws</u>, including those imposed by their funders or institutions. These may require researchers to obtain ethical approval, inform data subjects, anonymize or encrypt data, secure data storage and transfer, respect data licenses and agreements, and report any breaches or incidents.
 
-They should also ensure that they comply with any applicable privacy legislation and laws, including those imposed by their funders or institutions. These may require researchers to obtain ethical approval, inform data subjects, anonymize or encrypt data, secure data storage and transfer, respect data licenses and agreements, and report any breaches or incidents.
-
-Describe if there are any legal, ethical, and intellectual property issues when managing and sharing your data.
-
-
-Explain how you will comply with any applicable privacy legislation and laws, including funders requirements.
 
 ## FIPPA
 The <a href="https://universitycounsel.ubc.ca/subject-areas/access-and-privacy-general/access-to-information/about-fippa/" target="_blank"> FIPPA</a>, British Columbia Freedom of Information and Protection of Privacy Act, is provincial legislation that
