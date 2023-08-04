@@ -118,10 +118,9 @@ These key components should be considered to create a meaningful DMP:
 1. [Data Collection](06-1_Data_Collection.md)
 2. [Documentation and Metadata](06-2_Documentation_Metadata.md)
 3. [Storage and Backup](06-3_Storage_Backup.md)
-4. [Data Preservation](06-4_Data_Preservation.md)
-5. [Data Sharing and Reuse](06-5_Data_Sharing.md)
-6. [Responsibilities and Resources](06-6_Responsibilities_Resources.md)
-7. [Ethcis and Legal Compliance](06-7_Ethics_Legal.md)
+4. [Deposit, Resue, Preservation](06-4_Deposit_Reuse_Preservation.md)
+5. [Responsibilities and Resources](06-6_Responsibilities_Resources.md)
+6. [Ethcis and Legal Compliance](06-7_Ethics_Legal.md)
 
 
 
