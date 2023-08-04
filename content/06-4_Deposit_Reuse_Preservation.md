@@ -67,16 +67,11 @@ For guidance on preferred file formats, you can refer to our <a href="https://ub
 ## Data Repositories
 Storing your data in a repository like <a href="https://researchdata.library.ubc.ca/deposit/dataverse/">Borealis</a> makes it easy for other researchers, publishers, and collaborators to find, use, and cite your data. It supports the Open Science movement goals of transparency, accessibility, and collaboration, and can increase attention to your work.
 
-
-<p style="margin-top:25px;margin-bottom:25px; margin-left:30px">
+<p style="margin-top:25px;margin-bottom:30px; margin-left:30px">
 <img src="figures/compressed-files.png" width="150"/> </p> 
 
 
-
-
 UBC Library provides access to two robust, nationally-supported repositories for your data:
-
-
 
 |Repository|Description|Digital Preservation|
 |:----:|:----:|:----:|
@@ -95,18 +90,19 @@ Refer to our <a href="https://osf.io/rc7de" target="_blank">one-pager</a> for mo
 One of the benefits of depositing your research data is that it can be reused by other researchers for new purposes or analyses. To enable data reuse, you need to assign a license to your data that specifies how others can use it. A license defines what others may or may not do with your data. You may choose to assign a broad license that allows anyone to do whatever they like with your data, or you may assign a narrower license that restricts use to strictly non-commercial activities and requires attribution to the data creator each time it is used.
 
 ### Types of Data Licenses
-1.  <a href="http://creativecommons.org/" target="_blank">Creative Commons (CC)</a>
+
+*1*{: .circle .circle-blue} &nbsp; <a href="http://creativecommons.org/" target="_blank">Creative Commons (CC)</a>
 
 We recommend using the **CC-0 or CC-BY** licenses for research data, as they are the most open and flexible options. The CC-0 license waives all rights to the data, while the CC-BY license requires only attribution to the original source. Both of these licenses allow others to reuse your data without any restrictions or limitations.
 
-2. <a href="https://opendatacommons.org" target="_blank">Open Data Commons (ODC)</a> 
+*2*{: .circle .circle-red} &nbsp; <a href="https://opendatacommons.org" target="_blank">Open Data Commons (ODC)</a>
  
  Open Data Commons offers three license options that were created specifically for data/databases. These are mostly commonly used for governmental data, such as municipal, provincial, and federal datasets.
 
 In UBC Dataverse Collection, our preferred license is CC- Zero, however, we invite our researchers to choose from a variety of Creative Commons licenses from a drop-down menu as they deposit their datasets.
 {: .note}
 
-
+<br>
 
 ## Data Citations
 
@@ -121,14 +117,13 @@ The <a href="https://doi.org/10.25490/a97f-egyk" target="_blank">Joint Declarati
 
 Please ensure that you include **persistent identifiers** (PIDs) for the data (and software) in your citations, such as DOIs or ARKs. These PIDs provide a stable link to the data (and software) and can resolve to a landing page with more information and access options
 
+<br>
+
 ## Persistent Identifiers for Data
 
 A persistent identifier (PID) provides a stable link to the data (and software) and can resolve to a landing page with more information and access options. It provides resources with a unique tag that remains the same over time, even if the material has been moved to another storage solution or website.
 
-### Commons Types of PIDs for Data
-{: .no_toc}
-
- <a href="https://researchdata.library.ubc.ca/plan/get-dois/" target="_blank"> **DOI** (Digital Object Identifier)</A> for publications and data. To secure a DOI for your data, you need to deposit your data in a repository that can assign a DOI to your dataset.
+ <a href="https://researchdata.library.ubc.ca/plan/get-dois/" target="_blank"> **DOI** (Digital Object Identifier)</A> is a common type of PID for publications and data. To secure a DOI for your data, you need to deposit your data in a repository that can assign a DOI to your dataset.
 
 Other repositories might use <a href="https://www.handle.net/">handles</a> or <a href="https://arks.org/">ARKs</a> as persistent identifiers for datasets. However, DOIs are preferred as they are also an XML-based metadata package that makes the datasets as discoverable as possible with the widely accepted DataCite metadata schema. 
 
