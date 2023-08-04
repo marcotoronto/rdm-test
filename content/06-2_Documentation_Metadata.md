@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Documentation, Metadata 
+title: Documentation and Metadata 
 parent: Data Management Plans
 nav_order: 2
 ---
