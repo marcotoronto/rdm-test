@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Ethics & Legal Compliance
+title: Ethics and Legal Compliance
 parent: Data Management Plans
 nav_order: 6
 ---
@@ -62,6 +62,9 @@ Reflection Questions
 
     Reach out to research.data@ubc.ca or to arc.support@ubc.ca to discuss sensitive data sharing. 
 
+## Deidentification
+
+### Anonymization
 
 Is any of your data is sensitive? 
 Does it contain identifying information?

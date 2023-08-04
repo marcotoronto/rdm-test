@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Storage & Backup 
+title: Storage and Backup 
 parent: Data Management Plans
 nav_order: 3
 ---
