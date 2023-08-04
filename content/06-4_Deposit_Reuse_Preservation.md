@@ -113,23 +113,24 @@ In UBC Dataverse Collection, our preferred license is CC- Zero, however, we invi
 
 When you use data from other sources in your research, it is important to acknowledge the data creators and make the data sources easy to find and access. 
 
-**To acknowledge the data creators**, include a standard citation for the data (and software) that you used in the references section of your publication.
+**To acknowledge the data creators**, include a data citation for the data (and software) that you used in the references section of your publication.
 
-**To make the data sources easy to find and access**, create a data citation for your datasets including the data creators, the repository where the data are stored, and a persistent identifier (PID). Most data repositories, including UBC Dataverse Collection, <u>automatically create a data citation</u>.
+**To make your data sources easy to find and access**, create a data citation for your datasets. Most data repositories, including UBC Dataverse Collection, <u>automatically create a data citation</u>.
 
-The <a href="https://doi.org/10.25490/a97f-egyk" target="_blank">Joint Declaration of Data Citation Principles</a> provide some general guidelines on the importance and definition of data citation.
-{: .note}
+Data citations generally include:
+- the author/data creators,
+- the repository where the data are stored,
+- a **persistent identifier (PID)**    
 
-Please ensure that you include **persistent identifiers** (PIDs) for the data (and software) in your citations, such as DOIs or ARKs (explained below). These PIDs provide a stable link to the data (and software) and can resolve to a landing page with more information and access options. 
-
-<br>
-
-## DOI for your data
+### Persistent Identifier - DOI
+Please ensure that you include PIDs for the data (and software) in your citations, such as <u>DOIs</u> or <u>ARKs</u>. These PIDs provide a stable link to the data (and software) and can resolve to a landing page with more information and access options.
 
 <a href="https://researchdata.library.ubc.ca/plan/get-dois/" target="_blank"> **DOI** (Digital Object Identifier)</A> is a common type of persistent identifier for publications and data. To secure a DOI for your data, you need to deposit your data in a repository that can assign a DOI to your dataset.
 
 Some repositories might use <a href="https://www.handle.net/">handles</a> or <a href="https://arks.org/">ARKs</a> as persistent identifiers for datasets. However, DOIs are preferred as they are also an XML-based metadata package that makes the datasets as discoverable as possible with the widely accepted DataCite metadata schema. 
 
+The <a href="https://doi.org/10.25490/a97f-egyk" target="_blank">Joint Declaration of Data Citation Principles</a> provide some general guidelines on the importance and definition of data citation.
+{: .note}
 
 
 <br>
