@@ -132,4 +132,12 @@ Some repositories might use <a href="https://www.handle.net/">handles</a> or <a 
 
 
 
+<br>
+
+---
+
+
+### Source
+{: .no_toc }
+- <https://researchdatamanagement.harvard.edu/best-practices-citation-authorship>
 
