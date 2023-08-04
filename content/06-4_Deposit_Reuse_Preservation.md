@@ -35,6 +35,7 @@ Storing your data in a repository like <a href="https://researchdata.library.ubc
 
 Moreover, the Tri-Agency in Canada (NSERC, CIHR, SSHRC) have introduced <a href="https://bit.lv/2H3mGLv" target="_blank">a policy</a> requiring some grant recipients to deposit their project data in a repository.
 
+<br>
 
 ## Data Preservation
 

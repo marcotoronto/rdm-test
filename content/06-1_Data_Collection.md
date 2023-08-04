@@ -43,9 +43,14 @@ Next, outline the **softwares and/or platforms** that you will utilize for data 
 <img src="figures/microscope.jpg" width="300"/>
 </p>
 
-<br>
+
 
 ### Microsoft (MS) Teams and OneDrive
+
+<p style="margin-top:15px"></p>
+
+Per <a href="https://cio.ubc.ca/information-security-standards/U3" target="_blank">UBC Information Security Standard U3</a>, sharing platform such as **DropBox and Google Drive** should not be used to share research information, as they are **not** UBC approved tools.  
+{: .warn}
 
 Microsoft Teams and Onedrive are deployed as *data collection and storage solutions for UBC electronic information*, including research data.
 

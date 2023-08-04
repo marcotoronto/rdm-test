@@ -97,6 +97,12 @@ Stating a well-defined data backup schedule in your plan is essential, with **au
 **OneDrive** is an excellent and the simplest solution for data storage needs for most UBC researchers. Just don't forget to back up your data in one more location. 
 {: .note }
 
+<p style="margin-top:15px"></p>
+
+Per <a href="https://cio.ubc.ca/information-security-standards/U3" target="_blank">UBC Information Security Standard U3</a>, sharing platform such as **DropBox and Google Drive** should not be used to share research information, as they are **not** UBC approved tools.  
+{: .warn}
+
+
 | UBC-IT Storage Resources | Notes |
 | - | - |
 |<a href="https://it.ubc.ca/services/web-servers-storage/educloud-server-service" target="_blank">**EduCloud Server Service**</a>|cost associated, need IT skills|
