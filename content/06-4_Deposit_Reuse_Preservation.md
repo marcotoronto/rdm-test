@@ -129,8 +129,9 @@ Please ensure that you include PIDs for the data (and software) in your citation
 
 Some repositories might use <a href="https://www.handle.net/">handles</a> or <a href="https://arks.org/">ARKs</a> as persistent identifiers for datasets. However, DOIs are preferred as they are also an XML-based metadata package that makes the datasets as discoverable as possible with the widely accepted DataCite metadata schema. 
 
-The <a href="https://doi.org/10.25490/a97f-egyk" target="_blank">Joint Declaration of Data Citation Principles</a> provide some general guidelines on the importance and definition of data citation.
-{: .note}
+If you want to learn more about data citation, a good place to start is the <a href="https://doi.org/10.25490/a97f-egyk" target="_blank">Joint Declaration of Data Citation Principles</a> This document explains why data citation is important and what it means in practice. 
+
+For a more practical guide on how to cite data in different formats, you can check out the <a href="https://guides.library.ubc.ca/c.php?g=707463&p=5035505" target="_blank">UBC Library guide on How to Cite</a>. 
 
 
 <br>
