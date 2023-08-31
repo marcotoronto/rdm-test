@@ -69,3 +69,6 @@ Data management and long-term access require adequate resources and costs that n
 - The **services** that you will use or provide to facilitate data access and reuse by yourself or others. 
 
   e.g. subscribing or contributing to data repositories, platforms, portals, or networks that allow you to store, discover, access, or share your data.
+
+
+More questions regarding responsibilities and resources? Reach out to <arc.support@ubc.ca> or <research.data@ubc.ca> for help.

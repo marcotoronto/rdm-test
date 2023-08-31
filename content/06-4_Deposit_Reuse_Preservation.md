@@ -99,13 +99,13 @@ One of the benefits of depositing your research data is that it can be reused by
 
 *1*{: .circle .circle-blue} &nbsp; <a href="http://creativecommons.org/" target="_blank">Creative Commons (CC)</a>
 
-We recommend using the **CC-0 or CC-BY** licenses for research data, as they are the most open and flexible options. The CC-0 license waives all rights to the data, while the CC-BY license requires only attribution to the original source. Both of these licenses allow others to reuse your data without any restrictions or limitations.
+We recommend using the **CC-0** (also known as CC-Zero) or **CC-BY** licenses for research data, as they are the most open and flexible options. The CC-0 license waives all rights to the data, while the CC-BY license requires only attribution to the original source. Both of these licenses allow others to reuse your data without any restrictions or limitations.
 
 *2*{: .circle .circle-red} &nbsp; <a href="https://opendatacommons.org" target="_blank">Open Data Commons (ODC)</a>
  
  Open Data Commons offers three license options that were created specifically for data/databases. These are mostly commonly used for governmental data, such as municipal, provincial, and federal datasets.
 
-In UBC Dataverse Collection, our preferred license is CC- Zero, however, we invite our researchers to choose from a variety of Creative Commons licenses from a drop-down menu as they deposit their datasets.
+In UBC Dataverse Collection, our preferred license is CC-0, however, we invite our researchers to choose from a variety of Creative Commons licenses from a drop-down menu as they deposit their datasets.
 {: .note}
 
 <br>
