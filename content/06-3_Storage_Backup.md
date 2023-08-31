@@ -5,6 +5,16 @@ parent: Data Management Plans
 nav_order: 3
 ---
 
+
+# Storage and Backup
+{: .no_toc}
+
+Data storage and security considerations are essential aspects of managing research data and should be mapped out in your DMP. The following good practices are recommended for you to implement in your project and noted in your DMP.
+
+<p style="margin-top:25px;margin-left:30px">
+<img src="figures/hard-disk.jpeg" width="300"/>
+</p>
+
 <details open markdown="block">
   <summary>
     Table of Content
@@ -16,17 +26,6 @@ nav_order: 3
 
 
 ---
-# Storage and Backup
-{: .no_toc}
-
-Data storage and security considerations are essential aspects of managing research data and should be mapped out in your DMP. The following good practices are recommended for you to implement in your project and noted in your DMP.
-
-<p style="margin-top:25px;margin-left:30px">
-<img src="figures/hard-disk.jpeg" width="300"/>
-</p>
-
-
-<br>
 
 ## Estimate the Storage Space
 At the beginning of any project, researchers should *estimate the required storage space* during the active phases of your project. This estimation should take into consideration factors such as file versioning, backups, and potential data growth. In deciding where to store your data, ensure that you understand your *organization's policies and infrastructure for data storage and backups*. This includes considering the most appropriate storage system for <a href="https://arc.ubc.ca/arc-research-cybersecurity-and-privacy-services">sensitive data </a>and what institutional policies apply to its handling.
