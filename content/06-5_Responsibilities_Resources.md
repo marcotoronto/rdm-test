@@ -24,7 +24,7 @@ nav_order: 5
 ---
 ## Responsibilities
 
-Data stewardship ensures that the data is properly managed, maintained, and used throughout the project lifecycle and beyond. It is therefore important to <u>define the data stewardship roles</u> and responsibilities of project members during and after the project. These roles and responsibilities should include the following elements:
+Data stewardship ensures that the data is properly managed, maintained, and used throughout the project lifecycle and beyond. It is therefore important to <u>define the data stewardship roles</u> and responsibilities of project members <u>during and after</u> the project. These roles and responsibilities should include the following elements:
 
 - The **tasks** that each role will perform, such as collecting, cleaning, validating, documenting, sharing, or archiving data. These tasks should align with the project goals, objectives, and deliverables.
 
