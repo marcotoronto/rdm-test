@@ -9,7 +9,12 @@ nav_order: 5
 <img src="figures/work-in-progress.png" width="600"/>
 </p>
 
-<p style="margin-top:25px;margin-left:30px;margin-bottom:25px"></p>
+# Responsibilities and Resources
+{: .no_toc}
+
+Planning data stewardship, resources and costs in you DMP helps to avoid confusion, duplication, or conflict among the research team and other stakeholders, to plan ahead and ensure the availability and suitability of the resources for the data management and sharing needs. It also helps to estimate the costs and benefits of the resources and justify their use.
+
+<p style="margin-top:25px"></p>
 
 <details open markdown="block">
   <summary>
