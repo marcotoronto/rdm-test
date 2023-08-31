@@ -50,7 +50,11 @@ What is your plan for long time access? Research data preservation involves ensu
 
 <p style="margin-top:25px; margin-left:30px">
 <img src="figures/preservation.jpg" width="300"/>
+</p> 
+<p style="color:grey; font-size:11px; margin-left:30px">
+Photo by <a href="https://unsplash.com/@lumitar_legends?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText">Lumitar</a> on <a href="https://unsplash.com/photos/yfuAHVBaEvw?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText">Unsplash</a>
 </p>
+  
 
 The preservation process encompasses:
 - converting data into sustainable formats,
@@ -140,6 +144,15 @@ When you use data from other sources in your research, it is important to acknow
 
 **To make your data sources easy to find and access**, create a data citation for your datasets. Most data repositories, including UBC Dataverse Collection, <u>automatically create a data citation</u>.
 
+
+<p style="margin-top:25px;margin-left:30px">
+<img src="figures/tag.jpg" width="150"/> </p> 
+
+<p style="color:grey; font-size:11px; margin-left:30px">
+Photo by <a href="https://unsplash.com/@henmankk?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText">Keagan Henman</a> on <a href="https://unsplash.com/photos/jZmc8oXwkN0?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText">Unsplash</a>
+</p>
+  
+
 Data citations generally include:
 - the author/data creators,
 - the repository where the data are stored,
@@ -149,6 +162,14 @@ Data citations generally include:
 Please ensure that you include PIDs for the data (and software) in your citations, such as <u>DOIs</u> or <u>ARKs</u>. These PIDs provide a stable link to the data (and software) and can resolve to a landing page with more information and access options.
 
 <a href="https://researchdata.library.ubc.ca/plan/get-dois/" target="_blank"> **DOI** (Digital Object Identifier)</A> is a common type of persistent identifier for publications and data. To secure a DOI for your data, you need to deposit your data in a repository that can assign a DOI to your dataset.
+
+
+<p style="margin-top:25px;margin-left:30px">
+<img src="figures/DOI.png" width="150"/> </p> 
+
+<p style="color:grey; font-size:11px; margin-left:30px">Image: <a href="https://natureofwriting.com/courses/apa-citation-guide/lessons/the-parts-of-an-entry/topic/digital-object-identifiers/" target="_blank">natreofwriting.com</a>.
+</p>
+
 
 Some repositories might use <a href="https://www.handle.net/">handles</a> or <a href="https://arks.org/">ARKs</a> as persistent identifiers for datasets. However, DOIs are preferred as they are also an XML-based metadata package that makes the datasets as discoverable as possible with the widely accepted DataCite metadata schema.
 
@@ -171,7 +192,7 @@ For a more practical guide on how to cite data in different formats, you can che
 <img src="figures/angel-congrats.jpg" width="300"/>
 </p>
 
-Your DMP looks so much better with your plan to deposit, reuse, preserve the data! 
+Your DMP looks so much better with your plan to deposit, reuse, preserve the data! Let's move on to the responsibilities and resources section.
 
 
 
