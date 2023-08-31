@@ -24,23 +24,36 @@ nav_order: 5
 ---
 ## Responsibilities
 
-Data stewardship ensures that the data is properly managed, maintained, and used throughout the project lifecycle and beyond. It is therefore important to <u>define the data stewardship roles</u> and responsibilities of project members <u>during and after</u> the project. These roles and responsibilities should include the following elements:
+Data stewardship ensures that the data is properly managed, maintained, and used throughout the project lifecycle and beyond. It is therefore important to <u>define the data stewardship roles</u> and responsibilities of project members <u>during and after</u> the project. 
+
+
+<p style="margin-top:25px;margin-left:30px">
+<img src="figures/roles.jpg" width="300"/> </p> 
+
+
+
+These roles and responsibilities should include the following elements:
 
 - The **tasks** that each role will perform, such as collecting, cleaning, validating, documenting, sharing, or archiving data. These tasks should align with the project goals, objectives, and deliverables.
 
 
 - The **duration** of each role's involvement in the project, whether it is for the entire project duration or for a specific phase or activity. This should also indicate when and how the tasks will be completed or transferred to other parties.
 
+<p style="margin-top:25px;margin-left:30px">
+<img src="figures/team-laptops.jpg" width="300"/> </p> 
+
+  
+
 - The **training** that each role will receive to perform their tasks effectively and efficiently. This should cover the technical skills, ethical principles, and best practices of data stewardship. The training should also be tailored to the specific needs and expectations of each role.
 
 - The **succession plan** that will ensure the continuity and quality of data stewardship in case of staff turnover or role changes among data curators. This should describe how the data stewardship responsibilities and knowledge will be transferred to new or existing staff members, and how they will be trained and informed about the data stewardship tasks.
 
 
-<p style="margin-top:25px">
+<p style="margin-top:25px;margin-left:18px">
 <img src="figures/dmp_responsibility.png" width="600"/>
 </p>
 
-<p style="color:grey; font-size:11px">
+<p style="color:grey; font-size:11px;margin-left:30px">
 Example: Elizabeth Wolkovich's 
 <a href="https://github.com/temporalecologylab/labgit/blob/master/datacodemgmt/tempeco_DMP.pdf" target="_blank">
 Lab Manual
@@ -61,6 +74,11 @@ Data management and long-term access require adequate resources and costs that n
 - The **personnel** that you will hire or assign to perform data management tasks, such as data collection, cleaning, documentation, curation, archiving, or dissemination. 
 
   e.g. paying salaries, benefits, or fees to data managers, analysts, curators, librarians, or consultants. 
+
+<p style="margin-top:25px;margin-left:25px">
+<img src="figures/resources-costs.jpg" width="300"/>
+</p>
+
 
 - The **training** that you will provide or receive to enhance your data management skills and knowledge. 
 

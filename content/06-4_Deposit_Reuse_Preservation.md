@@ -51,10 +51,7 @@ What is your plan for long time access? Research data preservation involves ensu
 <p style="margin-top:25px; margin-left:30px">
 <img src="figures/preservation.jpg" width="300"/>
 </p> 
-<p style="color:grey; font-size:11px; margin-left:30px">
-Photo by <a href="https://unsplash.com/@lumitar_legends?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText">Lumitar</a> on <a href="https://unsplash.com/photos/yfuAHVBaEvw?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText">Unsplash</a>
-</p>
-  
+
 
 The preservation process encompasses:
 - converting data into sustainable formats,
@@ -148,9 +145,6 @@ When you use data from other sources in your research, it is important to acknow
 <p style="margin-top:25px;margin-left:30px">
 <img src="figures/tag.jpg" width="150"/> </p> 
 
-<p style="color:grey; font-size:11px; margin-left:30px">
-Photo by <a href="https://unsplash.com/@henmankk?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText">Keagan Henman</a> on <a href="https://unsplash.com/photos/jZmc8oXwkN0?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText">Unsplash</a>
-</p>
   
 
 Data citations generally include:

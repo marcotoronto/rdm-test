@@ -34,13 +34,25 @@ Managing and sharing research data involves various **legal, ethical, and intell
 - the attribution of data sources, 
 - the compliance with relevant laws and regulations, and more.
 
+<p style="margin-top:25px;margin-left:30px">
+<img src="figures/follow-rule.jpg" width="300"/>
+</p>
+
 Researchers who manage and share their data should be aware of these issues and explain how they will <u>follow the appropriate guidelines and policies for their field and region</u>. 
 
 They should also ensure that they comply with any applicable <u>privacy legislation and laws, including those imposed by their funders or institutions</u>. These may require researchers to obtain ethical approval, inform data subjects, anonymize or encrypt data, secure data storage and transfer, respect data licenses and agreements, and report any breaches or incidents.
 
+
+
+<br>
+
 ## Sensitive Data 
 
 Sensitive data is data that should not be shared in the public domain without additional consideration. This might include trade secrets, medical information, commercialinformation, preliminary analysis, third party data, and some geospatially linked data. Sensitive research data requires careful handling and protection, and may not be suitable for open sharing. However, there may be ways to share sensitive research data legally and ethically, such as anonymizing, aggregating, or restricting access to the data.
+
+<p style="margin-top:25px;margin-left:30px">
+<img src="figures/privacy-please.jpg" width="300"/>
+</p>
 
 In order to ensure you are handling data in an ethical manner, you should:
 
@@ -57,6 +69,10 @@ Sensitive data contain information that could reveal the identity or harm the in
 
 De-identification is the process of removing or modifying any information that could be used to identify someone or something in a dataset. By doing this, researchers can **share their data without disclosing sensitive information**. However, de-identification is not a simple or foolproof solution. There is always a possibility that someone could re-identify the data by using other sources of information or advanced technology. Therefore, researchers need to be aware of the <u>risks and challenges</u> of de-identification and manage them accordingly.
 
+<p style="margin-top:25px;margin-bottom:25px">
+<img src="figures/incognito.png" width="300"/>
+</p>
+
 There are different methods of de-identification, each with its own advantages and disadvantages. 
 
 |Method of de-identification|Description|Pros &nbsp;<img src="figures/thumbs-up.png" align="center" width="23"/> |Cons &nbsp; <img src="figures/say-no.png" align="center" width="20">|
@@ -66,6 +82,10 @@ There are different methods of de-identification, each with its own advantages a
 |**Aggregation**|individual data points are grouped together into <u>categories or ranges<u>|preserves some statistical properties and patterns|reduces the level of detail and variability in the data|
 |**Masking**|identifying information is <u>hidden or obscured</u> by using techniques such as encryption, hashing, blurring, or noise addition|makes the data harder to read or interpret|introduces errors or distortions in the data|
 |**Generalization**|dentifying information is replaced with more <u>general or vague terms</u>. For example, dates can be replaced with years, addresses can be replaced with regions, or names can be replaced with initials|preserves some semantic meaning and context|makes the data less specific and more ambiguous|
+
+<p style="margin-top:25px;margin-bottom:50px; margin-left:30px">
+<img src="figures/anonymity.png" width="230"/>
+</p>
 
 ### Risk of Re-identification
 
@@ -97,6 +117,9 @@ Reflection
     What method(s) would you use to protect the sensitive information of the individuals? 
 
 
+<p style="margin-top:25px;margin-bottom:50px; margin-left:30px">
+<img src="figures/facial-recognition.png" width="250"/>
+</p>
 
 
 <br>
@@ -119,7 +142,10 @@ Researchers are increasingly using **algorithm-based tools** to help anonymize t
 - <a href="http://www.cs.cornell.edu/~guoz/Guozhang%20Wang%20publications/cat_sigmod2009.pdf" target="_blank">Cornell Anonymization Toolkit</a>
 - <a href="https://arx.deidentifier.org/" target="_blank">ARX open source data anonymization software</a>
 
-<br>  
+
+<p style="margin-top:80px;margin-left:30px">
+<img src="figures/regulations.jpg" width="300"/>
+</p>
 
 ## FIPPA
 The <a href="https://universitycounsel.ubc.ca/subject-areas/access-and-privacy-general/access-to-information/about-fippa/" target="_blank"> FIPPA</a>, British Columbia Freedom of Information and Protection of Privacy Act, is provincial legislation that
@@ -133,7 +159,11 @@ When it comes to choosing storage resources, researchers at UBC have a range of 
 |Faculty & Staff|Campus Home Drives, TeamShare, Chinook, OneDrive, EduCloud|
 |Students|OneDrive|
 
-<br>
+
+<p style="margin-left:30px">
+<img src="figures/ethics.jpg" width="200"/>
+</p>
+
 
 ## TCPS 2 (2022)
 
