@@ -69,10 +69,13 @@ There are different methods of de-identification, each with its own advantages a
 
 ### Risk of Re-identification
 
-#### Example: Anonymization
-Data anonymization is not a perfect or permanent solution, as with all de-identification methods. It may still be possible to re-identify individuals through indirect identifiers and/or links to related datasets.
+No matter what de-identification methods you choose to use, there is always a chance that someone could re-identify the data by using other sources of information or advanced technology. Therefore, researchers need to be aware of these risks and manage them accordingly.
 
-For example, consider this dataset that contains some identifiers:
+#### Example: Anonymization
+
+<p style="margin-top:10px"></p>
+
+Consider this dataset that contains some identifiers:
 
 |Name|Address|Postal code|Year of birth|Gender|Occupation|Salary|
 |-|-|-|-|-|-|-|
@@ -91,20 +94,32 @@ In some cases, this might be enough to ensure that the data is not re-identified
 
 Reflection
 {: .label label-blue }
-   What method(s) would you use to protect the sensitive information of the individuals? 
+    What method(s) would you use to protect the sensitive information of the individuals? 
 
+
+
+
+<br>
+
+#### Example: Pseudonymization
+
+<p style="margin-top:10px"></p>
+
+Data pseudonymization can preserve the linkability and utility of the data. **Linkability** means that the data can be connected to the same individual or entity across different datasets or over time. This can make the data more valuable for analysis and research, but it can also increase the risk of re-identification. Therefore, researchers need to assess the risk of re-identification and balance it with the benefit of data linkage.
+
+On the other hand, data anonymization removes any information that can directly or indirectly identify an individual or an entity in a dataset. This means that the data cannot be linked to the original source or to other datasets. 
+
+<br>
+
+
+### De-identification Tools
 
 Researchers are increasingly using **algorithm-based tools** to help anonymize their data and manage the risk of re-identifying their anonymized data. Examples of anonymization tools include:
 
 - <a href="http://www.cs.cornell.edu/~guoz/Guozhang%20Wang%20publications/cat_sigmod2009.pdf" target="_blank">Cornell Anonymization Toolkit</a>
 - <a href="https://arx.deidentifier.org/" target="_blank">ARX open source data anonymization software</a>
 
-
-#### Example: Pseudonymization
-
-
-
-<br>
+<br>  
 
 ## FIPPA
 The <a href="https://universitycounsel.ubc.ca/subject-areas/access-and-privacy-general/access-to-information/about-fippa/" target="_blank"> FIPPA</a>, British Columbia Freedom of Information and Protection of Privacy Act, is provincial legislation that
