@@ -85,7 +85,7 @@ Remember that your DMP is a living document that should be **developed at the ve
 
 To create your DMP, please use <span class="fs-3" align="center"> <a href="https://assistant.portagenetwork.ca" target="_blank"><u>DMP Assistant</u></a>{: .btn .btn-purple }</span>. 
 
-This is a free, open-source Canadian tool created by the Canadian Libraries' Portage community for preparing DMPs. It is available in *both English and French* and allows you to create and export your DMP. 
+This is a free, open-source Canadian tool created by the Portage network (now The Digital Research Alliance of Canada) for preparing DMPs. It is available in *both English and French* and allows you to create and export your DMP. 
 
 UBC has a *general template for UBC researchers*. This tool follows best practices in data stewardship and walks researchers step-by-step through key questions about data management. 
 
@@ -106,7 +106,7 @@ The Portage community has also collaborated on some excellent <a href="https://z
 ## Other tools
 {: .no_toc}
 
-In the United States, the University of California maintains <a href="https://dmptool.org/" target="_blank">DMP Tool</a>, and the Digital Curation Centre in the UK maintains <a href="https://dmponline.dcc.ac.uk/" target="_blank">DMP Online</a>. Each of these tools functions similarly by walking you through the process of writing a DMP.
+In the United States, the University of California maintains <a href="https://dmptool.org/" target="_blank">DMP Tool</a>, and the Digital Curation Centre in the UK maintains <a href="https://dmponline.dcc.ac.uk/" target="_blank">DMP Online</a>. Each of these tools functions similarly (in fact we all share the same code base) by walking you through the process of writing a DMP.
 
 
 <br>
