@@ -63,6 +63,7 @@ In order to ensure you are handling data in an ethical manner, you should:
 - have informed consent for data sharing
 - restrict use of confidential data
 
+<br>
 
 ## De-identification
 Sensitive data contain information that could reveal the identity or harm the interests of the people or entities involved in the research. To protect the privacy and confidentiality of the research subjects, researchers can use de-identification techniques. 
@@ -151,7 +152,7 @@ The <a href="https://universitycounsel.ubc.ca/subject-areas/access-and-privacy-g
 - make public bodies more open and accountable by providing the public with a right of access to records; 
 - protect personal information from unauthorized collection, use, or disclosure by public bodies.
 
-<p style="margin-top:80px;margin-left:30px">
+<p style="margin-left:30px">
 <img src="figures/regulations.jpg" width="300"/>
 </p>
 
