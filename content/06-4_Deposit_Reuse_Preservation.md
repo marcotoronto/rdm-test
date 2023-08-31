@@ -115,7 +115,7 @@ One of the benefits of depositing your research data is that it can be reused by
 <p style="margin-bottom: 15px"></p>
 
 
-*1*{: .circle .circle-blue} &nbsp; <a href="http://creativecommons.org/" target="_blank">Creative Commons (CC)</a>
+*1*{: .circle .circle-blue} &nbsp; <a href="https://copyright.ubc.ca/creative-commons" target="_blank">Creative Commons (CC)</a>
 
 We recommend using the **CC-0** (also known as CC-Zero) or **CC-BY** licenses for research data, as they are the most open and flexible options. The CC-0 license waives all rights to the data, while the CC-BY license requires only attribution to the original source. Both of these licenses allow others to reuse your data without any restrictions or limitations.
 
