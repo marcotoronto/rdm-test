@@ -48,7 +48,7 @@ So far, we are seeing the following funding opportunities requiring DMPs, in add
 
 - Network Grants in Skin Health and Muscular Dystrophy 
 - Data Science for Equity 
-- Virtual Care/Digital Health Team Grants, now renamed to Team Grant: Strengthening the Health Workforce for System Transformation
+- Team Grant: Strengthening the Health Workforce for System Transformation (previously known as Virtual Care/Digital Health Team Grants)
 
 
 ### <a style="font-size:17px">NSERC</a>

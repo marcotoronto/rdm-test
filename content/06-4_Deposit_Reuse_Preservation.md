@@ -15,7 +15,6 @@ nav_order: 4
 
 Remember <a href="https://ubc-library-rc.github.io/rdm/content/06-2_Documentation_Metadata.html#is-your-data-fair" target="_blank">FAIR Data Principles</a>? Everything you have been doing so far is to support the reusability of your digital assets! Now it's time to take your data management one step further!
 
-<br>
 
 
 <details open markdown="block">
@@ -35,11 +34,23 @@ Storing your data in a repository like <a href="https://researchdata.library.ubc
 
 Moreover, the Tri-Agency in Canada (NSERC, CIHR, SSHRC) have introduced <a href="https://bit.lv/2H3mGLv" target="_blank">a policy</a> requiring some grant recipients to deposit their project data in a repository.
 
+<p style="margin-top:25px; margin-left:30px">
+<img src="figures/faire-data-principles-2.png" width="600"/>
+</p>
+
+<p style="color:grey; font-size:11px; margin-left:30px">Image: <a href="https://medium.com/fluree/making-data-f-a-i-r-93629e82c459" target="_blank">medium.com</a>.
+</p>
+
+
 <br>
 
 ## Data Preservation
 
 What is your plan for long time access? Research data preservation involves ensuring that research data remains accessible, usable, and understandable over time. 
+
+<p style="margin-top:25px; margin-left:30px">
+<img src="figures/preservation.jpg" width="300"/>
+</p>
 
 The preservation process encompasses:
 - converting data into sustainable formats,
@@ -56,6 +67,10 @@ Consult with <research.data@ubc.ca> as needed to make informed decisions about w
 ## Data Types
 When you are working with data, you may encounter different forms of data, such as **raw, processed, analyzed, and final**. Depending on your research project and goals, you may need to use one or more of these forms of data. However, before you decide which form of data to use or deposit, you should check if your funder or publisher has any specific requirements or preferences for data deposition. This way, you can ensure that your data meets the standards and expectations of your target audience.
 
+<p style="margin-top:25px; margin-left:30px">
+<img src="figures/data.jpg" width="300"/>
+</p>
+
 <br>
 
 ## File Formats
@@ -63,6 +78,8 @@ In terms of data preservation, it is advisable to consider using open file forma
 
 For guidance on preferred file formats, you can refer to our <a href="https://ubc-library-rc.github.io/rdm/content/02_file_formats.html#we-recommend-these-common-file-formats" target="_blank">File Formatting workshop</a>.
 {: .note }
+
+<img src="figures/open-source.jpg" width="300" style="margin-left:30px"/>
 
 <br>
 
@@ -101,6 +118,11 @@ One of the benefits of depositing your research data is that it can be reused by
 
 We recommend using the **CC-0** (also known as CC-Zero) or **CC-BY** licenses for research data, as they are the most open and flexible options. The CC-0 license waives all rights to the data, while the CC-BY license requires only attribution to the original source. Both of these licenses allow others to reuse your data without any restrictions or limitations.
 
+<p style="margin-top:25px;margin-bottom:30px; margin-left:30px">
+<img src="figures/creative-commons.png" width="300"/> </p> 
+
+
+
 *2*{: .circle .circle-red} &nbsp; <a href="https://opendatacommons.org" target="_blank">Open Data Commons (ODC)</a>
  
  Open Data Commons offers three license options that were created specifically for data/databases. These are mostly commonly used for governmental data, such as municipal, provincial, and federal datasets.
@@ -136,6 +158,21 @@ Some repositories might use <a href="https://www.handle.net/">handles</a> or <a 
 If you want to learn more about data citation, a good place to start is the <a href="https://doi.org/10.25490/a97f-egyk" target="_blank">Joint Declaration of Data Citation Principles</a>. This document explains why data citation is important and what it means in practice. 
 
 For a more practical guide on how to cite data in different formats, you can check out the <a href="https://guides.library.ubc.ca/c.php?g=707463&p=5035505" target="_blank">UBC Library guide on How to Cite</a>. 
+
+
+<br>
+
+
+
+# Congrats!
+{: .no_toc }
+
+<p style="margin-top:25px;margin-left:30px">
+<img src="figures/angel-congrats.jpg" width="300"/>
+</p>
+
+Your DMP looks so much better with your plan to deposit, reuse, preserve the data! 
+
 
 
 <br>

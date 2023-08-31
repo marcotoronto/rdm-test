@@ -53,7 +53,7 @@ The deposited files can be downloaded in multiple formats, but always including 
 In Dataverse, tabular normalization also allows you to perform statistical data exploration and visualization *right in your browser*. Click the `Data Explore` button to see what it can do. 
 
 <p style="margin-top:25px;margin-left:30px">
-<img src="figures/borealis-download.png" width="550"/> </p> 
+<img src="figures/borealis-download.png" width="600"/> </p> 
 
 
 
@@ -93,12 +93,12 @@ Sensitive files can be <b>Restricted</b> or <b>Embargoed</b> so they are not fre
 {: .no_toc}
 
 <p style="margin-top:25px;margin-left:30px">
-<img src="figures/borealis-restrict-files.png" width="500"/> </p> 
+<img src="figures/borealis-restrict-files.png" width="550"/> </p> 
 
 In the popup window, you may *describe the conditions of use* or *license for this file* in the Terms of Access box. 
 
 <p style="margin-top:25px;margin-left:30px">
-<img src="figures/borealis-restrict-access.png" width="500"/> </p> 
+<img src="figures/borealis-restrict-access.png" width="450"/> </p> 
 
 Check the `Enable access request` box to allow users to send the contact person an email asking for permission to download a restricted file. Click `Save Changes` to finish.
 
@@ -111,7 +111,7 @@ Files can also be unrestricted if the terms change--for example, once an embargo
 Every change made to a dataset—adding files, editing metadata, etc—is saved as a new version of the dataset. This allows you to track the change history of the project, which can be viewed under the `Versions` tab. This is useful if you need to roll back to a previous version, or find out who made what changes and when.
 
 <p style="margin-top:25px;margin-left:30px">
-<img src="figures/borealis-version-control.png" width="500"/> </p> 
+<img src="figures/borealis-version-control.png" width="550"/> </p> 
 
 
 
@@ -199,7 +199,7 @@ One-size-fits-all licenses don’t suit every dataset. You can create customized
 To customize terms: 
 
 <p style="margin-top:25px;margin-left:30px">
-<img src="figures/borealis-edit-terms.png" width="500"/> </p>
+<img src="figures/borealis-edit-terms.png" width="550"/> </p>
 
 If you need help creating a custom license, contact `research.data@ubc.ca`.
 
