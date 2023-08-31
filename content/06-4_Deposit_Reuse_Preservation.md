@@ -121,16 +121,19 @@ When you use data from other sources in your research, it is important to acknow
 Data citations generally include:
 - the author/data creators,
 - the repository where the data are stored,
-- a **persistent identifier (PID)**    
+- **a persistent identifier (PID)**    
 
-### Persistent Identifier - DOI
+### Persistent Identifiers
 Please ensure that you include PIDs for the data (and software) in your citations, such as <u>DOIs</u> or <u>ARKs</u>. These PIDs provide a stable link to the data (and software) and can resolve to a landing page with more information and access options.
 
 <a href="https://researchdata.library.ubc.ca/plan/get-dois/" target="_blank"> **DOI** (Digital Object Identifier)</A> is a common type of persistent identifier for publications and data. To secure a DOI for your data, you need to deposit your data in a repository that can assign a DOI to your dataset.
 
-Some repositories might use <a href="https://www.handle.net/">handles</a> or <a href="https://arks.org/">ARKs</a> as persistent identifiers for datasets. However, DOIs are preferred as they are also an XML-based metadata package that makes the datasets as discoverable as possible with the widely accepted DataCite metadata schema. 
+Some repositories might use <a href="https://www.handle.net/">handles</a> or <a href="https://arks.org/">ARKs</a> as persistent identifiers for datasets. However, DOIs are preferred as they are also an XML-based metadata package that makes the datasets as discoverable as possible with the widely accepted DataCite metadata schema.
 
-If you want to learn more about data citation, a good place to start is the <a href="https://doi.org/10.25490/a97f-egyk" target="_blank">Joint Declaration of Data Citation Principles</a> This document explains why data citation is important and what it means in practice. 
+### More about data citation
+{: .no_toc}
+
+If you want to learn more about data citation, a good place to start is the <a href="https://doi.org/10.25490/a97f-egyk" target="_blank">Joint Declaration of Data Citation Principles</a>. This document explains why data citation is important and what it means in practice. 
 
 For a more practical guide on how to cite data in different formats, you can check out the <a href="https://guides.library.ubc.ca/c.php?g=707463&p=5035505" target="_blank">UBC Library guide on How to Cite</a>. 
 
