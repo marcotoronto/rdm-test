@@ -67,11 +67,12 @@ In order to ensure you are handling data in an ethical manner, you should:
 ## De-identification
 Sensitive data contain information that could reveal the identity or harm the interests of the people or entities involved in the research. To protect the privacy and confidentiality of the research subjects, researchers can use de-identification techniques. 
 
-De-identification is the process of removing or modifying any information that could be used to identify someone or something in a dataset. By doing this, researchers can **share their data without disclosing sensitive information**. However, de-identification is not a simple or foolproof solution. There is always a possibility that someone could re-identify the data by using other sources of information or advanced technology. Therefore, researchers need to be aware of the <u>risks and challenges</u> of de-identification and manage them accordingly.
-
 <p style="margin-top:25px;margin-bottom:25px">
 <img src="figures/incognito.png" width="300"/>
 </p>
+
+**De-identification** is the process of removing or modifying any information that could be used to identify someone or something in a dataset. By doing this, researchers can **share their data without disclosing sensitive information**. However, de-identification is not a simple or foolproof solution. There is always a possibility that someone could re-identify the data by using other sources of information or advanced technology. Therefore, researchers need to be aware of the <u>risks and challenges</u> of de-identification and manage them accordingly.
+
 
 There are different methods of de-identification, each with its own advantages and disadvantages. 
 
@@ -83,9 +84,7 @@ There are different methods of de-identification, each with its own advantages a
 |**Masking**|identifying information is <u>hidden or obscured</u> by using techniques such as encryption, hashing, blurring, or noise addition|makes the data harder to read or interpret|introduces errors or distortions in the data|
 |**Generalization**|dentifying information is replaced with more <u>general or vague terms</u>. For example, dates can be replaced with years, addresses can be replaced with regions, or names can be replaced with initials|preserves some semantic meaning and context|makes the data less specific and more ambiguous|
 
-<p style="margin-top:25px;margin-bottom:50px; margin-left:30px">
-<img src="figures/anonymity.png" width="230"/>
-</p>
+<br>
 
 ### Risk of Re-identification
 
@@ -122,8 +121,6 @@ Reflection
 </p>
 
 
-<br>
-
 #### Example: Pseudonymization
 
 <p style="margin-top:10px"></p>
@@ -137,20 +134,26 @@ On the other hand, data anonymization removes any information that can directly 
 
 ### De-identification Tools
 
+<p style="margin-top:25px;margin-bottom:50px; margin-left:30px">
+<img src="figures/anonymity.png" width="230"/>
+</p>
+
 Researchers are increasingly using **algorithm-based tools** to help anonymize their data and manage the risk of re-identifying their anonymized data. Examples of anonymization tools include:
 
 - <a href="http://www.cs.cornell.edu/~guoz/Guozhang%20Wang%20publications/cat_sigmod2009.pdf" target="_blank">Cornell Anonymization Toolkit</a>
 - <a href="https://arx.deidentifier.org/" target="_blank">ARX open source data anonymization software</a>
 
 
-<p style="margin-top:80px;margin-left:30px">
-<img src="figures/regulations.jpg" width="300"/>
-</p>
+<br>
 
 ## FIPPA
 The <a href="https://universitycounsel.ubc.ca/subject-areas/access-and-privacy-general/access-to-information/about-fippa/" target="_blank"> FIPPA</a>, British Columbia Freedom of Information and Protection of Privacy Act, is provincial legislation that
 - make public bodies more open and accountable by providing the public with a right of access to records; 
 - protect personal information from unauthorized collection, use, or disclosure by public bodies.
+
+<p style="margin-top:80px;margin-left:30px">
+<img src="figures/regulations.jpg" width="300"/>
+</p>
 
 When it comes to choosing storage resources, researchers at UBC have a range of FIPPA-compliant options:
 
@@ -160,14 +163,16 @@ When it comes to choosing storage resources, researchers at UBC have a range of 
 |Students|OneDrive|
 
 
-<p style="margin-left:30px">
-<img src="figures/ethics.jpg" width="200"/>
-</p>
-
+<br>
 
 ## TCPS 2 (2022)
 
 The <a href="https://ethics.gc.ca/eng/policy-politique_tcps2-eptc2_2022.html" target="_blank">Tri-Council Policy Statement: Ethical Conduct for Research Involving Humans – TCPS 2 (2022)</a> is a policy document that provides <u>ethical guidelines and principles for conducting research</u> involving human participants in Canada. 
+
+<p style="margin-top:25px;margin-bottom:25px;margin-left:30px">
+<img src="figures/ethics.jpg" width="200"/>
+</p>
+
 
 It was developed by the three federal research funding agencies: the Canadian Institutes of Health Research (CIHR), the Natural Sciences and Engineering Research Council of Canada (NSERC), and the Social Sciences and Humanities Research Council of Canada (SSHRC). The policy applies to all research involving human participants that is funded by these agencies or conducted under the auspices of institutions that receive agency funding.
  

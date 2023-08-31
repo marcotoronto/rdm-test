@@ -28,7 +28,7 @@ Data stewardship ensures that the data is properly managed, maintained, and used
 
 
 <p style="margin-top:25px;margin-left:30px">
-<img src="figures/roles.jpg" width="300"/> </p> 
+<img src="figures/roles.jpg" width="400"/> </p> 
 
 
 
@@ -40,7 +40,7 @@ These roles and responsibilities should include the following elements:
 - The **duration** of each role's involvement in the project, whether it is for the entire project duration or for a specific phase or activity. This should also indicate when and how the tasks will be completed or transferred to other parties.
 
 <p style="margin-top:25px;margin-left:30px">
-<img src="figures/team-laptops.jpg" width="300"/> </p> 
+<img src="figures/team-laptops.jpg" width="400"/> </p> 
 
   
 
@@ -76,7 +76,7 @@ Data management and long-term access require adequate resources and costs that n
   e.g. paying salaries, benefits, or fees to data managers, analysts, curators, librarians, or consultants. 
 
 <p style="margin-top:25px;margin-left:25px">
-<img src="figures/resources-costs.jpg" width="300"/>
+<img src="figures/resources-costs.jpg" width="400"/>
 </p>
 
 

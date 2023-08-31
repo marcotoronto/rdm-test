@@ -119,8 +119,8 @@ One of the benefits of depositing your research data is that it can be reused by
 
 We recommend using the **CC-0** (also known as CC-Zero) or **CC-BY** licenses for research data, as they are the most open and flexible options. The CC-0 license waives all rights to the data, while the CC-BY license requires only attribution to the original source. Both of these licenses allow others to reuse your data without any restrictions or limitations.
 
-<p style="margin-top:25px;margin-bottom:30px; margin-left:30px">
-<img src="figures/creative-commons.png" width="300"/> </p> 
+<p style="margin-top:25px;margin-bottom:45px; margin-left:30px">
+<img src="figures/creative-commons.png" width="250"/> </p> 
 
 
 
@@ -152,6 +152,8 @@ Data citations generally include:
 - the repository where the data are stored,
 - **a persistent identifier (PID)**    
 
+<p style="margin-top:25px"></p>
+
 ### Persistent Identifiers
 Please ensure that you include PIDs for the data (and software) in your citations, such as <u>DOIs</u> or <u>ARKs</u>. These PIDs provide a stable link to the data (and software) and can resolve to a landing page with more information and access options.
 
@@ -159,13 +161,15 @@ Please ensure that you include PIDs for the data (and software) in your citation
 
 
 <p style="margin-top:25px;margin-left:30px">
-<img src="figures/DOI.png" width="150"/> </p> 
+<img src="figures/DOI.png" width="300"/> </p> 
 
 <p style="color:grey; font-size:11px; margin-left:30px">Image: <a href="https://natureofwriting.com/courses/apa-citation-guide/lessons/the-parts-of-an-entry/topic/digital-object-identifiers/" target="_blank">natreofwriting.com</a>.
 </p>
 
 
 Some repositories might use <a href="https://www.handle.net/">handles</a> or <a href="https://arks.org/">ARKs</a> as persistent identifiers for datasets. However, DOIs are preferred as they are also an XML-based metadata package that makes the datasets as discoverable as possible with the widely accepted DataCite metadata schema.
+
+<p style="margin-top:25px"></p>
 
 ### More about data citation
 {: .no_toc}
