@@ -28,7 +28,7 @@ nav_order: 6
 
 Managing and sharing research data involves various **legal, ethical, and intellectual property issues** that need to be addressed and respected. These issues may include:
 - the protection of personal information,
-- the confidentiality of sensitive data, 
+- the confidentiality of **sensitive data**, 
 - the consent of data subjects, 
 - the ownership of data, 
 - the attribution of data sources, 
@@ -38,18 +38,87 @@ Researchers who manage and share their data should be aware of these issues and 
 
 They should also ensure that they comply with any applicable <u>privacy legislation and laws, including those imposed by their funders or institutions</u>. These may require researchers to obtain ethical approval, inform data subjects, anonymize or encrypt data, secure data storage and transfer, respect data licenses and agreements, and report any breaches or incidents.
 
+## Sensitive Data 
+
+Sensitive data is data that should not be shared in the public domain without additional consideration. This might include trade secrets, medical information, commercialinformation, preliminary analysis, third party data, and some geospatially linked data. Sensitive research data requires careful handling and protection, and may not be suitable for open sharing. However, there may be ways to share sensitive research data legally and ethically, such as anonymizing, aggregating, or restricting access to the data.
+
+In order to ensure you are handling data in an ethical manner, you should:
+
+- evaluate the anonymity of your data
+- obtain a confidential review (from a data repository admin)
+- comply with institutional regulations (e.g. those of your institution's research ethics board)
+- comply with other regulations (e.g. HIPAA, BREB)
+- have informed consent for data sharing
+- restrict use of confidential data
+
+
+## De-identification
+Sensitive data contain information that could reveal the identity or harm the interests of the people or entities involved in the research. To protect the privacy and confidentiality of the research subjects, researchers can use de-identification techniques. 
+
+De-identification is the process of removing or modifying any information that could be used to identify someone or something in a dataset. By doing this, researchers can **share their data without disclosing sensitive information**. However, de-identification is not a simple or foolproof solution. There is always a possibility that someone could re-identify the data by using other sources of information or advanced technology. Therefore, researchers need to be aware of the <u>risks and challenges</u> of de-identification and manage them accordingly.
+
+There are different methods of de-identification, each with its own advantages and disadvantages. 
+
+|Method of de-identification|Description|Pros &nbsp;<img src="figures/thumbs-up.png" align="center" width="23"/> |Cons &nbsp; <img src="figures/say-no.png" align="center" width="20">|
+|-|-|-|-|
+|**Anonymization**|the <u>most strict</u> form where all identifying information is <u>removed</u> from the dataset and cannot be restored. |ensures a high level of privacy protection|may reduce the usefulness and quality of the data|
+|**Pseudonymization**|identifying information is replaced with <u>artificial identifiers</u>, such as codes or numbers|allows the data to be linked across different sources/datasets or over time|increases the risk of re-identification if the codes are exposed or cracked|
+|**Aggregation**|individual data points are grouped together into <u>categories or ranges<u>|preserves some statistical properties and patterns|reduces the level of detail and variability in the data|
+|**Masking**|identifying information is <u>hidden or obscured</u> by using techniques such as encryption, hashing, blurring, or noise addition|makes the data harder to read or interpret|introduces errors or distortions in the data|
+|**Generalization**|dentifying information is replaced with more <u>general or vague terms</u>. For example, dates can be replaced with years, addresses can be replaced with regions, or names can be replaced with initials|preserves some semantic meaning and context|makes the data less specific and more ambiguous|
+
+### Risk of Re-identification
+
+#### Example: Anonymization
+Data anonymization is not a perfect or permanent solution, as with all de-identification methods. It may still be possible to re-identify individuals through indirect identifiers and/or links to related datasets.
+
+For example, consider this dataset that contains some identifiers:
+
+|Name|Address|Postal code|Year of birth|Gender|Occupation|Salary|
+|-|-|-|-|-|-|-|
+|Sally Xi|123 City Roadway, Vancouver, BC|V5V 1P2|1970|Female|Manager|90,000|
+|Sam Cooper|4576 Town Way, Smalltown, BC|V8A 1A5|1982|Male|Machinist|65,000|
+
+An anonymized version of that dataset might look like this:
+
+|Postal code|Year of birth|Gender|Occupation|Salary|
+|-|-|-|-|-|
+|V5V 1P2|1970|Female|Manager|90,000|
+|V8A 1A5|1982|Male|Machinist|65,000|
+
+
+In some cases, this might be enough to ensure that the data is not re-identified. However, the anonymized data may be easily re-identified in this case. For example, if there are not many machinists in the V8A 1A5 postal code, there is a strong risk of re-identification for the data related to Sam Cooper.
+
+Reflection
+{: .label label-blue }
+   What method(s) would you use to protect the sensitive information of the individuals? 
+
+
+Researchers are increasingly using **algorithm-based tools** to help anonymize their data and manage the risk of re-identifying their anonymized data. Examples of anonymization tools include:
+
+- <a href="http://www.cs.cornell.edu/~guoz/Guozhang%20Wang%20publications/cat_sigmod2009.pdf" target="_blank">Cornell Anonymization Toolkit</a>
+- <a href="https://arx.deidentifier.org/" target="_blank">ARX open source data anonymization software</a>
+
+
+#### Example: Pseudonymization
+
+
+
+<br>
 
 ## FIPPA
 The <a href="https://universitycounsel.ubc.ca/subject-areas/access-and-privacy-general/access-to-information/about-fippa/" target="_blank"> FIPPA</a>, British Columbia Freedom of Information and Protection of Privacy Act, is provincial legislation that
 - make public bodies more open and accountable by providing the public with a right of access to records; 
 - protect personal information from unauthorized collection, use, or disclosure by public bodies.
 
-When it comes to choosing storage resources, researchers have a range of FIPPA-compliant options:
+When it comes to choosing storage resources, researchers at UBC have a range of FIPPA-compliant options:
 
 |Eligibility|FIPPA-Compliant Storage Resources|
 |-|-|
 |Faculty & Staff|Campus Home Drives, TeamShare, Chinook, OneDrive, EduCloud|
 |Students|OneDrive|
+
+<br>
 
 ## TCPS 2 (2022)
 
@@ -57,18 +126,9 @@ The <a href="https://ethics.gc.ca/eng/policy-politique_tcps2-eptc2_2022.html" ta
 
 It was developed by the three federal research funding agencies: the Canadian Institutes of Health Research (CIHR), the Natural Sciences and Engineering Research Council of Canada (NSERC), and the Social Sciences and Humanities Research Council of Canada (SSHRC). The policy applies to all research involving human participants that is funded by these agencies or conducted under the auspices of institutions that receive agency funding.
  
+<br>
 
-## Deidentification
-
-### Anonymization
-
-Is any of your data is sensitive? 
-Does it contain identifying information?
-
-
-
-
-Reflection Questions
+Reflection
 {: .label label-blue }
     Does your data comply with FIPPA requirements? 
     Does your data contain any sensitive or confidential information? 
