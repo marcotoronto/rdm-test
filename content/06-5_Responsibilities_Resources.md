@@ -12,7 +12,7 @@ nav_order: 5
 # Responsibilities and Resources
 {: .no_toc}
 
-Planning data stewardship, resources and costs in you DMP helps to avoid confusion, duplication, or conflict among the research team and other stakeholders, to plan ahead and ensure the availability and suitability of the resources for the data management and sharing needs. It also helps to estimate the costs and benefits of the resources and justify their use.
+Planning data stewardship, resources and costs in your DMP helps to avoid confusion, duplication, or conflict among the research team and other stakeholders, to plan ahead and ensure the availability and suitability of the resources for the data management and sharing needs. It also helps to estimate the costs and benefits of the resources and justify their use.
 
 <p style="margin-top:25px"></p>
 
@@ -58,13 +58,7 @@ These roles and responsibilities should include the following elements:
 <img src="figures/dmp_responsibility.png" width="600"/>
 </p>
 
-<p style="color:grey; font-size:11px;margin-left:30px">
-Example: Elizabeth Wolkovich's 
-<a href="https://github.com/temporalecologylab/labgit/blob/master/datacodemgmt/tempeco_DMP.pdf" target="_blank">
-Lab Manual
-</a>
-, 2021.
-</p>
+
 
 <br>
 
