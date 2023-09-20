@@ -48,7 +48,7 @@ They should also ensure that they comply with any applicable <u>privacy legislat
 
 ## Sensitive Data 
 
-Sensitive data is data that should not be shared in the public domain without additional consideration. Our colleagues at the UBC Advanced Research Computing have an excellent <a href="https://arc.ubc.ca/sharing-research-data">guide</a> to sensitive data. This might include trade secrets, medical information, commercial information, preliminary analysis, third-party data, and some geospatially linked data. Sensitive research data requires careful handling and protection, and may not be suitable for open sharing. However, there may be ways to share sensitive research data legally and ethically, such as anonymizing, aggregating, or restricting access to the data.
+Sensitive data is data that should not be shared in the public domain without additional consideration. Our colleagues at the UBC Advanced Research Computing have an excellent <a href="https://arc.ubc.ca/sharing-research-data">guide</a> to sensitive data. This might include trade secrets, medical information, commercial information, preliminary analysis, third-party data, and some geospatially linked data. Sensitive research data requires careful handling and protection, and often is not suitable for open sharing. However, there may be ways to share sensitive research data legally and ethically, such as anonymizing, aggregating, or restricting access to the data.
 
 <p style="margin-top:25px;margin-left:30px">
 <img src="figures/privacy-please.jpg" width="300"/>
@@ -58,7 +58,7 @@ In order to ensure you are handling data in an ethical manner, you should:
 
 - evaluate the anonymity of your data
 - obtain a confidential review (from a data repository admin)
-- comply with institutional regulations (e.g. those of your institution's research ethics board)
+- comply with <a href="https://arc.ubc.ca/sharing-research-data">institutional regulations</a> (e.g. those of your institution's research ethics board)
 - comply with other regulations (e.g. HIPAA, BREB)
 - have informed consent for data sharing
 - restrict use of confidential data
