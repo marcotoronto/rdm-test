@@ -48,7 +48,7 @@ They should also ensure that they comply with any applicable <u>privacy legislat
 
 ## Sensitive Data 
 
-Sensitive data is data that should not be shared in the public domain without additional consideration. This might include trade secrets, medical information, commercialinformation, preliminary analysis, third party data, and some geospatially linked data. Sensitive research data requires careful handling and protection, and may not be suitable for open sharing. However, there may be ways to share sensitive research data legally and ethically, such as anonymizing, aggregating, or restricting access to the data.
+Sensitive data is data that should not be shared in the public domain without additional consideration. Our colleagues at the UBC Advanced Research Computing have an excellent <a ref="https://arc.ubc.ca/sharing-research-data">guide</a> to sensitive data. This might include trade secrets, medical information, commercial information, preliminary analysis, third-party data, and some geospatially linked data. Sensitive research data requires careful handling and protection, and may not be suitable for open sharing. However, there may be ways to share sensitive research data legally and ethically, such as anonymizing, aggregating, or restricting access to the data.
 
 <p style="margin-top:25px;margin-left:30px">
 <img src="figures/privacy-please.jpg" width="300"/>
