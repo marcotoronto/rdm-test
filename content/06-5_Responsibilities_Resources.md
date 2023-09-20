@@ -54,11 +54,6 @@ These roles and responsibilities should include the following elements:
 - The **succession plan** that will ensure the continuity and quality of data stewardship in case of staff turnover or role changes among data curators. This should describe how the data stewardship responsibilities and knowledge will be transferred to new or existing staff members, and how they will be trained and informed about the data stewardship tasks.
 
 
-<p style="margin-top:25px;margin-left:18px">
-<img src="figures/dmp_responsibility.png" width="600"/>
-</p>
-
-
 
 <br>
 
