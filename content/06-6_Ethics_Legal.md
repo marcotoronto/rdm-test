@@ -139,9 +139,8 @@ On the other hand, data anonymization removes any information that can directly 
 <img src="figures/anonymity.png" width="230"/>
 </p>
 
-Researchers are increasingly using **algorithm-based tools** to help anonymize their data and manage the risk of re-identifying their anonymized data. Examples of anonymization tools include:
+Researchers are increasingly using **algorithm-based tools** to help anonymize their data and manage the risk of re-identifying their anonymized data. An example of an anonymization tool would be:
 
-- <a href="http://www.cs.cornell.edu/~guoz/Guozhang%20Wang%20publications/cat_sigmod2009.pdf" target="_blank">Cornell Anonymization Toolkit</a>
 - <a href="https://arx.deidentifier.org/" target="_blank">ARX open source data anonymization software</a>
 
 
