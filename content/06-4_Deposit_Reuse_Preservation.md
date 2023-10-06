@@ -5,11 +5,6 @@ parent: Data Management Plans
 nav_order: 4
 ---
 
-<p style="margin-top:25px">
-<img src="figures/work-in-progress.png" width="600"/>
-</p>
-
-
 # Deposit, Reuse, Preservation
 {: .no_toc}
 
