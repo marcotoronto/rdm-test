@@ -166,7 +166,7 @@ The <a href="https://ethics.gc.ca/eng/policy-politique_tcps2-eptc2_2022.html" ta
 
 It was developed by the three federal research funding agencies: the Canadian Institutes of Health Research (CIHR), the Natural Sciences and Engineering Research Council of Canada (NSERC), and the Social Sciences and Humanities Research Council of Canada (SSHRC). The policy applies to all research involving human participants that is funded by these agencies or conducted under the auspices of institutions that receive agency funding.
 
-Our colleagues at the <href="https://ethics.research.ubc.ca/">UBC Office of Research Ethics</a> oversee the Behavioural and Clinical Research Ethics Boards, and are associated with the Ethics Board at UBC's Okanagan campus, as well as UBC's affiliated teaching hospitals. They provide outstanding support for UBC researchers and students and would be delighted to answer your specific questions. 
+Our colleagues at the <a href="https://ethics.research.ubc.ca/">UBC Office of Research Ethics</a> oversee the Behavioural and Clinical Research Ethics Boards, and are associated with the Ethics Board at UBC's Okanagan campus, as well as UBC's affiliated teaching hospitals. They provide outstanding support for UBC researchers and students and would be delighted to answer your specific questions. 
  
 <br>
 
