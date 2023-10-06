@@ -169,11 +169,6 @@ When it comes to choosing storage resources, researchers at UBC have a range of 
 
 The <a href="https://ethics.gc.ca/eng/policy-politique_tcps2-eptc2_2022.html" target="_blank">Tri-Council Policy Statement: Ethical Conduct for Research Involving Humans – TCPS 2 (2022)</a> is a policy document that provides <u>ethical guidelines and principles for conducting research</u> involving human participants in Canada. 
 
-<p style="margin-top:25px;margin-bottom:25px;margin-left:30px">
-<img src="figures/ethics.jpg" width="200"/>
-</p>
-
-
 It was developed by the three federal research funding agencies: the Canadian Institutes of Health Research (CIHR), the Natural Sciences and Engineering Research Council of Canada (NSERC), and the Social Sciences and Humanities Research Council of Canada (SSHRC). The policy applies to all research involving human participants that is funded by these agencies or conducted under the auspices of institutions that receive agency funding.
  
 <br>
