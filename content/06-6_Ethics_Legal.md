@@ -5,11 +5,6 @@ parent: Data Management Plans
 nav_order: 6
 ---
 
-<p style="margin-top:25px">
-<img src="figures/work-in-progress.png" width="600"/>
-</p>
-
-
 
 # Ethics and Legal Compliance
 {: .no_toc}
