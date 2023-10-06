@@ -159,7 +159,7 @@ When it comes to choosing storage resources, researchers at UBC have a range of 
 
 |Eligibility|FIPPA-Compliant Storage Resources|
 |-|-|
-|Faculty & Staff|Campus Home Drives, TeamShare, Chinook, OneDrive, EduCloud|
+|Faculty & Staff|OneDrive, Home Drives, TeamShare, Chinook, EduCloud|
 |Students|OneDrive|
 
 
