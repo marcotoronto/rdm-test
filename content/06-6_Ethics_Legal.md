@@ -5,7 +5,6 @@ parent: Data Management Plans
 nav_order: 6
 ---
 
-
 # Ethics and Legal Compliance
 {: .no_toc}
 
