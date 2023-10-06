@@ -184,4 +184,4 @@ Reflection
     Does your data contain any sensitive or confidential information? 
     Does your data include any personal identifiers? 
 
-    Reach out to research.data@ubc.ca or to arc.support@ubc.ca to discuss sensitive data sharing.
+    Reach out to <href="mailto:research.data@ubc.ca">research.data@ubc.ca</a> or to <href="mailto:arc.support@ubc.ca">arc.support@ubc.ca</a> to discuss sensitive data sharing.
