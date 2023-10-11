@@ -125,6 +125,14 @@ Data pseudonymization can preserve the linkability and utility of the data. **Li
 
 On the other hand, data anonymization removes any information that can directly or indirectly identify an individual or an entity in a dataset. This means that the data cannot be linked to the original source or to other datasets. 
 
+|Name|Anonymized|Pseudonymized|
+|-|-|-|
+Sally Xi | ANON | P12L25
+Sam Cooper |	ANON	| P38Q27
+Sunil Gupta |	ANON |	P59M16
+Sam Cooper |	ANON |	P38Q27
+Sally Xi |	ANON |	P12L25
+
 <br>
 
 
