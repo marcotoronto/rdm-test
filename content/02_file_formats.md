@@ -76,7 +76,7 @@ Please share your experience in Padlet
 ## What are proprietary formats?
 
 - The file you were trying to open in the warm-up exercise was an older proprietary file that can no longer be opened. This inaccessibility can happen to other proprietary formats like Microsoft Word or Google Docs. 
-- They are limited by software patents, lack of format specification details, or built-in encryption to revent open usage by the public.
+- They are limited by software patents, lack of format specification details, or built-in encryption to prevent open usage by the public.
 <p style="margin-bottom: 20px"></p>
 <img src="figures/encryption.jpg" width="300" style="margin-left:30px"/>
 <p style="margin-bottom: 20px"></p>
