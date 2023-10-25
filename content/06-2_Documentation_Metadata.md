@@ -109,7 +109,7 @@ You can refer to our <a href="https://ubc-library-rc.github.io/rdm/content/03_cr
 <br>
 
 ## Data Dictionary or Codebook
-In addition to the README file, you should **explain how you will define all your variables**.in a data dictionary or codebook. This serves as a reference document that outlines the definitions and characteristics of each variable in your dataset. By clearly defining and documenting your variables, you enable other researchers to understand the structure and meaning of your data, promoting its effective reuse and interpretation. 
+In addition to the README file, you should **explain how you will define all your variables** in a data dictionary or codebook. This serves as a reference document that outlines the definitions and characteristics of each variable in your dataset. By clearly defining and documenting your variables, you enable other researchers to understand the structure and meaning of your data, promoting its effective reuse and interpretation. 
 
 Alternatively, you can *utilize your README file* to provide this information.
 
