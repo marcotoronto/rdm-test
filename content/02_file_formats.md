@@ -144,8 +144,8 @@ Access a dataset:
 
 
 <p style="margin-bottom: 20px"></p>
-<img src="figures/crude-oil.png" width="150" style="margin-left:30px"/> 
-<img src="figures/bottles.jpg" width="150"/>
+<img src="figures/crude-oil.png" width="200" style="margin-left:35px"/> 
+<img src="figures/bottles.jpg" width="200"/>
 <p style="margin-bottom: 20px"></p>
 
 Download one Excel ( .xls) file and convert it to CSV.
