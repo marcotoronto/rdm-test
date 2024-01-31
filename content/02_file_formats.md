@@ -140,11 +140,11 @@ In addition to choosing between open and proprietary formats, file quality, the 
 Please help us to preserve datasets for the long term.
   
 Access a dataset:  
->Yarmand,Shahram, 2019, "Replication data for: Stochastic and Deterministic Modeling of the Future Price of Crude oil and Bottled Water", <a href="https://doi.org/10.5683/SP3/NX3LZ9" target="_blank">https://doi.org/10.5683/SP3/NX3LZ9</a>, Borealis, V1
+>Yarmand,Shahram, 2019, "Replication data for: Stochastic and Deterministic Modeling of the Future Price of Crude oil and Bottled Water", <a href="https://doi.org/10.5683/SP2/VPF8J8" target="_blank"> https://doi.org/10.5683/SP2/VPF8J8</a>, Borealis, V1
 
 
 <p style="margin-bottom: 20px"></p>
-<img src="figures/crude-oil.png" width="200" style="margin-left:35px"/> 
+<img src="figures/crude-oil.png" width="200" style="margin-left:40px"/> 
 <img src="figures/bottles.jpg" width="200"/>
 <p style="margin-bottom: 20px"></p>
 
