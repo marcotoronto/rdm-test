@@ -120,7 +120,7 @@ These key components should be considered to create a meaningful DMP:
 3. [Storage and Backup](06-3_Storage_Backup.md)
 4. [Deposit, Resue, Preservation](06-4_Deposit_Reuse_Preservation.md)
 5. [Responsibilities and Resources](06-6_Responsibilities_Resources.md)
-6. [Ethcis and Legal Compliance](06-7_Ethics_Legal.md)
+6. [Ethics and Legal Compliance](06-7_Ethics_Legal.md)
 
 
 
