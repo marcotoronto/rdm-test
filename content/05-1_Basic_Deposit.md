@@ -140,9 +140,9 @@ You can upload files now:
 <p style="margin-bottom:25px; margin-left:30px">
 <img src="figures/dataset_file_upload.png" width="500"/></p>
 
-<b>Max file size: 3Gb</b>. If your files are too large, try putting them into a Zip file(s), or contact `research.data@ubc.ca` for help.
+<b>Max file size: 5Gb</b>. If your files are too large, try putting them into a Zip file(s), or contact `research.data@ubc.ca` for help.
 
-By default, the software will unzip your directory upon upload. If you want to preserve directory structure, you can <b>double-zip</b> that directory before uploading.
+By default, the software will unzip your directory upon upload. If you want to preserve the directory structure, you can <b>double-zip</b> that directory before uploading.
 {: .note }
 
 <b>Describe the files</b>: Title, Description, Tags. Remember that people can’t use your data if they don’t know what it is!
@@ -157,7 +157,7 @@ By default, the software will unzip your directory upon upload. If you want to p
 
 
 Depending on your user permissions, you will have a button for either:
-- `Submit for Review` (the draft dataset is re-viewed by a research data admins)
+- `Submit for Review` (the draft dataset is reviewed by a research data admins)
 - `Publish` (makes the dataset publicly available)
 
 Once a dataset is published, Dataverse assigns a **DOI** to permanently identify the dataset.  
