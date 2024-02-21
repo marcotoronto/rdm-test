@@ -81,7 +81,7 @@ You should aim for concise but descriptive file names, a consistent naming syste
 <img src="figures/file_names.png" width="300"/>
 </p>
 
-You can consult the <a href="01_file_naming.md" target="_blank">File Naming workshop</a> for valuable recommendations and best practices.
+You can consult the <a href="https://ubc-library-rc.github.io/rdm/content/01_file_naming.html" target="_blank">File Naming workshop</a> for valuable recommendations and best practices.
 {: .note }
 
 ### Version Control

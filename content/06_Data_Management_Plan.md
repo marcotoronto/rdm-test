@@ -32,7 +32,7 @@ Looking for a cheat sheet? Check out our <a href="https://osf.io/wmh5n" target="
 <img src="figures/document.png" width="250"/> </p> 
 
 
-<a href="https://science.gc.ca/site/science/en/interagency-research-funding/policies-and-guidelines/research-data-management/tri-agency-research-data-management-policy">The Tri-Agency Research Data Management Policy</a> states that: "All grant proposals submitted to the agencies should include methodologies that reflect best practices in RDM (Research Data Management). For certain funding opportunities (listed below), the agencies will *require data management plans (DMPs)* to be submitted to the appropriate agency at the time of application, as outlined in the call for proposals; in these cases, the DMPs will be considered in the adjudication process."
+<a href="https://science.gc.ca/site/science/en/interagency-research-funding/policies-and-guidelines/research-data-management/tri-agency-research-data-management-policy" target="_blank">The Tri-Agency Research Data Management Policy</a> states that: "All grant proposals submitted to the agencies should include methodologies that reflect best practices in RDM (Research Data Management). For certain funding opportunities (listed below), the agencies will *require data management plans (DMPs)* to be submitted to the appropriate agency at the time of application, as outlined in the call for proposals; in these cases, the DMPs will be considered in the adjudication process."
 
 ## Funding requiring DMPs
 
@@ -83,7 +83,7 @@ Remember that your DMP is a living document that should be **developed at the ve
 ## DMP Assistant in Canada
 {: .no_toc}
 
-To create your DMP, please use <span class="fs-3" align="center"> <a href="https://assistant.portagenetwork.ca" target="_blank"><u>DMP Assistant</u></a>{: .btn .btn-purple }</span>. 
+To create your DMP, please use <span class="fs-3" align="center"> <a href="https://assistant.portagenetwork.ca" target="_blank"><u>DMP Assistant</u></a>{: .btn .btn-blue }</span>. 
 
 This is a free, open-source Canadian tool created by the Portage network (now The Digital Research Alliance of Canada) for preparing DMPs. It is available in *both English and French* and allows you to create and export your DMP. 
 

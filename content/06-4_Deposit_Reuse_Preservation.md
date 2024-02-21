@@ -80,7 +80,7 @@ For guidance on preferred file formats, you can refer to our <a href="https://ub
 <br>
 
 ## Data Repositories
-Storing your data in a repository like <a href="https://researchdata.library.ubc.ca/deposit/dataverse/">Borealis</a> makes it easy for other researchers, publishers, and collaborators to find, use, and cite your data. It supports the Open Science movement goals of transparency, accessibility, and collaboration, and can increase attention to your work.
+Storing your data in a repository like <a href="https://researchdata.library.ubc.ca/deposit/dataverse/" target="_blank">Borealis</a> makes it easy for other researchers, publishers, and collaborators to find, use, and cite your data. It supports the Open Science movement goals of transparency, accessibility, and collaboration, and can increase attention to your work.
 
 <p style="margin-top:25px;margin-bottom:30px; margin-left:30px">
 <img src="figures/compressed-files.png" width="150"/> </p> 
@@ -162,7 +162,7 @@ Please ensure that you include PIDs for the data (and software) in your citation
 </p>
 
 
-Some repositories might use <a href="https://www.handle.net/">handles</a> or <a href="https://arks.org/">ARKs</a> as persistent identifiers for datasets. However, DOIs are preferred as they are also an XML-based metadata package that makes the datasets as discoverable as possible with the widely accepted DataCite metadata schema.
+Some repositories might use <a href="https://www.handle.net/">handles</a> or <a href="https://arks.org/" target="_blank">ARKs</a> as persistent identifiers for datasets. However, DOIs are preferred as they are also an XML-based metadata package that makes the datasets as discoverable as possible with the widely accepted DataCite metadata schema.
 
 <p style="margin-top:25px"></p>
 

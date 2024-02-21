@@ -43,7 +43,7 @@ They should also ensure that they comply with any applicable <u>privacy legislat
 
 ## Sensitive Data 
 
-Sensitive data is data that should not be shared in the public domain without additional consideration. Our colleagues at the UBC Advanced Research Computing have an excellent <a href="https://arc.ubc.ca/sharing-research-data">guide</a> to sensitive data. This might include trade secrets, medical information, commercial information, preliminary analysis, third-party data, and some geospatially linked data. Sensitive research data requires careful handling and protection, and often is not suitable for open sharing. However, there may be ways to share sensitive research data legally and ethically, such as anonymizing, aggregating, or restricting access to the data.
+Sensitive data is data that should not be shared in the public domain without additional consideration. Our colleagues at the UBC Advanced Research Computing have an excellent <a href="https://arc.ubc.ca/sharing-research-data" target="_blank">guide</a> to sensitive data. This might include trade secrets, medical information, commercial information, preliminary analysis, third-party data, and some geospatially linked data. Sensitive research data requires careful handling and protection, and often is not suitable for open sharing. However, there may be ways to share sensitive research data legally and ethically, such as anonymizing, aggregating, or restricting access to the data.
 
 <p style="margin-top:25px;margin-left:30px">
 <img src="figures/privacy-please.jpg" width="300"/>
@@ -53,7 +53,7 @@ In order to ensure you are handling data in an ethical manner, you should:
 
 - evaluate the anonymity of your data
 - obtain a confidential review (from a data repository admin)
-- comply with <a href="https://arc.ubc.ca/sharing-research-data">institutional regulations</a> (e.g. those of your institution's research ethics board)
+- comply with <a href="https://arc.ubc.ca/sharing-research-data" target="_blank">institutional regulations</a> (e.g. those of your institution's research ethics board)
 - comply with other regulations (e.g. HIPAA, BREB)
 - have informed consent for data sharing
 - restrict use of confidential data
@@ -174,7 +174,7 @@ The <a href="https://ethics.gc.ca/eng/policy-politique_tcps2-eptc2_2022.html" ta
 
 It was developed by the three federal research funding agencies: the Canadian Institutes of Health Research (CIHR), the Natural Sciences and Engineering Research Council of Canada (NSERC), and the Social Sciences and Humanities Research Council of Canada (SSHRC). The policy applies to all research involving human participants that is funded by these agencies or conducted under the auspices of institutions that receive agency funding.
 
-Our colleagues at the <a href="https://ethics.research.ubc.ca/">UBC Office of Research Ethics</a> oversee the Behavioural and Clinical Research Ethics Boards, and are associated with the Ethics Board at UBC's Okanagan campus, as well as UBC's affiliated teaching hospitals. They provide outstanding support for UBC researchers and students and would be delighted to answer your specific questions. 
+Our colleagues at the <a href="https://ethics.research.ubc.ca/" target="_blank">UBC Office of Research Ethics</a> oversee the Behavioural and Clinical Research Ethics Boards, and are associated with the Ethics Board at UBC's Okanagan campus, as well as UBC's affiliated teaching hospitals. They provide outstanding support for UBC researchers and students and would be delighted to answer your specific questions. 
  
 <br>
 
