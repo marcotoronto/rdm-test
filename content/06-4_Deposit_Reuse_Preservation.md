@@ -25,7 +25,7 @@ Remember <a href="https://ubc-library-rc.github.io/rdm/content/06-2_Documentatio
 
 ## Why deposit data?
 
-Storing your data in a repository like <a href="https://researchdata.library.ubc.ca/deposit/dataverse/">Borealis</a> makes it easy for other researchers, publishers, and collaborators to find, use, and cite your data. It supports the Open Science movement goals of transparency, accessibility, and collaboration, and can increase attention to your work.
+Storing your data in a repository like <a href="https://researchdata.library.ubc.ca/deposit/dataverse/" target="_blank">Borealis</a> makes it easy for other researchers, publishers, and collaborators to find, use, and cite your data. It supports the Open Science movement goals of transparency, accessibility, and collaboration, and can increase attention to your work.
 
 Moreover, the Tri-Agency in Canada (NSERC, CIHR, SSHRC) have introduced <a href="https://bit.lv/2H3mGLv" target="_blank">a policy</a> requiring some grant recipients to deposit their project data in a repository.
 
