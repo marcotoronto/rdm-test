@@ -24,23 +24,25 @@ Data sets that explicitly contain some sort of precision location elements are o
 
 For data sets containing geospatial data, data management is slightly more complex than an [ordinary data deposit](05-1_Basic_Deposit.md), but hopefully not overwhelmingly so. The general principles are the same, but there are a few wrinkles unique to geospatial data.
 
-If you can map your data, it's (probably) geospatial data.
+In short, if you can map your data, it's (probably) geospatial data.
 
 ## Dataset Metadata
 
-Geospatial data may require a bit of extra attention to make it more useful and findable. The first steps are identical to the [basic deposit](05_1_Basic_Deposit.md), but there are few extra steps.
+Geospatial data may require a bit of extra attention to make it more useful and findable. The first steps are identical to the [basic deposit](05_1_Basic_Deposit.md), but it continues on from there.
 
-Once you've done the initial step of creating your dataset page, you'll need to enhance it by selecting **Edit Dataset/Metadata**. Once you've done this, you'll see that there are many more fields that you can fill in. In an ideal world, you would fill in as many as you can in as much detail as you can, but for geospatial data there is one section of particular importance, the **Geospatial Metadata** block.
+Once you've done the initial step of creating your dataset page, you'll need to enhance it by selecting **Edit Dataset/Metadata**. Once you've done this, you'll see that there are many more fields that you can fill in. In an ideal world, you would fill in as many as you can in as much detail as you can, but for geospatial data there is one section of particular importance, unsurprisingly titled the **Geospatial Metadata** block.
 
 For geospatial data sets, it's crucial to identify the region your data represents, as that's one of the most important reasons for its existence. In addition to describing your data set, this block also allows people to search for your data set using a map in places that harvests your dataset's metadata, such as at <https://www.lunaris.ca/>.
 
-The geospatial metadatablock has repeating fields, and you should fill out their contents as completely as possible. The fields are repeating, so if you have files which describe different locations you can do that too.
+The geospatial metadata block has repeating fields, and you should fill out their contents as completely as possible. The fields are repeating, so if you have files which describe different locations you can do that too. Here is an overview of the options available in the geospatial metadata block.
 
 ### Geographic coverage
-This is relatively straightforward. Fill in this block to the smallest level you can. For example, if your data represents British Columbia, you would fill out:
+
+This is relatively straightforward. Fill in this block to the most detailed level you can using the existing options. For example, if your data represents British Columbia, you would fill out:
 
 * Country: Canada
 * State/Province: British Columbia
+
 
 ### Geographic Unit
 
@@ -48,9 +50,9 @@ This represents the *smallest* unit available in your geospatial file(s). For ex
 
 ### Geographic Bounding Box
 
-If you have this information, this is the most crucial field to fill out.  Entries in these fields are in are in decimal degrees, which is  *not necessarily* the units of the geospatial file, which is often metres when using projected data. The values to use are the bounds for the extent of the file or data set.
+If you have this information, this is the most crucial field to fill out.  Entries in these fields are in are in decimal degrees, which are *not necessarily* the units of the geospatial file. For example, projected data often uses metres, which is not suitable for entry here. The values to use are the bounds for the extent of the file or data set.
 
-Obviously, this section can only be filled out if you are using the Earth for your data. If you're mapping the geology of Mars, then these fields can't be filled out. Well, they can, but it won't necessarily make any sense.
+Obviously, this section can only be filled out if you are using the Earth for your data. If you're mapping the geology of Mars, then these fields can't be filled out. Well, they can, but it won't necessarily make any sense, because most finding aids that use this data assume that they refer to the Earth.
 
 ### Notes
 
@@ -68,19 +70,19 @@ For geospatial data, all of the concepts outlined in [how to create a README fil
 
 1. Make sure that *all* of the attributes of your vector data are clearly defined in a data dictionary. Each column in an attribute table should have a corresponding entry in your README's data dictionary, even if it appears obvious. 
 
-2. Define all abbreviations. While it may seem that NDVI, NIR, and GLONASS are obvious, to researchers and others outside your field they may not be. When using abbreviations, clearly define the first instance of use: eg. NIR (near infrared).
+2. Define all abbreviations. While it may seem that NDVI, NIR, and GLONASS are obvious, to researchers and others outside your field they may not be. When using abbreviations, clearly define them the first time they are used: eg. NIR (near infrared).
 
 3. Include projection information for each geospatial data file; do not assume that other users will access your data with GIS software.
 
 4. Geospatial data is widely used because it's easy to map, so knowing how and when it can be used is very important. Make sure to include licence information inside your README.
 
-A good way to think about what you should include in your README file is to imagine that someone has sent you some data that you have never seen before, on a topic that you know only a little about. Think about what is required to understand it fully, to use it for analysis, what are any restrictions for publication, and how to cite it. Your documentation should answer all of those questions.
+A good way to think about what you should include in your README file is to imagine that someone has sent you some data that you have never seen before, on a topic that you know only a little about. Think about what is required to understand it fully, to use it for analysis, what any restrictions for publication are, and how to cite it. Your documentation should answer all of those questions.
 
-**The importance of a README for geospatial cannot be overstated**. Describe as much as you can in as much detail as you can. It not only help others, it will help you when you inevitably return to the data set six weeks, six months or six years down the line. **If your README does not contain sufficient information, your study will be returned to you by the data curators until it does**.
+**The importance of a README for geospatial cannot be overstated**. Describe as much as you can in as much detail as you can. It not only help others, it will help _you_ when you inevitably return to the data set six weeks, six months or six years down the line. **If your README does not contain sufficient information, your study will be returned to you by the data curators until it does**.
 
 Of course, if you really want to have excellent documentation, you could include everything that's required for [ISO-19115 or FGDC metadata standards](https://www.fgdc.gov/metadata/iso-standards). Geospatial metadata is very complex and there are a variety of editors you can use to help you with it if you decide to have this style of metadata.
 
-ISO-style metadata is often in the form of an XML file with the same name as a shapefile. If you have XML metadata of this type, you can either store it with the data itself or separately, according to your preference. You ahould make sure that the README indicates this.
+ISO-style metadata is often in the form of an XML file with the same name as a shapefile. If you have XML metadata of this type, you can either store it with the data itself or separately, according to your preference. You should make sure that the README indicates this.
 
 ## Types of Geospatial Data Files
 
@@ -92,7 +94,7 @@ Generally speaking, geospatial data comes in two flavours:
 
 ### Considerations for Geospatial Data
 
-Like other kinds of data, geospatial data comes in a wide variety of formats. For preservation purposes, open standards are preferred. However, because some formats are proprietary because they're designed to work with a certain type of data, this is not always possible.
+Like other kinds of data, geospatial data comes in a wide variety of formats. For preservation purposes, open standards are preferred. However, if you must use a proprietary format, consider using one that is well supported that doesn't require proprietary software.
 
 In addition, because of the complexity of geospatial data or because of data storage formats, it's not always possible to store data in a single file. Where it's not possible to store everything in one file, consider compressing the files into a single file.
 
@@ -107,11 +109,11 @@ This would seem to disqualify it as a useful format for data deposits. However, 
 
 There are very many types of geospatial data files and it would be fruitless to discuss them all. The formats discussed below are listed because of one or more of the following:
 
-* common file formats
-* ease of preservation
-* open standard
+* Common file formats
+* Ease of preservation
+* Open standard
 
-While these data types may be _preferable_ for inclusion into UBC's collections, the needs of research come first. It is better to use a different, less common file format than to use something not suitable. For a look at the vast variety of formats available for geospatial data, have a look at these non-exhaustive lists for [vector](https://gdal.org/drivers/vector/index.html) and [raster](https://gdal.org/drivers/raster/index.html) data formats.
+While these data types may be _preferable_ for inclusion into UBC's collections, the needs of research come first. It is better to use a different, less common file format than to use another which leads to data loss. For a look at the vast variety of formats available for geospatial data, have a look at these non-exhaustive lists for [vector](https://gdal.org/drivers/vector/index.html) and [raster](https://gdal.org/drivers/raster/index.html) data formats.
 
 ### Vector Formats
 
@@ -162,7 +164,7 @@ While these data types may be _preferable_ for inclusion into UBC's collections,
 **Advantages**
 
 * As Geopackage
-* Spatial queries are easir
+* Spatial queries are easier than Geopackages
 
 **Disadvantages**
 
@@ -221,7 +223,7 @@ GeoTIFFs are the _de facto_ standard for image distribution
 
 ### Combined Formats
 
-Databases can (usually) store *both* vector and raster formats simultaneously. They have the the advantages of both spatial files plus the SQL features of a database, which makes them very nice to work with.
+Databases can (usually) store *both* vector and raster formats simultaneously. They have the advantages of both spatial files plus the SQL features of a database, which makes them very nice to work with.
 
 #### Esri File Geodatabase
 
@@ -258,11 +260,11 @@ Because a geospatial data "file" is often comprised of more than actually one fi
 There are a few options
 
 1. Compressing everything into a single file.
-
-**This is least desirable option.** It is simple (ie, you've just zipped up a whole directory), but it has many disadvantages. It can't be easily preserved and it can't be previewed. Contents are difficult, if not impossible, to describe in the file metadata section. Users must download everything at once, even if they don't want to.
-
+    
+    **This is least desirable option.** It is simple (ie, you've just zipped up a whole directory), but it has many disadvantages. It can't be easily preserved and it can't be previewed. Contents are difficult, if not impossible, to describe in the file metadata section. Users must download everything at once, even if they don't want to.
+    
 2. Compressing single files while retaining the relative hierarchy within the compressed file. For example, you have a file like this:
-```
+    ```
 .
 └── Data
     └── Specialized Data
@@ -272,13 +274,15 @@ There are a few options
          ├── appropriately_named_file.shp
          └── appropriately_named_file.shx
 ```
+    
+    You can compress this, retaining the directory structure (perhaps as `appropriately_named_files_shp.zip`). When downloaded and uncompressed, the intermediate directories will be automatically created.
+        
+    
+3. Instead of the example above, you can descend to the "Specialized Data" directory and compress the files with no directory structure. Instead of keeping the hierarchy in the compressed file, you would instead add it to the **File Path** metadata. This means if users download the file and uncompress it, there would be no included directory structure, ie `appropriately_named_file.shp` and its companions would be wherever the user wanted.
 
-You can compressed this, retaining the directory structure (perhaps as `appropriately_named_files_shp.zip`). When downloaded and uncompressed, the intermediate directories will be automatically created. 
+    If the user decided to download all the files in the study as a zip file (by selecting multiple files and downloading), the result, when the end user unzipped the download would be:
 
-3. Instead of the example above, you can descend to the "Specialized Data" directory and compress the files with no directory structure. Instead of keeping the hierarchy in the compressed file, you would instead add it to the **File Path** metadata. This means if users download the file and uncompress it, there would be no included directory structure, ie `appropriately_named_file.shp` and its companions would be wherever the user wanted. 
-
-If the user decided to download all the files in the study as a zip file (by selecting multiple files and downloading), the result, when the end user unzipped that file would be:
-```
+    ```
 .
 └── Data
     └── Specialized Data
@@ -287,7 +291,7 @@ If the user decided to download all the files in the study as a zip file (by sel
 
 Of course, if you have no hierarchical structure, this doesn't really matter.
 
-Neither of these approaches is better than the other. If your data set requires a particular structure **you should note that in the README file**.
+None of these approaches is better than the other. If your data set requires a particular structure **you should note that in the README file**.
 
 ---
   
@@ -297,7 +301,7 @@ Because you are normally concerned with a *data* upload, normally you would *not
 
 Now that you've documented, cleaned, and compressed your data and got it ready to go, it's time to upload. You'd think this part would be straightforward!
 
-The [Basic Deposit](05-1_Basic_Deposit.md) section of this guide mentioned zipfiles, double-zipping, and other strategies. Naturally these all go out the window when working with shapefiles. In essence, you *don't* have to double-zip shapefiles, or even _groups_ of shapefiles. For more details on how this works, please have a look at [How Dataverse Ingests Shapefiles](https://borealisdata.ca/guides/en/latest/developers/geospatial.html). Machine processing can introduce unexpected errors, though. For best results consider structuring shapefiles as noted above.
+The [Basic Deposit](05-1_Basic_Deposit.md) section of this guide mentioned zipfiles, double-zipping, and other strategies. Naturally these all go out the window when working with shapefiles. In essence, you *don't* have to double-zip shapefiles, or even _groups_ of shapefiles. For more details on how this works, please have a look at [How Dataverse Ingests Shapefiles](https://borealisdata.ca/guides/en/latest/developers/geospatial.html). Machine processing can introduce unexpected errors, though. For best results consider structuring shapefiles as noted above. If you're not getting what you want, force what you want by double-zipping your shape files. 
 
 For other common formats:
 
@@ -311,4 +315,3 @@ See, straightforward!
 ## Getting Help with Geospatial Data Deposits
 
 If you've gotten this far, you've already noticed that this section is much longer than the others, and it's just the "basic" guide. If you have questions, don't hesitate to [contact us for help](mailto:research.data@ubc.ca).
-
