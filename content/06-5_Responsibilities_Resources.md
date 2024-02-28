@@ -83,4 +83,4 @@ Data management and long-term access require adequate resources and costs that n
 
 Need help?
 {: .label .label-blue }
-  `More questions regarding responsibilities and resources? Reach out to `arc.support@ubc.ca` or `research.data@ubc.ca` for help.
+  More questions regarding responsibilities and resources? Reach out to `arc.support@ubc.ca` or `research.data@ubc.ca` for help.
