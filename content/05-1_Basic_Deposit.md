@@ -204,9 +204,6 @@ Admin assistance is needed to un-publish a dataset, so be sure before Submitting
 <br>
 
 
-Need personalized help? Please reach out to `research.data@ubc.ca` for assistance with any of your data deposit questions.
-{: .note } 
-
 
 # Congrats!
 {: .no_toc }
