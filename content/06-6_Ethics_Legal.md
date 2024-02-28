@@ -179,7 +179,7 @@ Our colleagues at the <a href="https://ethics.research.ubc.ca/" target="_blank">
 <br>
 
 Reflection
-{: .label label-blue }
+{: .label label-green}
     Does your data comply with FIPPA requirements? 
     Does your data contain any sensitive or confidential information? 
     Does your data include any personal identifiers? 
