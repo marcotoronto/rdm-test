@@ -28,9 +28,3 @@ You can find and **sign up** for scheduled Data Bites workshops <a href="http://
 <p style="margin-top:90px"></p>
 
 <p style="color:grey; font-size:11px">This workshop series was developed by Billie Hu and Eugene Barsky.</p>
-
----
-
-Need help?
-{: .label .label-blue }
-  Please reach out to `research.data@ubc.ca` for assistance with any of your research data questions.
