@@ -49,9 +49,9 @@ On the main page for the Dataverse collection you want to customize, click the `
 <br>
 
 <a style="font-size:17px">
-### General Information 
+### General Information </a>
 {: .label .label-yellow }
-</a>
+
 
 <p style="margin-top:15px"></p>
 
