@@ -48,9 +48,10 @@ On the main page for the Dataverse collection you want to customize, click the `
 
 <br>
 
-
-### <a style="font-size:17px">General Information</a>
+<a style="font-size:17px">
+### General Information 
 {: .label .label-yellow }
+</a>
 
 <p style="margin-top:15px"></p>
 
@@ -97,7 +98,7 @@ If you want to display your Dataverse collection or dataset on your personal or 
 <img src="figures/borealis-listing-widget.png" width="550"/> </p> 
 
 How to get the widget code?
-{: .label .label-blue }
+{: .label .label-green }
 
 1. Go to the main page of a published Dataverse collection or dataset,
 2. `Edit` > `Theme & Widgets` or `Thumbnail & Widgets`> `Widgets` tab,
