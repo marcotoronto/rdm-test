@@ -197,7 +197,11 @@ Once you create a Guestbook, when a user attempts to download a dataset, a popup
 
 <br>
 
+---
 
+Need help?
+{: .label .label-blue }
+  Please reach out to `research.data@ubc.ca` for assistance with any of your research data questions.
 
 
 

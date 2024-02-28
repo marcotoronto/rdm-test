@@ -99,3 +99,9 @@ There are many tools for aiding researchers with version control. These tools va
 </p>
 
 By addressing these considerations in your research data management plan, you can ensure that your data collection process is well-documented, standardized, and facilitates efficient data organization and future utilization.
+
+---
+
+Need help?
+{: .label .label-blue }
+  Please reach out to `research.data@ubc.ca` for assistance with any of your research data questions.

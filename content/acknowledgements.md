@@ -10,3 +10,9 @@ The workshop content is available by UBC Library Research Commons under a [Creat
 The [workshop site](https://ubc-library-rc.github.io/rdm/) uses the [Just the Docs](https://github.com/pmarsceill/just-the-docs) Jekyll theme.
 
 
+---
+
+Need help?
+{: .label .label-blue }
+  Please reach out to `research.data@ubc.ca` for assistance with any of your research data questions.
+

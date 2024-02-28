@@ -122,7 +122,11 @@ These key components should be considered to create a meaningful DMP:
 5. [Responsibilities and Resources](06-6_Responsibilities_Resources.md)
 6. [Ethics and Legal Compliance](06-7_Ethics_Legal.md)
 
+---
 
+Need help?
+{: .label .label-blue }
+  Please reach out to `research.data@ubc.ca` for assistance with any of your research data questions.
 
 
 

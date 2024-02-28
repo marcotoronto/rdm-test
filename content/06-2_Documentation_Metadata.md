@@ -127,3 +127,9 @@ You have finished the documentation section! Please also make sure you record me
 <img src="figures/thumb-success.jpg" width="150"/>
 </p>
   
+
+---
+
+Need help?
+{: .label .label-blue }
+  Please reach out to `research.data@ubc.ca` for assistance with any of your research data questions.

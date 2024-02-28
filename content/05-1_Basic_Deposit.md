@@ -217,5 +217,9 @@ Now you know how to deposit your dataset in a **Demo** UBC Dataverse Collection!
 
 Want to learn more details about data deposits in the UBC Dataverse collection? You are qualified for the [Advanced Deposit workshop](05-2_Advanced_Deposit.md) now!
 
+---
 
+Need help?
+{: .label .label-blue }
+  Please reach out to `research.data@ubc.ca` for assistance with any of your research data questions.
 

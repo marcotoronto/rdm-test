@@ -185,3 +185,10 @@ Reflection
     Does your data include any personal identifiers? 
 
     Reach out to research.data@ubc.ca or arc.support@ubc.ca to discuss sensitive data sharing.
+
+
+---
+
+Need help?
+{: .label .label-blue }
+  Please reach out to `research.data@ubc.ca` for assistance with any of your research data questions.

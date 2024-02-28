@@ -166,3 +166,9 @@ For comprehensive guidance on security and privacy planning for research at UBC,
 </p>
 
 By addressing these aspects and incorporating them into your data management plan, you can ensure the efficient and secure handling of your research data from storage and collaboration to backup and security measures.
+
+---
+
+Need help?
+{: .label .label-blue }
+  Please reach out to `research.data@ubc.ca` for assistance with any of your research data questions.

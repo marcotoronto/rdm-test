@@ -98,3 +98,10 @@ The OCAP® Principles of data governance outline how to interact with First Nati
     First Nations retain physical control of the data.
 
 OCAP® certifications are available through the First Nations Information Governance Centre (FNIGC). OCAP® is a registered trademark of the FNIGC.
+
+
+---
+
+Need help?
+{: .label .label-blue }
+  Please reach out to `research.data@ubc.ca` for assistance with any of your research data questions.

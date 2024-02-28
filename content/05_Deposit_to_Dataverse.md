@@ -31,4 +31,10 @@ UBC Library can create a Dataverse setup for your research group where you can a
 <iframe width="560" height="315" src="https://www.youtube.com/embed/avjAsnYVZrY" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 </p>
 
+---
+
+Need help?
+{: .label .label-blue }
+  Please reach out to `research.data@ubc.ca` for assistance with any of your research data questions.
+
 
