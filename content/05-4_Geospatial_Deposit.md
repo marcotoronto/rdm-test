@@ -265,15 +265,15 @@ There are a few options
     
 2. Compressing single files while retaining the relative hierarchy within the compressed file. For example, you have a file like this:
     ```
-.
-└── Data
-    └── Specialized Data
-         ├── appropriately_named_file.dbf
-         ├── appropriately_named_file.prj
-         ├── appropriately_named_file.qpj
-         ├── appropriately_named_file.shp
-         └── appropriately_named_file.shx
-```
+    .
+    └── Data
+        └── Specialized Data
+             ├── appropriately_named_file.dbf
+             ├── appropriately_named_file.prj
+             ├── appropriately_named_file.qpj
+             ├── appropriately_named_file.shp
+             └── appropriately_named_file.shx
+    ```
     
     You can compress this, retaining the directory structure (perhaps as `appropriately_named_files_shp.zip`). When downloaded and uncompressed, the intermediate directories will be automatically created.
         
@@ -283,11 +283,11 @@ There are a few options
     If the user decided to download all the files in the study as a zip file (by selecting multiple files and downloading), the result, when the end user unzipped the download would be:
 
     ```
-.
-└── Data
-    └── Specialized Data
-         └── appropriately_named_file_shp.zip
-```
+    .
+    └── Data
+        └── Specialized Data
+             └── appropriately_named_file_shp.zip
+    ```
 
 Of course, if you have no hierarchical structure, this doesn't really matter.
 
