@@ -20,7 +20,7 @@ In your research data management plan, it's important to explain various aspects
 </details>
 
 ---
-## Data Type & File Formarts
+## Data Type & File Formats
 
 First, describe the *type of data* you will collect, such as text, images, audio, or scans. 
 
