@@ -198,3 +198,8 @@ Your DMP looks so much better with your plan to deposit, reuse, preserve the dat
 {: .no_toc }
 - <https://researchdatamanagement.harvard.edu/best-practices-citation-authorship>
 
+---
+
+Need help?
+{: .label .label-blue }
+  Please reach out to `research.data@ubc.ca` for assistance with any of your research data questions.

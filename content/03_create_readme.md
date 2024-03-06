@@ -166,3 +166,9 @@ You are now ready to write up a good README file so other researchers can unders
 - GitHub Basic Writing and Formatting Syntax. <https://bit.ly/2y7c4dZ>
 - <https://pixabay.com>
 - <https://www.pexels.com>
+
+---
+
+Need help?
+{: .label .label-blue }
+  Please reach out to `research.data@ubc.ca` for assistance with any of your research data questions.

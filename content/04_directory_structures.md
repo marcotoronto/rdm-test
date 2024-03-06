@@ -204,3 +204,9 @@ You know how to create structured directories for files now! Go ahead and organi
 - Copeland, C., Pither, J., Vis-Dunbar, M. (2021). Procedures and Guidelines. <https://ubco-biology.github.io/Procedures-and-Guidelines/>
 - <https://pixabay.com>
 - <https://www.pexels.com>
+
+---
+
+Need help?
+{: .label .label-blue }
+  Please reach out to `research.data@ubc.ca` for assistance with any of your research data questions.

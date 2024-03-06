@@ -179,3 +179,9 @@ Now you know which file formarts are proper for data curation so your research d
 - <https://www.loc.gov/preservation/resources/rfs>
 - <https://pixabay.com>
 - <https://www.pexels.com>
+
+---
+
+Need help?
+{: .label .label-blue }
+  Please reach out to `research.data@ubc.ca` for assistance with any of your research data questions.

@@ -95,7 +95,13 @@ There are many tools for aiding researchers with version control. These tools va
 {: .no_toc}
 
 <p style="margin-top:25px">
-<img src="figures/congrats.jpg" width="300" style="margin-left:30px"/>
+<img src="figures/congrats-2.jpg" width="300" style="margin-left:30px"/>
 </p>
 
 By addressing these considerations in your research data management plan, you can ensure that your data collection process is well-documented, standardized, and facilitates efficient data organization and future utilization.
+
+---
+
+Need help?
+{: .label .label-blue }
+  Please reach out to `research.data@ubc.ca` for assistance with any of your research data questions.

@@ -179,9 +179,16 @@ Our colleagues at the <a href="https://ethics.research.ubc.ca/" target="_blank">
 <br>
 
 Reflection
-{: .label label-blue }
+{: .label label-green}
     Does your data comply with FIPPA requirements? 
     Does your data contain any sensitive or confidential information? 
     Does your data include any personal identifiers? 
 
     Reach out to research.data@ubc.ca or arc.support@ubc.ca to discuss sensitive data sharing.
+
+
+---
+
+Need help?
+{: .label .label-blue }
+  Please reach out to `research.data@ubc.ca` for assistance with any of your research data questions.

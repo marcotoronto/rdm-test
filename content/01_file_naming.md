@@ -224,3 +224,9 @@ Now you know how to organize files with your own file naming conventions! As lon
 - <http://www.exadox.com/en/articles/file-naming-convention-ten-rules-best-practice>
 - <https://datamanagement.hms.harvard.edu/collect/file-naming-conventions>
 - <https://pixabay.com>
+
+---
+
+Need help?
+{: .label .label-blue }
+  Please reach out to `research.data@ubc.ca` for assistance with any of your research data questions.

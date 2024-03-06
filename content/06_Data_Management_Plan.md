@@ -83,7 +83,7 @@ Remember that your DMP is a living document that should be **developed at the ve
 ## DMP Assistant in Canada
 {: .no_toc}
 
-To create your DMP, please use <span class="fs-3" align="center"> <a href="https://assistant.portagenetwork.ca" target="_blank"><u>DMP Assistant</u></a>{: .btn .btn-blue }</span>. 
+To create your DMP, please use <span class="fs-3" align="bottom"> <a href="https://assistant.portagenetwork.ca" target="_blank"><u>DMP Assistant</u></a>{: .btn .btn-blue }</span>. 
 
 This is a free, open-source Canadian tool created by the Portage network (now The Digital Research Alliance of Canada) for preparing DMPs. It is available in *both English and French* and allows you to create and export your DMP. 
 
@@ -122,7 +122,11 @@ These key components should be considered to create a meaningful DMP:
 5. [Responsibilities and Resources](06-6_Responsibilities_Resources.md)
 6. [Ethics and Legal Compliance](06-7_Ethics_Legal.md)
 
+---
 
+Need help?
+{: .label .label-blue }
+  Please reach out to `research.data@ubc.ca` for assistance with any of your research data questions.
 
 
 

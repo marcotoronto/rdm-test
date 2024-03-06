@@ -217,6 +217,11 @@ You are an expert in data deposit in the UBC Dataverse collection now!
 
 If you need have more options to customize and control the way your Dataverse collections look and act, you need to know more! Check out our <a href="05-3_Admin_Access.md" target="_blank">Admin Access in the UBC Dataverse collection Workshop</a>.
 
+---
+
+Need help?
+{: .label .label-blue }
+  Please reach out to `research.data@ubc.ca` for assistance with any of your research data questions.
 
 
 
