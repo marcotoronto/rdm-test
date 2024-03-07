@@ -5,7 +5,7 @@ parent: Deposit in UBC Dataverse Collection
 has_children: false 
 nav_order: 4
 ---
-
+# Geospatial Deposits into the UBC Dataverse Collection
 <details open markdown="block">
   <summary>
     Table of contents
@@ -15,7 +15,7 @@ nav_order: 4
 {:toc}
 </details>
 
-# Geospatial Deposits into the UBC Dataverse Collection
+
 
 
 ## What is "geospatial data"?
