@@ -1,4 +1,3 @@
-# Geospatial Deposits into the UBC Dataverse Collection
 ---
 layout: default
 title: Geospatial Data Deposit
@@ -16,7 +15,7 @@ nav_order: 4
 {:toc}
 </details>
 
-
+# Geospatial Deposits into the UBC Dataverse Collection
 
 
 ## What is "geospatial data"?
