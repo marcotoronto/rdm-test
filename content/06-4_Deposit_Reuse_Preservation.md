@@ -158,7 +158,7 @@ Please ensure that you include PIDs for the data (and software) in your citation
 <p style="margin-top:25px;margin-left:30px">
 <img src="figures/DOI.png" width="300"/> </p> 
 
-<p style="color:grey; font-size:11px; margin-left:30px">Image: <a href="https://natureofwriting.com/courses/apa-citation-guide/lessons/the-parts-of-an-entry/topic/digital-object-identifiers/" target="_blank">natreofwriting.com</a>.
+<p style="color:grey; font-size:11px; margin-left:30px">Image: <a href="https://natureofwriting.com/courses/apa-citation-guide/lessons/the-parts-of-an-entry/topic/digital-object-identifiers/" target="_blank">natureofwriting.com</a>.
 </p>
 
 

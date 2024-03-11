@@ -78,7 +78,7 @@ There are different methods of de-identification, each with its own advantages a
 |**Pseudonymization**|identifying information is replaced with <u>artificial identifiers</u>, such as codes or numbers|allows the data to be linked across different sources/datasets or over time|increases the risk of re-identification if the codes are exposed or cracked|
 |**Aggregation**|individual data points are grouped together into <u>categories or ranges<u>|preserves some statistical properties and patterns|reduces the level of detail and variability in the data|
 |**Masking**|identifying information is <u>hidden or obscured</u> by using techniques such as encryption, hashing, blurring, or noise addition|makes the data harder to read or interpret|introduces errors or distortions in the data|
-|**Generalization**|dentifying information is replaced with more <u>general or vague terms</u>. For example, dates can be replaced with years, addresses can be replaced with regions, or names can be replaced with initials|preserves some semantic meaning and context|makes the data less specific and more ambiguous|
+|**Generalization**|identifying information is replaced with more <u>general or vague terms</u>. For example, dates can be replaced with years, addresses can be replaced with regions, or names can be replaced with initials|preserves some semantic meaning and context|makes the data less specific and more ambiguous|
 
 <br>
 
