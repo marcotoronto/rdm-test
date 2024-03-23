@@ -7,7 +7,7 @@ nav_order: 8
 
 # Why Deposit Data?
 
-Storing your data in a repository like Borealis makes it easy for other researchers, publishers, and collaborators to find, use, and cite your data. It supports the Open Science movement goals of trans-parency, accessibility, and collaboration, and can increase attention to your work.
+Storing your data in a repository like Borealis makes it easy for other researchers, publishers, and collaborators to find, use, and cite your data. It supports the Open Science movement goals of transparency, accessibility, and collaboration, and can increase attention to your work.
 
 Further, the Tri-Agency in Canada (NSERC, CIHR, SSHRC) have introduced <a href="https://science.gc.ca/site/science/en/interagency-research-funding/policies-and-guidelines/research-data-management/tri-agency-research-data-management-policy" target="_blank">a policy</a> requiring some grant recipients to deposit their project data in a repository.
 

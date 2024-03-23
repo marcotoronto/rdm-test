@@ -59,7 +59,7 @@ A dancing club in Saskatoon has kept its documents since the early 2000s. Recent
     
 Could you <a href="exercise_files/Agenda July 5th.wpd" target="_blank"> download that document </a>  and try to recover it on your machine?
     
-Please share your experience in Padlet
+Please share your experience in Padlet.
 
 [//]: # (activity link: https://bit.ly/rdmactivity)
 
@@ -164,7 +164,7 @@ Please share your experience in Padlet.
 <img src="figures/robot_graduate.png" width="300"/>
 </p>
 
-Now you know which file formarts are proper for data curation so your research data can be preserved for a longer term!
+Now you know which file formats are proper for data curation so your research data can be preserved for a longer term!
 
 <br>
 
