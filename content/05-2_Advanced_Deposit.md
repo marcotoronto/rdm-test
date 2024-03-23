@@ -77,7 +77,7 @@ Sometimes, it is a good idea to deposit the zipped folder to preserve the conten
 # File Size
 
 Borealis is not intended to handle Big Data. Current file size limits are:
-- For upload: **3 Gb** per file (unlimited number of files in a dataset). If you are depositing files larger than 3GB, *double-zip* your directory.
+- For upload: **5 Gb** per file (unlimited number of files in a dataset). If you are depositing files larger than 5GB, *double-zip* your directory.
 - For tabular normalization: **500 Mb** per file. Tabular files over this size will remain in their original format, e.g. Excel.
 
 While there is no cap on the overall number of files that you can upload, if your data exceeds 10 Gb, please contact `research.data@ubc.ca` to discuss the best repository options, as we have other solutions (e.g. FRDR).
