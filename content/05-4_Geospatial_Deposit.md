@@ -67,7 +67,11 @@ The notes field accepts HTML; if you need to format it for readability please fe
 
 For geospatial data, all of the concepts outlined in [how to create a README file](03_create_readme.md) still hold true. But because geospatial files are usually more complex than other types of data you should, at a minimum:
 
-1. Make sure that *all* of the attributes of your vector data are clearly defined in a data dictionary. Each column in an attribute table should have a corresponding entry in your README's data dictionary, even if it appears obvious. 
+1. **Make sure that *all* of the attributes of your vector data are clearly defined in a data dictionary. Each column in an attribute table should have a corresponding entry in your README's data dictionary, even if it appears obvious.** If your raster data has an attribute table this also applies. 
+
+    Raster values should be clearly defined; ie. The what the pixel value represents must be clearly stated.
+    
+    This is _not_ an optional step.
 
 2. Define all abbreviations. While it may seem that NDVI, NIR, and GLONASS are obvious, to researchers and others outside your field they may not be. When using abbreviations, clearly define them the first time they are used: eg. NIR (near infrared).
 
