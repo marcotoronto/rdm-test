@@ -102,6 +102,7 @@ We recommend open formats because they are more sustainable and easier to preser
 
 <img src="figures/open-source.jpg" width="300" style="margin-left:30px"/>
 
+
 <p style="margin-bottom: 50px"></p>
 
 
