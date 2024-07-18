@@ -106,29 +106,30 @@ We recommend open formats because they are more sustainable and easier to preser
 <p style="margin-bottom: 50px"></p>
 
 
-## Quality or Size?
-In addition to choosing between open and proprietary formats, file quality, the representation of the given item’s characteristics, is a large part of the file format decision. Encoding that handles high resolution will have larger sizes than lower quality file formats. However, the trade-off comes at the cost of storage space and convenience in disseminating the file to others.
+## Other Considerations 
 
-<p style="margin-bottom: 25px"></p>
-
-<img src="figures/balance.jpg" width="300" style="margin-left:30px"/>
-
-<p style="margin-bottom: 60px"></p>
-
+* Open, Standard documentation 
+* Common usage by research community
+* Standard representation (ASCII, Unicode)
+* Unencrypted
+* Uncompressed 
+* File quality
+  * Encoding that handles high resolution will have larger sizes than lower quality file formats
+  * However, the trade-off comes at the cost of storage space and convenience in disseminating the file to others
 
 ## We recommend these common file formats
 
 <p style="margin-bottom: 20px"></p>
 
 
-| File Type | Recommended Formats |
-| - | -|
-| Text | XML, ASCII, TXT, PDF|
-| Images | TIFF, JPEG2000, PNG, JPEG/JFIF | 
-| Video | MOV, MPEG-2 | 
-| Audio | PCM, WAVE, DSD |
-| Dataset | CSV, TSV, .db, .sqlite, Shapefile |
-| Web Data | JSON, XML, HTML |
+| File Type | Recommended Formats               | Avoided Formats                |
+|-----------|-----------------------------------|--------------------------------|
+| Text      | XML, ASCII, TXT, PDF, LaTeX       | .docx, .wpd                    |
+| Images    | TIFF, JPEG2000, PNG, JPEG/JFIF    | RAW, Adobe Photoshop, PDF      |
+| Video     | MOV, MPEG-2                       | .wmv                           |
+| Audio     | PCM, WAVE, DSD                    | CD, DVD, .m4p, .mp3, xmi, .mod |
+| Dataset   | CSV, TSV, .db, .sqlite, Shapefile | .xls, .xlsx                    |
+| Web Data  | JSON, XML, HTML                   |                                |
 
 <br>
 
