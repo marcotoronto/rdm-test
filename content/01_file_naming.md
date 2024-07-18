@@ -95,6 +95,7 @@ Are these names better?
 
 
 ### Goal
+{: .no_toc }
 - **Characters in file names are handled correctly by all computer systems**
 - **Be consistent with chosen naming convention**
 
@@ -220,7 +221,7 @@ clean_data.py
 
 
 ### Goal
-
+{: .no_toc }
 
  - **Decide at the beginning on to how you want to sort and search for your files:**
      - **Chronological order**
@@ -228,7 +229,7 @@ clean_data.py
 
 
 ### Chronological order
-
+{: .no_toc }
 
 - Use <a href="http://www.w3.org/TR/NOTE-datetime" target="_blank">ISO 8601 standard</a> for dates: <b>YYYYMMDD</b> or <b>YYYY-MM-DD</b>
 
@@ -247,7 +248,7 @@ clean_data.py
 
 
 ### Logical order
-
+{: .no_toc }
 
 - When using a sequential numbering system, use <b>leading zeros</b> to make sure files sort in sequential order. e.g. 001, 002, 010, 011....100,101 ...
 - Order elements from general to specific to make searching easier
@@ -268,7 +269,7 @@ helper02_functions.R
 <br>
 
 
- ### Exercise 2
+### Exercise 2
 {: .no_toc }
 
 
