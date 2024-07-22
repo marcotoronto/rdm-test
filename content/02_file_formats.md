@@ -122,14 +122,14 @@ We recommend open formats because they are more sustainable and easier to preser
 <p style="margin-bottom: 20px"></p>
 
 
-| File Type | Recommended Formats               | Avoided Formats                |
-|-----------|-----------------------------------|--------------------------------|
-| Text      | XML, ASCII, TXT, PDF, LaTeX       | .docx, .wpd                    |
-| Images    | TIFF, JPEG2000, PNG, JPEG/JFIF    | RAW, Adobe Photoshop, PDF      |
-| Video     | MOV, MPEG-2                       | .wmv                           |
-| Audio     | PCM, WAVE, DSD                    | CD, DVD, .m4p, .mp3, xmi, .mod |
-| Dataset   | CSV, TSV, .db, .sqlite, Shapefile | .xls, .xlsx                    |
-| Web Data  | JSON, XML, HTML                   |                                |
+| File Type | Recommended Formats                      | Avoided Formats                |
+|-----------|------------------------------------------|--------------------------------|
+| Text      | XML, ASCII, TXT, PDF, LaTeX, .docx       | .doc, .wpd                     |
+| Images    | TIFF, JPEG2000, PNG, JPEG/JFIF           | RAW, Adobe Photoshop, PDF      |
+| Video     | MOV, MPEG-2                              | .wmv                           |
+| Audio     | PCM, WAVE, DSD                           | CD, DVD, .m4p, .mp3, xmi, .mod |
+| Dataset   | CSV, TSV, .db, .sqlite, Shapefile, .xlsx | .xls                           |
+| Web Data  | JSON, XML, HTML                          |                                |
 
 <br>
 
