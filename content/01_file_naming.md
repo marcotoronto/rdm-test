@@ -97,7 +97,7 @@ Are these names better?
 ### Goal
 {: .no_toc }
 - **Characters in file names are handled correctly by all computer systems**
-- **Be consistent with chosen naming convention**
+- **Be consistent with the chosen naming convention**
 
 
 <p style="margin-bottom: 25px"></p>
@@ -110,14 +110,14 @@ Are these names better?
 <p style="margin-bottom: 20px"></p>
 
 
-- Alphanumeric characters (alphabetic characters and Arabic numerials) 
+- Alphanumeric characters (alphabetic characters and Arabic numerals) 
 
 
-- Use <b>_(underscore)</b> to seperate words/numbers (snake case).
+- Use <b>_(underscore)</b> to separate words/numbers (snake case).
  - `this_is_snake_case`
 
 
-- Use <b>capitalization</b> to seperate words/numbers (camel case).
+- Use <b>capitalization</b> to separate words/numbers (camel case).
  - `thisIsCamelCase`
 
 
@@ -134,7 +134,7 @@ Are these names better?
 
 - The way you name your file should be consistent
 - The style you choose should be based on conventions adopted in a given project, organization, language, etc.
- - For example, R and Python uses snake case, so file names and folder names should follow this convention.
+ - For example, R and Python use snake case, so file names and folder names should follow this convention.
  
 ### Exercise 1
 {: .no_toc }
@@ -143,7 +143,7 @@ Are these names better?
 <p style="margin-bottom: 20px"></p>
 
 
-Let's try improve the file names! Pick your favourite file name and make it more machine-readable!
+Let's try to improve the file names! Pick your favourite file name and make it more machine-readable!
 
 
 <p style="margin-top:20px">
@@ -183,7 +183,7 @@ Let's try improve the file names! Pick your favourite file name and make it more
 a.txt
 
 
-# okay but can be more detailed
+# okay but can be a more detailed
 application.txt
 
 
@@ -195,7 +195,7 @@ ubc_application_letter.txt
 ubc_application_letter_for_firstname_lastname_final.txt
 ```
 - Avoid application (software) details in names
- - File names do not need details (e.g., type of file). This makes the name too long. As well it is unnecessary.
+ - File names do not need details (e.g., type of file). This makes the name too long. As well it is also unnecessary.
 
 
 ```
@@ -223,7 +223,7 @@ clean_data.py
 ### Goal
 {: .no_toc }
 
- - **Decide at the beginning on to how you want to sort and search for your files:**
+ - **Decide at the beginning how you want to sort and search for your files:**
      - **Chronological order**
      - **Logical order**
 
