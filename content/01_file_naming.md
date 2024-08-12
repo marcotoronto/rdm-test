@@ -191,8 +191,8 @@ application.txt
 ubc_application_letter.txt
 
 
-# not good, too much detail
-ubc_application_letter_for_firstname_lastname_final.txt
+# not amazing, a bit too much detail
+ubc_application_letter_for_institution_position_firstname_lastname_final_date.txt
 ```
 - Avoid application (software) details in names
  - File names do not need details (e.g., type of file). This makes the name too long. As well it is also unnecessary.
