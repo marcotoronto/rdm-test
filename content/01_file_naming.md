@@ -113,7 +113,7 @@ Are these names better?
 - Alphanumeric characters (alphabetic characters and Arabic numerals) 
 
 
-- Use <b>_(underscore)</b> to separate words/numbers (snake case).
+- Use <b>_(underscore)</b> or <b>-(hyphen)</b>to separate words/numbers (snake case).
  - `this_is_snake_case`
 
 
