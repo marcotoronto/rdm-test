@@ -207,7 +207,6 @@ clean_data_py_script.py
 clean_data.py
 ```
 
-
 <br>
 <br>
 
@@ -232,6 +231,8 @@ clean_data.py
 {: .no_toc }
 
 - Use <a href="http://www.w3.org/TR/NOTE-datetime" target="_blank">ISO 8601 standard</a> for dates: <b>YYYYMMDD</b> or <b>YYYY-MM-DD</b>
+
+  * Using the ISO 8601 standard ensures that dates are consistently formatted and correctly interpreted. For example, 10-12-2024 will be interpreted as DD-MM-YYYY in Europe but MM-DD-YYYY in North America.
 
 
 ```
