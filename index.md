@@ -6,7 +6,7 @@ title: Introduction
 
 # Introduction to Research Data Management
 <p style="margin-top:5px"></p>
-Research data management (RDM) are processes applied throughout the lifecycle of a research project to guide the collection, documentation, storage, sharing, and preservation of research data. It is important because it helps organize your research data during and after your research cycle and makes responsibilities clear within research team and during team transitions. Some Tri-Agency (CIHR, NSERC, SSHRC) grants require Research Data Management Plans (DMPs) in their applications.
+Research data management (RDM) are processes applied throughout the lifecycle of a research project to guide the collection, documentation, storage, sharing, and preservation of research data. It is important because it helps organize your research data during and after your research cycle and makes responsibilities clear within the research team and during team transitions. Some Tri-Agency (CIHR, NSERC, SSHRC) grants require Research Data Management Plans (DMPs) in their applications.
 
 <p style="margin-top:20px;margin-bottom:20px">
 <img src="bite-size.png" width="275" style="margin-left:170px"/>
@@ -27,4 +27,4 @@ You can find and **sign up** for scheduled Data Bites workshops <a href="http://
 
 <p style="margin-top:90px"></p>
 
-<p style="color:grey; font-size:11px">This workshop series was developed by Billie Hu and Eugene Barsky.</p>
+<p style="color:grey; font-size:11px">This workshop series was developed by Eugene Barsky, Billie Hu and Andrew Li.</p>
