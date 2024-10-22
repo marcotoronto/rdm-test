@@ -87,7 +87,7 @@ There are several things to consider when you are deciding on the organization (
 
       * The length of the OneDrive root folder (e.g. C:\users\meganb\OneDrive - Contoso) + the relative path of the file (up to 400 chars) cannot be more than 520 characters [(Microsoft 2023)](https://support.microsoft.com/en-us/office/restrictions-and-limitations-in-onedrive-and-sharepoint-64883a5d-228e-48f5-b3d2-eb39e07630fa)
       * In the Windows API, the maximum length for a path is 260 characters [(Microsoft 2024)](https://learn.microsoft.com/en-us/windows/win32/fileio/maximum-file-path-limitation?tabs=registry)
-      * Would you like to click through all these folders for a csv file? `Z:\1232\New_Projects_shared\2000\2000_0889\site_a_name of the site payment\payment\year_4\payment_year4.csv` (is this good folder/file naming?)
+      * Would you like to click through all these folders for a csv file? `Z:\1232\New_Projects_shared\2000\2000_0889\site_a_name of the site payment\payment\year_4\payment_year4.csv` (by the way, is this good folder/file naming?)
 
     * Too shallow: this will lead to too many different subdirectories under your root directory. Again, this can lead to many clicks (and subsequent back clicks) before finding the correct file. 
 * When working with a team, consider implementing limitations to sensitive files.
@@ -100,8 +100,6 @@ There are several things to consider when you are deciding on the organization (
   -rwxr-xr-x    1 andrewli  staff   6664 11 Jul 09:46 03_create_readme.md
   -r--r-xr-x    1 andrewli  staff   6664 11 Jul 09:46 VERY_IMPORTANT_DO_NOT_EDIT.md
   ```
-
-* Do not let old files linger, (carefully) delete old files or add them to an "archive" folder. 
 
 * Be consistent with how you organize your folders and files! It becomes confusing if you mix this organization. Choose what makes sense for your project or stick to what the team/lab has already implemented. 
 
