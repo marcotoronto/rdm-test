@@ -245,10 +245,9 @@ Feel free to refer to the example that we saw earlier:
 
 There are some useful tools to help you design your folder structures:
 
-* You paste a link to your GitHub repo URL to generate a project tree or create it from scratch: https://woochanleee.github.io/project-tree-generator/
+* You paste a link to your GitHub repo URL to generate a project tree or create it from scratch: [https://woochanleee.github.io/project-tree-generator/](https://woochanleee.github.io/project-tree-generator/)
 
-* Design a diagram for potential file tree with more options: 
-https://t.co/AQzht2i703
+* Design a diagram for potential file tree with more options: [https://t.co/AQzht2i703](https://t.co/AQzht2i703)
 
 * In your terminal you can use `tree` to generate a tree like structure. Windows and Linux have this function, but you will need to install for Mac.
 
