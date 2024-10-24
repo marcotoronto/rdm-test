@@ -101,7 +101,7 @@ There are several things to consider when you are deciding on the organization (
   -r--r-xr-x    1 andrewli  staff   6664 11 Jul 09:46 VERY_IMPORTANT_DO_NOT_EDIT.md
   ```
 
-* Be consistent with how you organize your folders and files! It becomes confusing if you mix this organization. Choose what makes sense for your project or stick to what the team/lab has already implemented. 
+* Be consistent with how you organize your folders and files! It becomes confusing if you mix this organization. Choose what makes sense for your project or stick to what the team/lab has already implemented. Noting your decisions in a README file or a Data Manual makes a big difference!
 
 ```
 This example folder is organized such that the different experiments are the top folders
