@@ -46,9 +46,15 @@ So far, we are seeing the following funding opportunities requiring DMPs, in add
 ### <a style="font-size:17px">CIHR</a>
 {: .label .label-yellow .no_toc }
 
-- Network Grants in Skin Health and Muscular Dystrophy 
-- Data Science for Equity 
-- Team Grant: Strengthening the Health Workforce for System Transformation (previously known as Virtual Care/Digital Health Team Grants)
+- Network Grants in Skin Health, Bone Health and Muscular Dystrophy (October 2022)
+- Team Grants: Strengthening the Health Workforce for System Transformation (June 2023)
+  Note: Formerly "Virtual Care/Digital Health Team Grants"
+- Team Grants: Lung Health (July 2023)
+- Operating Grant: Clinical Trials Projects (July 2023)
+- Team Grants: Improving Health and Administrative Data and Monitoring for Rare Diseases (August 2023)
+- Infectious and Congenital Syphilis in Canada: Implementation and Intervention Research Response (September 2023)
+- Canadian Consortium on Neurodegeneration in Aging (September 2023)
+- Team Grants: Embracing Diversity to Achieve Precision and Health Equity (November 2023)
 
 
 ### <a style="font-size:17px">NSERC</a>
