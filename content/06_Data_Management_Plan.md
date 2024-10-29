@@ -65,11 +65,12 @@ So far, we are seeing the following funding opportunities requiring DMPs, in add
 
 # General Notes for DMP creation
 
+- Use your UBC CWL to log in (as of October 2024). If your account was created before, you can link it with your CWL (Login with your older account, click on your name in the top right > Edit Profile > Institutional credentials > choose University of British Columbia
 - When creating your research project's DMP, it's important to begin with a general description that outlines the project's focus and purpose. 
 - Keep in mind that the DMP should be easily understood by anyone, so try to avoid using excessive discipline-specific jargon. 
 - If you do need to use acronyms, be sure to define them for clarity.
 - Not all sections or questions in the DMP may be applicable to your specific project, so feel free to leave them blank if necessary. 
-- Additionally, consider including <a href="https://researchdata.library.ubc.ca/plan/get-an-orcid-id" target="_blank"> **ORCIDs**</a> (Open Researcher and Contributor IDs) for the researchers involved. ORCIDs provide metadata that ensure appropriate academic credits are attributed.
+- Additionally, consider including <a href="https://researchdata.library.ubc.ca/plan/get-an-orcid-id" target="_blank"> **ORCIDs**</a> (Open Researcher and Contributor IDs) for the researchers involved. ORCIDs provide metadata that ensures appropriate academic credits are attributed.
 
 Remember that your DMP is a living document that should be **developed at the very beginning** in the research process and **regularly updated** as needed, similar to your README file and data dictionary.
 {: .note }
@@ -118,7 +119,7 @@ These key components should be considered to create a meaningful DMP:
 1. [Data Collection](06-1_Data_Collection.md)
 2. [Documentation and Metadata](06-2_Documentation_Metadata.md)
 3. [Storage and Backup](06-3_Storage_Backup.md)
-4. [Deposit, Resue, Preservation](06-4_Deposit_Reuse_Preservation.md)
+4. [Deposit, Reuse, Preservation](06-4_Deposit_Reuse_Preservation.md)
 5. [Responsibilities and Resources](06-6_Responsibilities_Resources.md)
 6. [Ethics and Legal Compliance](06-7_Ethics_Legal.md)
 
