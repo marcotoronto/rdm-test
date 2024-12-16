@@ -2,7 +2,7 @@
 layout: default
 title: Data Management Plans
 has_children: true
-nav_order: 9
+nav_order: 10
 has_toc: false
 ---
 

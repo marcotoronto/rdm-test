@@ -1,6 +1,6 @@
 ---
 layout: default
-title: File Naming
+title: Data Dictionary
 nav_order: 8
 ---
 # Data dictionary
@@ -63,7 +63,7 @@ Download the data file <b>"Detroit Class Data.xlsx"</b> in the <b>Original File 
 ## Template 
 
 Below is an example data dictionary for the article we looked at earlier in the chapter. This template was designed to capture most datasets and with . There are other data dictionary templates available for more specific needs. 
-**NOTE: These values here are <u>made up</u> for educational purposes, they do not reflect what the real study had in mind**
+**NOTE: These values here are <u>made up</u> for educational purposes, they do not reflect what the real study had in mind.**
 
 You can download this template [here]()
 
@@ -103,7 +103,7 @@ You can create a data dictionary with any text editor but we suggest using some 
 <img src="figures/angel-congrats.jpg" width="300"/>
 </p>
 
-You are now ready to write up a good README file so other researchers can understand your dataset with no problems!
+You are now ready to create your data dictionary so other researchers can understand your dataset with no problems!
 
 <br>
 
