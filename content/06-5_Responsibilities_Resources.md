@@ -79,6 +79,14 @@ Data management and long-term access require adequate resources and costs that n
 
   e.g. subscribing or contributing to data repositories, platforms, portals, or networks that allow you to store, discover, access, or share your data.
 
+  ## Helpful Links 
+* [UBC Research Ethics: Should I Apply? ](https://researchethics.ubc.ca/about-human-research-ethics/should-i-apply)
+* [UBC Research Security: Applying for Grants Subject to Research Security Requirements ](https://researchsecurity.ubc.ca/federal-policies-research-funding/applying-grants-subject-research-security-requirements)
+* [Innovation UBC: Research Partnerships  ](https://uilo.ubc.ca/researchers/research-partnerships)
+* [UBC Advanced Research Computing: Security & Privacy ](https://arc.ubc.ca/security-privacy) 
+
+ 
+
 ---
 
 Need help?
