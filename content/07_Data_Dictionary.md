@@ -40,6 +40,11 @@ Download the data file <b>"Detroit Class Data.xlsx"</b> in the <b>Original File 
 2. Describe the different measures in this study.
 3. How was the data collected?
 
+Alternatively, here is an example of a dataset with a decent data dictionary:
+>Barsky, Eugene; Mitchell, Marjorie; Buhler, Jeremy, 2019, "UBC Research Data Management Survey: Science and Engineering", [https://doi.org/10.5683/SP2/9VEAT9](https://doi.org/10.5683/SP2/9VEAT9), Borealis, V3
+* You can see how a data dictionary allows users to make sense of the data very fast.
+* Data dictionary can travel with the dataset or even serve as a stand-alone data item.
+
 # How to create a Data Dictionary
 
 * A data dictionary will typically be structured so each row corresponds to a column in your dataset and each column represents a field of information about the column. 
