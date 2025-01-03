@@ -137,8 +137,8 @@ For more detailed comprison among these UBC IT resources, you can refer to their
 
 <br>
 
-## Team Access
-To facilitate collaboration and teamwork, it is a good practice to outline in your DMP how your collaborators or research team will access, modify, contribute, and work with the data.
+## Team Access Management
+To facilitate collaboration and teamwork, it is a good practice to outline in your DMP how your collaborators or research team will access, modify, contribute, and work with the data. Describe how collaborators or research teams will be able to access, modify, contribute, and work with your data. Access should be provided per the [Principle of least privilege](https://cio.ubc.ca/information-security/policy-standards-and-resources/information-security-standards-glossary).  
 
 <p style="margin-top:25px;margin-left:30px;margin-bottom:25px">
 <img src="figures/network.jpg" width="300"/>
@@ -146,15 +146,16 @@ To facilitate collaboration and teamwork, it is a good practice to outline in yo
 
 <br>
 
-## Data Security and Access Management
+## Data Security 
 Safeguarding your research data throughout its lifecycle is paramount. Provide a brief overview of the security measures, controls, procedures, and processes that will be implemented to protect your data. This includes outlining the **security controls** that will be in place, as well as any specific **privacy considerations**. 
 
-Please explain your data risk classification.  You can consult [UBC ARC’s Research Information Classification](https://arc.ubc.ca/security-privacy/research-information-classification) to help you classify your research data.
+Please explain your data risk classification.  You can consult [UBC ARC’s Research Information Classification](https://arc.ubc.ca/security-privacy/research-information-classification) to help you classify your research data.
 
 
 <p style="margin-top:25px;margin-left:30px;margin-bottom:25px">
 <img src="figures/encryption.jpg" width="300"/>
 </p>
+
 
 For comprehensive guidance on security and privacy planning for research at UBC, you can refer to the wealth of resources available at <a href="https://arc.ubc.ca/planning-research-security-and-privacy" target="_blank">UBC ARC's website</a>.
 {: .note }
