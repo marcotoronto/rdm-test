@@ -7,11 +7,11 @@ nav_order: 8
 {: .no_toc }
 
 
-A data dictionary is a variable-level documentation that tells us important information about the variables in the dataset. This is especially important if you are working with multiple tables or with a database. A data dictionary is typically formated as a table with a row corresponding to a variable in your dataset and columns representing a field of information about that variable. The data dictionary should include variable name, data type, description, and sample values.
+A data dictionary is a variable-level documentation that tells us important information about the variables in the dataset. This is especially important if you are working with multiple tables or with a database. A data dictionary is typically formatted as a table with a row corresponding to a variable in your dataset and columns representing a field of information about that variable. The data dictionary should include variable names, data types, descriptions, and sample values.
 
-The main goal of the data dictionary is to help people understand datasets. It will help your peers answer questions such as "what does this variable mean?"
+The main goal of the data dictionary is to help people understand datasets. It will help your peers answer questions such as: "What does this variable mean?"
 
-Most long standing research projects will have a data dictionary, below are some open-source examples:
+Most long-standing research projects will have a data dictionary, below are some open-source examples:
 
 * [National Database of Deep-Sea Corals](https://www.ncei.noaa.gov/waf/dsc-data/metadata/20221213-0_NOAA_NDB_corals_sponges_data_dictionary.html)
 * [Climate and Forecast Conventions](http://cfconventions.org/Data/cf-standard-names/46/build/cf-standard-name-table.html)
@@ -22,7 +22,7 @@ Most long standing research projects will have a data dictionary, below are some
 * [EarthExploer USGS Landsat](https://www.usgs.gov/centers/eros/science/landsat-data-dictionary#data_category)
 * [Planetary Science Dictionary (NASA)](https://pds.nasa.gov/tools/dd-search/)
 
-As you can see, a data dictionary can be a simple table (spreadsheet or PDF) or a full-fledged web application. Some projects only need a one data dictionary that can be created and maintained by a single person while others will require a whole team to create and maintain it. 
+As you can see, a data dictionary can be a simple table (spreadsheet or PDF) or a full-fledged web application. Some projects only need one data dictionary that can be created and maintained by a single person while others will require a whole team to create and maintain it. 
 
 
 ## Exercise 1
