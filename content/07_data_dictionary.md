@@ -52,7 +52,7 @@ Download the data file <b>"Detroit Class Data.xlsx"</b> in the <b>Original File 
     * Data usage type
     * Sample values
 
-* Optional fields to inlcude
+* Optional fields to include
 
     * Transformations (Was the column the result of a transformation?)
     * Example usage (SQL queries)
@@ -62,7 +62,7 @@ Download the data file <b>"Detroit Class Data.xlsx"</b> in the <b>Original File 
 
 ## Template 
 
-Below is an example data dictionary for the article we looked at earlier in the chapter. This template was designed to capture most datasets and with . There are other data dictionary templates available for more specific needs. 
+Below is an example data dictionary for the article we looked at earlier in the chapter. This template was designed to capture most general datasets. There are other data dictionary templates available for more specific needs. 
 **NOTE: These values here are <u>made up</u> for educational purposes, they do not reflect what the real study had in mind.**
 
 You can download this template [here]()
@@ -93,7 +93,7 @@ How you write your data dictionary is as important as the information you includ
 
 Document your work as you go, so you don’t lose track of any details. If you wait until the end of your project, you might already have lost or forgotten valuable information.
 
-You can create a data dictionary with any text editor but we suggest using some kind of spreadsheet (Excel, Numbers, etc.) Although you should edit the data dictionary with a spreadsheet software, we suggest saving it as a CSV or TSV file as it is a non-proprietary format and freely available for everyone to use into the future. 
+You can create a data dictionary with any text editor but we suggest using some kind of spreadsheet (Excel, Numbers, etc.) Although you should edit the data dictionary with spreadsheet software, we suggest saving it as a CSV or TSV file as it is a non-proprietary format and freely available for everyone to use in the future. 
 
 
 # Congrats!
