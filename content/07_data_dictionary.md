@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Create a Data Dictionary
-nav_order: 8
+nav_order: 11
 ---
 # Data dictionary
 {: .no_toc }
