@@ -74,11 +74,11 @@ You can download this template [here]()
 
 | **Column Name** | **Business Name**         | **Description**                                     | **Data Type** | **Data Usage Type**   | **Sample Values**                           |
 |-----------------|---------------------------|-----------------------------------------------------|---------------|-----------------------|---------------------------------------------|
-| STATEFP10       | State code                | The unique numeric code for the state.              | String        | Dimension Attribute   | "01", "02", "06"                            |
-| COUNTYFP10      | County code               | The unique numeric code for the county.             | String        | Dimension Foreign Key | "001", "003", "005"                         |
-| TRACTCE10       | Census Tract Code         | Code identifying a specific census tract.           | String        | Dimension Attribute   | "593300"                                    |
-| GEOID10         | Geographical ID           | Combined state, county, and tract identifier.       | String        | Dimension Foreign Key | "26163593300"                               |
-| NAMELSAD10      | Area Name                 | The full name of the census area.                   | String        | Attribute             | "Los Angeles County, CA", "Cook County, IL" |
+| STATEFP10       | State code                | The unique numeric code for the state. From US Census [data tables](https://www.census.gov/data.html)               | String        | Dimension Attribute   | "01", "02", "06"                            |
+| COUNTYFP10      | County code               | The unique numeric code for the county. From US Census [data tables](https://www.census.gov/data.html)             | String        | Dimension Foreign Key | "001", "003", "005"                         |
+| TRACTCE10       | Census Tract Code         | Code identifying a specific census tract.  From US Census [data tables](https://www.census.gov/data.html)           | String        | Dimension Attribute   | "593300"                                    |
+| GEOID10         | Geographical ID           | Combined state, county, and tract identifier.  From US Census [data tables](https://www.census.gov/data.html)       | String        | Dimension Foreign Key | "26163593300"                               |
+| NAMELSAD10      | Area Name                 | The full name of the census area.  From US Census [data tables](https://www.census.gov/data.html)                   | String        | Attribute             | "Los Angeles County, CA", "Cook County, IL" |
 | class           | Land Classification       | Indicates land use or classification.               | String        | Dimension Attribute   | "Residential", "Commercial", "Agricultural" |
 | CCPCT           | Child Care Percentage     | Percentage of households using child care services. | Number        | Fact                  | 15.2, 25.4, 32.7                            |
 | FFFPCT          | Fast Food Percentage      | Percentage of restaurants classified as fast food.  | Number        | Fact                  | 40.3, 55.8, 22.5                            |
