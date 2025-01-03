@@ -146,8 +146,11 @@ To facilitate collaboration and teamwork, it is a good practice to outline in yo
 
 <br>
 
-## Security 
+## Data Security and Access Management
 Safeguarding your research data throughout its lifecycle is paramount. Provide a brief overview of the security measures, controls, procedures, and processes that will be implemented to protect your data. This includes outlining the **security controls** that will be in place, as well as any specific **privacy considerations**. 
+
+Please explain your data risk classification.  You can consult [UBC ARC’s Research Information Classification](https://arc.ubc.ca/security-privacy/research-information-classification) to help you classify your research data.
+
 
 <p style="margin-top:25px;margin-left:30px;margin-bottom:25px">
 <img src="figures/encryption.jpg" width="300"/>
