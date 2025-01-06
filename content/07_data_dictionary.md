@@ -33,7 +33,7 @@ Please help us to make sense of a dataset.
 
 Access a dataset:  
 
->Florida, Richard, 2013, "Class-Divided Cities, Detroit Edition Published in Atlantic Cities", <a href="https://borealisdata.ca/dataset.xhtml?persistentId=doi:10.5683/SP3/SNXXHQ" target="_blank">https://doi.org/10.5683/SP3/SNXXHQ</a>, Borealis, V3, UNF:6:zsehCAz4agntvPwDZF03OA== [fileUNF]  
+>Florida, Richard, 2013, "Class-Divided Cities, Detroit Edition Published in Atlantic Cities", <a href="https://borealisdata.ca/dataset.xhtml?persistentId=doi:10.5683/SP3/SNXXHQ" target="_blank">https://doi.org/10.5683/SP3/SNXXHQ</a>, Borealis, V3
 
 Download the data file <b>"Detroit Class Data.xlsx"</b> in the <b>Original File Format</b>. Examining the data, try to answer the following questions:
 1. What do you think the columns `STATEFP10` and `COUNTYFP10` mean?
