@@ -71,20 +71,20 @@ Alternatively, here is an example of a dataset with a decent data dictionary:
 Below is an example data dictionary for the dataset we looked at earlier. This template was designed to capture most general datasets. There are other data dictionary templates available for more specific needs. 
 **NOTE: These values here are <u>made up</u> for educational purposes, they do not reflect what the real study had in mind.**
 
-You can download this template [here]()
+You can download this template [here](content/assets/templates/data_dictionary_template.csv)
 
-| **Column Name** | **Business Name**         | **Description**                                     | **Data Type** | **Data Usage Type**   | **Sample Values**                           |
-|-----------------|---------------------------|-----------------------------------------------------|---------------|-----------------------|---------------------------------------------|
-| STATEFP10       | State code                | The unique numeric code for the state.              | String        | Dimension Attribute   | "01", "02", "06"                            |
-| COUNTYFP10      | County code               | The unique numeric code for the county.            | String        | Dimension Foreign Key | "001", "003", "005"                         |
-| TRACTCE10       | Census Tract Code         | Code identifying a specific census tract.              | String        | Dimension Attribute   | "593300"                                    |
-| GEOID10         | Geographical ID           | Combined state, county, and tract identifier.         | String        | Dimension Foreign Key | "26163593300"                               |
-| NAMELSAD10      | Area Name                 | The full name of the census area.                  | String        | Attribute             | "Los Angeles County, CA", "Cook County, IL" |
-| class           | Land Classification       | Indicates land use or classification.               | String        | Dimension Attribute   | "Residential", "Commercial", "Agricultural" |
-| CCPCT           | Child Care Percentage     | Percentage of households using child care services. | Number        | Fact                  | 15.2, 25.4, 32.7                            |
-| FFFPCT          | Fast Food Percentage      | Percentage of restaurants classified as fast food.  | Number        | Fact                  | 40.3, 55.8, 22.5                            |
-| SCPCT           | Senior Citizen Percentage | Percentage of population over 65 years old.         | Number        | Fact                  | 10.4, 15.8, 20.1                            |
-| WCPCT           | Working Class Percentage  | Percentage of households in the working class.      | Number        | Fact                  | 45.2, 62.1, 51.3                            |
+| Column Name | Business Name             | Description                                                                                                                                                                                   | Data Type | Data Usage Type       | Sample Values                               |
+|-------------|---------------------------|-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|-----------|-----------------------|---------------------------------------------|
+| STATEFP10   | State code                | The unique numeric code for the state. More information on state codes can be found [here](https://www23.statcan.gc.ca/imdb/p3VD.pl?Function=getVD&TVD=53971).                                | String    | Dimension Attribute   | “01”, “02”, “06”                            |
+| COUNTYFP10  | County code               | The unique numeric code for the county. More information on county codes can be found [here](https://www2.census.gov/programs-surveys/decennial/2010/partners/pdf/FIPS_StateCounty_Code.pdf). | String    | Dimension Foreign Key | “001”, “003”, “005”                         |
+| TRACTCE10   | Census Tract Code         | Code identifying a specific census tract. More information on tract codes can be found [here](https://transition.fcc.gov/form477/Geo/more_about_census_tracts.pdf).                           | String    | Dimension Attribute   | “593300”                                    |
+| GEOID10     | Geographical ID           | Combined state, county, and tract identifier.                                                                                                                                                 | String    | Dimension Foreign Key | “26163593300”                               |
+| NAMELSAD10  | Area Name                 | The full name of the census area.                                                                                                                                                             | String    | Attribute             | “Los Angeles County, CA”, “Cook County, IL” |
+| class       | Land Classification       | Indicates land use or classification.                                                                                                                                                         | String    | Dimension Attribute   | “Residential”, “Commercial”, “Agricultural” |
+| CCPCT       | Child Care Percentage     | Percentage of households using child care services.                                                                                                                                           | Number    | Fact                  | 15.2, 25.4, 32.7                            |
+| FFFPCT      | Fast Food Percentage      | Percentage of restaurants classified as fast food.                                                                                                                                            | Number    | Fact                  | 40.3, 55.8, 22.5                            |
+| SCPCT       | Senior Citizen Percentage | Percentage of population over 65 years old.                                                                                                                                                   | Number    | Fact                  | 10.4, 15.8, 20.1                            |
+| WCPCT       | Working Class Percentage  | Percentage of households in the working class.                                                                                                                                                | Number    | Fact                  | 45.2, 62.1, 51.3                            |
 
 ## The Style 
 
