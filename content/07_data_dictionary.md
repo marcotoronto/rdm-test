@@ -71,7 +71,7 @@ Alternatively, here is an example of a dataset with a decent data dictionary:
 Below is an example data dictionary for the dataset we looked at earlier. This template was designed to capture most general datasets. There are other data dictionary templates available for more specific needs. 
 **NOTE: These values here are <u>made up</u> for educational purposes, they do not reflect what the real study had in mind.**
 
-You can download this template [here](content/assets/templates/data_dictionary_template.csv)
+You can download this template [here](https://ubc-library-rc.github.io/rdm/content/assets/templates/data_dictionary_template.csv)
 
 | Column Name | Business Name             | Description                                                                                                                                                                                   | Data Type | Data Usage Type       | Sample Values                               |
 |-------------|---------------------------|-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|-----------|-----------------------|---------------------------------------------|
