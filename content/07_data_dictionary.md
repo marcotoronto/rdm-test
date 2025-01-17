@@ -99,7 +99,7 @@ How you write your data dictionary is as important as the information you includ
 
 Document your work as you go, so you don’t lose track of any details. If you wait until the end of your project, you might already have lost or forgotten valuable information.
 
-You can create a data dictionary with any text editor but we suggest using some kind of spreadsheet (Excel, Numbers, etc.) Although you should edit the data dictionary with spreadsheet software, we suggest saving it as a CSV or TSV file as it is a non-proprietary format and freely available for everyone to use in the future. 
+You can create a data dictionary with any text editor but we suggest using some kind of spreadsheet (Excel, Numbers, etc.). Although you should edit the data dictionary with spreadsheet software, we suggest saving it as a CSV or TSV file as it is a non-proprietary format and freely available for everyone to use in the future. 
 
 
 # Congrats!
