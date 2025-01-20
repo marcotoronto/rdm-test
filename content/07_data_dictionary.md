@@ -3,6 +3,7 @@ layout: default
 title: Create a Data Dictionary
 nav_order: 11
 ---
+
 # Data dictionary
 {: .no_toc }
 
@@ -10,6 +11,10 @@ nav_order: 11
 A data dictionary is a variable-level documentation that tells us important information about the variables in the dataset. This is especially important if you are working with multiple tables or with a database. A data dictionary is typically formatted as a table with a row corresponding to a variable in your dataset and columns representing a field of information about that variable. The data dictionary should include variable names, data types, descriptions, and sample values.
 
 The main goal of the data dictionary is to help people understand datasets. It will help your peers answer questions such as: "What does this variable mean?"
+<p style="margin-bottom: 25px"></p>
+
+Looking for a cheat sheet? Check out our <a href="https://osf.io/akzpq" target="_blank">one-pager</a>!
+{: .note}
 
 Most long-standing research projects will have a data dictionary, below are some open-source examples:
 
