@@ -15,9 +15,9 @@ Research data management (RDM) are processes applied throughout the lifecycle of
 Research Commons is now offering bite-size workshops "<b>Data Bites</b>" that are 30 minutes each during lunch time. By going through our interactive and hands-on mini-workshops, you will learn the basics of RDM from the following core components:
 - [File naming](content/01_file_naming.md)
 - [File formats](content/02_file_formats.md)
-- [Creating a README file](content/03_create_readme.md)
-- [Directory Structures](content/04_directory_structures.md)
+- [Create a README file](content/03_create_readme.md)
 - [Create a Data Dictionary](content/07_data_dictionary.md)
+- [Directory Structures](content/04_directory_structures.md)
 - [Deposit to UBC Dataverse Collection](content/05_Deposit_to_Dataverse.md)
 - [Create Data Management Plans](content/06_Data_Management_Plan.md)
 
