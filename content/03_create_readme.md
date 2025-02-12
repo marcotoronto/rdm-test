@@ -63,11 +63,11 @@ Take a look at this dataset and try to answer the following:
 
 ---
 
-# How Do I Create a Readme?
+# How to Create a README
 
 ## The Content
   
-EEvery dataset is different, so consider which of the following applies to your project (a software project will have different sections than a chemistry dataset).
+Every dataset is different, so consider which of the following applies to your project (a software project will have different sections than a chemistry dataset).
 
 * **Information** - Name and contact information, how can people get in contact with you?
 * **Description** - Let users know what your project does. Provide context - this can be similar to an abstract for a research paper. 
