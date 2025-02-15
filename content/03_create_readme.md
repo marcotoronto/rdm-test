@@ -6,9 +6,9 @@ nav_order: 6
 # What is README?
 {: .no_toc}
 
-A README file provides information about a dataset and is intended to help ensure that the data can be correctly interpreted, by yourself at a later date or by others when sharing or publishing data. It contains information that is commonly required to understand what the dataset is about, its contents, provenance, licensing and how interact with it. A README file is generally named ```README```and is typically a text or markdown file.
+A README file provides information about a project and is intended to help ensure that the data can be correctly interpreted, by yourself at a later date or by others when sharing or publishing data. It contains information that is commonly required to understand what the dataset is about, its contents, provenance, licensing and how interact with it. A README file is generally named ```README```and is typically a text or markdown file.
 
-In short, A README is the portable, durable way to provide information to other researchers about how to use your project. 
+In short, A README is the portable, durable way to provide information to other researchers about how to navigate, collaborate or extend your project. 
 
 <p style="margin-bottom: 20px"></p>
 
@@ -41,13 +41,13 @@ Looking for a cheat sheet? Check out our <a href="https://osf.io/aqxw3" target="
 {: .no_toc}
 {: .label .label-green }
 
-Please help us to make sense of a dataset.
+Please help us to make sense of a project.
 
 Access this project:  
 
 >Davis, Matthew, 2024, "Soil Adsorption Curves and Environmental Soil Data", <a href="https://doi.org/10.5683/SP3/JGRIN0" target="_blank">https://doi.org/10.5683/SP3/JGRIN0</a>, Borealis, V1
 
-Take a look at this dataset and try to answer the following:
+Take a look at this project and try to answer the following:
 
 1. You got new data for ammonia absoprtion into soil from corktown, how would you go about generating the new model and plot? 
 2. You want to recreate the whole project, what package(s) do you need to have installed to rerun everything?
@@ -67,7 +67,7 @@ Take a look at this dataset and try to answer the following:
 
 ## The Content
   
-Every dataset is different, so consider which of the following applies to your project (a software project will have different sections than a chemistry dataset).
+Every project is different, so consider which of the following applies to your project (a software project will have different sections than an academic research project).
 
 * **Information** - Name and contact information, how can people get in contact with you?
 * **Description** - Let users know what your project does. Provide context - this can be similar to an abstract for a research paper. 
@@ -80,7 +80,7 @@ Every dataset is different, so consider which of the following applies to your p
 
 ## The Process 
 
-You should create a README prior to having your dataset made public or sent out for collaboration. However, please consider making the README file first and continuously update it. 
+You should create a README prior to having your project made public or sent out for collaboration. However, please consider making the README file first and continuously update it. 
 
 You should place the README at the root directory of the project (check out our workshop on [directory structures](https://ubc-library-rc.github.io/rdm/content/04_directory_structures.html)), this way, it can be one of the first files people will look at. 
 
