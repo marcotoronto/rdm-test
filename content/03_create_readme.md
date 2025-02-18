@@ -12,10 +12,10 @@ In short, a README is a portable, durable way to inform other researchers about 
 
 <p style="margin-bottom: 20px"></p>
 
-Looking for a cheat sheet? Check out our <a href="https://osf.io/aqxw3" target="_blank">one-pager</a>!
+Looking for a cheat sheet? Check out our <a href="https://osf.io/aqxw3" target="_blank">one-pager</a>
 {: .note}
 
-Looking for a template to reuse? Check out a very simple <a href="https://ubc-library-rc.github.io/rdm/content/exercise_files/UBC_README.txt" target="_blank">README template</a> we prepared for you!
+Looking for a template to reuse? Check out a very simple <a href="https://ubc-library-rc.github.io/rdm/content/exercise_files/UBC_README.txt" target="_blank">README template</a> we prepared for you
 {: .note}
 
 <br>
