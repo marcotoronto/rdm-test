@@ -108,7 +108,7 @@ We have created an example of a README for the project we looked at earlier. Thi
 
 Now, let's practice what we just learned. 
 
-Please <a download href="exercise_files/UBC_README.txt" target="_blank"> download this README example </a>. This file was designed to capture academic research projects and uses the project we looked at earlier for the contents. There are other templates available for other types of projects (software, data science, etc.). 
+Please <a download href="exercise_files/README_template.md" target="_blank"> download this README example </a>. This template was designed to capture academic research projects and uses the project we looked at earlier for the contents. There are other templates available for other types of projects (software, data science, etc.). 
 
 What are some things that you have noticed that may be specific to academic reserach? What are some things you would include if this was a software project? 
 
@@ -120,10 +120,7 @@ What are some things that you have noticed that may be specific to academic rese
 <p style="margin-top:25px;margin-left:30px">
 <img src="figures/angel-congrats.jpg" width="300"/>
 </p>
-You are now ready to write up a good README file so other researchers can understand your dataset with no problems! 
-
-Please see a very simple README template we prepared for you to re-use at the top of this page or [here](https://ubc-library-rc.github.io/rdm/content/exercise_files/UBC_README.txt). 
-
+You are now ready to write up a good README file so other researchers can understand your project with no problems! 
 <br>
 
 ---
