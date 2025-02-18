@@ -15,7 +15,7 @@ In short, a README is a portable, durable way to inform other researchers about 
 Looking for a cheat sheet? Check out our <a href="https://osf.io/aqxw3" target="_blank">one-pager</a>
 {: .note}
 
-Looking for a template to reuse? Check out a very simple <a href="https://ubc-library-rc.github.io/rdm/content/exercise_files/UBC_README.txt" target="_blank">README template</a> we prepared for you
+Looking for a template to reuse? Check out a very simple <a href="https://ubc-library-rc.github.io/rdm/content/assets/templates/UBC_README.txt" target="_blank">README template</a> we prepared for you
 {: .note}
 
 <br>
@@ -125,7 +125,7 @@ What are some things that you have noticed that may be specific to academic rese
 </p>
 You are now ready to write up a good README file so other researchers can understand your dataset with no problems! 
 
-Please see a very simple README template we prepared for you to re-use at the top of this page or [here](https://ubc-library-rc.github.io/rdm/content/exercise_files/UBC_README.txt). 
+Please see a very simple README template we prepared for you to re-use at the top of this page or [here](https://ubc-library-rc.github.io/rdm/content/assets/templates/UBC_README.txt). 
 
 <br>
 
