@@ -52,7 +52,7 @@ Access this project:
 
 Take a look at this project and try to answer the following:
 
-1. You got new data for ammonia absoprtion into soil from corktown, how would you go about generating the new model and plot? 
+1. You got new data for ammonia absorption into soil from corktown, how would you go about generating the new model and plot? 
 2. You want to recreate the whole project, what package(s) do you need to have installed to rerun everything?
 3. You have a question about this project, who and how can we reach the corresponding author?
 
@@ -83,7 +83,7 @@ Every project is different, so consider which of the following applies to your p
 
 ## The Process 
 
-You should create a README before having your project made public or sent out for collaboration. However, please consider making the README file first and continuously update it. 
+You should create a README before having your project made public or sent out for collaboration. Even better, please consider making the README file first and continuously updating it. 
 
 You should place the README at the root directory of the project (check out our workshop on [directory structures](https://ubc-library-rc.github.io/rdm/content/04_directory_structures.html)), this way, it can be one of the first files people will look at. 
 
