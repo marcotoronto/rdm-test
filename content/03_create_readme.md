@@ -111,7 +111,7 @@ We have created an example of a README for the project we looked at earlier. Thi
 
 Now, let's practice what we just learned. 
 
-Please <a download href="exercise_files/README_template.md" target="_blank"> download this README example </a>. This template was designed to capture academic research projects and uses the project we looked at earlier for the contents. There are other templates available for other types of projects (software, data science, etc.). 
+Please <a href="https://ubc-library-rc.github.io/rdm/content/exercise_files/README_template.md" target="_blank"> download this README example </a>. This template was designed to capture academic research projects and uses the project we looked at earlier for the content. There are other templates available for other types of projects (software, data science, etc.). 
 
 What are some things that you have noticed that may be specific to academic research? What are some things you would include if this were a software project? 
 
