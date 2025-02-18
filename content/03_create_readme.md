@@ -6,9 +6,9 @@ nav_order: 6
 # What is README?
 {: .no_toc}
 
-A README file provides information about a project and is intended to help ensure that the data can be correctly interpreted, by yourself at a later date or by others when sharing or publishing data. It contains information that is commonly required to understand what the dataset is about, its contents, provenance, licensing and how interact with it. A README file is generally named ```README```and is typically a text or markdown file.
+A README file provides information about a project and is intended to help ensure that the data can be correctly interpreted, by yourself at a later date or by others when sharing or publishing data. It contains information commonly required to understand the dataset, its contents, provenance, licensing and how to interact with it. A README file is generally named ```README```and is typically a text or markdown file.
 
-In short, A README is a portable, durable way to provide information to other researchers about how to navigate, collaborate or extend your project. 
+In short, a README is a portable, durable way to inform other researchers about how to navigate, collaborate, or extend your project. 
 
 <p style="margin-bottom: 20px"></p>
 
@@ -83,7 +83,7 @@ Every project is different, so consider which of the following applies to your p
 
 ## The Process 
 
-You should create a README prior to having your project made public or sent out for collaboration. However, please consider making the README file first and continuously update it. 
+You should create a README before having your project made public or sent out for collaboration. However, please consider making the README file first and continuously update it. 
 
 You should place the README at the root directory of the project (check out our workshop on [directory structures](https://ubc-library-rc.github.io/rdm/content/04_directory_structures.html)), this way, it can be one of the first files people will look at. 
 
@@ -107,13 +107,13 @@ You can use any text editor, but some editors allow you to preview the Markdown 
 ## Template
 
 We have created an example of a README for the project we looked at earlier. This sample file was designed to capture academic research projects. There are other templates available for other types of projects (software, data science, etc.). 
-**NOTE: The contents in the example template <u>made up</u> for educational purposes, they do not reflect what the real study had in mind.**
+**NOTE: The contents in the example template <u>made up</u> for educational purposes, do not reflect what the real study had in mind.**
 
 Now, let's practice what we just learned. 
 
 Please <a download href="exercise_files/UBC_README.txt" target="_blank"> download this README example </a>. This file was designed to capture academic research projects and uses the project we looked at earlier for the contents. There are other templates available for other types of projects (software, data science, etc.). 
 
-What are some things that you have noticed that may be specific to academic reserach? What are some things you would include if this was a software project? 
+What are some things that you have noticed that may be specific to academic research? What are some things you would include if this were a software project? 
 
 <br>
 
