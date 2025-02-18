@@ -123,14 +123,7 @@ What are some things that you have noticed that may be specific to academic rese
 <p style="margin-top:25px;margin-left:30px">
 <img src="figures/angel-congrats.jpg" width="300"/>
 </p>
-<<<<<<< HEAD
 You are now ready to write up a good README file so other researchers can understand your project with no problems! 
-=======
-You are now ready to write up a good README file so other researchers can understand your dataset with no problems! 
-
-Please see a very simple README template we prepared for you to re-use at the top of this page or [here](https://ubc-library-rc.github.io/rdm/content/assets/templates/UBC_README.txt). 
-
->>>>>>> refs/remotes/origin/rdm-pages
 <br>
 
 ---
