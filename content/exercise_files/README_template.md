@@ -1,3 +1,6 @@
+---
+nav_exclude: true
+---
 # Soil Adsorption Curves and Environmental Soil Data
 
 Code and data for our *Biogeosciences* paper:
