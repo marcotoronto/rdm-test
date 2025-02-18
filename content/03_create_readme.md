@@ -8,11 +8,14 @@ nav_order: 6
 
 A README file provides information about a project and is intended to help ensure that the data can be correctly interpreted, by yourself at a later date or by others when sharing or publishing data. It contains information that is commonly required to understand what the dataset is about, its contents, provenance, licensing and how interact with it. A README file is generally named ```README```and is typically a text or markdown file.
 
-In short, A README is the portable, durable way to provide information to other researchers about how to navigate, collaborate or extend your project. 
+In short, A README is a portable, durable way to provide information to other researchers about how to navigate, collaborate or extend your project. 
 
 <p style="margin-bottom: 20px"></p>
 
 Looking for a cheat sheet? Check out our <a href="https://osf.io/aqxw3" target="_blank">one-pager</a>!
+{: .note}
+
+Looking for a template to reuse? Check out a very simple <a href="https://ubc-library-rc.github.io/rdm/content/exercise_files/UBC_README.txt" target="_blank">README template</a> we prepared for you!
 {: .note}
 
 <br>
