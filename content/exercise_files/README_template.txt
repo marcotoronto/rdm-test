@@ -1,6 +1,3 @@
----
-nav_exclude: true
----
 
 # Soil Adsorption Curves and Environmental Soil Data
 
