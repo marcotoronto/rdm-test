@@ -18,7 +18,7 @@ Looking for a cheat sheet? Check out our <a href="https://osf.io/pfweq" target="
 
 <details open markdown="block">
  <summary>
-   Table of contents
+   Table of Contents
  </summary>
  {: .text-delta }
 - TOC
